@@ -1,95 +1,127 @@
 {
-  "updatedAt": "2026-06-12T11:29:18.013Z",
-  "source": "nse",
-  "count": 11,
+  "updatedAt": "2026-06-12T14:22:26.374Z",
+  "source": "5paisa",
+  "count": 15,
   "items": [
     {
-      "name": "NESTLEIND",
-      "ltp": "1376.5",
-      "gainPct": "-3.23 %",
-      "dayLow": "1370.6",
-      "dayHigh": "1434.9",
-      "volume": "2380729"
-    },
-    {
-      "name": "ONGC",
-      "ltp": "246.95",
-      "gainPct": "-2.24 %",
-      "dayLow": "243.35",
-      "dayHigh": "250.85",
-      "volume": "31112657"
-    },
-    {
-      "name": "TECHM",
-      "ltp": "1433.1",
-      "gainPct": "-2.18 %",
-      "dayLow": "1425",
-      "dayHigh": "1478.6",
-      "volume": "2460369"
-    },
-    {
-      "name": "SBILIFE",
-      "ltp": "1705.2",
-      "gainPct": "-0.81 %",
-      "dayLow": "1700.4",
-      "dayHigh": "1744.9",
-      "volume": "1438254"
-    },
-    {
-      "name": "TATACONSUM",
-      "ltp": "1100.7",
-      "gainPct": "-0.71 %",
-      "dayLow": "1096.7",
-      "dayHigh": "1120.8",
-      "volume": "1455068"
-    },
-    {
-      "name": "POWERGRID",
-      "ltp": "284.95",
-      "gainPct": "-0.59 %",
-      "dayLow": "282.7",
-      "dayHigh": "288.9",
-      "volume": "5478294"
-    },
-    {
-      "name": "BAJAJ-AUTO",
-      "ltp": "10074",
-      "gainPct": "-0.4 %",
-      "dayLow": "9922",
-      "dayHigh": "10250",
+      "name": "Bajaj Auto",
+      "ltp": "10063.00",
+      "gainPct": "-0.5 %",
+      "dayLow": "9922.00",
+      "dayHigh": "10250.00",
       "volume": "386190"
     },
     {
-      "name": "COALINDIA",
-      "ltp": "444.75",
-      "gainPct": "-0.32 %",
+      "name": "Coal India",
+      "ltp": "443.50",
+      "gainPct": "-0.6 %",
       "dayLow": "439.65",
       "dayHigh": "453.35",
       "volume": "9946830"
     },
     {
-      "name": "DRREDDY",
-      "ltp": "1272.9",
-      "gainPct": "-0.24 %",
-      "dayLow": "1266",
-      "dayHigh": "1291",
+      "name": "Dr Reddys Labs",
+      "ltp": "1275.40",
+      "gainPct": "-0.1 %",
+      "dayLow": "1266.00",
+      "dayHigh": "1291.00",
       "volume": "1645027"
     },
     {
-      "name": "HINDALCO",
-      "ltp": "1021.8",
-      "gainPct": "-0.24 %",
-      "dayLow": "1015.3",
-      "dayHigh": "1049",
+      "name": "HCL Technologies",
+      "ltp": "1109.60",
+      "gainPct": "-0.1 %",
+      "dayLow": "1100.50",
+      "dayHigh": "1122.50",
+      "volume": "2203987"
+    },
+    {
+      "name": "Hindalco Inds.",
+      "ltp": "1021.60",
+      "gainPct": "-0.3 %",
+      "dayLow": "1015.30",
+      "dayHigh": "1049.00",
       "volume": "9388824"
     },
     {
-      "name": "HCLTECH",
-      "ltp": "1110",
-      "gainPct": "-0.02 %",
-      "dayLow": "1100.5",
-      "dayHigh": "1122.5",
-      "volume": "2203987"
+      "name": "Nestle India",
+      "ltp": "1375.70",
+      "gainPct": "-3.3 %",
+      "dayLow": "1370.60",
+      "dayHigh": "1434.90",
+      "volume": "2380729"
+    },
+    {
+      "name": "O N G C",
+      "ltp": "246.20",
+      "gainPct": "-2.5 %",
+      "dayLow": "243.35",
+      "dayHigh": "250.85",
+      "volume": "31112657"
+    },
+    {
+      "name": "Power Grid Corpn",
+      "ltp": "284.80",
+      "gainPct": "-0.7 %",
+      "dayLow": "282.70",
+      "dayHigh": "288.90",
+      "volume": "5478294"
+    },
+    {
+      "name": "SBI Life Insuran",
+      "ltp": "1706.00",
+      "gainPct": "-0.8 %",
+      "dayLow": "1700.40",
+      "dayHigh": "1744.90",
+      "volume": "1438254"
+    },
+    {
+      "name": "Tata Consumer",
+      "ltp": "1100.70",
+      "gainPct": "-0.7 %",
+      "dayLow": "1096.70",
+      "dayHigh": "1120.80",
+      "volume": "1455068"
+    },
+    {
+      "name": "Tata Steel",
+      "ltp": "197.86",
+      "gainPct": "-0.1 %",
+      "dayLow": "195.80",
+      "dayHigh": "200.82",
+      "volume": "27622963"
+    },
+    {
+      "name": "Tech Mahindra",
+      "ltp": "1429.20",
+      "gainPct": "-2.5 %",
+      "dayLow": "1425.00",
+      "dayHigh": "1478.60",
+      "volume": "2460369"
+    },
+    {
+      "name": "Power Grid Corpn",
+      "ltp": "285.00",
+      "gainPct": "-0.6 %",
+      "dayLow": "282.80",
+      "dayHigh": "289.90",
+      "volume": "462318"
+    },
+    {
+      "name": "Tata Steel",
+      "ltp": "197.85",
+      "gainPct": "-0.1 %",
+      "dayLow": "195.75",
+      "dayHigh": "200.55",
+      "volume": "1434680"
+    },
+    {
+      "name": "Tech Mahindra",
+      "ltp": "1432.00",
+      "gainPct": "-2.2 %",
+      "dayLow": "1424.90",
+      "dayHigh": "1486.65",
+      "volume": "92141"
     }
   ]
 }

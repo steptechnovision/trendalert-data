@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T09:41:36.164Z",
+  "updatedAt": "2026-06-13T11:55:45.837Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -229,24 +229,6 @@
       "volume": "476,593"
     },
     {
-      "name": "RaajMarg Infra",
-      "week52": "113.61",
-      "ltp": "112.93",
-      "gainPct": "0.9 %",
-      "dayLow": "111.61",
-      "dayHigh": "114.14",
-      "volume": "1,225,900"
-    },
-    {
-      "name": "Teamtech Formwork",
-      "week52": "89.8",
-      "ltp": "88.00",
-      "gainPct": "1.5 %",
-      "dayLow": "84.00",
-      "dayHigh": "0.00",
-      "volume": "166,000"
-    },
-    {
       "name": "Vadilal Inds.",
       "week52": "6132",
       "ltp": "6009.30",
@@ -290,6 +272,24 @@
       "dayLow": "1706.80",
       "dayHigh": "1802.25",
       "volume": "246,228"
+    },
+    {
+      "name": "RaajMarg Infra",
+      "week52": "113.61",
+      "ltp": "112.93",
+      "gainPct": "0.9 %",
+      "dayLow": "111.61",
+      "dayHigh": "114.14",
+      "volume": "1,225,900"
+    },
+    {
+      "name": "Teamtech Formwork",
+      "week52": "89.8",
+      "ltp": "88.00",
+      "gainPct": "1.5 %",
+      "dayLow": "84.00",
+      "dayHigh": "0.00",
+      "volume": "166,000"
     },
     {
       "name": "Kernex Microsys.",
@@ -364,51 +364,6 @@
       "volume": "50,000"
     },
     {
-      "name": "Akums Drugs",
-      "week52": "634",
-      "ltp": "622.90",
-      "gainPct": "2.3 %",
-      "dayLow": "615.00",
-      "dayHigh": "633.55",
-      "volume": "835,541"
-    },
-    {
-      "name": "Bajaj Consumer",
-      "week52": "595.8",
-      "ltp": "591.65",
-      "gainPct": "4.5 %",
-      "dayLow": "572.70",
-      "dayHigh": "595.05",
-      "volume": "544,779"
-    },
-    {
-      "name": "Sai Life",
-      "week52": "1244.2",
-      "ltp": "1218.10",
-      "gainPct": "3.1 %",
-      "dayLow": "1193.00",
-      "dayHigh": "1243.00",
-      "volume": "333,448"
-    },
-    {
-      "name": "Aster DM Health.",
-      "week52": "836.5",
-      "ltp": "814.95",
-      "gainPct": "0.1 %",
-      "dayLow": "806.05",
-      "dayHigh": "847.95",
-      "volume": "1,181,355"
-    },
-    {
-      "name": "Maheshwari Logi.",
-      "week52": "72",
-      "ltp": "69.51",
-      "gainPct": "-1.1 %",
-      "dayLow": "68.00",
-      "dayHigh": "0.00",
-      "volume": "19,481"
-    },
-    {
       "name": "OBSC Perfection",
       "week52": "544",
       "ltp": "539.00",
@@ -452,6 +407,51 @@
       "dayLow": "154.47",
       "dayHigh": "158.85",
       "volume": "3,788,279"
+    },
+    {
+      "name": "Sigma Advanced System",
+      "week52": "503.9",
+      "ltp": "479.50",
+      "gainPct": "-0.6 %",
+      "dayLow": "470.00",
+      "dayHigh": "504.20",
+      "volume": "583,531"
+    },
+    {
+      "name": "Akums Drugs",
+      "week52": "634",
+      "ltp": "622.90",
+      "gainPct": "2.3 %",
+      "dayLow": "615.00",
+      "dayHigh": "633.55",
+      "volume": "835,541"
+    },
+    {
+      "name": "Bajaj Consumer",
+      "week52": "595.8",
+      "ltp": "591.65",
+      "gainPct": "4.5 %",
+      "dayLow": "572.70",
+      "dayHigh": "595.05",
+      "volume": "544,779"
+    },
+    {
+      "name": "Sai Life",
+      "week52": "1244.2",
+      "ltp": "1218.10",
+      "gainPct": "3.1 %",
+      "dayLow": "1193.00",
+      "dayHigh": "1243.00",
+      "volume": "333,448"
+    },
+    {
+      "name": "Aster DM Health.",
+      "week52": "836.5",
+      "ltp": "814.95",
+      "gainPct": "0.1 %",
+      "dayLow": "806.05",
+      "dayHigh": "847.95",
+      "volume": "1,181,355"
     }
   ]
 }

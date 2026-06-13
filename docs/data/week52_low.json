@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T19:33:59.219Z",
+  "updatedAt": "2026-06-13T06:20:28.001Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -67,15 +67,6 @@
       "volume": "8,000"
     },
     {
-      "name": "J K Cements",
-      "week52": "7565.5",
-      "ltp": "4858.50",
-      "gainPct": "3.4 %",
-      "dayLow": "4671.50",
-      "dayHigh": "7565.00",
-      "volume": "81,069"
-    },
-    {
       "name": "Slone Infosys.",
       "week52": "371.45",
       "ltp": "114.50",
@@ -85,13 +76,13 @@
       "volume": "4,400"
     },
     {
-      "name": "GenXAI Analytics",
-      "week52": "97.4",
-      "ltp": "97.40",
-      "gainPct": "-16.0 %",
-      "dayLow": "92.75",
-      "dayHigh": "0.00",
-      "volume": "1,620,000"
+      "name": "J K Cements",
+      "week52": "7565.5",
+      "ltp": "4858.50",
+      "gainPct": "3.4 %",
+      "dayLow": "4671.50",
+      "dayHigh": "7565.00",
+      "volume": "81,069"
     },
     {
       "name": "Ultramarine Pig.",
@@ -139,6 +130,24 @@
       "volume": "7,800"
     },
     {
+      "name": "Orchasp Ltd",
+      "week52": "4.16",
+      "ltp": "1.84",
+      "gainPct": "-6.1 %",
+      "dayLow": "1.63",
+      "dayHigh": "4.19",
+      "volume": "722,141"
+    },
+    {
+      "name": "MEP Infrast.",
+      "week52": "2.87",
+      "ltp": "0.83",
+      "gainPct": "0.0 %",
+      "dayLow": "0.82",
+      "dayHigh": "2.90",
+      "volume": "305,351"
+    },
+    {
       "name": "Rajesh Exports",
       "week52": "237.88",
       "ltp": "76.41",
@@ -164,33 +173,6 @@
       "dayLow": "150.00",
       "dayHigh": "0.00",
       "volume": "21,000"
-    },
-    {
-      "name": "Orchasp Ltd",
-      "week52": "4.16",
-      "ltp": "1.84",
-      "gainPct": "-6.1 %",
-      "dayLow": "1.63",
-      "dayHigh": "4.19",
-      "volume": "722,141"
-    },
-    {
-      "name": "MEP Infrast.",
-      "week52": "2.87",
-      "ltp": "0.83",
-      "gainPct": "0.0 %",
-      "dayLow": "0.82",
-      "dayHigh": "2.90",
-      "volume": "305,351"
-    },
-    {
-      "name": "Hexagon Nutri.",
-      "week52": "50.66",
-      "ltp": "50.66",
-      "gainPct": "12.6 %",
-      "dayLow": "48.10",
-      "dayHigh": "50.39",
-      "volume": "11,379,734"
     },
     {
       "name": "Maks Energy",
@@ -229,6 +211,15 @@
       "volume": "63,600"
     },
     {
+      "name": "SBI Life Insuran",
+      "week52": "2132",
+      "ltp": "1706.00",
+      "gainPct": "-0.8 %",
+      "dayLow": "1700.40",
+      "dayHigh": "2132.90",
+      "volume": "1,438,254"
+    },
+    {
       "name": "Bajaj Steel Inds",
       "week52": "487",
       "ltp": "365.05",
@@ -254,33 +245,6 @@
       "dayLow": "197.00",
       "dayHigh": "325.00",
       "volume": "2,225"
-    },
-    {
-      "name": "SBI Life Insuran",
-      "week52": "2132",
-      "ltp": "1706.00",
-      "gainPct": "-0.8 %",
-      "dayLow": "1700.40",
-      "dayHigh": "2132.90",
-      "volume": "1,438,254"
-    },
-    {
-      "name": "Parsvnath Devl.",
-      "week52": "27.39",
-      "ltp": "3.32",
-      "gainPct": "-1.8 %",
-      "dayLow": "3.32",
-      "dayHigh": "27.46",
-      "volume": "110,101"
-    },
-    {
-      "name": "Indo US Bio-Tech",
-      "week52": "206",
-      "ltp": "89.80",
-      "gainPct": "-0.9 %",
-      "dayLow": "88.02",
-      "dayHigh": "205.10",
-      "volume": "13,891"
     },
     {
       "name": "Osia Hyper Reta.",
@@ -326,6 +290,24 @@
       "dayLow": "50.00",
       "dayHigh": "0.00",
       "volume": "102,400"
+    },
+    {
+      "name": "Parsvnath Devl.",
+      "week52": "27.39",
+      "ltp": "3.32",
+      "gainPct": "-1.8 %",
+      "dayLow": "3.32",
+      "dayHigh": "27.46",
+      "volume": "110,101"
+    },
+    {
+      "name": "Indo US Bio-Tech",
+      "week52": "206",
+      "ltp": "89.80",
+      "gainPct": "-0.9 %",
+      "dayLow": "88.02",
+      "dayHigh": "205.10",
+      "volume": "13,891"
     },
     {
       "name": "Mercury EV-Tech",
@@ -452,6 +434,24 @@
       "dayLow": "9.09",
       "dayHigh": "23.27",
       "volume": "6,496,552"
+    },
+    {
+      "name": "Kanchi Karpooram",
+      "week52": "463.35",
+      "ltp": "341.20",
+      "gainPct": "0.4 %",
+      "dayLow": "340.00",
+      "dayHigh": "491.00",
+      "volume": "415"
+    },
+    {
+      "name": "Praveg",
+      "week52": "325",
+      "ltp": "227.10",
+      "gainPct": "6.9 %",
+      "dayLow": "216.55",
+      "dayHigh": "529.00",
+      "volume": "48,802"
     }
   ]
 }

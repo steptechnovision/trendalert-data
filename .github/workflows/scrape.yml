@@ -2,8 +2,16 @@ name: Scrape data
 
 on:
   schedule:
-    # Every 20 min, but only during active hours (02:00-18:40 UTC ≈ 7:30 AM-12 AM
-    # IST). Skips the dead overnight window when markets are closed & users sleep.
+    # ┌──────────────────────────────────────────────────────────────────────┐
+    # │ HOW TO CHANGE THE REFRESH INTERVAL                                     │
+    # │ Edit ONLY the number after */ below, then commit + push this file.     │
+    # │   '*/30 2-18 * * *'  → every 30 min                                    │
+    # │   '*/20 2-18 * * *'  → every 20 min   (current — recommended)          │
+    # │   '*/15 2-18 * * *'  → every 15 min                                    │
+    # │   '*/10 2-18 * * *'  → every 10 min   (GitHub min is 5; <15 is jittery │
+    # │                        and doubles requests to the source sites)       │
+    # │ The `2-18` part = active hours in UTC (≈ 7:30 AM–12 AM IST). Leave it. │
+    # └──────────────────────────────────────────────────────────────────────┘
     - cron: '*/20 2-18 * * *'
   workflow_dispatch: {} # lets you run it manually from the Actions tab
 

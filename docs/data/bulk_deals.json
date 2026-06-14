@@ -1,8 +1,89 @@
 {
-  "updatedAt": "2026-06-14T12:28:24.957Z",
+  "updatedAt": "2026-06-14T14:58:39.544Z",
   "source": "nse",
   "count": 80,
   "items": [
+    {
+      "symbol": "NARMADA",
+      "name": "Narmada Agrobase Limited",
+      "clientName": "MAHEVARSH FINCON PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "278263",
+      "price": "37.65",
+      "date": "12-Jun-2026"
+    },
+    {
+      "symbol": "RHETAN",
+      "name": "Rhetan TMT Limited",
+      "clientName": "NIRAJ HARSUKHLAL SANGHAVI",
+      "buySell": "SELL",
+      "qty": "4318913",
+      "price": "30.75",
+      "date": "12-Jun-2026"
+    },
+    {
+      "symbol": "SHAH",
+      "name": "Shah Metacorp Limited",
+      "clientName": "DHANJIT REAL TRADE LLP",
+      "buySell": "SELL",
+      "qty": "6291565",
+      "price": "4.67",
+      "date": "12-Jun-2026"
+    },
+    {
+      "symbol": "UCL",
+      "name": "Ushanti Colour Chem Ltd",
+      "clientName": "RISING CORPORATION LLP",
+      "buySell": "SELL",
+      "qty": "248000",
+      "price": "152.65",
+      "date": "12-Jun-2026"
+    },
+    {
+      "symbol": "VALUE360",
+      "name": "Value 360 Communication L",
+      "clientName": "ALACRITY SECURITIES LTD",
+      "buySell": "SELL",
+      "qty": "494400",
+      "price": "75.73",
+      "date": "12-Jun-2026"
+    },
+    {
+      "symbol": "VALUE360",
+      "name": "Value 360 Communication L",
+      "clientName": "HARMONY REALTY",
+      "buySell": "SELL",
+      "qty": "255600",
+      "price": "74.95",
+      "date": "12-Jun-2026"
+    },
+    {
+      "symbol": "VINCOFE",
+      "name": "Vintage Coffee N Bvrgs L",
+      "clientName": "F3 ADVISORS PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "951486",
+      "price": "161.79",
+      "date": "12-Jun-2026"
+    },
+    {
+      "symbol": "VINCOFE",
+      "name": "Vintage Coffee N Bvrgs L",
+      "clientName": "ALTIZEN VENTURES LLP",
+      "buySell": "SELL",
+      "qty": "750000",
+      "price": "163.17",
+      "date": "12-Jun-2026"
+    },
+    {
+      "symbol": "ZEEL",
+      "name": "Zee Entertain. Enterp.Ltd",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "4775931",
+      "price": "112.55",
+      "date": "12-Jun-2026"
+    },
     {
       "symbol": "AQYLON",
       "name": "Aqylon Nexus Limited",
@@ -640,87 +721,6 @@
       "buySell": "SELL",
       "qty": "1356955",
       "price": "25.57",
-      "date": "12-Jun-2026"
-    },
-    {
-      "symbol": "LEMERITE",
-      "name": "Le Merite Exports Limited",
-      "clientName": "SAHASTRAA ADVISORS PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "981630",
-      "price": "25.08",
-      "date": "12-Jun-2026"
-    },
-    {
-      "symbol": "LEMERITE",
-      "name": "Le Merite Exports Limited",
-      "clientName": "SAURAV NAG",
-      "buySell": "SELL",
-      "qty": "841415",
-      "price": "24.31",
-      "date": "12-Jun-2026"
-    },
-    {
-      "symbol": "MANCREDIT",
-      "name": "Mangal Credit N Fincorp L",
-      "clientName": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "171874",
-      "price": "222.27",
-      "date": "12-Jun-2026"
-    },
-    {
-      "symbol": "MARKOLINES",
-      "name": "Markolines Pavement Tec L",
-      "clientName": "L7 HITECH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "122967",
-      "price": "167.09",
-      "date": "12-Jun-2026"
-    },
-    {
-      "symbol": "MARKOLINES",
-      "name": "Markolines Pavement Tec L",
-      "clientName": "HI KLASS TRADING & INVESTMENT LIMITED",
-      "buySell": "SELL",
-      "qty": "127198",
-      "price": "167.18",
-      "date": "12-Jun-2026"
-    },
-    {
-      "symbol": "MARKOLINES",
-      "name": "Markolines Pavement Tec L",
-      "clientName": "VISTAAR TRADING SERVICE PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "147306",
-      "price": "167.02",
-      "date": "12-Jun-2026"
-    },
-    {
-      "symbol": "MOTISONS",
-      "name": "Motisons Jewellers Ltd",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "SELL",
-      "qty": "10366372",
-      "price": "14.68",
-      "date": "12-Jun-2026"
-    },
-    {
-      "symbol": "MOTISONS",
-      "name": "Motisons Jewellers Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "9673666",
-      "price": "14.54",
-      "date": "12-Jun-2026"
-    },
-    {
-      "symbol": "MTARTECH",
-      "name": "MTAR Technologies Limited",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "185376",
-      "price": "7027.49",
       "date": "12-Jun-2026"
     }
   ]

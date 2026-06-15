@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-15T07:24:59.858Z",
+  "updatedAt": "2026-06-15T13:38:16.776Z",
   "source": "investorgain",
-  "count": 22,
+  "count": 19,
   "items": [
     {
       "name": "Horizon Reclaim (India)",
-      "total": "40.17",
-      "qib": "0.01",
-      "shni": "68.79",
-      "bhni": "74.31",
-      "nii": "72.47",
-      "rii": "49.25",
+      "total": "75.17",
+      "qib": "0.08",
+      "shni": "131.6",
+      "bhni": "143.78",
+      "nii": "139.71",
+      "rii": "90.39",
       "ipoSize": "₹54.27 Cr",
       "price": "103",
       "closeDate": "16-06-2026",
@@ -19,12 +19,12 @@
     },
     {
       "name": "Susan Electricals India",
-      "total": "89.28",
-      "qib": "20.25",
-      "shni": "104.84",
-      "bhni": "177.46",
-      "nii": "153.26",
-      "rii": "101.19",
+      "total": "216.63",
+      "qib": "142.65",
+      "shni": "229.86",
+      "bhni": "389.07",
+      "nii": "336",
+      "rii": "207.56",
       "ipoSize": "₹70.38 Cr",
       "price": "127",
       "closeDate": "15-06-2026",
@@ -116,20 +116,6 @@
       "url": "https://www.investorgain.com/subscription/cmr-green-technologies-ipo/1871/"
     },
     {
-      "name": "SMR Jewels",
-      "total": "1.09",
-      "qib": "5.41",
-      "shni": "0.21",
-      "bhni": "1.4",
-      "nii": "1",
-      "rii": "0.3",
-      "ipoSize": "₹63.74 Cr",
-      "price": "128",
-      "closeDate": "3-06-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/smr-jewels-ipo/1881/"
-    },
-    {
       "name": "Merritronix",
       "total": "315.36",
       "qib": "224.91",
@@ -142,6 +128,20 @@
       "closeDate": "3-06-2026",
       "type": "SME",
       "url": "https://www.investorgain.com/subscription/merritronix-ipo/2222/"
+    },
+    {
+      "name": "SMR Jewels",
+      "total": "1.09",
+      "qib": "5.41",
+      "shni": "0.21",
+      "bhni": "1.4",
+      "nii": "1",
+      "rii": "0.3",
+      "ipoSize": "₹63.74 Cr",
+      "price": "128",
+      "closeDate": "3-06-2026",
+      "type": "SME",
+      "url": "https://www.investorgain.com/subscription/smr-jewels-ipo/1881/"
     },
     {
       "name": "Aureate Tradde",
@@ -214,20 +214,6 @@
       "url": "https://www.investorgain.com/subscription/m-r-maniveni-ipo/1901/"
     },
     {
-      "name": "Autofurnish",
-      "total": "1.21",
-      "qib": "",
-      "shni": "",
-      "bhni": "",
-      "nii": "1.17",
-      "rii": "1.17",
-      "ipoSize": "₹14.60 Cr",
-      "price": "41",
-      "closeDate": "25-05-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/autofurnish-ipo/1996/"
-    },
-    {
       "name": "Q-Line Biotec",
       "total": "102.42",
       "qib": "123.94",
@@ -256,6 +242,20 @@
       "url": "https://www.investorgain.com/subscription/bio-medica-laboratories-ipo/1853/"
     },
     {
+      "name": "Autofurnish",
+      "total": "1.21",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "1.17",
+      "rii": "1.17",
+      "ipoSize": "₹14.60 Cr",
+      "price": "41",
+      "closeDate": "25-05-2026",
+      "type": "SME",
+      "url": "https://www.investorgain.com/subscription/autofurnish-ipo/1996/"
+    },
+    {
       "name": "Vegorama Punjabi Angithi",
       "total": "35.15",
       "qib": "26.46",
@@ -268,48 +268,6 @@
       "closeDate": "22-05-2026",
       "type": "SME",
       "url": "https://www.investorgain.com/subscription/vegorama-punjabi-angithi-ipo/1803/"
-    },
-    {
-      "name": "Teamtech Formwork Solutions",
-      "total": "7.01",
-      "qib": "4.28",
-      "shni": "8.24",
-      "bhni": "15.07",
-      "nii": "12.79",
-      "rii": "6.1",
-      "ipoSize": "₹50.15 Cr",
-      "price": "63",
-      "closeDate": "21-05-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/teamtech-formwork-solutions-ipo/2225/"
-    },
-    {
-      "name": "NFP Sampoorna Foods",
-      "total": "1.57",
-      "qib": "1",
-      "shni": "0.8",
-      "bhni": "0.22",
-      "nii": "0.34",
-      "rii": "2.8",
-      "ipoSize": "₹24.53 Cr",
-      "price": "55",
-      "closeDate": "20-05-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/nfp-sampoorna-foods-ipo/1763/"
-    },
-    {
-      "name": "RFBL Flexi Pack",
-      "total": "21.48",
-      "qib": "124.39",
-      "shni": "14.65",
-      "bhni": "28.86",
-      "nii": "24.12",
-      "rii": "11.36",
-      "ipoSize": "₹35.33 Cr",
-      "price": "50",
-      "closeDate": "14-05-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/rfbl-flexi-pack-ipo/2223/"
     }
   ]
 }

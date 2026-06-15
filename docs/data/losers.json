@@ -1,127 +1,199 @@
 {
-  "updatedAt": "2026-06-15T07:24:58.158Z",
+  "updatedAt": "2026-06-15T13:38:15.535Z",
   "source": "5paisa",
-  "count": 15,
+  "count": 24,
   "items": [
     {
+      "name": "Adani Ports",
+      "ltp": "1804.80",
+      "gainPct": "-0.5 %",
+      "dayLow": "1798.90",
+      "dayHigh": "1840.30",
+      "volume": "1421741"
+    },
+    {
       "name": "Apollo Hospitals",
-      "ltp": "8477.00",
-      "gainPct": "-0.3 %",
+      "ltp": "8468.50",
+      "gainPct": "-0.4 %",
       "dayLow": "8391.00",
       "dayHigh": "8534.00",
-      "volume": "236020"
+      "volume": "358223"
+    },
+    {
+      "name": "Asian Paints",
+      "ltp": "2739.30",
+      "gainPct": "-0.3 %",
+      "dayLow": "2730.00",
+      "dayHigh": "2832.70",
+      "volume": "2752021"
     },
     {
       "name": "Bajaj Auto",
-      "ltp": "9955.00",
-      "gainPct": "-1.1 %",
-      "dayLow": "9954.00",
+      "ltp": "9943.00",
+      "gainPct": "-1.2 %",
+      "dayLow": "9930.00",
       "dayHigh": "10178.00",
-      "volume": "206011"
+      "volume": "400018"
     },
     {
       "name": "Cipla",
-      "ltp": "1382.20",
-      "gainPct": "-0.5 %",
+      "ltp": "1381.30",
+      "gainPct": "-0.6 %",
       "dayLow": "1374.50",
       "dayHigh": "1397.90",
-      "volume": "937113"
+      "volume": "1687655"
     },
     {
       "name": "Hind. Unilever",
-      "ltp": "2168.50",
-      "gainPct": "0.0 %",
-      "dayLow": "2164.50",
+      "ltp": "2156.10",
+      "gainPct": "-0.6 %",
+      "dayLow": "2150.00",
       "dayHigh": "2211.00",
-      "volume": "565220"
+      "volume": "1439449"
     },
     {
       "name": "Hindalco Inds.",
-      "ltp": "1015.50",
-      "gainPct": "-0.6 %",
-      "dayLow": "1014.00",
+      "ltp": "1013.90",
+      "gainPct": "-0.8 %",
+      "dayLow": "1011.10",
       "dayHigh": "1039.70",
-      "volume": "4544767"
+      "volume": "8474101"
     },
     {
       "name": "ICICI Bank",
-      "ltp": "1338.00",
-      "gainPct": "-0.2 %",
-      "dayLow": "1336.70",
+      "ltp": "1327.60",
+      "gainPct": "-1.0 %",
+      "dayLow": "1325.30",
       "dayHigh": "1362.70",
-      "volume": "8563962"
+      "volume": "16172921"
+    },
+    {
+      "name": "JSW Steel",
+      "ltp": "1296.50",
+      "gainPct": "-0.1 %",
+      "dayLow": "1294.20",
+      "dayHigh": "1320.20",
+      "volume": "1168850"
     },
     {
       "name": "NTPC",
-      "ltp": "349.25",
-      "gainPct": "-1.3 %",
-      "dayLow": "348.75",
+      "ltp": "348.10",
+      "gainPct": "-1.6 %",
+      "dayLow": "346.95",
       "dayHigh": "358.00",
-      "volume": "9691295"
+      "volume": "17190759"
+    },
+    {
+      "name": "Nestle India",
+      "ltp": "1374.70",
+      "gainPct": "-0.1 %",
+      "dayLow": "1371.50",
+      "dayHigh": "1411.90",
+      "volume": "1885900"
     },
     {
       "name": "O N G C",
-      "ltp": "243.60",
-      "gainPct": "-1.1 %",
+      "ltp": "243.65",
+      "gainPct": "-1.0 %",
       "dayLow": "242.80",
       "dayHigh": "248.30",
-      "volume": "15606448"
-    },
-    {
-      "name": "Power Grid Corpn",
-      "ltp": "284.65",
-      "gainPct": "-0.1 %",
-      "dayLow": "284.50",
-      "dayHigh": "290.00",
-      "volume": "5998337"
+      "volume": "25211118"
     },
     {
       "name": "Sun Pharma.Inds.",
-      "ltp": "1804.00",
-      "gainPct": "-0.2 %",
+      "ltp": "1806.00",
+      "gainPct": "-0.1 %",
       "dayLow": "1797.80",
       "dayHigh": "1818.00",
-      "volume": "1086339"
+      "volume": "2188933"
+    },
+    {
+      "name": "Tata Consumer",
+      "ltp": "1100.40",
+      "gainPct": "0.0 %",
+      "dayLow": "1097.50",
+      "dayHigh": "1117.00",
+      "volume": "1264668"
+    },
+    {
+      "name": "Tata Steel",
+      "ltp": "197.28",
+      "gainPct": "-0.3 %",
+      "dayLow": "196.82",
+      "dayHigh": "200.95",
+      "volume": "27071539"
+    },
+    {
+      "name": "Tech Mahindra",
+      "ltp": "1425.60",
+      "gainPct": "-0.3 %",
+      "dayLow": "1423.60",
+      "dayHigh": "1454.70",
+      "volume": "1926338"
+    },
+    {
+      "name": "Adani Ports",
+      "ltp": "1804.35",
+      "gainPct": "-0.5 %",
+      "dayLow": "1798.30",
+      "dayHigh": "1841.95",
+      "volume": "100508"
+    },
+    {
+      "name": "Asian Paints",
+      "ltp": "2739.15",
+      "gainPct": "-0.3 %",
+      "dayLow": "2730.70",
+      "dayHigh": "2833.90",
+      "volume": "74601"
     },
     {
       "name": "Hind. Unilever",
-      "ltp": "2167.30",
-      "gainPct": "0.0 %",
-      "dayLow": "2165.00",
+      "ltp": "2156.20",
+      "gainPct": "-0.5 %",
+      "dayLow": "2150.50",
       "dayHigh": "2210.00",
-      "volume": "22294"
+      "volume": "29458"
     },
     {
       "name": "ICICI Bank",
-      "ltp": "1337.75",
-      "gainPct": "-0.2 %",
-      "dayLow": "1336.80",
+      "ltp": "1327.75",
+      "gainPct": "-0.9 %",
+      "dayLow": "1325.35",
       "dayHigh": "1358.30",
-      "volume": "201230"
+      "volume": "322054"
     },
     {
       "name": "NTPC",
-      "ltp": "349.20",
-      "gainPct": "-1.3 %",
-      "dayLow": "348.80",
+      "ltp": "348.15",
+      "gainPct": "-1.6 %",
+      "dayLow": "347.15",
       "dayHigh": "358.15",
-      "volume": "919347"
-    },
-    {
-      "name": "Power Grid Corpn",
-      "ltp": "284.60",
-      "gainPct": "-0.1 %",
-      "dayLow": "284.60",
-      "dayHigh": "289.15",
-      "volume": "306063"
+      "volume": "1171455"
     },
     {
       "name": "Sun Pharma.Inds.",
-      "ltp": "1802.85",
-      "gainPct": "-0.2 %",
+      "ltp": "1800.00",
+      "gainPct": "-0.4 %",
       "dayLow": "1798.50",
       "dayHigh": "1824.70",
-      "volume": "56455"
+      "volume": "86328"
+    },
+    {
+      "name": "Tata Steel",
+      "ltp": "197.40",
+      "gainPct": "-0.2 %",
+      "dayLow": "196.80",
+      "dayHigh": "201.00",
+      "volume": "969404"
+    },
+    {
+      "name": "Tech Mahindra",
+      "ltp": "1425.45",
+      "gainPct": "-0.3 %",
+      "dayLow": "1423.40",
+      "dayHigh": "1453.30",
+      "volume": "128800"
     }
   ]
 }

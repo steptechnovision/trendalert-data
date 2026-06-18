@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-06-17T20:53:56.178Z",
+  "updatedAt": "2026-06-18T06:55:55.137Z",
   "source": "ipowatch",
-  "count": 14,
+  "count": 15,
   "items": [
+    {
+      "title": "CSM Technologies",
+      "gmp": "₹0",
+      "gain": "",
+      "price": "₹113",
+      "openDate": "24 June",
+      "closeDate": "29 June",
+      "type": "Mainboard",
+      "url": ""
+    },
     {
       "title": "Dhanwel Hybrid Seeds",
       "gmp": "₹0",
@@ -22,6 +32,16 @@
       "closeDate": "25 June",
       "type": "NSE SME",
       "url": "https://ipowatch.in/shreedhar-spinners-ipo/"
+    },
+    {
+      "title": "Waterways Leisure",
+      "gmp": "₹0",
+      "gain": "",
+      "price": "₹808",
+      "openDate": "23 June",
+      "closeDate": "25 June",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/cordelia-cruises-ipo/"
     },
     {
       "title": "Advit Jewels",
@@ -132,16 +152,6 @@
       "closeDate": "15 June",
       "type": "BSE SME",
       "url": "https://ipowatch.in/susan-electricals-ipo/"
-    },
-    {
-      "title": "Utkal Speciality Industries",
-      "gmp": "₹1",
-      "gain": "",
-      "price": "₹66",
-      "openDate": "10 June",
-      "closeDate": "12 June",
-      "type": "NSE SME",
-      "url": "https://ipowatch.in/utkal-speciality-industries-ipo/"
     }
   ]
 }

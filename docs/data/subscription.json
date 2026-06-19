@@ -1,22 +1,8 @@
 {
-  "updatedAt": "2026-06-19T15:26:12.838Z",
+  "updatedAt": "2026-06-19T17:32:05.514Z",
   "source": "investorgain",
   "count": 20,
   "items": [
-    {
-      "name": "Anubhav Plast",
-      "total": "1.21",
-      "qib": "1.01",
-      "shni": "1.23",
-      "bhni": "1.68",
-      "nii": "1.53",
-      "rii": "1.19",
-      "ipoSize": "₹24.00 Cr",
-      "price": "80",
-      "closeDate": "23-06-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/anubhav-plast-ipo/1891/"
-    },
     {
       "name": "Turtlemint Fintech Solutions",
       "total": "0.46",
@@ -32,13 +18,27 @@
       "url": "https://www.investorgain.com/subscription/turtlemint-fintech-solutions-ipo/1885/"
     },
     {
+      "name": "Anubhav Plast",
+      "total": "1.21",
+      "qib": "1.01",
+      "shni": "1.23",
+      "bhni": "1.68",
+      "nii": "1.53",
+      "rii": "1.2",
+      "ipoSize": "₹24.00 Cr",
+      "price": "80",
+      "closeDate": "23-06-2026",
+      "type": "SME",
+      "url": "https://www.investorgain.com/subscription/anubhav-plast-ipo/1891/"
+    },
+    {
       "name": "Avience Biomedicals",
-      "total": "43.29",
+      "total": "43.79",
       "qib": "0.03",
-      "shni": "66.56",
+      "shni": "66.91",
       "bhni": "66.08",
-      "nii": "66.24",
-      "rii": "58.02",
+      "nii": "66.36",
+      "rii": "58.97",
       "ipoSize": "₹30.24 Cr",
       "price": "208",
       "closeDate": "22-06-2026",
@@ -60,34 +60,6 @@
       "url": "https://www.investorgain.com/subscription/riyaasat-lifestyle-ipo/1836/"
     },
     {
-      "name": "Leapfrog Engineering",
-      "total": "2.7",
-      "qib": "20.32",
-      "shni": "11.96",
-      "bhni": "1.67",
-      "nii": "5.1",
-      "rii": "0.84",
-      "ipoSize": "₹88.51 Cr",
-      "price": "23",
-      "closeDate": "19-06-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/leapfrog-engineering-ipo/1655/"
-    },
-    {
-      "name": "Liotech Industries",
-      "total": "1.9",
-      "qib": "",
-      "shni": "",
-      "bhni": "",
-      "nii": "0.85",
-      "rii": "2.96",
-      "ipoSize": "₹36.02 Cr",
-      "price": "321",
-      "closeDate": "19-06-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/liotech-industries-ipo/1746/"
-    },
-    {
       "name": "Diksha Polymers",
       "total": "2.88",
       "qib": "",
@@ -102,18 +74,46 @@
       "url": "https://www.investorgain.com/subscription/diksha-polymers-ipo/1856/"
     },
     {
+      "name": "Liotech Industries",
+      "total": "1.91",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "0.85",
+      "rii": "2.97",
+      "ipoSize": "₹36.02 Cr",
+      "price": "321",
+      "closeDate": "19-06-2026",
+      "type": "SME",
+      "url": "https://www.investorgain.com/subscription/liotech-industries-ipo/1746/"
+    },
+    {
       "name": "Clay Craft",
       "total": "103.06",
       "qib": "119.19",
       "shni": "90.81",
       "bhni": "185.33",
       "nii": "153.95",
-      "rii": "71.75",
+      "rii": "71.76",
       "ipoSize": "₹110.11 Cr",
       "price": "203",
       "closeDate": "19-06-2026",
       "type": "SME",
       "url": "https://www.investorgain.com/subscription/clay-craft-ipo/1870/"
+    },
+    {
+      "name": "Leapfrog Engineering",
+      "total": "2.7",
+      "qib": "20.32",
+      "shni": "11.96",
+      "bhni": "1.67",
+      "nii": "5.1",
+      "rii": "0.84",
+      "ipoSize": "₹88.51 Cr",
+      "price": "23",
+      "closeDate": "19-06-2026",
+      "type": "SME",
+      "url": "https://www.investorgain.com/subscription/leapfrog-engineering-ipo/1655/"
     },
     {
       "name": "Susan Electricals India",
@@ -158,20 +158,6 @@
       "url": "https://www.investorgain.com/subscription/utkal-speciality-ipo/1909/"
     },
     {
-      "name": "Genxai Analytics",
-      "total": "16.99",
-      "qib": "17.58",
-      "shni": "19.82",
-      "bhni": "36.47",
-      "nii": "30.92",
-      "rii": "12.59",
-      "ipoSize": "₹54.84 Cr",
-      "price": "116",
-      "closeDate": "9-06-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/genxai-analytics-ipo/2055/"
-    },
-    {
       "name": "Hexagon Nutrition",
       "total": "53.68",
       "qib": "19.77",
@@ -186,18 +172,18 @@
       "url": "https://www.investorgain.com/subscription/hexagon-nutrition-ipo/1927/"
     },
     {
-      "name": "Vahh Chemicals",
-      "total": "87.17",
-      "qib": "",
-      "shni": "",
-      "bhni": "",
-      "nii": "74.08",
-      "rii": "100.18",
-      "ipoSize": "₹13.45 Cr",
-      "price": "60",
-      "closeDate": "8-06-2026",
+      "name": "Genxai Analytics",
+      "total": "16.99",
+      "qib": "17.58",
+      "shni": "19.82",
+      "bhni": "36.47",
+      "nii": "30.92",
+      "rii": "12.59",
+      "ipoSize": "₹54.84 Cr",
+      "price": "116",
+      "closeDate": "9-06-2026",
       "type": "SME",
-      "url": "https://www.investorgain.com/subscription/vahh-chemicals-ipo/2056/"
+      "url": "https://www.investorgain.com/subscription/genxai-analytics-ipo/2055/"
     },
     {
       "name": "UHM Vacation",
@@ -214,6 +200,20 @@
       "url": "https://www.investorgain.com/subscription/uhm-vacation-ipo/2093/"
     },
     {
+      "name": "Vahh Chemicals",
+      "total": "87.17",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "74.08",
+      "rii": "100.18",
+      "ipoSize": "₹13.45 Cr",
+      "price": "60",
+      "closeDate": "8-06-2026",
+      "type": "SME",
+      "url": "https://www.investorgain.com/subscription/vahh-chemicals-ipo/2056/"
+    },
+    {
       "name": "CMR Green Technologies",
       "total": "127.07",
       "qib": "270.46",
@@ -228,20 +228,6 @@
       "url": "https://www.investorgain.com/subscription/cmr-green-technologies-ipo/1871/"
     },
     {
-      "name": "Merritronix",
-      "total": "315.36",
-      "qib": "224.91",
-      "shni": "303.12",
-      "bhni": "563.33",
-      "nii": "476.59",
-      "rii": "297.67",
-      "ipoSize": "₹70.03 Cr",
-      "price": "149",
-      "closeDate": "3-06-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/merritronix-ipo/2222/"
-    },
-    {
       "name": "SMR Jewels",
       "total": "1.09",
       "qib": "5.41",
@@ -254,6 +240,20 @@
       "closeDate": "3-06-2026",
       "type": "SME",
       "url": "https://www.investorgain.com/subscription/smr-jewels-ipo/1881/"
+    },
+    {
+      "name": "Merritronix",
+      "total": "315.36",
+      "qib": "224.91",
+      "shni": "303.12",
+      "bhni": "563.33",
+      "nii": "476.59",
+      "rii": "297.67",
+      "ipoSize": "₹70.03 Cr",
+      "price": "149",
+      "closeDate": "3-06-2026",
+      "type": "SME",
+      "url": "https://www.investorgain.com/subscription/merritronix-ipo/2222/"
     },
     {
       "name": "Aureate Tradde",

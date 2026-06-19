@@ -304,6 +304,147 @@ async function nseBulk() {
 }
 
 // ---------------------------------------------------------------------------
+// Market indices (NSE allIndices) for the Market Pulse strip
+// ---------------------------------------------------------------------------
+const INDEX_ORDER = [
+  'NIFTY 50', 'NIFTY BANK', 'NIFTY NEXT 50', 'NIFTY MIDCAP 100', 'NIFTY IT', 'INDIA VIX',
+];
+const fmtNum = (v) => {
+  const d = Number(v);
+  return isFinite(d)
+    ? d.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })
+    : norm(v);
+};
+const fmtSigned = (v) => {
+  const d = Number(v);
+  return isFinite(d) ? `${d >= 0 ? '+' : ''}${d.toFixed(2)}` : norm(v);
+};
+async function nseIndices() {
+  const data = await nseGet('allIndices');
+  const arr = (data && data.data) || [];
+  if (!arr.length) throw new Error('nse indices: no data');
+  const found = {};
+  for (const r of arr) {
+    const name = norm(r.index);
+    if (INDEX_ORDER.includes(name)) {
+      found[name] = {
+        name,
+        last: fmtNum(r.last),
+        change: fmtSigned(r.variation),
+        percentChange: `${fmtSigned(r.percentChange)}%`,
+      };
+    }
+  }
+  return INDEX_ORDER.filter((n) => found[n]).map((n) => found[n]);
+}
+
+// ---------------------------------------------------------------------------
+// Recently listed IPOs with listing price & gain (ipowatch)
+// ---------------------------------------------------------------------------
+async function ipowatchListings() {
+  const $ = await getHtml('https://ipowatch.in/ipo-listing/');
+  const table = findTable($, ['listing']);
+  if (!table) throw new Error('listings: no table');
+  const rows = $(table).find('tr').toArray();
+  const headers = $(rows[0])
+    .find('td, th')
+    .toArray()
+    .map((e) => $(e).text().trim().toLowerCase());
+  const col = (keys) => {
+    for (let i = 0; i < headers.length; i++)
+      for (const k of keys) if (headers[i].includes(k)) return i;
+    return -1;
+  };
+  const ci = {
+    name: col(['company', 'name']),
+    openDate: col(['open']),
+    closeDate: col(['close']),
+    size: col(['size']),
+    priceBand: col(['price band', 'band']),
+    gmp: col(['gmp']),
+    listingPrice: col(['listing price']),
+    listingGain: col(['listing gain', 'gain']),
+  };
+  const out = [];
+  for (const row of rows.slice(1)) {
+    const cells = $(row).find('td').toArray();
+    if (!cells.length) continue;
+    const cell = (c) => (c >= 0 && c < cells.length ? norm($(cells[c]).text()) : '');
+    const name = cell(ci.name);
+    if (!name || name.toLowerCase() === 'company name') continue;
+    out.push({
+      name,
+      openDate: cell(ci.openDate),
+      closeDate: cell(ci.closeDate),
+      size: cell(ci.size),
+      priceBand: cell(ci.priceBand),
+      gmp: cell(ci.gmp),
+      listingPrice: cell(ci.listingPrice),
+      listingGain: cell(ci.listingGain),
+    });
+  }
+  if (!out.length) throw new Error('listings: no rows');
+  return out;
+}
+
+// ---------------------------------------------------------------------------
+// Market / IPO news — aggregated from publisher RSS feeds (syndication-safe)
+// ---------------------------------------------------------------------------
+const RSS_FEEDS = [
+  ['Economic Times', 'https://economictimes.indiatimes.com/markets/rssfeeds/1977021501.cms'],
+  ['Moneycontrol', 'https://www.moneycontrol.com/rss/business.xml'],
+  ['Livemint', 'https://www.livemint.com/rss/markets'],
+  ['Business Standard', 'https://www.business-standard.com/rss/markets-106.rss'],
+];
+async function marketNews() {
+  const all = [];
+  for (const [source, url] of RSS_FEEDS) {
+    try {
+      const res = await fetch(url, {
+        headers: { 'User-Agent': DESKTOP_UA, Accept: 'application/rss+xml' },
+        redirect: 'follow',
+      });
+      if (!res.ok) continue;
+      const $ = load(await res.text(), { xmlMode: true });
+      $('item').each((_, it) => {
+        const title = norm($(it).find('title').first().text());
+        const link = norm($(it).find('link').first().text());
+        if (!title || !link) return;
+        let desc = norm(load(`<x>${$(it).find('description').first().text()}</x>`).text());
+        if (desc.length > 220) desc = `${desc.slice(0, 220).trim()}…`;
+        const image =
+          $(it).find('enclosure').attr('url') ||
+          $(it).find('media\\:content').attr('url') ||
+          '';
+        const pub = $(it).find('pubDate').first().text();
+        const d = new Date(pub);
+        all.push({
+          title,
+          summary: desc,
+          source,
+          url: link,
+          image,
+          publishedAt: isNaN(d.getTime()) ? '' : d.toISOString(),
+        });
+      });
+    } catch (_) {
+      /* skip feed */
+    }
+  }
+  all.sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''));
+  const seen = new Set();
+  const out = [];
+  for (const a of all) {
+    const k = a.title.toLowerCase();
+    if (!k || seen.has(k)) continue;
+    seen.add(k);
+    out.push(a);
+  }
+  if (!out.length) throw new Error('news: no items');
+  return out.slice(0, 60);
+}
+
+// ---------------------------------------------------------------------------
 // Sources per feed (ordered: primary first, then backups)
 // ---------------------------------------------------------------------------
 
@@ -480,6 +621,18 @@ const FEATURES = [
   {
     name: 'subscription',
     sources: [{ name: 'investorgain', run: () => investorgainSub() }],
+  },
+  {
+    name: 'indices',
+    sources: [{ name: 'nse', run: () => nseIndices() }],
+  },
+  {
+    name: 'listing',
+    sources: [{ name: 'ipowatch', run: () => ipowatchListings() }],
+  },
+  {
+    name: 'news',
+    sources: [{ name: 'rss', run: () => marketNews() }],
   },
 ];
 

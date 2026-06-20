@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T11:58:55.644Z",
+  "updatedAt": "2026-06-20T14:24:53.034Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -175,15 +175,6 @@
       "volume": "18,873"
     },
     {
-      "name": "MEP Infrast.",
-      "week52": "2.87",
-      "ltp": "0.78",
-      "gainPct": "0.0 %",
-      "dayLow": "0.77",
-      "dayHigh": "2.90",
-      "volume": "439,012"
-    },
-    {
       "name": "Aditya Bir SL IT",
       "week52": "49.41",
       "ltp": "30.09",
@@ -200,6 +191,15 @@
       "dayLow": "4.60",
       "dayHigh": "0.00",
       "volume": "78,000"
+    },
+    {
+      "name": "MEP Infrast.",
+      "week52": "2.87",
+      "ltp": "0.78",
+      "gainPct": "0.0 %",
+      "dayLow": "0.77",
+      "dayHigh": "2.90",
+      "volume": "439,012"
     },
     {
       "name": "Kotak IT ETF",
@@ -436,15 +436,6 @@
       "volume": "1,338,921"
     },
     {
-      "name": "Guj.Nat.Resour.",
-      "week52": "105.05",
-      "ltp": "85.55",
-      "gainPct": "-1.3 %",
-      "dayLow": "85.25",
-      "dayHigh": "113.96",
-      "volume": "64,164"
-    },
-    {
       "name": "Striders Impex",
       "week52": "82",
       "ltp": "54.50",
@@ -452,6 +443,15 @@
       "dayLow": "49.00",
       "dayHigh": "0.00",
       "volume": "9,600"
+    },
+    {
+      "name": "Guj.Nat.Resour.",
+      "week52": "105.05",
+      "ltp": "85.55",
+      "gainPct": "-1.3 %",
+      "dayLow": "85.25",
+      "dayHigh": "113.96",
+      "volume": "64,164"
     }
   ]
 }

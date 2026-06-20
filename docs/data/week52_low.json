@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T14:24:53.034Z",
+  "updatedAt": "2026-06-20T16:05:39.530Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -175,6 +175,15 @@
       "volume": "18,873"
     },
     {
+      "name": "MEP Infrast.",
+      "week52": "2.87",
+      "ltp": "0.78",
+      "gainPct": "0.0 %",
+      "dayLow": "0.77",
+      "dayHigh": "2.90",
+      "volume": "439,012"
+    },
+    {
       "name": "Aditya Bir SL IT",
       "week52": "49.41",
       "ltp": "30.09",
@@ -191,15 +200,6 @@
       "dayLow": "4.60",
       "dayHigh": "0.00",
       "volume": "78,000"
-    },
-    {
-      "name": "MEP Infrast.",
-      "week52": "2.87",
-      "ltp": "0.78",
-      "gainPct": "0.0 %",
-      "dayLow": "0.77",
-      "dayHigh": "2.90",
-      "volume": "439,012"
     },
     {
       "name": "Kotak IT ETF",
@@ -256,33 +256,6 @@
       "volume": "413"
     },
     {
-      "name": "Tata Elxsi",
-      "week52": "6487",
-      "ltp": "4065.50",
-      "gainPct": "-1.2 %",
-      "dayLow": "3926.10",
-      "dayHigh": "6533.80",
-      "volume": "593,779"
-    },
-    {
-      "name": "Frontier Springs",
-      "week52": "1869",
-      "ltp": "1417.60",
-      "gainPct": "-4.9 %",
-      "dayLow": "1376.00",
-      "dayHigh": "1870.05",
-      "volume": "75,248"
-    },
-    {
-      "name": "TCS",
-      "week52": "3489.9",
-      "ltp": "2125.00",
-      "gainPct": "-3.6 %",
-      "dayLow": "2059.90",
-      "dayHigh": "3489.85",
-      "volume": "13,286,502"
-    },
-    {
       "name": "ICICI Pru IT ETF",
       "week52": "44.3",
       "ltp": "30.42",
@@ -326,6 +299,33 @@
       "dayLow": "56.65",
       "dayHigh": "0.00",
       "volume": "4,000"
+    },
+    {
+      "name": "Tata Elxsi",
+      "week52": "6487",
+      "ltp": "4065.50",
+      "gainPct": "-1.2 %",
+      "dayLow": "3926.10",
+      "dayHigh": "6533.80",
+      "volume": "593,779"
+    },
+    {
+      "name": "Frontier Springs",
+      "week52": "1869",
+      "ltp": "1417.60",
+      "gainPct": "-4.9 %",
+      "dayLow": "1376.00",
+      "dayHigh": "1870.05",
+      "volume": "75,248"
+    },
+    {
+      "name": "TCS",
+      "week52": "3489.9",
+      "ltp": "2125.00",
+      "gainPct": "-3.6 %",
+      "dayLow": "2059.90",
+      "dayHigh": "3489.85",
+      "volume": "13,286,502"
     },
     {
       "name": "Vedanta Oil and Gas",
@@ -436,15 +436,6 @@
       "volume": "1,338,921"
     },
     {
-      "name": "Striders Impex",
-      "week52": "82",
-      "ltp": "54.50",
-      "gainPct": "8.1 %",
-      "dayLow": "49.00",
-      "dayHigh": "0.00",
-      "volume": "9,600"
-    },
-    {
       "name": "Guj.Nat.Resour.",
       "week52": "105.05",
       "ltp": "85.55",
@@ -452,6 +443,15 @@
       "dayLow": "85.25",
       "dayHigh": "113.96",
       "volume": "64,164"
+    },
+    {
+      "name": "Striders Impex",
+      "week52": "82",
+      "ltp": "54.50",
+      "gainPct": "8.1 %",
+      "dayLow": "49.00",
+      "dayHigh": "0.00",
+      "volume": "9,600"
     }
   ]
 }

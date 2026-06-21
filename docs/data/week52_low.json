@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T18:23:12.666Z",
+  "updatedAt": "2026-06-21T20:15:44.027Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -382,15 +382,6 @@
       "volume": "2,400"
     },
     {
-      "name": "Mohini Health",
-      "week52": "62.65",
-      "ltp": "29.20",
-      "gainPct": "-4.9 %",
-      "dayLow": "29.20",
-      "dayHigh": "0.00",
-      "volume": "24,000"
-    },
-    {
       "name": "EID Parry",
       "week52": "1246.8",
       "ltp": "704.10",
@@ -398,6 +389,15 @@
       "dayLow": "698.20",
       "dayHigh": "1246.45",
       "volume": "1,057,022"
+    },
+    {
+      "name": "Mohini Health",
+      "week52": "62.65",
+      "ltp": "29.20",
+      "gainPct": "-4.9 %",
+      "dayLow": "29.20",
+      "dayHigh": "0.00",
+      "volume": "24,000"
     },
     {
       "name": "Continental Seed",
@@ -436,15 +436,6 @@
       "volume": "1,338,921"
     },
     {
-      "name": "Guj.Nat.Resour.",
-      "week52": "105.05",
-      "ltp": "85.55",
-      "gainPct": "-1.3 %",
-      "dayLow": "85.25",
-      "dayHigh": "113.96",
-      "volume": "64,164"
-    },
-    {
       "name": "Striders Impex",
       "week52": "82",
       "ltp": "54.50",
@@ -452,6 +443,15 @@
       "dayLow": "49.00",
       "dayHigh": "0.00",
       "volume": "9,600"
+    },
+    {
+      "name": "Guj.Nat.Resour.",
+      "week52": "105.05",
+      "ltp": "85.55",
+      "gainPct": "-1.3 %",
+      "dayLow": "85.25",
+      "dayHigh": "113.96",
+      "volume": "64,164"
     }
   ]
 }

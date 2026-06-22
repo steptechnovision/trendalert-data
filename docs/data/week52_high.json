@@ -1,547 +1,457 @@
 {
-  "updatedAt": "2026-06-22T17:56:50.707Z",
-  "source": "nse",
-  "count": 60,
+  "updatedAt": "2026-06-22T20:57:39.414Z",
+  "source": "5paisa",
+  "count": 50,
   "items": [
     {
-      "name": "Aditya Birla Capital Limited",
-      "week52": "392.9",
-      "ltp": "392.3",
-      "gainPct": "4.362862463421123 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "AdityaBirlaSunLifeMF-Aditya Birla Sun Life CRISIL Broad Based Gilt ETF",
-      "week52": "113.99",
-      "ltp": "113.82",
-      "gainPct": "0.18484288354898337 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Aditya Birla Sun Life AMC Limited",
-      "week52": "1224.9",
-      "ltp": "1181",
-      "gainPct": "0.0338810774182619 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Aditya Birla Sun Life MF- Aditya Birla Sun Life MSCI India ETF",
-      "week52": "35.34",
-      "ltp": "35.34",
-      "gainPct": "5.871779508687837 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Aditya Birla Sun Life Nifty Next 50 ETF",
-      "week52": "76.54",
-      "ltp": "76.46",
-      "gainPct": "0.8308057497032837 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Accord Synergy Limited",
-      "week52": "115.2",
-      "ltp": "115.2",
-      "gainPct": "4.965831435079727 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Adani Enterprises Limited",
-      "week52": "3065",
-      "ltp": "3060",
-      "gainPct": "0.7109004739336493 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Adani Green Energy Limited",
-      "week52": "1555",
-      "ltp": "1551",
-      "gainPct": "3.2348242811501597 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "ADF Foods Limited",
-      "week52": "320",
-      "ltp": "314.55",
-      "gainPct": "2.509369398729021 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Ador Welding Limited",
-      "week52": "1262.9",
-      "ltp": "1249",
-      "gainPct": "2.680039460703716 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Aegis Logistics Limited",
+      "name": "Aegis Logistics",
       "week52": "1093.55",
-      "ltp": "1064",
-      "gainPct": "5.576503274459218 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "ltp": "1069.70",
+      "gainPct": "6.1 %",
+      "dayLow": "1009.15",
+      "dayHigh": "1093.45",
+      "volume": "5,487,989"
     },
     {
-      "name": "Aequs Limited",
-      "week52": "240",
-      "ltp": "237.98",
-      "gainPct": "7.135461216404808 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "name": "Aditya Birla Cap",
+      "week52": "392.9",
+      "ltp": "391.95",
+      "gainPct": "4.3 %",
+      "dayLow": "375.05",
+      "dayHigh": "393.00",
+      "volume": "11,010,826"
     },
     {
-      "name": "Aeroflex Enterprises Limited",
-      "week52": "148.4",
-      "ltp": "145.03",
-      "gainPct": "6.741738426437036 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "name": "Adani Green",
+      "week52": "1555",
+      "ltp": "1549.90",
+      "gainPct": "3.2 %",
+      "dayLow": "1490.50",
+      "dayHigh": "1555.00",
+      "volume": "2,956,240"
     },
     {
-      "name": "Aeroflex Industries Limited",
-      "week52": "521.9",
-      "ltp": "507.5",
-      "gainPct": "0.04928536224741252 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Akme Fintrade (India) Limited",
-      "week52": "11.1",
-      "ltp": "10.7",
-      "gainPct": "-1.924839596700275 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "AIA Engineering Limited",
-      "week52": "4867",
-      "ltp": "4855.9",
-      "gainPct": "3.6035843823341156 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "AK Capital Services Limited",
-      "week52": "1832.9",
-      "ltp": "1808",
-      "gainPct": "4.129470713586362 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Mirae Asset Mutual Fund - Mirae Asset Nifty 200 Alpha 30 ETF",
-      "week52": "26.75",
-      "ltp": "26.62",
-      "gainPct": "0.8333333333333334 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Amagi Media Labs Limited",
-      "week52": "539.35",
-      "ltp": "530",
-      "gainPct": "8.395541466407607 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Anand Rathi Wealth Limited",
-      "week52": "1953.6",
-      "ltp": "1917",
-      "gainPct": "2.6506024096385543 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Apex Ecotech Limited",
-      "week52": "246.65",
-      "ltp": "246.65",
-      "gainPct": "4.979782932538838 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Arvind Limited",
-      "week52": "525",
-      "ltp": "506.25",
-      "gainPct": "-2.0034843205574915 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Ashiana Housing Limited",
-      "week52": "405",
-      "ltp": "389",
-      "gainPct": "1.3416699231470626 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Aditya Vision Limited",
-      "week52": "648.05",
-      "ltp": "633.3",
-      "gainPct": "0.5397682171773297 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Baheti Recycling Industries Limited",
-      "week52": "743.95",
-      "ltp": "725.25",
-      "gainPct": "1.4619473978735311 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Belrise Industries Limited",
-      "week52": "249.59",
-      "ltp": "248.5",
-      "gainPct": "3.073541001285827 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Beta Drugs Limited",
-      "week52": "2250",
-      "ltp": "2159.9",
-      "gainPct": "8.526781228017285 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Bhagyanagar India Limited",
+      "name": "Bhagyanagar Ind",
       "week52": "407.45",
       "ltp": "407.45",
-      "gainPct": "4.999355753124597 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "gainPct": "5.0 %",
+      "dayLow": "390.00",
+      "dayHigh": "409.75",
+      "volume": "111,105"
     },
     {
-      "name": "Bharat Forge Limited",
-      "week52": "2113.6",
-      "ltp": "2109",
-      "gainPct": "3.3114529244636035 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Black Rose Inds. Limited",
-      "week52": "113.8",
-      "ltp": "112.7",
-      "gainPct": "17.837724801338354 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "ICICI Prudential MF-ICICI Prudential BSE Liquid Rate ETF-Growth",
-      "week52": "1067.52",
-      "ltp": "1067.52",
-      "gainPct": "0.01405323364906265 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Cemindia Projects Limited",
-      "week52": "1280",
-      "ltp": "1268",
-      "gainPct": "1.2779552715654952 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Centum Electronics Limited",
-      "week52": "3731.9",
-      "ltp": "3705",
-      "gainPct": "4.6905905623057365 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "CLC Industries Limited",
-      "week52": "44.49",
-      "ltp": "44.49",
-      "gainPct": "4.978763567720623 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Clean Max Enviro Energy Solutions Limited",
+      "name": "Clean Max Enviro",
       "week52": "1533.6",
-      "ltp": "1498",
-      "gainPct": "9.319127198423702 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "ltp": "1494.00",
+      "gainPct": "9.0 %",
+      "dayLow": "1400.00",
+      "dayHigh": "1527.60",
+      "volume": "1,543,216"
     },
     {
-      "name": "Committed Cargo Care Limited",
-      "week52": "311.9",
-      "ltp": "311",
-      "gainPct": "4.222520107238606 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Aditya Infotech Limited",
+      "name": "Aditya Infotech",
       "week52": "3740",
-      "ltp": "3600",
-      "gainPct": "-1.0390895596239484 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "ltp": "3631.60",
+      "gainPct": "-0.2 %",
+      "dayLow": "3592.90",
+      "dayHigh": "3739.10",
+      "volume": "400,355"
     },
     {
-      "name": "Cupid Limited",
-      "week52": "179.95",
-      "ltp": "179.95",
-      "gainPct": "1.712638480669229 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Dai-Ichi Karkaria Limited",
-      "week52": "337.18",
-      "ltp": "329.99",
-      "gainPct": "4.905264496439471 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Deccan Gold Mines Limited",
+      "name": "Dec.Gold Mines",
       "week52": "235",
-      "ltp": "227.3",
-      "gainPct": "5.8587928464977646 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "ltp": "227.51",
+      "gainPct": "6.0 %",
+      "dayLow": "217.12",
+      "dayHigh": "235.00",
+      "volume": "5,358,403"
     },
     {
-      "name": "Mirae Asset Mutual Fund - Mirae Asset BSE India Defence ETF",
-      "week52": "80.99",
-      "ltp": "80.84",
-      "gainPct": "0.9742692980264801 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Delhivery Limited",
-      "week52": "491.7",
-      "ltp": "484.6",
-      "gainPct": "5.0965083495987855 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Dynamic Services & Security Limited",
-      "week52": "168.85",
-      "ltp": "167",
-      "gainPct": "3.8234379857009637 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Edelweiss Mutual Fund - BHARAT Bond ETF - April 2031",
-      "week52": "1434.49",
-      "ltp": "1423.25",
-      "gainPct": "0.04076841431955408 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Edelweiss Mutual Fund - BHARAT Bond ETF-April 2033",
-      "week52": "1316.98",
-      "ltp": "1299.16",
-      "gainPct": "0.09785112759941135 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "GNG Electronics Limited",
+      "name": "GNG Electronics",
       "week52": "552.1",
-      "ltp": "552.1",
-      "gainPct": "9.991034963641797 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "ltp": "548.75",
+      "gainPct": "9.3 %",
+      "dayLow": "509.95",
+      "dayHigh": "552.95",
+      "volume": "3,844,009"
     },
     {
-      "name": "Ecoline Exim Limited",
+      "name": "Ecoline Exim",
       "week52": "207.35",
       "ltp": "207.35",
-      "gainPct": "4.987341772151899 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "gainPct": "5.0 %",
+      "dayLow": "198.00",
+      "dayHigh": "0.00",
+      "volume": "94,000"
     },
     {
-      "name": "Edelweiss Financial Services Limited",
+      "name": "Edelweiss.Fin.",
       "week52": "132.84",
-      "ltp": "130.98",
-      "gainPct": "5.027664180899687 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "ltp": "130.28",
+      "gainPct": "4.5 %",
+      "dayLow": "124.34",
+      "dayHigh": "132.90",
+      "volume": "15,730,560"
     },
     {
-      "name": "Effwa Infra & Research Limited",
-      "week52": "369.4",
-      "ltp": "368.9",
-      "gainPct": "4.845814977973569 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Euro India Fresh Foods Limited",
+      "name": "Euro India Fresh",
       "week52": "381.96",
-      "ltp": "355",
-      "gainPct": "2.234765580002304 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "ltp": "355.00",
+      "gainPct": "2.2 %",
+      "dayLow": "351.00",
+      "dayHigh": "0.00",
+      "volume": "179,229"
     },
     {
-      "name": "EPW India Limited",
-      "week52": "165.35",
-      "ltp": "165.35",
-      "gainPct": "4.984126984126984 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "ESAF Small Finance Bank Limited",
-      "week52": "37.2",
-      "ltp": "35.27",
-      "gainPct": "-2.9176988714560967 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Fineotex Chemical Limited",
-      "week52": "45.7",
-      "ltp": "45.65",
-      "gainPct": "4.8943014705882355 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Finolex Cables Limited",
-      "week52": "1203.9",
-      "ltp": "1189",
-      "gainPct": "2.1214463626213176 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
-    },
-    {
-      "name": "Freshara Agro Exports Limited",
+      "name": "Freshara Agro",
       "week52": "253",
-      "ltp": "251.9",
-      "gainPct": "2.4400162667751117 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "ltp": "251.90",
+      "gainPct": "2.4 %",
+      "dayLow": "241.55",
+      "dayHigh": "0.00",
+      "volume": "53,400"
     },
     {
-      "name": "Gala Precision Engineering Limited",
+      "name": "Gala Precis. Eng",
       "week52": "1199",
-      "ltp": "1167.2",
-      "gainPct": "10.076861413684162 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "ltp": "1173.10",
+      "gainPct": "10.6 %",
+      "dayLow": "1090.00",
+      "dayHigh": "1198.60",
+      "volume": "476,998"
     },
     {
-      "name": "Grand Foundry Limited",
-      "week52": "13.61",
-      "ltp": "13.61",
-      "gainPct": " %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "name": "Grindwell Norton",
+      "week52": "2150.8",
+      "ltp": "2110.00",
+      "gainPct": "-1.3 %",
+      "dayLow": "2097.00",
+      "dayHigh": "2150.80",
+      "volume": "65,792"
     },
     {
-      "name": "Gujarat Narmada Valley Fertilizers and Chemicals Limited",
-      "week52": "616",
-      "ltp": "582",
-      "gainPct": "2.5279661763410552 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "name": "KEI Industries",
+      "week52": "5686",
+      "ltp": "5660.00",
+      "gainPct": "0.5 %",
+      "dayLow": "5603.00",
+      "dayHigh": "5684.95",
+      "volume": "210,697"
     },
     {
-      "name": "GOCL Corporation Limited",
+      "name": "Nifty Mom.50 ETF",
+      "week52": "70",
+      "ltp": "67.73",
+      "gainPct": "3.2 %",
+      "dayLow": "65.05",
+      "dayHigh": "0.00",
+      "volume": "97,743"
+    },
+    {
+      "name": "MO NiftyNext ETF",
+      "week52": "74.47",
+      "ltp": "72.97",
+      "gainPct": "1.0 %",
+      "dayLow": "72.28",
+      "dayHigh": "0.00",
+      "volume": "2,464,572"
+    },
+    {
+      "name": "Navin Fluo.Intl.",
+      "week52": "7639",
+      "ltp": "7572.00",
+      "gainPct": "1.0 %",
+      "dayLow": "7352.00",
+      "dayHigh": "7623.00",
+      "volume": "177,982"
+    },
+    {
+      "name": "Panama Petrochem",
+      "week52": "512.05",
+      "ltp": "496.45",
+      "gainPct": "2.7 %",
+      "dayLow": "471.00",
+      "dayHigh": "512.00",
+      "volume": "4,165,001"
+    },
+    {
+      "name": "Polycab India",
+      "week52": "10126",
+      "ltp": "10022.50",
+      "gainPct": "-0.6 %",
+      "dayLow": "9992.00",
+      "dayHigh": "10128.60",
+      "volume": "157,543"
+    },
+    {
+      "name": "Prudent Corp.",
+      "week52": "3122.1",
+      "ltp": "3079.30",
+      "gainPct": "1.7 %",
+      "dayLow": "3026.90",
+      "dayHigh": "3118.85",
+      "volume": "34,585"
+    },
+    {
+      "name": "Rico Auto Inds",
+      "week52": "157",
+      "ltp": "147.89",
+      "gainPct": "1.8 %",
+      "dayLow": "146.01",
+      "dayHigh": "157.00",
+      "volume": "8,789,762"
+    },
+    {
+      "name": "Rane (Madras)",
+      "week52": "1169",
+      "ltp": "1133.85",
+      "gainPct": "1.1 %",
+      "dayLow": "1110.60",
+      "dayHigh": "1167.15",
+      "volume": "243,931"
+    },
+    {
+      "name": "Rubicon Research",
+      "week52": "1415",
+      "ltp": "1376.60",
+      "gainPct": "1.1 %",
+      "dayLow": "1345.10",
+      "dayHigh": "1413.75",
+      "volume": "299,001"
+    },
+    {
+      "name": "Saakshi Medtech",
+      "week52": "278",
+      "ltp": "278.00",
+      "gainPct": "4.7 %",
+      "dayLow": "261.00",
+      "dayHigh": "0.00",
+      "volume": "16,200"
+    },
+    {
+      "name": "Sanginita Chemi.",
+      "week52": "39.19",
+      "ltp": "39.19",
+      "gainPct": "2.0 %",
+      "dayLow": "39.16",
+      "dayHigh": "0.00",
+      "volume": "239,381"
+    },
+    {
+      "name": "Sansera Enginee.",
+      "week52": "3037",
+      "ltp": "2991.40",
+      "gainPct": "1.5 %",
+      "dayLow": "2915.40",
+      "dayHigh": "3036.15",
+      "volume": "616,782"
+    },
+    {
+      "name": "Shanti Educat.",
+      "week52": "221.45",
+      "ltp": "218.47",
+      "gainPct": "7.4 %",
+      "dayLow": "203.96",
+      "dayHigh": "220.00",
+      "volume": "1,278,279"
+    },
+    {
+      "name": "Simca Advertis.",
+      "week52": "170.95",
+      "ltp": "167.30",
+      "gainPct": "2.4 %",
+      "dayLow": "163.50",
+      "dayHigh": "0.00",
+      "volume": "39,600"
+    },
+    {
+      "name": "Ushanti Colour",
+      "week52": "165",
+      "ltp": "165.00",
+      "gainPct": "2.1 %",
+      "dayLow": "153.60",
+      "dayHigh": "0.00",
+      "volume": "14,000"
+    },
+    {
+      "name": "Universal Cables",
+      "week52": "1391",
+      "ltp": "1348.90",
+      "gainPct": "5.9 %",
+      "dayLow": "1283.70",
+      "dayHigh": "1391.00",
+      "volume": "487,033"
+    },
+    {
+      "name": "Vadilal Inds.",
+      "week52": "6398",
+      "ltp": "6359.40",
+      "gainPct": "4.1 %",
+      "dayLow": "6110.00",
+      "dayHigh": "6388.50",
+      "volume": "24,374"
+    },
+    {
+      "name": "Vigor Plast",
+      "week52": "101.8",
+      "ltp": "97.95",
+      "gainPct": "-0.9 %",
+      "dayLow": "97.95",
+      "dayHigh": "0.00",
+      "volume": "32,000"
+    },
+    {
+      "name": "Piramal Finance.",
+      "week52": "2175",
+      "ltp": "2085.50",
+      "gainPct": "-3.1 %",
+      "dayLow": "2078.00",
+      "dayHigh": "2180.05",
+      "volume": "514,901"
+    },
+    {
+      "name": "Aditya AMC",
+      "week52": "1224.9",
+      "ltp": "1180.40",
+      "gainPct": "0.0 %",
+      "dayLow": "1175.80",
+      "dayHigh": "1223.40",
+      "volume": "505,517"
+    },
+    {
+      "name": "Akme Fintrade",
+      "week52": "11.1",
+      "ltp": "10.70",
+      "gainPct": "-1.9 %",
+      "dayLow": "10.50",
+      "dayHigh": "11.28",
+      "volume": "1,841,884"
+    },
+    {
+      "name": "Apex Ecotech",
+      "week52": "246.65",
+      "ltp": "246.65",
+      "gainPct": "5.0 %",
+      "dayLow": "241.00",
+      "dayHigh": "0.00",
+      "volume": "39,200"
+    },
+    {
+      "name": "Committed Cargo",
+      "week52": "311.9",
+      "ltp": "311.00",
+      "gainPct": "4.2 %",
+      "dayLow": "299.00",
+      "dayHigh": "0.00",
+      "volume": "26,400"
+    },
+    {
+      "name": "Mirae ABI Defence ETF",
+      "week52": "80.99",
+      "ltp": "80.84",
+      "gainPct": "1.0 %",
+      "dayLow": "79.69",
+      "dayHigh": "82.00",
+      "volume": "340,061"
+    },
+    {
+      "name": "Happy Forgings",
+      "week52": "1565",
+      "ltp": "1554.80",
+      "gainPct": "6.1 %",
+      "dayLow": "1470.90",
+      "dayHigh": "1564.05",
+      "volume": "672,952"
+    },
+    {
+      "name": "ESAF Small Fin",
+      "week52": "37.2",
+      "ltp": "35.25",
+      "gainPct": "-3.0 %",
+      "dayLow": "34.12",
+      "dayHigh": "36.96",
+      "volume": "3,342,214"
+    },
+    {
+      "name": "Kotak NN 50 ETF",
+      "week52": "74",
+      "ltp": "73.09",
+      "gainPct": "0.2 %",
+      "dayLow": "72.64",
+      "dayHigh": "0.00",
+      "volume": "61,810"
+    },
+    {
+      "name": "GOCL Corpn.",
       "week52": "459.9",
-      "ltp": "444.7",
-      "gainPct": "1.6457142857142857 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "ltp": "445.30",
+      "gainPct": "1.8 %",
+      "dayLow": "434.55",
+      "dayHigh": "460.00",
+      "volume": "326,264"
     },
     {
-      "name": "Goodluck India Limited",
-      "week52": "1516",
-      "ltp": "1482",
-      "gainPct": "4.116903189546157 %",
-      "dayLow": "",
-      "dayHigh": "",
-      "volume": ""
+      "name": "KDDL Ltd",
+      "week52": "3280",
+      "ltp": "3164.40",
+      "gainPct": "6.9 %",
+      "dayLow": "2970.10",
+      "dayHigh": "3275.00",
+      "volume": "192,812"
+    },
+    {
+      "name": "Lloyds Engineeri",
+      "week52": "91.99",
+      "ltp": "90.29",
+      "gainPct": "4.0 %",
+      "dayLow": "87.15",
+      "dayHigh": "91.99",
+      "volume": "41,971,610"
+    },
+    {
+      "name": "Onemi Technology",
+      "week52": "302.5",
+      "ltp": "295.60",
+      "gainPct": "0.0 %",
+      "dayLow": "291.55",
+      "dayHigh": "302.10",
+      "volume": "2,656,768"
+    },
+    {
+      "name": "Knowledge Marine",
+      "week52": "2383.6",
+      "ltp": "2337.00",
+      "gainPct": "12.7 %",
+      "dayLow": "2116.00",
+      "dayHigh": "2380.00",
+      "volume": "467,769"
+    },
+    {
+      "name": "Kody Technolab",
+      "week52": "1160",
+      "ltp": "1137.10",
+      "gainPct": "1.8 %",
+      "dayLow": "1030.00",
+      "dayHigh": "0.00",
+      "volume": "64,700"
+    },
+    {
+      "name": "QMS Medical",
+      "week52": "114",
+      "ltp": "106.80",
+      "gainPct": "1.7 %",
+      "dayLow": "105.15",
+      "dayHigh": "0.00",
+      "volume": "13,659"
+    },
+    {
+      "name": "Nippon Life Ind.",
+      "week52": "1194",
+      "ltp": "1188.40",
+      "gainPct": "0.1 %",
+      "dayLow": "1180.00",
+      "dayHigh": "1196.00",
+      "volume": "495,189"
     }
   ]
 }

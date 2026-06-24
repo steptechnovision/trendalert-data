@@ -1,8 +1,305 @@
 {
-  "updatedAt": "2026-06-23T20:27:32.915Z",
+  "updatedAt": "2026-06-24T06:10:25.301Z",
   "source": "nse",
   "count": 80,
   "items": [
+    {
+      "symbol": "GVPTECHPP",
+      "name": "GVPTECH Re.1 ppd up",
+      "clientName": "SHAH JAYESH SHANTILAL",
+      "buySell": "SELL",
+      "qty": "110044",
+      "price": "1.73",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "GVPTECHPP",
+      "name": "GVPTECH Re.1 ppd up",
+      "clientName": "KAILASHBEN ASHOKKUMAR PATEL",
+      "buySell": "SELL",
+      "qty": "328835",
+      "price": "1.23",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "INDOBORAX",
+      "name": "Indo Borax & Chemical Ltd",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "255632",
+      "price": "405.28",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "LAMOSAIC",
+      "name": "Lamosaic India Limited",
+      "clientName": "BRILLIANT ENTERPRISES",
+      "buySell": "SELL",
+      "qty": "100800",
+      "price": "33.5",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "LAMOSAIC",
+      "name": "Lamosaic India Limited",
+      "clientName": "FOAMEX ENTERPRISES",
+      "buySell": "SELL",
+      "qty": "99600",
+      "price": "33.5",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "LAMOSAIC",
+      "name": "Lamosaic India Limited",
+      "clientName": "KUBER EQUITY SERVICES LLP",
+      "buySell": "SELL",
+      "qty": "101400",
+      "price": "33.59",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "MANCREDIT",
+      "name": "Mangal Credit N Fincorp L",
+      "clientName": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "173433",
+      "price": "220.56",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "MANCREDIT",
+      "name": "Mangal Credit N Fincorp L",
+      "clientName": "JAYDEEP CHANDUBHAI KOTWANI",
+      "buySell": "SELL",
+      "qty": "107702",
+      "price": "221.47",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "MARKOLINES",
+      "name": "Markolines Pavement Tec L",
+      "clientName": "VISTAAR TRADING SERVICE PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "150060",
+      "price": "174.58",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "MOTISONS",
+      "name": "Motisons Jewellers Ltd",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "SELL",
+      "qty": "6786826",
+      "price": "14.23",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "MOTISONS",
+      "name": "Motisons Jewellers Ltd",
+      "clientName": "AJAY GUPTA",
+      "buySell": "SELL",
+      "qty": "73535",
+      "price": "14.55",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "ONYX",
+      "name": "Onyx Biotec Limited",
+      "clientName": "NEHA BAGLA",
+      "buySell": "SELL",
+      "qty": "112000",
+      "price": "40.95",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "ORIENTHOT",
+      "name": "Oriental Hotels Ltd",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1103861",
+      "price": "139.12",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "PACEDIGITK",
+      "name": "Pace Digitek Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1710290",
+      "price": "204.84",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "PACEDIGITK",
+      "name": "Pace Digitek Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1833372",
+      "price": "205.41",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "PACEDIGITK",
+      "name": "Pace Digitek Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "2088710",
+      "price": "204.26",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "PACEDIGITK",
+      "name": "Pace Digitek Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "1260349",
+      "price": "202.42",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "PPSL",
+      "name": "Picturepost Studios Ltd",
+      "clientName": "DEEPA SHAILENDRA CHANDGOTHIA",
+      "buySell": "SELL",
+      "qty": "267000",
+      "price": "4.32",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "ROCKPP",
+      "name": "Rockingdeals Circular Eco",
+      "clientName": "KAILASHBEN ASHOKKUMAR PATEL",
+      "buySell": "SELL",
+      "qty": "31000",
+      "price": "52",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "ROTO",
+      "name": "Roto Pumps Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "1492486",
+      "price": "72.54",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "ROTO",
+      "name": "Roto Pumps Limited",
+      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1140858",
+      "price": "72.55",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "ROTO",
+      "name": "Roto Pumps Limited",
+      "clientName": "MUSIGMA SECURITIES",
+      "buySell": "SELL",
+      "qty": "1640270",
+      "price": "72.14",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "ROTO",
+      "name": "Roto Pumps Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1191196",
+      "price": "72.1",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "ROTO",
+      "name": "Roto Pumps Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "2602237",
+      "price": "72.41",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "ROTO",
+      "name": "Roto Pumps Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "3500639",
+      "price": "72.38",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "ROTO",
+      "name": "Roto Pumps Limited",
+      "clientName": "BLITZQUANT RESEARCH LLP",
+      "buySell": "SELL",
+      "qty": "1017931",
+      "price": "72.77",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "SHANTIGOLD",
+      "name": "Shanti Gold Internation L",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "SELL",
+      "qty": "549656",
+      "price": "223.7",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "SKYGOLD",
+      "name": "SKY GOLD AND DIAMONDS LTD",
+      "clientName": "VIKAS NAVRATANMAL GANNA",
+      "buySell": "SELL",
+      "qty": "1153418",
+      "price": "490.41",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "SKYGOLD",
+      "name": "SKY GOLD AND DIAMONDS LTD",
+      "clientName": "JINESH NAVRATANMAL GANNA",
+      "buySell": "SELL",
+      "qty": "1141148",
+      "price": "491.13",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "STERTOOLS",
+      "name": "Sterling Tools Ltd.",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "299056",
+      "price": "276.3",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "SUMEET-RE",
+      "name": "Sumeet Industries Ltd",
+      "clientName": "BIRLA KAPIL",
+      "buySell": "SELL",
+      "qty": "1238840",
+      "price": "5.33",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "SUMEET-RE",
+      "name": "Sumeet Industries Ltd",
+      "clientName": "SHAKTIVEER TEXFAB PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "861800",
+      "price": "7.77",
+      "date": "23-Jun-2026"
+    },
+    {
+      "symbol": "VEDL",
+      "name": "Vedanta Limited",
+      "clientName": "TWIN STAR HOLDINGS LIMITED",
+      "buySell": "SELL",
+      "qty": "65072990",
+      "price": "291.36",
+      "date": "23-Jun-2026"
+    },
     {
       "symbol": "20MICRONS",
       "name": "20 Microns Limited",
@@ -424,303 +721,6 @@
       "buySell": "BUY",
       "qty": "31000",
       "price": "52",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "ROCKPP",
-      "name": "Rockingdeals Circular Eco",
-      "clientName": "KAILASHBEN ASHOKKUMAR PATEL",
-      "buySell": "BUY",
-      "qty": "1000",
-      "price": "52",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "ROTO",
-      "name": "Roto Pumps Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "1473141",
-      "price": "72.09",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "ROTO",
-      "name": "Roto Pumps Limited",
-      "clientName": "MUSIGMA SECURITIES",
-      "buySell": "BUY",
-      "qty": "1640270",
-      "price": "72.12",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "ROTO",
-      "name": "Roto Pumps Limited",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "2602237",
-      "price": "72.38",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "ROTO",
-      "name": "Roto Pumps Limited",
-      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1140858",
-      "price": "72.43",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "ROTO",
-      "name": "Roto Pumps Limited",
-      "clientName": "BLITZQUANT RESEARCH LLP",
-      "buySell": "BUY",
-      "qty": "1017931",
-      "price": "72.74",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "ROTO",
-      "name": "Roto Pumps Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "3500639",
-      "price": "72.33",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "ROTO",
-      "name": "Roto Pumps Limited",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1190195",
-      "price": "72.06",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "RPPL",
-      "name": "Rajshree PolyPack Ltd",
-      "clientName": "THE GOLDEN BIRD INVESTMENT TRUST - I",
-      "buySell": "BUY",
-      "qty": "399119",
-      "price": "21.46",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "SANGINITA",
-      "name": "Sanginita Chemicals Limit",
-      "clientName": "GUTTIKONDA VARA LAKSHMI",
-      "buySell": "BUY",
-      "qty": "150000",
-      "price": "39.97",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "SANGINITA",
-      "name": "Sanginita Chemicals Limit",
-      "clientName": "GUTTIKONDA RAJASEKHAR",
-      "buySell": "BUY",
-      "qty": "192219",
-      "price": "39.97",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "SHANTIGOLD",
-      "name": "Shanti Gold Internation L",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "BUY",
-      "qty": "516554",
-      "price": "222.23",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "STERTOOLS",
-      "name": "Sterling Tools Ltd.",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "299056",
-      "price": "275.97",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "ZEELEARN",
-      "name": "Zee Learn Limited",
-      "clientName": "SULOCHANA JALAN",
-      "buySell": "BUY",
-      "qty": "2229330",
-      "price": "9.72",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "20MICRONS",
-      "name": "20 Microns Limited",
-      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "185551",
-      "price": "213.48",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "20MICRONS",
-      "name": "20 Microns Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "253804",
-      "price": "210.92",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "20MICRONS",
-      "name": "20 Microns Limited",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "406015",
-      "price": "212.14",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "20MICRONS",
-      "name": "20 Microns Limited",
-      "clientName": "GRT STRATEGIC VENTURES LLP",
-      "buySell": "SELL",
-      "qty": "217422",
-      "price": "211.7",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "ARUNAYA",
-      "name": "Arunaya Organics Limited",
-      "clientName": "PRATIKBHAI VINAYCHANDRA FADIA",
-      "buySell": "SELL",
-      "qty": "90000",
-      "price": "16.17",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "MANISH N THAKUR",
-      "buySell": "SELL",
-      "qty": "120512",
-      "price": "30",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "ALTIZEN VENTURES LLP",
-      "buySell": "SELL",
-      "qty": "1485792",
-      "price": "29.87",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "COMSYN",
-      "name": "Commercial Syn Bags Ltd",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "SELL",
-      "qty": "214387",
-      "price": "168",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "CRAFTSMAN",
-      "name": "Craftsman Automation Ltd",
-      "clientName": "SRINIVASAN RAVI",
-      "buySell": "SELL",
-      "qty": "525000",
-      "price": "9250",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "DENEERS",
-      "name": "De Neers Tools Limited",
-      "clientName": "HARSHIT TOSHNIWAL",
-      "buySell": "SELL",
-      "qty": "45600",
-      "price": "202.64",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "DENTA",
-      "name": "Denta Water N Infra Sol L",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "204264",
-      "price": "345.07",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "DENTA",
-      "name": "Denta Water N Infra Sol L",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "175550",
-      "price": "346.81",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "DENTA",
-      "name": "Denta Water N Infra Sol L",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "365476",
-      "price": "344.92",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "DPWIRES",
-      "name": "D P Wires Limited",
-      "clientName": "AMITABH HARIVANSH RAI BACHCHAN",
-      "buySell": "SELL",
-      "qty": "123622",
-      "price": "200.84",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "EMSLIMITED",
-      "name": "EMS Limited",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "332328",
-      "price": "438.32",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "EMSLIMITED",
-      "name": "EMS Limited",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "589666",
-      "price": "435.11",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "EMSLIMITED",
-      "name": "EMS Limited",
-      "clientName": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "490699",
-      "price": "438.36",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "EMSLIMITED",
-      "name": "EMS Limited",
-      "clientName": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "387021",
-      "price": "439.11",
-      "date": "23-Jun-2026"
-    },
-    {
-      "symbol": "EMSLIMITED",
-      "name": "EMS Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "934291",
-      "price": "438.63",
       "date": "23-Jun-2026"
     }
   ]

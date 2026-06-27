@@ -1,530 +1,8 @@
 {
-  "updatedAt": "2026-06-27T17:14:19.750Z",
+  "updatedAt": "2026-06-27T18:38:07.612Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "MOTISONS",
-      "name": "Motisons Jewellers Ltd",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "SELL",
-      "qty": "15225969",
-      "price": "14.2",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "NARMADA",
-      "name": "Narmada Agrobase Limited",
-      "clientName": "CHANAKYA OPPORTUNITIES FUND I",
-      "buySell": "SELL",
-      "qty": "364807",
-      "price": "41.88",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "NARMADA",
-      "name": "Narmada Agrobase Limited",
-      "clientName": "VISTA AXIS VCC-QUANT FUND",
-      "buySell": "SELL",
-      "qty": "205000",
-      "price": "42.05",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "NARMADA",
-      "name": "Narmada Agrobase Limited",
-      "clientName": "SACHIN GOVINDLAL MODI",
-      "buySell": "SELL",
-      "qty": "198384",
-      "price": "42.32",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "NRVANDANA",
-      "name": "N R Vandana Tex Ind Ltd",
-      "clientName": "PENTATEAM INVENTURE CAPITAL SCHEME I",
-      "buySell": "SELL",
-      "qty": "132000",
-      "price": "68.66",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "ONWARDTEC",
-      "name": "Onward Technologies Ltd",
-      "clientName": "VINSUL MAKARDI LTD",
-      "buySell": "SELL",
-      "qty": "174657",
-      "price": "298.19",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "ONWARDTEC",
-      "name": "Onward Technologies Ltd",
-      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "272643",
-      "price": "300.2",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "ONWARDTEC",
-      "name": "Onward Technologies Ltd",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "596022",
-      "price": "296.91",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "ONWARDTEC",
-      "name": "Onward Technologies Ltd",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "423434",
-      "price": "300.49",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "ONWARDTEC",
-      "name": "Onward Technologies Ltd",
-      "clientName": "IRAGE BROKING SERVICES LLP",
-      "buySell": "SELL",
-      "qty": "144141",
-      "price": "299.06",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "ONWARDTEC",
-      "name": "Onward Technologies Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "233026",
-      "price": "301.65",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "ONWARDTEC",
-      "name": "Onward Technologies Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "252055",
-      "price": "296.84",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "ONWARDTEC",
-      "name": "Onward Technologies Ltd",
-      "clientName": "TWO ROADS TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "389944",
-      "price": "298.13",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "PIXTRANS",
-      "name": "Pix Transmissions Limited",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "194722",
-      "price": "1808.57",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "PIXTRANS",
-      "name": "Pix Transmissions Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "111839",
-      "price": "1820.21",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "PIXTRANS",
-      "name": "Pix Transmissions Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "72327",
-      "price": "1801.66",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOIND",
-      "name": "Ramco Industries Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "933778",
-      "price": "341.14",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOIND",
-      "name": "Ramco Industries Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "724282",
-      "price": "344.38",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOIND",
-      "name": "Ramco Industries Ltd",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "967393",
-      "price": "344.8",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOIND",
-      "name": "Ramco Industries Ltd",
-      "clientName": "IRAGE BROKING SERVICES LLP",
-      "buySell": "SELL",
-      "qty": "544115",
-      "price": "343.92",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOIND",
-      "name": "Ramco Industries Ltd",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "855346",
-      "price": "341.27",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "216493",
-      "price": "706.79",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "192297",
-      "price": "711.37",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "265783",
-      "price": "711.76",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "197736",
-      "price": "707.22",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "MUSIGMA SECURITIES",
-      "buySell": "SELL",
-      "qty": "328039",
-      "price": "706.46",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "432078",
-      "price": "705.5",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "502535",
-      "price": "710.26",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "MARWADI CHANDARANA INTERMEDIARIES BROKERS PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "256398",
-      "price": "706.71",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "GRT STRATEGIC VENTURES LLP",
-      "buySell": "SELL",
-      "qty": "216343",
-      "price": "708.62",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "IRAGE BROKING SERVICES LLP",
-      "buySell": "SELL",
-      "qty": "345010",
-      "price": "706.38",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "696640",
-      "price": "708.22",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "421779",
-      "price": "706.07",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "name": "Ramco Systems Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1075438",
-      "price": "710.56",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "459969",
-      "price": "187.11",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "357259",
-      "price": "186.4",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "MATHISYS QUANTCAP LLP",
-      "buySell": "SELL",
-      "qty": "346474",
-      "price": "187.28",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "SELL",
-      "qty": "1335019",
-      "price": "188.56",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RBA",
-      "name": "Restaurant Brand Asia Ltd",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "2937347",
-      "price": "80.22",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RBA",
-      "name": "Restaurant Brand Asia Ltd",
-      "clientName": "UNITY ASSOCIATES",
-      "buySell": "SELL",
-      "qty": "3000000",
-      "price": "80.17",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "RELAXO",
-      "name": "Relaxo Foot Ltd.",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1297812",
-      "price": "413.08",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "ROTO",
-      "name": "Roto Pumps Limited",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1496224",
-      "price": "76.28",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "ROTO",
-      "name": "Roto Pumps Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "1686126",
-      "price": "75.6",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "ROTO",
-      "name": "Roto Pumps Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "976160",
-      "price": "76.23",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "ROTO",
-      "name": "Roto Pumps Limited",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "2686404",
-      "price": "76.11",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "SAKSOFT",
-      "name": "Saksoft Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1373325",
-      "price": "160.12",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "SAKSOFT",
-      "name": "Saksoft Limited",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "707637",
-      "price": "159",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "SAKSOFT",
-      "name": "Saksoft Limited",
-      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "756403",
-      "price": "157.69",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "SAKSOFT",
-      "name": "Saksoft Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "764727",
-      "price": "156.83",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "SAKSOFT",
-      "name": "Saksoft Limited",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1425628",
-      "price": "159.82",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "SAKSOFT",
-      "name": "Saksoft Limited",
-      "clientName": "BLITZQUANT RESEARCH LLP",
-      "buySell": "SELL",
-      "qty": "1095911",
-      "price": "158.8",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "SHAH",
-      "name": "Shah Metacorp Limited",
-      "clientName": "DHANJIT REAL TRADE LLP",
-      "buySell": "SELL",
-      "qty": "6026263",
-      "price": "4.41",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "SHANTIGOLD",
-      "name": "Shanti Gold Internation L",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "373141",
-      "price": "227.31",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "SHANTIGOLD",
-      "name": "Shanti Gold Internation L",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "SELL",
-      "qty": "1958684",
-      "price": "227.91",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "SOMICONVEY",
-      "name": "Somi Conveyor Belt. Ltd.",
-      "clientName": "AMIT KUMAR JAIN",
-      "buySell": "SELL",
-      "qty": "103420",
-      "price": "116.46",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "SOMICONVEY",
-      "name": "Somi Conveyor Belt. Ltd.",
-      "clientName": "INDRA KIRAN VENTURES",
-      "buySell": "SELL",
-      "qty": "69164",
-      "price": "117",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "SOMICONVEY",
-      "name": "Somi Conveyor Belt. Ltd.",
-      "clientName": "PRIYA MILAN SADARIYA",
-      "buySell": "SELL",
-      "qty": "74341",
-      "price": "116.91",
-      "date": "25-Jun-2026"
-    },
-    {
-      "symbol": "URAVIDEF",
-      "name": "URAVI DEFENCE & TECH LTD",
-      "clientName": "VINEY CORPORATION LIMITED",
-      "buySell": "SELL",
-      "qty": "153051",
-      "price": "114",
-      "date": "25-Jun-2026"
-    },
     {
       "symbol": "ABINFRA",
       "name": "A B Infrabuild Limited",
@@ -721,6 +199,528 @@
       "buySell": "BUY",
       "qty": "147559",
       "price": "174.88",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "MHLXMIRU",
+      "name": "Mahalaxmi Rubtech Limited",
+      "clientName": "NEO APEX VENTURE LLP",
+      "buySell": "BUY",
+      "qty": "198",
+      "price": "122.8",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "MOTISONS",
+      "name": "Motisons Jewellers Ltd",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "BUY",
+      "qty": "17283318",
+      "price": "14.2",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "MOTISONS",
+      "name": "Motisons Jewellers Ltd",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "5844913",
+      "price": "14.29",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "NARMADA",
+      "name": "Narmada Agrobase Limited",
+      "clientName": "SACHIN GOVINDLAL MODI",
+      "buySell": "BUY",
+      "qty": "298342",
+      "price": "42.23",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "NRVANDANA",
+      "name": "N R Vandana Tex Ind Ltd",
+      "clientName": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "144000",
+      "price": "69.21",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ONWARDTEC",
+      "name": "Onward Technologies Ltd",
+      "clientName": "TWO ROADS TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "389944",
+      "price": "297.96",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ONWARDTEC",
+      "name": "Onward Technologies Ltd",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "596022",
+      "price": "296.69",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ONWARDTEC",
+      "name": "Onward Technologies Ltd",
+      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "272643",
+      "price": "300.05",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ONWARDTEC",
+      "name": "Onward Technologies Ltd",
+      "clientName": "VINSUL MAKARDI LTD",
+      "buySell": "BUY",
+      "qty": "174657",
+      "price": "297.95",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ONWARDTEC",
+      "name": "Onward Technologies Ltd",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "423434",
+      "price": "300.04",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ONWARDTEC",
+      "name": "Onward Technologies Ltd",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "252046",
+      "price": "296.48",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ONWARDTEC",
+      "name": "Onward Technologies Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "231561",
+      "price": "294.03",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ONWARDTEC",
+      "name": "Onward Technologies Ltd",
+      "clientName": "IRAGE BROKING SERVICES LLP",
+      "buySell": "BUY",
+      "qty": "139218",
+      "price": "299.87",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "PIXTRANS",
+      "name": "Pix Transmissions Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "72352",
+      "price": "1808.04",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "PIXTRANS",
+      "name": "Pix Transmissions Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "111839",
+      "price": "1818.01",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "PIXTRANS",
+      "name": "Pix Transmissions Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "194722",
+      "price": "1807.25",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOIND",
+      "name": "Ramco Industries Ltd",
+      "clientName": "IRAGE BROKING SERVICES LLP",
+      "buySell": "BUY",
+      "qty": "616566",
+      "price": "344.18",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOIND",
+      "name": "Ramco Industries Ltd",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "732747",
+      "price": "344.32",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOIND",
+      "name": "Ramco Industries Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "926686",
+      "price": "344.86",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOIND",
+      "name": "Ramco Industries Ltd",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "967393",
+      "price": "344.59",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOIND",
+      "name": "Ramco Industries Ltd",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "855346",
+      "price": "341.1",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "697235",
+      "price": "707.85",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1075438",
+      "price": "710.09",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "185597",
+      "price": "710.44",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "268586",
+      "price": "712.02",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "197736",
+      "price": "706.72",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "MUSIGMA SECURITIES",
+      "buySell": "BUY",
+      "qty": "328039",
+      "price": "707.25",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "502146",
+      "price": "709.88",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "GRT STRATEGIC VENTURES LLP",
+      "buySell": "BUY",
+      "qty": "216343",
+      "price": "708.27",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "IRAGE BROKING SERVICES LLP",
+      "buySell": "BUY",
+      "qty": "324275",
+      "price": "709.71",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "419998",
+      "price": "708.55",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "412981",
+      "price": "706.82",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "MARWADI CHANDARANA INTERMEDIARIES BROKERS PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "246398",
+      "price": "705.5",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RAMCOSYS",
+      "name": "Ramco Systems Limited",
+      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "216493",
+      "price": "705.26",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "439752",
+      "price": "185.26",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "300337",
+      "price": "187.8",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "MATHISYS QUANTCAP LLP",
+      "buySell": "BUY",
+      "qty": "344164",
+      "price": "188.22",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "BUY",
+      "qty": "1335019",
+      "price": "188.69",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RBA",
+      "name": "Restaurant Brand Asia Ltd",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1042812",
+      "price": "80.03",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RBA",
+      "name": "Restaurant Brand Asia Ltd",
+      "clientName": "MONET SECURITIES PRIVATE LTD",
+      "buySell": "BUY",
+      "qty": "4000000",
+      "price": "80.15",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "RELAXO",
+      "name": "Relaxo Foot Ltd.",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1297812",
+      "price": "412.95",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ROTO",
+      "name": "Roto Pumps Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "2704525",
+      "price": "76.08",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ROTO",
+      "name": "Roto Pumps Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "1695042",
+      "price": "76.2",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ROTO",
+      "name": "Roto Pumps Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "976160",
+      "price": "76.18",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ROTO",
+      "name": "Roto Pumps Limited",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1768848",
+      "price": "75.99",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "SAKSOFT",
+      "name": "Saksoft Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1425628",
+      "price": "159.71",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "SAKSOFT",
+      "name": "Saksoft Limited",
+      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "756403",
+      "price": "157.66",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "SAKSOFT",
+      "name": "Saksoft Limited",
+      "clientName": "BLITZQUANT RESEARCH LLP",
+      "buySell": "BUY",
+      "qty": "1095911",
+      "price": "158.71",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "SAKSOFT",
+      "name": "Saksoft Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1373325",
+      "price": "159.95",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "SAKSOFT",
+      "name": "Saksoft Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "708890",
+      "price": "158.86",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "SAKSOFT",
+      "name": "Saksoft Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "756180",
+      "price": "158.73",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "SHAH",
+      "name": "Shah Metacorp Limited",
+      "clientName": "DHANJIT REAL TRADE LLP",
+      "buySell": "BUY",
+      "qty": "7489226",
+      "price": "4.38",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "SHANTIGOLD",
+      "name": "Shanti Gold Internation L",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "BUY",
+      "qty": "2025241",
+      "price": "227.39",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "SHANTIGOLD",
+      "name": "Shanti Gold Internation L",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "360798",
+      "price": "226.84",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "SOMICONVEY",
+      "name": "Somi Conveyor Belt. Ltd.",
+      "clientName": "PRIYA MILAN SADARIYA",
+      "buySell": "BUY",
+      "qty": "21080",
+      "price": "114.48",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "SOMICONVEY",
+      "name": "Somi Conveyor Belt. Ltd.",
+      "clientName": "AMIT KUMAR JAIN",
+      "buySell": "BUY",
+      "qty": "103420",
+      "price": "116.79",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "SOMICONVEY",
+      "name": "Somi Conveyor Belt. Ltd.",
+      "clientName": "INDRA KIRAN VENTURES",
+      "buySell": "BUY",
+      "qty": "69164",
+      "price": "117.22",
+      "date": "25-Jun-2026"
+    },
+    {
+      "symbol": "ABINFRA",
+      "name": "A B Infrabuild Limited",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "SELL",
+      "qty": "3995422",
+      "price": "12.22",
       "date": "25-Jun-2026"
     }
   ]

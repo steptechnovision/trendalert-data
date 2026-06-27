@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T15:42:11.571Z",
+  "updatedAt": "2026-06-27T17:14:19.230Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -193,6 +193,33 @@
       "volume": "204"
     },
     {
+      "name": "Twamev Constr.",
+      "week52": "34.41",
+      "ltp": "17.15",
+      "gainPct": "-6.4 %",
+      "dayLow": "16.77",
+      "dayHigh": "35.27",
+      "volume": "2,287,138"
+    },
+    {
+      "name": "Ramky Infra",
+      "week52": "705",
+      "ltp": "404.45",
+      "gainPct": "-2.2 %",
+      "dayLow": "401.10",
+      "dayHigh": "706.50",
+      "volume": "54,811"
+    },
+    {
+      "name": "Brand Concepts",
+      "week52": "449",
+      "ltp": "167.14",
+      "gainPct": "-0.6 %",
+      "dayLow": "164.00",
+      "dayHigh": "442.90",
+      "volume": "22,538"
+    },
+    {
       "name": "Womancart",
       "week52": "358",
       "ltp": "103.00",
@@ -236,33 +263,6 @@
       "dayLow": "46.25",
       "dayHigh": "0.00",
       "volume": "4,000"
-    },
-    {
-      "name": "Twamev Constr.",
-      "week52": "34.41",
-      "ltp": "17.15",
-      "gainPct": "-6.4 %",
-      "dayLow": "16.77",
-      "dayHigh": "35.27",
-      "volume": "2,287,138"
-    },
-    {
-      "name": "Ramky Infra",
-      "week52": "705",
-      "ltp": "404.45",
-      "gainPct": "-2.2 %",
-      "dayLow": "401.10",
-      "dayHigh": "706.50",
-      "volume": "54,811"
-    },
-    {
-      "name": "Brand Concepts",
-      "week52": "449",
-      "ltp": "167.14",
-      "gainPct": "-0.6 %",
-      "dayLow": "164.00",
-      "dayHigh": "442.90",
-      "volume": "22,538"
     },
     {
       "name": "Nidan Laborator.",
@@ -382,15 +382,6 @@
       "volume": "52,932"
     },
     {
-      "name": "Vaidya Sane",
-      "week52": "335",
-      "ltp": "175.00",
-      "gainPct": "2.9 %",
-      "dayLow": "170.00",
-      "dayHigh": "0.00",
-      "volume": "800"
-    },
-    {
       "name": "Pioneer Invest",
       "week52": "135.44",
       "ltp": "91.55",
@@ -398,6 +389,15 @@
       "dayLow": "88.00",
       "dayHigh": "135.95",
       "volume": "2,137"
+    },
+    {
+      "name": "Vaidya Sane",
+      "week52": "335",
+      "ltp": "175.00",
+      "gainPct": "2.9 %",
+      "dayLow": "170.00",
+      "dayHigh": "0.00",
+      "volume": "800"
     },
     {
       "name": "Pratham EPC",

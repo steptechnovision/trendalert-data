@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-06-28T09:46:15.678Z",
+  "updatedAt": "2026-06-28T11:48:21.601Z",
   "source": "investorgain",
-  "count": 18,
+  "count": 17,
   "items": [
     {
       "name": "Crazy Snacks",
@@ -18,6 +18,20 @@
       "url": "https://www.investorgain.com/subscription/crazy-snacks-ipo/1664/"
     },
     {
+      "name": "Sri Priyanka Geo Commex",
+      "total": "0.28",
+      "qib": "13.14",
+      "shni": "0.55",
+      "bhni": "0.24",
+      "nii": "0.2",
+      "rii": "0.14",
+      "ipoSize": "₹94.51 Cr",
+      "price": "212",
+      "closeDate": "29-06-2026",
+      "type": "SME",
+      "url": "https://www.investorgain.com/subscription/sri-priyanka-geo-commex-ipo/1860/"
+    },
+    {
       "name": "CSM Technologies",
       "total": "0.66",
       "qib": "0.38",
@@ -32,18 +46,32 @@
       "url": "https://www.investorgain.com/subscription/csm-technologies-ipo/1911/"
     },
     {
-      "name": "Sri Priyanka Geo Commex",
-      "total": "0.28",
-      "qib": "13.14",
-      "shni": "0.55",
-      "bhni": "0.24",
-      "nii": "0.2",
-      "rii": "0.14",
-      "ipoSize": "₹94.51 Cr",
-      "price": "212",
-      "closeDate": "29-06-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/sri-priyanka-geo-commex-ipo/1860/"
+      "name": "Waterways Leisure Tourism",
+      "total": "1.53",
+      "qib": "0.72",
+      "shni": "1.83",
+      "bhni": "0.94",
+      "nii": "1.23",
+      "rii": "4.4",
+      "ipoSize": "₹585.00 Cr",
+      "price": "808",
+      "closeDate": "25-06-2026",
+      "type": "Mainboard",
+      "url": "https://www.investorgain.com/subscription/cordelia-cruises-ipo/1801/"
+    },
+    {
+      "name": "Advit Jewels",
+      "total": "212.63",
+      "qib": "174.98",
+      "shni": "502.25",
+      "bhni": "554.12",
+      "nii": "536.38",
+      "rii": "95.3",
+      "ipoSize": "₹165.16 Cr",
+      "price": "138",
+      "closeDate": "25-06-2026",
+      "type": "Mainboard",
+      "url": "https://www.investorgain.com/subscription/advit-jewels-ipo/1949/"
     },
     {
       "name": "Jivial Industries",
@@ -88,34 +116,6 @@
       "url": "https://www.investorgain.com/subscription/shreedhar-spinners-ipo/1597/"
     },
     {
-      "name": "Advit Jewels",
-      "total": "212.63",
-      "qib": "174.98",
-      "shni": "502.25",
-      "bhni": "554.12",
-      "nii": "536.38",
-      "rii": "95.3",
-      "ipoSize": "₹165.16 Cr",
-      "price": "138",
-      "closeDate": "25-06-2026",
-      "type": "Mainboard",
-      "url": "https://www.investorgain.com/subscription/advit-jewels-ipo/1949/"
-    },
-    {
-      "name": "Waterways Leisure Tourism",
-      "total": "1.53",
-      "qib": "0.72",
-      "shni": "1.83",
-      "bhni": "0.94",
-      "nii": "1.23",
-      "rii": "4.4",
-      "ipoSize": "₹585.00 Cr",
-      "price": "808",
-      "closeDate": "25-06-2026",
-      "type": "Mainboard",
-      "url": "https://www.investorgain.com/subscription/cordelia-cruises-ipo/1801/"
-    },
-    {
       "name": "Anubhav Plast",
       "total": "2.18",
       "qib": "1.23",
@@ -158,34 +158,6 @@
       "url": "https://www.investorgain.com/subscription/avience-biomedicals-ipo/1679/"
     },
     {
-      "name": "Leapfrog Engineering",
-      "total": "2.7",
-      "qib": "20.32",
-      "shni": "11.96",
-      "bhni": "1.67",
-      "nii": "5.1",
-      "rii": "0.84",
-      "ipoSize": "₹88.51 Cr",
-      "price": "23",
-      "closeDate": "19-06-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/leapfrog-engineering-ipo/1655/"
-    },
-    {
-      "name": "Liotech Industries",
-      "total": "1.91",
-      "qib": "",
-      "shni": "",
-      "bhni": "",
-      "nii": "0.85",
-      "rii": "2.97",
-      "ipoSize": "₹36.03 Cr",
-      "price": "321",
-      "closeDate": "19-06-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/liotech-industries-ipo/1746/"
-    },
-    {
       "name": "Diksha Polymers",
       "total": "2.88",
       "qib": "",
@@ -214,6 +186,34 @@
       "url": "https://www.investorgain.com/subscription/clay-craft-ipo/1870/"
     },
     {
+      "name": "Leapfrog Engineering",
+      "total": "2.7",
+      "qib": "20.32",
+      "shni": "11.96",
+      "bhni": "1.67",
+      "nii": "5.1",
+      "rii": "0.84",
+      "ipoSize": "₹88.51 Cr",
+      "price": "23",
+      "closeDate": "19-06-2026",
+      "type": "SME",
+      "url": "https://www.investorgain.com/subscription/leapfrog-engineering-ipo/1655/"
+    },
+    {
+      "name": "Liotech Industries",
+      "total": "1.91",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "0.85",
+      "rii": "2.97",
+      "ipoSize": "₹36.03 Cr",
+      "price": "321",
+      "closeDate": "19-06-2026",
+      "type": "SME",
+      "url": "https://www.investorgain.com/subscription/liotech-industries-ipo/1746/"
+    },
+    {
       "name": "Horizon Reclaim (India)",
       "total": "304.11",
       "qib": "186.72",
@@ -240,20 +240,6 @@
       "closeDate": "15-06-2026",
       "type": "SME",
       "url": "https://www.investorgain.com/subscription/susan-electricals-india-ipo/2134/"
-    },
-    {
-      "name": "Utkal Speciality",
-      "total": "1.6",
-      "qib": "1.12",
-      "shni": "0.9",
-      "bhni": "0.89",
-      "nii": "0.89",
-      "rii": "2.1",
-      "ipoSize": "₹34.54 Cr",
-      "price": "66",
-      "closeDate": "12-06-2026",
-      "type": "SME",
-      "url": "https://www.investorgain.com/subscription/utkal-speciality-ipo/1909/"
     }
   ]
 }

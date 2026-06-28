@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T15:19:44.568Z",
+  "updatedAt": "2026-06-28T16:40:41.708Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -373,42 +373,6 @@
       "volume": "1,286,419"
     },
     {
-      "name": "Indo Tech.Trans.",
-      "week52": "3050.5",
-      "ltp": "2935.20",
-      "gainPct": "1.0 %",
-      "dayLow": "2900.00",
-      "dayHigh": "3051.70",
-      "volume": "47,038"
-    },
-    {
-      "name": "Nuvama Wealth",
-      "week52": "1779.9",
-      "ltp": "1748.60",
-      "gainPct": "0.7 %",
-      "dayLow": "1725.00",
-      "dayHigh": "1780.00",
-      "volume": "503,706"
-    },
-    {
-      "name": "Va Tech Wabag",
-      "week52": "2188",
-      "ltp": "2110.80",
-      "gainPct": "0.6 %",
-      "dayLow": "2088.00",
-      "dayHigh": "2188.95",
-      "volume": "973,817"
-    },
-    {
-      "name": "AVATAR Industries",
-      "week52": "165.65",
-      "ltp": "164.85",
-      "gainPct": "4.5 %",
-      "dayLow": "150.00",
-      "dayHigh": "0.00",
-      "volume": "16,000"
-    },
-    {
       "name": "ACME Solar Hold.",
       "week52": "366.3",
       "ltp": "357.20",
@@ -452,6 +416,42 @@
       "dayLow": "201.84",
       "dayHigh": "236.00",
       "volume": "6,779,809"
+    },
+    {
+      "name": "Indo Tech.Trans.",
+      "week52": "3050.5",
+      "ltp": "2935.20",
+      "gainPct": "1.0 %",
+      "dayLow": "2900.00",
+      "dayHigh": "3051.70",
+      "volume": "47,038"
+    },
+    {
+      "name": "Nuvama Wealth",
+      "week52": "1779.9",
+      "ltp": "1748.60",
+      "gainPct": "0.7 %",
+      "dayLow": "1725.00",
+      "dayHigh": "1780.00",
+      "volume": "503,706"
+    },
+    {
+      "name": "Va Tech Wabag",
+      "week52": "2188",
+      "ltp": "2110.80",
+      "gainPct": "0.6 %",
+      "dayLow": "2088.00",
+      "dayHigh": "2188.95",
+      "volume": "973,817"
+    },
+    {
+      "name": "AVATAR Industries",
+      "week52": "165.65",
+      "ltp": "164.85",
+      "gainPct": "4.5 %",
+      "dayLow": "150.00",
+      "dayHigh": "0.00",
+      "volume": "16,000"
     }
   ]
 }

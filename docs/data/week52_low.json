@@ -1,70 +1,205 @@
 {
-  "updatedAt": "2026-06-30T10:04:09.039Z",
+  "updatedAt": "2026-06-30T12:26:17.442Z",
   "source": "5paisa",
   "count": 50,
   "items": [
     {
-      "name": "eClerx Services",
-      "week52": "2497.5",
-      "ltp": "1323.70",
-      "gainPct": "-1.6 %",
-      "dayLow": "1320.00",
-      "dayHigh": "2492.98",
-      "volume": "282,967"
+      "name": "Patanjali Foods",
+      "week52": "653.93",
+      "ltp": "411.05",
+      "gainPct": "-0.4 %",
+      "dayLow": "406.35",
+      "dayHigh": "653.99",
+      "volume": "2,820,164"
+    },
+    {
+      "name": "Persistent Systems",
+      "week52": "6599",
+      "ltp": "4326.50",
+      "gainPct": "0.7 %",
+      "dayLow": "4244.50",
+      "dayHigh": "6597.00",
+      "volume": "1,513,736"
+    },
+    {
+      "name": "Wipro",
+      "week52": "273.1",
+      "ltp": "170.39",
+      "gainPct": "-2.9 %",
+      "dayLow": "170.05",
+      "dayHigh": "273.15",
+      "volume": "26,845,383"
+    },
+    {
+      "name": "Tata Elxsi",
+      "week52": "6439.5",
+      "ltp": "3829.70",
+      "gainPct": "-3.8 %",
+      "dayLow": "3813.80",
+      "dayHigh": "6423.10",
+      "volume": "473,952"
     },
     {
       "name": "Jyothy Labs",
       "week52": "364.8",
-      "ltp": "192.00",
-      "gainPct": "-1.8 %",
+      "ltp": "191.67",
+      "gainPct": "-2.0 %",
       "dayLow": "190.75",
       "dayHigh": "364.75",
-      "volume": "1,150,261"
-    },
-    {
-      "name": "Zensar Tech.",
-      "week52": "881",
-      "ltp": "427.80",
-      "gainPct": "-1.3 %",
-      "dayLow": "424.00",
-      "dayHigh": "880.80",
-      "volume": "406,591"
+      "volume": "1,151,900"
     },
     {
       "name": "Birlasoft Ltd",
       "week52": "474",
-      "ltp": "286.60",
-      "gainPct": "-4.2 %",
+      "ltp": "286.30",
+      "gainPct": "-4.3 %",
       "dayLow": "285.00",
       "dayHigh": "473.75",
-      "volume": "2,679,664"
+      "volume": "2,680,611"
+    },
+    {
+      "name": "eClerx Services",
+      "week52": "2497.5",
+      "ltp": "1324.90",
+      "gainPct": "-1.5 %",
+      "dayLow": "1320.00",
+      "dayHigh": "2492.98",
+      "volume": "283,014"
     },
     {
       "name": "LTM",
       "week52": "6429.5",
-      "ltp": "3543.00",
-      "gainPct": "-3.9 %",
+      "ltp": "3538.00",
+      "gainPct": "-4.0 %",
       "dayLow": "3528.00",
       "dayHigh": "6430.00",
-      "volume": "850,102"
-    },
-    {
-      "name": "Patanjali Foods",
-      "week52": "653.93",
-      "ltp": "409.00",
-      "gainPct": "-0.9 %",
-      "dayLow": "406.35",
-      "dayHigh": "653.99",
-      "volume": "2,819,237"
+      "volume": "850,247"
     },
     {
       "name": "Supreme Inds.",
       "week52": "4664.9",
-      "ltp": "3156.00",
-      "gainPct": "-1.2 %",
+      "ltp": "3157.80",
+      "gainPct": "-1.1 %",
       "dayLow": "3147.20",
       "dayHigh": "4662.40",
-      "volume": "358,173"
+      "volume": "358,225"
+    },
+    {
+      "name": "HCL Technologies",
+      "week52": "1780.1",
+      "ltp": "1071.80",
+      "gainPct": "-2.8 %",
+      "dayLow": "1068.60",
+      "dayHigh": "1770.00",
+      "volume": "3,794,233"
+    },
+    {
+      "name": "Infosys",
+      "week52": "1728",
+      "ltp": "1000.40",
+      "gainPct": "-3.5 %",
+      "dayLow": "996.00",
+      "dayHigh": "1727.85",
+      "volume": "24,128,263"
+    },
+    {
+      "name": "TCS",
+      "week52": "3489.9",
+      "ltp": "2031.50",
+      "gainPct": "-3.2 %",
+      "dayLow": "2018.80",
+      "dayHigh": "3489.85",
+      "volume": "6,848,411"
+    },
+    {
+      "name": "O N G C",
+      "week52": "307.5",
+      "ltp": "234.90",
+      "gainPct": "0.4 %",
+      "dayLow": "227.65",
+      "dayHigh": "307.50",
+      "volume": "24,134,402"
+    },
+    {
+      "name": "Mirae Asset Nift",
+      "week52": "42.02",
+      "ltp": "28.05",
+      "gainPct": "-2.0 %",
+      "dayLow": "27.75",
+      "dayHigh": "41.73",
+      "volume": "1,132,784"
+    },
+    {
+      "name": "Swiggy",
+      "week52": "474",
+      "ltp": "239.35",
+      "gainPct": "0.3 %",
+      "dayLow": "235.75",
+      "dayHigh": "473.00",
+      "volume": "12,859,033"
+    },
+    {
+      "name": "Clay Craft India",
+      "week52": "224",
+      "ltp": "190.50",
+      "gainPct": "-4.8 %",
+      "dayLow": "190.00",
+      "dayHigh": "0.00",
+      "volume": "475,800"
+    },
+    {
+      "name": "Zensar Tech.",
+      "week52": "881",
+      "ltp": "425.30",
+      "gainPct": "-1.9 %",
+      "dayLow": "424.00",
+      "dayHigh": "880.80",
+      "volume": "406,611"
+    },
+    {
+      "name": "Nippon Nifty IT",
+      "week52": "44.27",
+      "ltp": "29.20",
+      "gainPct": "-2.7 %",
+      "dayLow": "29.12",
+      "dayHigh": "44.25",
+      "volume": "37,932,839"
+    },
+    {
+      "name": "P I Industries",
+      "week52": "4330",
+      "ltp": "2555.10",
+      "gainPct": "-0.2 %",
+      "dayLow": "2541.00",
+      "dayHigh": "4329.00",
+      "volume": "489,196"
+    },
+    {
+      "name": "Asian Granito",
+      "week52": "79.06",
+      "ltp": "54.10",
+      "gainPct": "-2.7 %",
+      "dayLow": "52.07",
+      "dayHigh": "79.08",
+      "volume": "2,555,372"
+    },
+    {
+      "name": "Indiamart Inter.",
+      "week52": "2799",
+      "ltp": "1906.40",
+      "gainPct": "-1.1 %",
+      "dayLow": "1893.30",
+      "dayHigh": "2772.00",
+      "volume": "108,737"
+    },
+    {
+      "name": "Indo US Bio-Tech",
+      "week52": "206",
+      "ltp": "87.59",
+      "gainPct": "-2.5 %",
+      "dayLow": "86.16",
+      "dayHigh": "205.10",
+      "volume": "39,729"
     },
     {
       "name": "Ramky Infra",
@@ -74,33 +209,6 @@
       "dayLow": "397.15",
       "dayHigh": "706.50",
       "volume": "36,350"
-    },
-    {
-      "name": "Tata Elxsi",
-      "week52": "6439.5",
-      "ltp": "3825.70",
-      "gainPct": "-3.9 %",
-      "dayLow": "3813.80",
-      "dayHigh": "6423.10",
-      "volume": "473,382"
-    },
-    {
-      "name": "Persistent Systems",
-      "week52": "6599",
-      "ltp": "4326.00",
-      "gainPct": "0.6 %",
-      "dayLow": "4244.50",
-      "dayHigh": "6597.00",
-      "volume": "1,513,010"
-    },
-    {
-      "name": "Clay Craft India",
-      "week52": "224",
-      "ltp": "191.65",
-      "gainPct": "-4.2 %",
-      "dayLow": "190.00",
-      "dayHigh": "0.00",
-      "volume": "475,200"
     },
     {
       "name": "SBI ETF IT",
@@ -130,15 +238,6 @@
       "volume": "160,390"
     },
     {
-      "name": "Wipro",
-      "week52": "273.1",
-      "ltp": "170.35",
-      "gainPct": "-2.9 %",
-      "dayLow": "170.05",
-      "dayHigh": "273.15",
-      "volume": "26,801,716"
-    },
-    {
       "name": "Kotak IT ETF",
       "week52": "44.49",
       "ltp": "29.40",
@@ -157,60 +256,6 @@
       "volume": "2,794,824"
     },
     {
-      "name": "Nippon Nifty IT",
-      "week52": "44.27",
-      "ltp": "29.30",
-      "gainPct": "-2.4 %",
-      "dayLow": "29.12",
-      "dayHigh": "44.25",
-      "volume": "37,916,564"
-    },
-    {
-      "name": "O N G C",
-      "week52": "307.5",
-      "ltp": "235.25",
-      "gainPct": "0.5 %",
-      "dayLow": "227.65",
-      "dayHigh": "307.50",
-      "volume": "24,131,281"
-    },
-    {
-      "name": "TCS",
-      "week52": "3489.9",
-      "ltp": "2033.00",
-      "gainPct": "-3.1 %",
-      "dayLow": "2018.80",
-      "dayHigh": "3489.85",
-      "volume": "6,843,774"
-    },
-    {
-      "name": "Infosys",
-      "week52": "1728",
-      "ltp": "1006.00",
-      "gainPct": "-3.0 %",
-      "dayLow": "996.00",
-      "dayHigh": "1727.85",
-      "volume": "24,123,443"
-    },
-    {
-      "name": "Swiggy",
-      "week52": "474",
-      "ltp": "240.00",
-      "gainPct": "0.5 %",
-      "dayLow": "235.75",
-      "dayHigh": "473.00",
-      "volume": "12,855,449"
-    },
-    {
-      "name": "HCL Technologies",
-      "week52": "1780.1",
-      "ltp": "1072.00",
-      "gainPct": "-2.8 %",
-      "dayLow": "1068.60",
-      "dayHigh": "1770.00",
-      "volume": "3,788,695"
-    },
-    {
       "name": "Innovision",
       "week52": "470",
       "ltp": "282.65",
@@ -220,15 +265,6 @@
       "volume": "13,360"
     },
     {
-      "name": "Indiamart Inter.",
-      "week52": "2799",
-      "ltp": "1918.80",
-      "gainPct": "-0.4 %",
-      "dayLow": "1893.30",
-      "dayHigh": "2772.00",
-      "volume": "108,701"
-    },
-    {
       "name": "Le Merite Export",
       "week52": "107.57",
       "ltp": "23.80",
@@ -236,33 +272,6 @@
       "dayLow": "22.25",
       "dayHigh": "0.00",
       "volume": "585,734"
-    },
-    {
-      "name": "P I Industries",
-      "week52": "4330",
-      "ltp": "2560.40",
-      "gainPct": "0.0 %",
-      "dayLow": "2541.00",
-      "dayHigh": "4329.00",
-      "volume": "489,163"
-    },
-    {
-      "name": "Asian Granito",
-      "week52": "79.06",
-      "ltp": "54.30",
-      "gainPct": "-2.4 %",
-      "dayLow": "52.07",
-      "dayHigh": "79.08",
-      "volume": "2,554,955"
-    },
-    {
-      "name": "Mirae Asset Nift",
-      "week52": "42.02",
-      "ltp": "27.85",
-      "gainPct": "-2.7 %",
-      "dayLow": "27.75",
-      "dayHigh": "41.73",
-      "volume": "1,132,003"
     },
     {
       "name": "HDFC Nifty IT",
@@ -290,15 +299,6 @@
       "dayLow": "23.30",
       "dayHigh": "0.00",
       "volume": "5,000"
-    },
-    {
-      "name": "Indo US Bio-Tech",
-      "week52": "206",
-      "ltp": "86.31",
-      "gainPct": "-3.9 %",
-      "dayLow": "86.16",
-      "dayHigh": "205.10",
-      "volume": "39,727"
     },
     {
       "name": "DSP Nifty IT ETF",

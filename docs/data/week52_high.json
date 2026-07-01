@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-07-01T10:32:26.886Z",
+  "updatedAt": "2026-07-01T13:22:07.213Z",
   "source": "5paisa",
   "count": 50,
   "items": [
+    {
+      "name": "Sanginita Chemi.",
+      "week52": "44.08",
+      "ltp": "44.08",
+      "gainPct": "2.0 %",
+      "dayLow": "44.07",
+      "dayHigh": "0.00",
+      "volume": "280,202"
+    },
     {
       "name": "BLS E-Services",
       "week52": "259.7",
@@ -443,15 +452,6 @@
       "dayLow": "3074.20",
       "dayHigh": "3230.75",
       "volume": "139,360"
-    },
-    {
-      "name": "Muthoot Microfin",
-      "week52": "222.9",
-      "ltp": "220.07",
-      "gainPct": "2.7 %",
-      "dayLow": "209.95",
-      "dayHigh": "218.75",
-      "volume": "773,093"
     }
   ]
 }

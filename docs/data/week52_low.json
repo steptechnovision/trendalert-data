@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T16:17:47.140Z",
+  "updatedAt": "2026-07-02T18:07:33.698Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -337,15 +337,6 @@
       "volume": "1,200"
     },
     {
-      "name": "Axis Nifty IT",
-      "week52": "439.67",
-      "ltp": "298.40",
-      "gainPct": "5.4 %",
-      "dayLow": "286.28",
-      "dayHigh": "433.50",
-      "volume": "6,734"
-    },
-    {
       "name": "TCC Concept",
       "week52": "526.4",
       "ltp": "312.60",
@@ -400,24 +391,6 @@
       "volume": "6,040,621"
     },
     {
-      "name": "Nippon Nifty IT",
-      "week52": "44.27",
-      "ltp": "29.94",
-      "gainPct": "4.6 %",
-      "dayLow": "28.91",
-      "dayHigh": "44.25",
-      "volume": "40,290,563"
-    },
-    {
-      "name": "ICICI Pru IT ETF",
-      "week52": "44.3",
-      "ltp": "29.95",
-      "gainPct": "4.6 %",
-      "dayLow": "28.90",
-      "dayHigh": "43.86",
-      "volume": "1,990,301"
-    },
-    {
       "name": "Bohra Industries",
       "week52": "35.58",
       "ltp": "13.84",
@@ -436,6 +409,24 @@
       "volume": "44,371"
     },
     {
+      "name": "Nippon Nifty IT",
+      "week52": "44.27",
+      "ltp": "29.94",
+      "gainPct": "4.6 %",
+      "dayLow": "28.91",
+      "dayHigh": "44.25",
+      "volume": "40,290,563"
+    },
+    {
+      "name": "ICICI Pru IT ETF",
+      "week52": "44.3",
+      "ltp": "29.95",
+      "gainPct": "4.6 %",
+      "dayLow": "28.90",
+      "dayHigh": "43.86",
+      "volume": "1,990,301"
+    },
+    {
       "name": "V R Infraspace",
       "week52": "225",
       "ltp": "110.00",
@@ -452,6 +443,15 @@
       "dayLow": "1048.00",
       "dayHigh": "1770.00",
       "volume": "3,726,609"
+    },
+    {
+      "name": "Jyothy Labs",
+      "week52": "364.8",
+      "ltp": "193.91",
+      "gainPct": "2.3 %",
+      "dayLow": "190.39",
+      "dayHigh": "364.75",
+      "volume": "764,614"
     }
   ]
 }

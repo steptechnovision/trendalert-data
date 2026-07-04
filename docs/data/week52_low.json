@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T19:26:52.104Z",
+  "updatedAt": "2026-07-04T05:49:30.222Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -121,15 +121,6 @@
       "volume": "5,100"
     },
     {
-      "name": "MEP Infrast.",
-      "week52": "2.87",
-      "ltp": "0.69",
-      "gainPct": "-1.4 %",
-      "dayLow": "0.69",
-      "dayHigh": "2.90",
-      "volume": "569,962"
-    },
-    {
       "name": "Technvision Ven.",
       "week52": "6198",
       "ltp": "3980.00",
@@ -155,6 +146,15 @@
       "dayLow": "39.01",
       "dayHigh": "139.90",
       "volume": "73,295"
+    },
+    {
+      "name": "MEP Infrast.",
+      "week52": "2.87",
+      "ltp": "0.69",
+      "gainPct": "-1.4 %",
+      "dayLow": "0.69",
+      "dayHigh": "2.90",
+      "volume": "569,962"
     },
     {
       "name": "Virtuoso Optoel.",
@@ -220,6 +220,15 @@
       "volume": "99,490"
     },
     {
+      "name": "Picturepost Stu.",
+      "week52": "22.1",
+      "ltp": "3.15",
+      "gainPct": "-4.5 %",
+      "dayLow": "3.15",
+      "dayHigh": "0.00",
+      "volume": "45,000"
+    },
+    {
       "name": "Utkal Speciality",
       "week52": "66",
       "ltp": "32.25",
@@ -229,22 +238,13 @@
       "volume": "22,000"
     },
     {
-      "name": "Allcargo Global",
-      "week52": "22",
-      "ltp": "20.90",
-      "gainPct": "-10.2 %",
-      "dayLow": "20.90",
-      "dayHigh": "22.00",
-      "volume": "269,259"
-    },
-    {
-      "name": "Picturepost Stu.",
-      "week52": "22.1",
-      "ltp": "3.15",
-      "gainPct": "-4.5 %",
-      "dayLow": "3.15",
-      "dayHigh": "0.00",
-      "volume": "45,000"
+      "name": "ABSL Sensex ETF",
+      "week52": "87.82",
+      "ltp": "78.10",
+      "gainPct": "0.8 %",
+      "dayLow": "70.32",
+      "dayHigh": "89.40",
+      "volume": "5,357"
     },
     {
       "name": "Le Merite Export",
@@ -265,15 +265,6 @@
       "volume": "3,150"
     },
     {
-      "name": "ABSL Sensex ETF",
-      "week52": "87.82",
-      "ltp": "78.10",
-      "gainPct": "0.8 %",
-      "dayLow": "70.32",
-      "dayHigh": "89.40",
-      "volume": "5,357"
-    },
-    {
       "name": "Aaradhya Dis.",
       "week52": "182",
       "ltp": "77.80",
@@ -281,15 +272,6 @@
       "dayLow": "77.80",
       "dayHigh": "0.00",
       "volume": "3,600"
-    },
-    {
-      "name": "Cello World",
-      "week52": "673.8",
-      "ltp": "366.85",
-      "gainPct": "-0.6 %",
-      "dayLow": "366.10",
-      "dayHigh": "673.00",
-      "volume": "159,602"
     },
     {
       "name": "Gujarat Energy",
@@ -337,15 +319,6 @@
       "volume": "4,500"
     },
     {
-      "name": "Flexituff Vent.",
-      "week52": "36.74",
-      "ltp": "5.69",
-      "gainPct": "4.6 %",
-      "dayLow": "5.45",
-      "dayHigh": "38.21",
-      "volume": "34,395"
-    },
-    {
       "name": "Grill Splendour",
       "week52": "154",
       "ltp": "91.25",
@@ -353,6 +326,24 @@
       "dayLow": "91.25",
       "dayHigh": "0.00",
       "volume": "1,200"
+    },
+    {
+      "name": "Cello World",
+      "week52": "673.8",
+      "ltp": "366.85",
+      "gainPct": "-0.6 %",
+      "dayLow": "366.10",
+      "dayHigh": "673.00",
+      "volume": "159,602"
+    },
+    {
+      "name": "Flexituff Vent.",
+      "week52": "36.74",
+      "ltp": "5.69",
+      "gainPct": "4.6 %",
+      "dayLow": "5.45",
+      "dayHigh": "38.21",
+      "volume": "34,395"
     },
     {
       "name": "Aditya Bir SL IT",
@@ -452,6 +443,15 @@
       "dayLow": "276.75",
       "dayHigh": "348.00",
       "volume": "132"
+    },
+    {
+      "name": "Tata Elxsi",
+      "week52": "6439.5",
+      "ltp": "3678.90",
+      "gainPct": "0.2 %",
+      "dayLow": "3662.30",
+      "dayHigh": "6423.10",
+      "volume": "310,095"
     }
   ]
 }

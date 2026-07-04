@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T16:39:27.271Z",
+  "updatedAt": "2026-07-04T17:45:24.998Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -238,15 +238,6 @@
       "volume": "22,000"
     },
     {
-      "name": "ABSL Sensex ETF",
-      "week52": "87.82",
-      "ltp": "78.10",
-      "gainPct": "0.8 %",
-      "dayLow": "70.32",
-      "dayHigh": "89.40",
-      "volume": "5,357"
-    },
-    {
       "name": "Le Merite Export",
       "week52": "107.57",
       "ltp": "22.03",
@@ -263,6 +254,15 @@
       "dayLow": "585.20",
       "dayHigh": "0.00",
       "volume": "3,150"
+    },
+    {
+      "name": "ABSL Sensex ETF",
+      "week52": "87.82",
+      "ltp": "78.10",
+      "gainPct": "0.8 %",
+      "dayLow": "70.32",
+      "dayHigh": "89.40",
+      "volume": "5,357"
     },
     {
       "name": "Aaradhya Dis.",
@@ -355,15 +355,6 @@
       "volume": "203,395"
     },
     {
-      "name": "Turtlemint Fintech",
-      "week52": "147.28",
-      "ltp": "138.62",
-      "gainPct": "-0.4 %",
-      "dayLow": "135.40",
-      "dayHigh": "147.10",
-      "volume": "1,758,430"
-    },
-    {
       "name": "Mahalaxmi Fab.",
       "week52": "36.99",
       "ltp": "20.29",
@@ -371,6 +362,15 @@
       "dayLow": "19.60",
       "dayHigh": "37.69",
       "volume": "26,262"
+    },
+    {
+      "name": "Turtlemint Fintech",
+      "week52": "147.28",
+      "ltp": "138.62",
+      "gainPct": "-0.4 %",
+      "dayLow": "135.40",
+      "dayHigh": "147.10",
+      "volume": "1,758,430"
     },
     {
       "name": "Paul Merchants",
@@ -400,15 +400,6 @@
       "volume": "27,000"
     },
     {
-      "name": "Wipro",
-      "week52": "273.1",
-      "ltp": "176.08",
-      "gainPct": "1.2 %",
-      "dayLow": "174.59",
-      "dayHigh": "273.15",
-      "volume": "29,538,753"
-    },
-    {
       "name": "Quicktouch Tech",
       "week52": "64.6",
       "ltp": "23.15",
@@ -425,6 +416,15 @@
       "dayLow": "65.05",
       "dayHigh": "0.00",
       "volume": "24,000"
+    },
+    {
+      "name": "Wipro",
+      "week52": "273.1",
+      "ltp": "176.08",
+      "gainPct": "1.2 %",
+      "dayLow": "174.59",
+      "dayHigh": "273.15",
+      "volume": "29,538,753"
     },
     {
       "name": "Jyothy Labs",

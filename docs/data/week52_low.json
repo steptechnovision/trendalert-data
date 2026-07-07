@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T12:41:09.116Z",
+  "updatedAt": "2026-07-07T15:44:22.416Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -373,15 +373,6 @@
       "volume": "800"
     },
     {
-      "name": "KCP Sugar &Inds.",
-      "week52": "36.98",
-      "ltp": "21.87",
-      "gainPct": "0.1 %",
-      "dayLow": "21.79",
-      "dayHigh": "37.13",
-      "volume": "68,705"
-    },
-    {
       "name": "ICICI Pr.Nif.100",
       "week52": "30.88",
       "ltp": "28.45",
@@ -389,6 +380,15 @@
       "dayLow": "28.30",
       "dayHigh": "30.74",
       "volume": "104,365"
+    },
+    {
+      "name": "KCP Sugar &Inds.",
+      "week52": "36.98",
+      "ltp": "21.87",
+      "gainPct": "0.1 %",
+      "dayLow": "21.79",
+      "dayHigh": "37.13",
+      "volume": "68,705"
     },
     {
       "name": "Mirae AN 1D ETF",
@@ -436,15 +436,6 @@
       "volume": "5,697"
     },
     {
-      "name": "HVAX Technolog.",
-      "week52": "1024.95",
-      "ltp": "620.85",
-      "gainPct": "5.0 %",
-      "dayLow": "618.00",
-      "dayHigh": "0.00",
-      "volume": "1,200"
-    },
-    {
       "name": "ABSL Sensex ETF",
       "week52": "87.82",
       "ltp": "78.75",
@@ -452,6 +443,15 @@
       "dayLow": "78.00",
       "dayHigh": "89.40",
       "volume": "10,727"
+    },
+    {
+      "name": "HVAX Technolog.",
+      "week52": "1024.95",
+      "ltp": "620.85",
+      "gainPct": "5.0 %",
+      "dayLow": "618.00",
+      "dayHigh": "0.00",
+      "volume": "1,200"
     }
   ]
 }

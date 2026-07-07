@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T15:44:22.416Z",
+  "updatedAt": "2026-07-07T18:02:58.078Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -400,15 +400,6 @@
       "volume": "192,014"
     },
     {
-      "name": "SKIL Infrastr",
-      "week52": "2.56",
-      "ltp": "0.92",
-      "gainPct": "4.5 %",
-      "dayLow": "0.84",
-      "dayHigh": "2.51",
-      "volume": "12,279"
-    },
-    {
       "name": "CSM Technologies",
       "week52": "113",
       "ltp": "104.00",
@@ -416,6 +407,15 @@
       "dayLow": "103.65",
       "dayHigh": "113.00",
       "volume": "355,929"
+    },
+    {
+      "name": "SKIL Infrastr",
+      "week52": "2.56",
+      "ltp": "0.92",
+      "gainPct": "4.5 %",
+      "dayLow": "0.84",
+      "dayHigh": "2.51",
+      "volume": "12,279"
     },
     {
       "name": "Global Surfaces",
@@ -436,15 +436,6 @@
       "volume": "5,697"
     },
     {
-      "name": "ABSL Sensex ETF",
-      "week52": "87.82",
-      "ltp": "78.75",
-      "gainPct": "0.1 %",
-      "dayLow": "78.00",
-      "dayHigh": "89.40",
-      "volume": "10,727"
-    },
-    {
       "name": "HVAX Technolog.",
       "week52": "1024.95",
       "ltp": "620.85",
@@ -452,6 +443,15 @@
       "dayLow": "618.00",
       "dayHigh": "0.00",
       "volume": "1,200"
+    },
+    {
+      "name": "ABSL Sensex ETF",
+      "week52": "87.82",
+      "ltp": "78.75",
+      "gainPct": "0.1 %",
+      "dayLow": "78.00",
+      "dayHigh": "89.40",
+      "volume": "10,727"
     }
   ]
 }

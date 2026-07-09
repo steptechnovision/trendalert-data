@@ -1,13 +1,23 @@
 {
-  "updatedAt": "2026-07-08T19:59:52.758Z",
+  "updatedAt": "2026-07-09T06:08:25.123Z",
   "source": "ipowatch",
   "count": 8,
   "items": [
     {
-      "title": "SBI Funds Management",
-      "gmp": "₹137",
+      "title": "Alpine Texworld",
+      "gmp": "₹0",
       "gain": "",
-      "price": "₹-",
+      "price": "₹105",
+      "openDate": "14 July",
+      "closeDate": "16 July",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/alpine-texworld-ipo/"
+    },
+    {
+      "title": "SBI Funds Management",
+      "gmp": "₹70",
+      "gain": "",
+      "price": "₹574",
       "openDate": "14 July",
       "closeDate": "16 July",
       "type": "Mainboard",
@@ -15,7 +25,7 @@
     },
     {
       "title": "Millworks Technologies",
-      "gmp": "₹280",
+      "gmp": "₹350",
       "gain": "",
       "price": "₹331",
       "openDate": "14 July",
@@ -45,7 +55,7 @@
     },
     {
       "title": "Devson Catalyst",
-      "gmp": "₹36",
+      "gmp": "₹50",
       "gain": "",
       "price": "₹118",
       "openDate": "9 July",
@@ -65,23 +75,13 @@
     },
     {
       "title": "IC Electricals",
-      "gmp": "₹42",
+      "gmp": "₹45",
       "gain": "",
       "price": "₹99",
       "openDate": "3 July",
       "closeDate": "7 July",
       "type": "NSE SME",
       "url": "https://ipowatch.in/ic-electricals-ipo/"
-    },
-    {
-      "title": "Knack Packaging",
-      "gmp": "₹9",
-      "gain": "",
-      "price": "₹170",
-      "openDate": "1 July",
-      "closeDate": "3 July",
-      "type": "Mainboard",
-      "url": "https://ipowatch.in/knack-packaging-ipo/"
     }
   ]
 }

@@ -1,43 +1,43 @@
 {
-  "updatedAt": "2026-07-09T20:10:36.603Z",
+  "updatedAt": "2026-07-10T06:08:35.838Z",
   "source": "nse",
   "count": 6,
   "items": [
     {
       "name": "NIFTY 50",
-      "last": "23,962.80",
-      "change": "+80.75",
-      "percentChange": "+0.34%"
+      "last": "24,160.45",
+      "change": "+197.65",
+      "percentChange": "+0.82%"
     },
     {
       "name": "NIFTY BANK",
-      "last": "57,252.45",
-      "change": "+509.85",
-      "percentChange": "+0.90%"
+      "last": "57,851.15",
+      "change": "+598.70",
+      "percentChange": "+1.05%"
     },
     {
       "name": "NIFTY NEXT 50",
-      "last": "71,485.85",
-      "change": "+587.10",
-      "percentChange": "+0.83%"
+      "last": "72,202.05",
+      "change": "+716.20",
+      "percentChange": "+1.00%"
     },
     {
       "name": "NIFTY MIDCAP 100",
-      "last": "62,166.85",
-      "change": "+844.10",
-      "percentChange": "+1.38%"
+      "last": "62,851.25",
+      "change": "+684.40",
+      "percentChange": "+1.10%"
     },
     {
       "name": "NIFTY IT",
-      "last": "27,471.25",
-      "change": "-83.95",
-      "percentChange": "-0.30%"
+      "last": "27,986.95",
+      "change": "+515.70",
+      "percentChange": "+1.88%"
     },
     {
       "name": "INDIA VIX",
-      "last": "13.36",
-      "change": "-1.32",
-      "percentChange": "-8.97%"
+      "last": "12.39",
+      "change": "-0.97",
+      "percentChange": "-7.29%"
     }
   ]
 }

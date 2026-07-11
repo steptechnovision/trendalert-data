@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T05:16:20.313Z",
+  "updatedAt": "2026-07-11T07:21:16.061Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -121,22 +121,13 @@
       "volume": "199,146"
     },
     {
-      "name": "Utkal Speciality",
-      "week52": "66",
-      "ltp": "23.75",
-      "gainPct": "-4.8 %",
-      "dayLow": "23.75",
-      "dayHigh": "0.00",
-      "volume": "734,000"
-    },
-    {
-      "name": "Kilburn Engg.",
-      "week52": "544.85",
-      "ltp": "453.10",
-      "gainPct": "-2.0 %",
-      "dayLow": "440.00",
-      "dayHigh": "618.40",
-      "volume": "144,652"
+      "name": "MEP Infrast.",
+      "week52": "2.87",
+      "ltp": "0.64",
+      "gainPct": "-1.5 %",
+      "dayLow": "0.64",
+      "dayHigh": "2.90",
+      "volume": "176,433"
     },
     {
       "name": "Allcargo Global",
@@ -166,13 +157,22 @@
       "volume": "62,400"
     },
     {
-      "name": "MEP Infrast.",
-      "week52": "2.87",
-      "ltp": "0.64",
-      "gainPct": "-1.5 %",
-      "dayLow": "0.64",
-      "dayHigh": "2.90",
-      "volume": "176,433"
+      "name": "Utkal Speciality",
+      "week52": "66",
+      "ltp": "23.75",
+      "gainPct": "-4.8 %",
+      "dayLow": "23.75",
+      "dayHigh": "0.00",
+      "volume": "734,000"
+    },
+    {
+      "name": "Kilburn Engg.",
+      "week52": "544.85",
+      "ltp": "453.10",
+      "gainPct": "-2.0 %",
+      "dayLow": "440.00",
+      "dayHigh": "618.40",
+      "volume": "144,652"
     },
     {
       "name": "Picturepost Stu.",
@@ -184,15 +184,6 @@
       "volume": "84,000"
     },
     {
-      "name": "Avience Biomedi.",
-      "week52": "414.95",
-      "ltp": "275.10",
-      "gainPct": "-5.3 %",
-      "dayLow": "275.00",
-      "dayHigh": "0.00",
-      "volume": "66,600"
-    },
-    {
       "name": "Avro India",
       "week52": "17.19",
       "ltp": "9.79",
@@ -200,6 +191,15 @@
       "dayLow": "9.52",
       "dayHigh": "17.19",
       "volume": "313,700"
+    },
+    {
+      "name": "Avience Biomedi.",
+      "week52": "414.95",
+      "ltp": "275.10",
+      "gainPct": "-5.3 %",
+      "dayLow": "275.00",
+      "dayHigh": "0.00",
+      "volume": "66,600"
     },
     {
       "name": "Twamev Constr.",
@@ -229,24 +229,6 @@
       "volume": "1,042,048"
     },
     {
-      "name": "National Standar",
-      "week52": "1495",
-      "ltp": "534.20",
-      "gainPct": "-5.0 %",
-      "dayLow": "534.20",
-      "dayHigh": "2630.20",
-      "volume": "2,573"
-    },
-    {
-      "name": "Aban Offshore",
-      "week52": "54.3",
-      "ltp": "14.20",
-      "gainPct": "4.7 %",
-      "dayLow": "12.89",
-      "dayHigh": "54.16",
-      "volume": "234,525"
-    },
-    {
       "name": "Graphisads",
       "week52": "52.8",
       "ltp": "26.50",
@@ -272,6 +254,24 @@
       "dayLow": "126.35",
       "dayHigh": "0.00",
       "volume": "8,000"
+    },
+    {
+      "name": "National Standar",
+      "week52": "1495",
+      "ltp": "534.20",
+      "gainPct": "-5.0 %",
+      "dayLow": "534.20",
+      "dayHigh": "2630.20",
+      "volume": "2,573"
+    },
+    {
+      "name": "Aban Offshore",
+      "week52": "54.3",
+      "ltp": "14.20",
+      "gainPct": "4.7 %",
+      "dayLow": "12.89",
+      "dayHigh": "54.16",
+      "volume": "234,525"
     },
     {
       "name": "Teamo Production",

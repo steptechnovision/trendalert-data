@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T10:36:59.538Z",
+  "updatedAt": "2026-07-11T11:35:14.615Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -121,6 +121,33 @@
       "volume": "12,800"
     },
     {
+      "name": "Utkal Speciality",
+      "week52": "66",
+      "ltp": "23.75",
+      "gainPct": "-4.8 %",
+      "dayLow": "23.75",
+      "dayHigh": "0.00",
+      "volume": "734,000"
+    },
+    {
+      "name": "MEP Infrast.",
+      "week52": "2.87",
+      "ltp": "0.64",
+      "gainPct": "-1.5 %",
+      "dayLow": "0.64",
+      "dayHigh": "2.90",
+      "volume": "176,433"
+    },
+    {
+      "name": "Kilburn Engg.",
+      "week52": "544.85",
+      "ltp": "453.10",
+      "gainPct": "-2.0 %",
+      "dayLow": "440.00",
+      "dayHigh": "618.40",
+      "volume": "144,652"
+    },
+    {
       "name": "Allcargo Global",
       "week52": "22",
       "ltp": "16.19",
@@ -148,33 +175,6 @@
       "volume": "62,400"
     },
     {
-      "name": "MEP Infrast.",
-      "week52": "2.87",
-      "ltp": "0.64",
-      "gainPct": "-1.5 %",
-      "dayLow": "0.64",
-      "dayHigh": "2.90",
-      "volume": "176,433"
-    },
-    {
-      "name": "Kilburn Engg.",
-      "week52": "544.85",
-      "ltp": "453.10",
-      "gainPct": "-2.0 %",
-      "dayLow": "440.00",
-      "dayHigh": "618.40",
-      "volume": "144,652"
-    },
-    {
-      "name": "Utkal Speciality",
-      "week52": "66",
-      "ltp": "23.75",
-      "gainPct": "-4.8 %",
-      "dayLow": "23.75",
-      "dayHigh": "0.00",
-      "volume": "734,000"
-    },
-    {
       "name": "Picturepost Stu.",
       "week52": "21",
       "ltp": "2.55",
@@ -184,15 +184,6 @@
       "volume": "84,000"
     },
     {
-      "name": "Avro India",
-      "week52": "17.19",
-      "ltp": "9.79",
-      "gainPct": "-1.6 %",
-      "dayLow": "9.52",
-      "dayHigh": "17.19",
-      "volume": "313,700"
-    },
-    {
       "name": "Avience Biomedi.",
       "week52": "414.95",
       "ltp": "275.10",
@@ -200,6 +191,15 @@
       "dayLow": "275.00",
       "dayHigh": "0.00",
       "volume": "66,600"
+    },
+    {
+      "name": "Avro India",
+      "week52": "17.19",
+      "ltp": "9.79",
+      "gainPct": "-1.6 %",
+      "dayLow": "9.52",
+      "dayHigh": "17.19",
+      "volume": "313,700"
     },
     {
       "name": "Twamev Constr.",

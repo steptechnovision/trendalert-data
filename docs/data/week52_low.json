@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T07:48:01.211Z",
+  "updatedAt": "2026-07-12T09:53:05.421Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -121,15 +121,6 @@
       "volume": "144,652"
     },
     {
-      "name": "MEP Infrast.",
-      "week52": "2.87",
-      "ltp": "0.64",
-      "gainPct": "-1.5 %",
-      "dayLow": "0.64",
-      "dayHigh": "2.90",
-      "volume": "176,433"
-    },
-    {
       "name": "Allcargo Global",
       "week52": "22",
       "ltp": "16.19",
@@ -155,6 +146,15 @@
       "dayLow": "29.45",
       "dayHigh": "0.00",
       "volume": "62,400"
+    },
+    {
+      "name": "MEP Infrast.",
+      "week52": "2.87",
+      "ltp": "0.64",
+      "gainPct": "-1.5 %",
+      "dayLow": "0.64",
+      "dayHigh": "2.90",
+      "volume": "176,433"
     },
     {
       "name": "Picturepost Stu.",
@@ -184,15 +184,6 @@
       "volume": "21,879"
     },
     {
-      "name": "Avience Biomedi.",
-      "week52": "414.95",
-      "ltp": "275.10",
-      "gainPct": "-5.3 %",
-      "dayLow": "275.00",
-      "dayHigh": "0.00",
-      "volume": "66,600"
-    },
-    {
       "name": "Avro India",
       "week52": "17.19",
       "ltp": "9.79",
@@ -200,6 +191,15 @@
       "dayLow": "9.52",
       "dayHigh": "17.19",
       "volume": "313,700"
+    },
+    {
+      "name": "Avience Biomedi.",
+      "week52": "414.95",
+      "ltp": "275.10",
+      "gainPct": "-5.3 %",
+      "dayLow": "275.00",
+      "dayHigh": "0.00",
+      "volume": "66,600"
     },
     {
       "name": "Twamev Constr.",
@@ -229,24 +229,6 @@
       "volume": "1,042,048"
     },
     {
-      "name": "National Standar",
-      "week52": "1495",
-      "ltp": "534.20",
-      "gainPct": "-5.0 %",
-      "dayLow": "534.20",
-      "dayHigh": "2630.20",
-      "volume": "2,573"
-    },
-    {
-      "name": "Aban Offshore",
-      "week52": "54.3",
-      "ltp": "14.20",
-      "gainPct": "4.7 %",
-      "dayLow": "12.89",
-      "dayHigh": "54.16",
-      "volume": "234,525"
-    },
-    {
       "name": "Graphisads",
       "week52": "52.8",
       "ltp": "26.50",
@@ -272,6 +254,24 @@
       "dayLow": "126.35",
       "dayHigh": "0.00",
       "volume": "8,000"
+    },
+    {
+      "name": "National Standar",
+      "week52": "1495",
+      "ltp": "534.20",
+      "gainPct": "-5.0 %",
+      "dayLow": "534.20",
+      "dayHigh": "2630.20",
+      "volume": "2,573"
+    },
+    {
+      "name": "Aban Offshore",
+      "week52": "54.3",
+      "ltp": "14.20",
+      "gainPct": "4.7 %",
+      "dayLow": "12.89",
+      "dayHigh": "54.16",
+      "volume": "234,525"
     },
     {
       "name": "Teamo Production",

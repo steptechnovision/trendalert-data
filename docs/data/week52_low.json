@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T13:59:23.791Z",
+  "updatedAt": "2026-07-12T15:07:35.294Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -229,24 +229,6 @@
       "volume": "1,042,048"
     },
     {
-      "name": "National Standar",
-      "week52": "1495",
-      "ltp": "534.20",
-      "gainPct": "-5.0 %",
-      "dayLow": "534.20",
-      "dayHigh": "2630.20",
-      "volume": "2,573"
-    },
-    {
-      "name": "Aban Offshore",
-      "week52": "54.3",
-      "ltp": "14.20",
-      "gainPct": "4.7 %",
-      "dayLow": "12.89",
-      "dayHigh": "54.16",
-      "volume": "234,525"
-    },
-    {
       "name": "Graphisads",
       "week52": "52.8",
       "ltp": "26.50",
@@ -272,6 +254,24 @@
       "dayLow": "126.35",
       "dayHigh": "0.00",
       "volume": "8,000"
+    },
+    {
+      "name": "National Standar",
+      "week52": "1495",
+      "ltp": "534.20",
+      "gainPct": "-5.0 %",
+      "dayLow": "534.20",
+      "dayHigh": "2630.20",
+      "volume": "2,573"
+    },
+    {
+      "name": "Aban Offshore",
+      "week52": "54.3",
+      "ltp": "14.20",
+      "gainPct": "4.7 %",
+      "dayLow": "12.89",
+      "dayHigh": "54.16",
+      "volume": "234,525"
     },
     {
       "name": "Teamo Production",
@@ -373,6 +373,15 @@
       "volume": "6,000"
     },
     {
+      "name": "JSW Holdings",
+      "week52": "22790",
+      "ltp": "11225.00",
+      "gainPct": "0.9 %",
+      "dayLow": "11185.00",
+      "dayHigh": "22839.20",
+      "volume": "7,484"
+    },
+    {
       "name": "Boss Packaging",
       "week52": "50",
       "ltp": "33.35",
@@ -398,15 +407,6 @@
       "dayLow": "122.88",
       "dayHigh": "136.45",
       "volume": "957,677"
-    },
-    {
-      "name": "JSW Holdings",
-      "week52": "22790",
-      "ltp": "11225.00",
-      "gainPct": "0.9 %",
-      "dayLow": "11185.00",
-      "dayHigh": "22839.20",
-      "volume": "7,484"
     },
     {
       "name": "Asian Granito",
@@ -436,22 +436,22 @@
       "volume": "263,937"
     },
     {
-      "name": "Comfort Intech",
-      "week52": "9.19",
-      "ltp": "5.75",
-      "gainPct": "0.7 %",
-      "dayLow": "5.70",
-      "dayHigh": "9.40",
-      "volume": "117,044"
+      "name": "Avio Smart Market",
+      "week52": "17.6",
+      "ltp": "7.09",
+      "gainPct": "0.3 %",
+      "dayLow": "7.00",
+      "dayHigh": "17.55",
+      "volume": "156,432"
     },
     {
-      "name": "Birlasoft Ltd",
-      "week52": "474",
-      "ltp": "290.15",
-      "gainPct": "5.6 %",
-      "dayLow": "278.85",
-      "dayHigh": "473.75",
-      "volume": "5,843,840"
+      "name": "Brainbees Solut.",
+      "week52": "438.7",
+      "ltp": "212.25",
+      "gainPct": "4.3 %",
+      "dayLow": "205.05",
+      "dayHigh": "438.70",
+      "volume": "2,518,222"
     }
   ]
 }

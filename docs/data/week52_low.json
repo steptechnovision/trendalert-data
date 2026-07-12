@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T05:31:34.857Z",
+  "updatedAt": "2026-07-12T07:48:01.211Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -103,15 +103,6 @@
       "volume": "12,800"
     },
     {
-      "name": "Kilburn Engg.",
-      "week52": "544.85",
-      "ltp": "453.10",
-      "gainPct": "-2.0 %",
-      "dayLow": "440.00",
-      "dayHigh": "618.40",
-      "volume": "144,652"
-    },
-    {
       "name": "Utkal Speciality",
       "week52": "66",
       "ltp": "23.75",
@@ -119,6 +110,15 @@
       "dayLow": "23.75",
       "dayHigh": "0.00",
       "volume": "734,000"
+    },
+    {
+      "name": "Kilburn Engg.",
+      "week52": "544.85",
+      "ltp": "453.10",
+      "gainPct": "-2.0 %",
+      "dayLow": "440.00",
+      "dayHigh": "618.40",
+      "volume": "144,652"
     },
     {
       "name": "MEP Infrast.",
@@ -229,6 +229,24 @@
       "volume": "1,042,048"
     },
     {
+      "name": "National Standar",
+      "week52": "1495",
+      "ltp": "534.20",
+      "gainPct": "-5.0 %",
+      "dayLow": "534.20",
+      "dayHigh": "2630.20",
+      "volume": "2,573"
+    },
+    {
+      "name": "Aban Offshore",
+      "week52": "54.3",
+      "ltp": "14.20",
+      "gainPct": "4.7 %",
+      "dayLow": "12.89",
+      "dayHigh": "54.16",
+      "volume": "234,525"
+    },
+    {
       "name": "Graphisads",
       "week52": "52.8",
       "ltp": "26.50",
@@ -254,24 +272,6 @@
       "dayLow": "126.35",
       "dayHigh": "0.00",
       "volume": "8,000"
-    },
-    {
-      "name": "National Standar",
-      "week52": "1495",
-      "ltp": "534.20",
-      "gainPct": "-5.0 %",
-      "dayLow": "534.20",
-      "dayHigh": "2630.20",
-      "volume": "2,573"
-    },
-    {
-      "name": "Aban Offshore",
-      "week52": "54.3",
-      "ltp": "14.20",
-      "gainPct": "4.7 %",
-      "dayLow": "12.89",
-      "dayHigh": "54.16",
-      "volume": "234,525"
     },
     {
       "name": "Teamo Production",

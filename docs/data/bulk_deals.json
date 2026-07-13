@@ -1,89 +1,8 @@
 {
-  "updatedAt": "2026-07-12T19:48:06.801Z",
+  "updatedAt": "2026-07-13T05:41:29.456Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "RICHA",
-      "name": "Richa Info Systems Ltd",
-      "clientName": "THAKOR NAYANA CHANDUBHAI",
-      "buySell": "SELL",
-      "qty": "349000",
-      "price": "93.5",
-      "date": "10-Jul-2026"
-    },
-    {
-      "symbol": "SOLARA",
-      "name": "Solara Active Pha Sci Ltd",
-      "clientName": "TPG GROWTH IV SF PTE LTD",
-      "buySell": "SELL",
-      "qty": "300000",
-      "price": "573.2",
-      "date": "10-Jul-2026"
-    },
-    {
-      "symbol": "STALLION",
-      "name": "Stallion Ind Fluorochem L",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "724037",
-      "price": "205.15",
-      "date": "10-Jul-2026"
-    },
-    {
-      "symbol": "SVLL",
-      "name": "Shree Vasu Logistics Ltd",
-      "clientName": "PRA INDIA PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "58000",
-      "price": "668.64",
-      "date": "10-Jul-2026"
-    },
-    {
-      "symbol": "UTKAL",
-      "name": "Utkal Spec Indus India L",
-      "clientName": "NEO APEX SHARE BROKING SERVICES LLP",
-      "buySell": "SELL",
-      "qty": "102000",
-      "price": "23.75",
-      "date": "10-Jul-2026"
-    },
-    {
-      "symbol": "ZENSARTECH",
-      "name": "Zensar Technologies -Depo",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1330989",
-      "price": "497.72",
-      "date": "10-Jul-2026"
-    },
-    {
-      "symbol": "ZENSARTECH",
-      "name": "Zensar Technologies -Depo",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "2082505",
-      "price": "496.76",
-      "date": "10-Jul-2026"
-    },
-    {
-      "symbol": "ZENSARTECH",
-      "name": "Zensar Technologies -Depo",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "1824514",
-      "price": "498.02",
-      "date": "10-Jul-2026"
-    },
-    {
-      "symbol": "ZENSARTECH",
-      "name": "Zensar Technologies -Depo",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "3636795",
-      "price": "500.99",
-      "date": "10-Jul-2026"
-    },
     {
       "symbol": "ACCORD",
       "name": "Accord Synergy Limited",
@@ -721,6 +640,87 @@
       "buySell": "SELL",
       "qty": "761762",
       "price": "212.16",
+      "date": "10-Jul-2026"
+    },
+    {
+      "symbol": "KODYTECH",
+      "name": "Kody Technolab Limited",
+      "clientName": "MANAV SUBHASHCHANDRA PATEL",
+      "buySell": "SELL",
+      "qty": "120500",
+      "price": "1215",
+      "date": "10-Jul-2026"
+    },
+    {
+      "symbol": "MASTERTR",
+      "name": "Master Trust Limited",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "613912",
+      "price": "95.69",
+      "date": "10-Jul-2026"
+    },
+    {
+      "symbol": "NEWGEN",
+      "name": "Newgen Software Tech Ltd",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1566565",
+      "price": "525.28",
+      "date": "10-Jul-2026"
+    },
+    {
+      "symbol": "NEWGEN",
+      "name": "Newgen Software Tech Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "1093418",
+      "price": "521.74",
+      "date": "10-Jul-2026"
+    },
+    {
+      "symbol": "ORTINGLOBE",
+      "name": "ORTIN GLOBAL LIMITED",
+      "clientName": "WAVE CAPITAL LTD",
+      "buySell": "SELL",
+      "qty": "50000",
+      "price": "16.24",
+      "date": "10-Jul-2026"
+    },
+    {
+      "symbol": "PANSARI",
+      "name": "Pansari Developers Ltd",
+      "clientName": "ACME CAPITAL MARKET LIMITED",
+      "buySell": "SELL",
+      "qty": "130783",
+      "price": "364.24",
+      "date": "10-Jul-2026"
+    },
+    {
+      "symbol": "PANSARI",
+      "name": "Pansari Developers Ltd",
+      "clientName": "CHAUBARA EATS PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "125000",
+      "price": "376.07",
+      "date": "10-Jul-2026"
+    },
+    {
+      "symbol": "PPAP",
+      "name": "PPAP Automotive Limited",
+      "clientName": "ANKITA VISHAL SHAH",
+      "buySell": "SELL",
+      "qty": "132372",
+      "price": "328.94",
+      "date": "10-Jul-2026"
+    },
+    {
+      "symbol": "RADIOWALLA",
+      "name": "Radiowalla Network Ltd",
+      "clientName": "NAUTILUS PRIVATE CAPITAL LTD",
+      "buySell": "SELL",
+      "qty": "43200",
+      "price": "24.65",
       "date": "10-Jul-2026"
     }
   ]

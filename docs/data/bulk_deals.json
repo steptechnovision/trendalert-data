@@ -1,197 +1,8 @@
 {
-  "updatedAt": "2026-07-15T14:53:41.726Z",
+  "updatedAt": "2026-07-15T16:25:11.008Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "ACCORD",
-      "name": "Accord Synergy Limited",
-      "clientName": "GREEN PEAKS ENTERPRISES LLP",
-      "buySell": "BUY",
-      "qty": "12000",
-      "price": "210.65",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "ACHINTYA SECURITIES LIMITED",
-      "buySell": "BUY",
-      "qty": "700000",
-      "price": "29.49",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "ALTIZEN VENTURES LLP",
-      "buySell": "BUY",
-      "qty": "1025313",
-      "price": "29.4",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "ACME CAPITAL MARKET LIMITED",
-      "buySell": "BUY",
-      "qty": "798091",
-      "price": "29.17",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "BALUFORGE",
-      "name": "Balu Forge Industries Ltd",
-      "clientName": "SNORD TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "715000",
-      "price": "448.86",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "BECTORFOOD",
-      "name": "Mrs Bectors Food Spe Ltd",
-      "clientName": "ABAKKUS INVESTMENT MANAGERS PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "2939588",
-      "price": "168.97",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "COMSYN",
-      "name": "Commercial Syn Bags Ltd",
-      "clientName": "TRADEFLOW DYNAMICS PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "272285",
-      "price": "191.31",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "ELIN",
-      "name": "Elin Electronics Limited",
-      "clientName": "GRT STRATEGIC VENTURES LLP",
-      "buySell": "BUY",
-      "qty": "260101",
-      "price": "113.77",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "ELIN",
-      "name": "Elin Electronics Limited",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "432187",
-      "price": "113.6",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "ELIN",
-      "name": "Elin Electronics Limited",
-      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "361167",
-      "price": "114.1",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "FEDDERSHOL",
-      "name": "Fedders Holding Ltd.",
-      "clientName": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1635195",
-      "price": "48.22",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "FINOPB",
-      "name": "Fino Payments Bank Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "907833",
-      "price": "174.84",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "FINOPB",
-      "name": "Fino Payments Bank Ltd",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "761130",
-      "price": "174.13",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "FINOPB",
-      "name": "Fino Payments Bank Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1044016",
-      "price": "175.66",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "FINOPB",
-      "name": "Fino Payments Bank Ltd",
-      "clientName": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "449662",
-      "price": "177.3",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "FINOPB",
-      "name": "Fino Payments Bank Ltd",
-      "clientName": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "436364",
-      "price": "175.15",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "GCSL",
-      "name": "Gretex Corporate Services",
-      "clientName": "MANSUKH SECURITIES & FINANCE LIMITED",
-      "buySell": "BUY",
-      "qty": "196431",
-      "price": "506.47",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "GCSL",
-      "name": "Gretex Corporate Services",
-      "clientName": "TRADE PULSE BROKING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "130000",
-      "price": "508.4",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "ITDC",
-      "name": "India Tour. Dev. Co. Ltd.",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "528856",
-      "price": "770.57",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "ITDC",
-      "name": "India Tour. Dev. Co. Ltd.",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "769056",
-      "price": "774.16",
-      "date": "15-Jul-2026"
-    },
-    {
-      "symbol": "ITDC",
-      "name": "India Tour. Dev. Co. Ltd.",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "554199",
-      "price": "775.66",
-      "date": "15-Jul-2026"
-    },
     {
       "symbol": "ITDC",
       "name": "India Tour. Dev. Co. Ltd.",
@@ -721,6 +532,195 @@
       "buySell": "BUY",
       "qty": "3000000",
       "price": "17.63",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "ACCORD",
+      "name": "Accord Synergy Limited",
+      "clientName": "GREEN PEAKS ENTERPRISES LLP",
+      "buySell": "SELL",
+      "qty": "18000",
+      "price": "210.36",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "AMBAAUTO",
+      "name": "Amba Auto Sales and Ser L",
+      "clientName": "ANISH RAMJI SHAH",
+      "buySell": "SELL",
+      "qty": "96000",
+      "price": "86.53",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "ATALREAL",
+      "name": "Atal Realtech Limited",
+      "clientName": "ALTIZEN VENTURES LLP",
+      "buySell": "SELL",
+      "qty": "774605",
+      "price": "29.46",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "ATALREAL",
+      "name": "Atal Realtech Limited",
+      "clientName": "ACME CAPITAL MARKET LIMITED",
+      "buySell": "SELL",
+      "qty": "798091",
+      "price": "29.34",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "BALUFORGE",
+      "name": "Balu Forge Industries Ltd",
+      "clientName": "L7 SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "715000",
+      "price": "448.84",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "COMSYN",
+      "name": "Commercial Syn Bags Ltd",
+      "clientName": "L7 SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "272285",
+      "price": "191.31",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "ELIN",
+      "name": "Elin Electronics Limited",
+      "clientName": "GRT STRATEGIC VENTURES LLP",
+      "buySell": "SELL",
+      "qty": "260101",
+      "price": "113.85",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "ELIN",
+      "name": "Elin Electronics Limited",
+      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "361167",
+      "price": "114.11",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "ELIN",
+      "name": "Elin Electronics Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "432187",
+      "price": "113.69",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "FEDDERSHOL",
+      "name": "Fedders Holding Ltd.",
+      "clientName": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1635195",
+      "price": "47.15",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "FINOPB",
+      "name": "Fino Payments Bank Ltd",
+      "clientName": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "421511",
+      "price": "176.1",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "FINOPB",
+      "name": "Fino Payments Bank Ltd",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1040106",
+      "price": "175.74",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "FINOPB",
+      "name": "Fino Payments Bank Ltd",
+      "clientName": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "472662",
+      "price": "178.47",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "FINOPB",
+      "name": "Fino Payments Bank Ltd",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "701989",
+      "price": "177.05",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "FINOPB",
+      "name": "Fino Payments Bank Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "879295",
+      "price": "175.75",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "GCSL",
+      "name": "Gretex Corporate Services",
+      "clientName": "MANSUKH SECURITIES & FINANCE LIMITED",
+      "buySell": "SELL",
+      "qty": "119877",
+      "price": "507.55",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "GCSL",
+      "name": "Gretex Corporate Services",
+      "clientName": "MOHAMED IRFAN MOHAMED LATIF SHAIKH",
+      "buySell": "SELL",
+      "qty": "673000",
+      "price": "506.45",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "ITDC",
+      "name": "India Tour. Dev. Co. Ltd.",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "534020",
+      "price": "766.91",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "ITDC",
+      "name": "India Tour. Dev. Co. Ltd.",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "539994",
+      "price": "766.81",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "ITDC",
+      "name": "India Tour. Dev. Co. Ltd.",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "769056",
+      "price": "774.34",
+      "date": "15-Jul-2026"
+    },
+    {
+      "symbol": "ITDC",
+      "name": "India Tour. Dev. Co. Ltd.",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "623310",
+      "price": "772.31",
       "date": "15-Jul-2026"
     }
   ]

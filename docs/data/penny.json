@@ -1,22 +1,8 @@
 {
-  "updatedAt": "2026-07-14T19:54:15.793Z",
+  "updatedAt": "2026-07-15T04:54:05.279Z",
   "source": "5paisa",
   "count": 5,
   "items": [
-    {
-      "companyName": "Dharan Infra-EPC Ltd",
-      "ltp": "₹0.16",
-      "change": "6.67",
-      "volume": "38,654,870",
-      "marketCap": "₹78.43"
-    },
-    {
-      "companyName": "Kshitij Polyline Ltd",
-      "ltp": "₹2.89",
-      "change": "-4.93",
-      "volume": "8,232,464",
-      "marketCap": "₹44.58"
-    },
     {
       "companyName": "Future Consumer Ltd",
       "ltp": "₹0.29",
@@ -25,18 +11,32 @@
       "marketCap": "₹57.91"
     },
     {
-      "companyName": "GACM Technologies Ltd",
-      "ltp": "₹0.47",
-      "change": "-2.08",
-      "volume": "2,952,597",
-      "marketCap": "₹59.99"
+      "companyName": "Dharan Infra-EPC Ltd",
+      "ltp": "₹0.16",
+      "change": "6.67",
+      "volume": "1,589,865",
+      "marketCap": "₹78.43"
     },
     {
-      "companyName": "Country Condos Ltd",
-      "ltp": "₹7.14",
-      "change": "11.91",
-      "volume": "2,532,290",
-      "marketCap": "₹55.41"
+      "companyName": "Kshitij Polyline Ltd",
+      "ltp": "₹2.75",
+      "change": "-4.84",
+      "volume": "1,363,122",
+      "marketCap": "₹44.58"
+    },
+    {
+      "companyName": "Inventure Growth & Securities Ltd",
+      "ltp": "₹0.94",
+      "change": "4.44",
+      "volume": "1,338,562",
+      "marketCap": "₹94.50"
+    },
+    {
+      "companyName": "Shree Ram Proteins Ltd",
+      "ltp": "₹0.36",
+      "change": "2.86",
+      "volume": "1,206,541",
+      "marketCap": "₹7.50"
     }
   ]
 }

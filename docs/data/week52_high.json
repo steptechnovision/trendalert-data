@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T18:36:05.205Z",
+  "updatedAt": "2026-07-19T19:50:37.229Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -193,6 +193,42 @@
       "volume": "11,853"
     },
     {
+      "name": "Sona BLW Precis.",
+      "week52": "708.45",
+      "ltp": "704.85",
+      "gainPct": "3.1 %",
+      "dayLow": "680.35",
+      "dayHigh": "708.00",
+      "volume": "4,862,624"
+    },
+    {
+      "name": "Gujarat Fluoroch",
+      "week52": "4169.9",
+      "ltp": "4144.90",
+      "gainPct": "0.5 %",
+      "dayLow": "4043.20",
+      "dayHigh": "4164.95",
+      "volume": "145,924"
+    },
+    {
+      "name": "Sacheerome",
+      "week52": "464",
+      "ltp": "452.00",
+      "gainPct": "3.7 %",
+      "dayLow": "430.00",
+      "dayHigh": "0.00",
+      "volume": "48,300"
+    },
+    {
+      "name": "Jainik Power",
+      "week52": "167",
+      "ltp": "166.00",
+      "gainPct": "6.9 %",
+      "dayLow": "155.00",
+      "dayHigh": "0.00",
+      "volume": "48,000"
+    },
+    {
       "name": "Exide Inds.",
       "week52": "436.55",
       "ltp": "435.20",
@@ -229,60 +265,6 @@
       "volume": "2,859,127"
     },
     {
-      "name": "Gujarat Fluoroch",
-      "week52": "4169.9",
-      "ltp": "4144.90",
-      "gainPct": "0.5 %",
-      "dayLow": "4043.20",
-      "dayHigh": "4164.95",
-      "volume": "145,924"
-    },
-    {
-      "name": "Sacheerome",
-      "week52": "464",
-      "ltp": "452.00",
-      "gainPct": "3.7 %",
-      "dayLow": "430.00",
-      "dayHigh": "0.00",
-      "volume": "48,300"
-    },
-    {
-      "name": "Jainik Power",
-      "week52": "167",
-      "ltp": "166.00",
-      "gainPct": "6.9 %",
-      "dayLow": "155.00",
-      "dayHigh": "0.00",
-      "volume": "48,000"
-    },
-    {
-      "name": "Sona BLW Precis.",
-      "week52": "708.45",
-      "ltp": "704.85",
-      "gainPct": "3.1 %",
-      "dayLow": "680.35",
-      "dayHigh": "708.00",
-      "volume": "4,862,624"
-    },
-    {
-      "name": "Proventus Agro.",
-      "week52": "1710",
-      "ltp": "1710.00",
-      "gainPct": "4.9 %",
-      "dayLow": "1629.95",
-      "dayHigh": "0.00",
-      "volume": "2,160"
-    },
-    {
-      "name": "Gaudium IVF",
-      "week52": "143.78",
-      "ltp": "143.78",
-      "gainPct": "5.0 %",
-      "dayLow": "137.55",
-      "dayHigh": "143.55",
-      "volume": "411,415"
-    },
-    {
       "name": "B & A",
       "week52": "589",
       "ltp": "519.55",
@@ -317,6 +299,24 @@
       "dayLow": "132.25",
       "dayHigh": "0.00",
       "volume": "1,264,418"
+    },
+    {
+      "name": "Proventus Agro.",
+      "week52": "1710",
+      "ltp": "1710.00",
+      "gainPct": "4.9 %",
+      "dayLow": "1629.95",
+      "dayHigh": "0.00",
+      "volume": "2,160"
+    },
+    {
+      "name": "Gaudium IVF",
+      "week52": "143.78",
+      "ltp": "143.78",
+      "gainPct": "5.0 %",
+      "dayLow": "137.55",
+      "dayHigh": "143.55",
+      "volume": "411,415"
     },
     {
       "name": "SMVD Poly Pack",
@@ -427,15 +427,6 @@
       "volume": "14,726"
     },
     {
-      "name": "Paisalo Digital",
-      "week52": "77.39",
-      "ltp": "71.75",
-      "gainPct": "-2.8 %",
-      "dayLow": "67.15",
-      "dayHigh": "77.61",
-      "volume": "53,207,306"
-    },
-    {
       "name": "GSP Crop Science",
       "week52": "501",
       "ltp": "492.20",
@@ -452,6 +443,15 @@
       "dayLow": "28.10",
       "dayHigh": "49.20",
       "volume": "1,374,124"
+    },
+    {
+      "name": "Laser Power",
+      "week52": "288.66",
+      "ltp": "288.66",
+      "gainPct": "10.0 %",
+      "dayLow": "270.50",
+      "dayHigh": "289.10",
+      "volume": "8,020,732"
     }
   ]
 }

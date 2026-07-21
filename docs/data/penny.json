@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T05:23:35.112Z",
+  "updatedAt": "2026-07-21T07:58:09.164Z",
   "source": "5paisa",
   "count": 5,
   "items": [
@@ -7,15 +7,29 @@
       "companyName": "Dharan Infra-EPC Ltd",
       "ltp": "₹0.15",
       "change": "0",
-      "volume": "16,494,499",
+      "volume": "21,805,401",
       "marketCap": "₹78.43"
+    },
+    {
+      "companyName": "GACM Technologies Ltd",
+      "ltp": "₹0.47",
+      "change": "0",
+      "volume": "3,164,131",
+      "marketCap": "₹59.99"
     },
     {
       "companyName": "Kshitij Polyline Ltd",
       "ltp": "₹2.48",
       "change": "4.64",
-      "volume": "1,955,868",
+      "volume": "2,240,244",
       "marketCap": "₹36.56"
+    },
+    {
+      "companyName": "Teamo Productions HQ Ltd",
+      "ltp": "₹0.42",
+      "change": "-2.33",
+      "volume": "1,251,985",
+      "marketCap": "₹47.14"
     },
     {
       "companyName": "Future Consumer Ltd",
@@ -23,20 +37,6 @@
       "change": "-3.45",
       "volume": "1,159,816",
       "marketCap": "₹55.92"
-    },
-    {
-      "companyName": "Teamo Productions HQ Ltd",
-      "ltp": "₹0.43",
-      "change": "0",
-      "volume": "841,509",
-      "marketCap": "₹47.14"
-    },
-    {
-      "companyName": "GACM Technologies Ltd",
-      "ltp": "₹0.49",
-      "change": "4.26",
-      "volume": "653,559",
-      "marketCap": "₹59.99"
     }
   ]
 }

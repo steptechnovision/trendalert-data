@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-07-22T14:29:34.583Z",
+  "updatedAt": "2026-07-22T16:07:28.571Z",
   "source": "nse",
   "count": 80,
   "items": [
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "IRAGE BROKING SERVICES LLP",
+      "buySell": "BUY",
+      "qty": "160009",
+      "price": "118.96",
+      "date": "22-Jul-2026"
+    },
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "SETU SECURITIES PVT LTD",
+      "buySell": "BUY",
+      "qty": "300053",
+      "price": "107.1",
+      "date": "22-Jul-2026"
+    },
     {
       "symbol": "AASTHA",
       "name": "Aastha Spintex Limited",
@@ -703,24 +721,6 @@
       "buySell": "SELL",
       "qty": "1295700",
       "price": "121.47",
-      "date": "22-Jul-2026"
-    },
-    {
-      "symbol": "BLUESTONE",
-      "name": "BlueStone Jewel Lfstl Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "1152794",
-      "price": "792.53",
-      "date": "22-Jul-2026"
-    },
-    {
-      "symbol": "BLUESTONE",
-      "name": "BlueStone Jewel Lfstl Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1537479",
-      "price": "799.48",
       "date": "22-Jul-2026"
     }
   ]

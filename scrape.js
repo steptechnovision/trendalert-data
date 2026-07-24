@@ -531,6 +531,263 @@ async function ipowatchListings() {
 }
 
 // ---------------------------------------------------------------------------
+// IPO calendar (derived feed)
+// ---------------------------------------------------------------------------
+//
+// Built here, in the scheduled job — the app never scrapes for it. It reuses
+// the rows the other feeds already fetched and adds exactly ONE extra request
+// (ipowatch's allotment page, which is the only place that publishes real
+// allotment dates and the registrar per IPO). Everything else is computed.
+
+const MONTH_NUM = {
+  jan: 1, feb: 2, mar: 3, apr: 4, may: 5, jun: 6,
+  jul: 7, aug: 8, sep: 9, oct: 10, nov: 11, dec: 12,
+};
+
+const iso = (y, m, d) =>
+  `${y}-${String(m).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
+
+/// Picks the year that puts `m/d` closest to today (handles Dec→Jan).
+function nearestYear(m, d, ref = new Date()) {
+  const y = ref.getFullYear();
+  let best = y;
+  let bestGap = Infinity;
+  for (const cand of [y - 1, y, y + 1]) {
+    const gap = Math.abs(new Date(cand, m - 1, d) - ref);
+    if (gap < bestGap) {
+      bestGap = gap;
+      best = cand;
+    }
+  }
+  return best;
+}
+
+/// "4 August 2026" / "4 Aug" / "04-Aug-2026" -> "2026-08-04"
+function toIsoDate(raw, ref = new Date()) {
+  const s = norm(raw);
+  if (!s) return '';
+  const m = s.match(/(\d{1,2})\s*[-\s]\s*([A-Za-z]{3,9})\.?(?:\s*[-,\s]\s*(\d{4}))?/);
+  if (!m) return '';
+  const day = Number(m[1]);
+  const mon = MONTH_NUM[m[2].slice(0, 3).toLowerCase()];
+  if (!mon || day < 1 || day > 31) return '';
+  const year = m[3] ? Number(m[3]) : nearestYear(mon, day, ref);
+  return iso(year, mon, day);
+}
+
+/// ipowatch writes ranges as "12-16 June" (same month) or "30-3 August"
+/// (spills over from the previous month). Returns ISO {open, close}.
+function toIsoRange(raw, ref = new Date()) {
+  const s = norm(raw);
+  const m = s.match(/^(\d{1,2})\s*[-–]\s*(\d{1,2})\s+([A-Za-z]{3,9})\.?\s*(\d{4})?$/);
+  if (!m) {
+    const one = toIsoDate(s, ref);
+    return { open: one, close: one };
+  }
+  const [d1, d2] = [Number(m[1]), Number(m[2])];
+  const closeMon = MONTH_NUM[m[3].slice(0, 3).toLowerCase()];
+  if (!closeMon) return { open: '', close: '' };
+  const closeYear = m[4] ? Number(m[4]) : nearestYear(closeMon, d2, ref);
+
+  // d1 > d2 means the open date belongs to the previous month.
+  const openMon = d1 > d2 ? (closeMon === 1 ? 12 : closeMon - 1) : closeMon;
+  const openYear = d1 > d2 && closeMon === 1 ? closeYear - 1 : closeYear;
+  return { open: iso(openYear, openMon, d1), close: iso(closeYear, closeMon, d2) };
+}
+
+const isWeekend = (d) => d.getDay() === 0 || d.getDay() === 6;
+
+/// Adds working days to an ISO date (allotment/listing never land on a weekend).
+function addWorkingDays(isoDate, days) {
+  if (!isoDate) return '';
+  const d = new Date(`${isoDate}T00:00:00Z`);
+  if (isNaN(d)) return '';
+  let added = 0;
+  while (added < days) {
+    d.setUTCDate(d.getUTCDate() + 1);
+    if (!isWeekend(new Date(d.toISOString().slice(0, 10) + 'T12:00:00'))) added++;
+  }
+  return d.toISOString().slice(0, 10);
+}
+
+/// Collapses the naming variants our sources use for the same issue:
+/// "Cube Highways Trust InvIT" vs "Cube Highways Trust", or
+/// "Shree Balaji (Mala) Textiles" vs "Shree Balaji Textiles".
+const nameKey = (s) =>
+  norm(s)
+    .toLowerCase()
+    .replace(/\([^)]*\)/g, ' ') // drop parenthetical qualifiers
+    .replace(/\b(ipo|limited|ltd|pvt|private|invit|reit|sme|nse|bse|india)\b/g, ' ')
+    .replace(/[^a-z0-9]/g, '');
+
+/// Feeds hand us open/close as separate strings with no year, so each can land
+/// on a different year around the Dec→Jan boundary (we saw open 2026-01-31
+/// paired with close 2027-01-02). Resolve them as a pair: close must follow
+/// open, and a bidding window is days, not months.
+function resolvePair(openRaw, closeRaw, ref = new Date()) {
+  let open = toIsoDate(openRaw, ref);
+  let close = toIsoDate(closeRaw, ref);
+  if (!open || !close) return { open, close };
+
+  if (close < open) {
+    // Close slipped into the wrong year — pull it back to just after open.
+    const c = new Date(`${close}T00:00:00Z`);
+    c.setUTCFullYear(c.getUTCFullYear() + 1);
+    const bumped = c.toISOString().slice(0, 10);
+    close = bumped > open ? bumped : close;
+  }
+  const spanDays =
+    (new Date(`${close}T00:00:00Z`) - new Date(`${open}T00:00:00Z`)) / 86400000;
+  // Anything wider than a month isn't a real bidding window — trust neither.
+  if (spanDays < 0 || spanDays > 31) return { open: '', close: '' };
+  return { open, close };
+}
+
+/// ipowatch's allotment page: IPO | IPO Date | Allotment Date | Registrar.
+/// The only public table carrying real allotment dates + the registrar.
+async function ipowatchAllotmentDates() {
+  const $ = await getHtml('https://ipowatch.in/ipo-allotment-status-how-to-check/');
+  const out = [];
+  $('table').each((_, t) => {
+    const rows = $(t).find('tr').toArray();
+    if (rows.length < 2) return;
+    const head = norm($(rows[0]).text()).toLowerCase();
+    if (!head.includes('allotment')) return;
+    for (const row of rows.slice(1)) {
+      const cells = $(row).find('td').toArray().map((e) => norm($(e).text()));
+      if (cells.length < 3) continue;
+      const [name, dateRange, allotDate, registrar] = cells;
+      if (!name || /^ipo$/i.test(name)) continue;
+      const range = toIsoRange(dateRange);
+      out.push({
+        name,
+        open: range.open,
+        close: range.close,
+        allotment: toIsoDate(allotDate),
+        registrar: norm(registrar || ''),
+      });
+    }
+  });
+  return out;
+}
+
+/// Merges everything we know into one dated timeline.
+async function buildCalendar(collected) {
+  const byKey = new Map();
+
+  const upsert = (name, patch) => {
+    const k = nameKey(name);
+    if (!k) return;
+    const cur = byKey.get(k) || { name: norm(name) };
+    // Keep the longest name we've seen — it's usually the most complete.
+    if (norm(name).length > (cur.name || '').length) cur.name = norm(name);
+    for (const [f, v] of Object.entries(patch)) {
+      if (v !== '' && v != null && !cur[f]) cur[f] = v;
+    }
+    byKey.set(k, cur);
+  };
+
+  // 1. Live GMP board — open/close/type/gmp for everything currently in play.
+  for (const r of collected.gmp || []) {
+    const { open, close } = resolvePair(r.openDate, r.closeDate);
+    upsert(r.title, {
+      type: r.type,
+      open,
+      close,
+      gmp: r.gmp,
+      gain: r.gain,
+      priceBand: r.price,
+    });
+  }
+
+  // 2. Upcoming lists — dates and price bands for issues not yet open.
+  for (const feed of ['upcoming_mainboard', 'upcoming_sme']) {
+    for (const r of collected[feed] || []) {
+      const { open, close } = resolvePair(r.openDate, r.closeDate);
+      upsert(r.title, {
+        type: r.type,
+        open,
+        close,
+        priceBand: r.priceBand,
+        size: r.size,
+      });
+    }
+  }
+
+  // 3. Real allotment dates + registrar (one extra request).
+  try {
+    for (const r of await ipowatchAllotmentDates()) {
+      upsert(r.name, {
+        open: r.open,
+        close: r.close,
+        allotment: r.allotment,
+        registrar: r.registrar,
+      });
+    }
+  } catch (e) {
+    console.log(`   · calendar/allotment-dates: ${e.message}`);
+  }
+
+  // 4. Already listed — a real listing date beats a computed one.
+  for (const r of collected.listing || []) {
+    upsert(r.name, {
+      listingGain: r.listingGain,
+      listingPrice: r.listingPrice,
+      listed: true,
+    });
+  }
+
+  const today = new Date().toISOString().slice(0, 10);
+  // A calendar is about what's next. Keep listed IPOs only while they're still
+  // interesting (recent listing gains), instead of trailing years of history.
+  const historyCutoff = new Date(Date.now() - 45 * 86400000)
+    .toISOString()
+    .slice(0, 10);
+
+  const out = [];
+  for (const item of byKey.values()) {
+    if (!item.open && !item.close) continue; // undated — nothing to show
+    const close = item.close || item.open;
+    const allotment = item.allotment || addWorkingDays(close, 2);
+    const listing = item.listing || addWorkingDays(close, 3);
+
+    let status = 'upcoming';
+    if (item.listed || (listing && listing < today)) status = 'listed';
+    else if (listing === today) status = 'listing';
+    else if (allotment && allotment <= today) status = 'allotment';
+    else if (close && close < today) status = 'closed';
+    else if (item.open && item.open <= today) status = 'open';
+
+    if (status === 'listed' && (listing || close) < historyCutoff) continue;
+
+    out.push({
+      name: item.name,
+      type: item.type || 'Mainboard',
+      open: item.open || '',
+      close: close || '',
+      allotment: allotment || '',
+      listing: listing || '',
+      priceBand: item.priceBand || '',
+      size: item.size || '',
+      gmp: item.gmp || '',
+      gain: item.gain || '',
+      registrar: item.registrar || '',
+      listingGain: item.listingGain || '',
+      status,
+    });
+  }
+
+  // Soonest first, with anything already listed pushed to the end.
+  const rank = { open: 0, allotment: 1, listing: 2, upcoming: 3, closed: 4, listed: 5 };
+  out.sort((a, b) => {
+    const r = (rank[a.status] ?? 9) - (rank[b.status] ?? 9);
+    return r !== 0 ? r : (a.open || a.close).localeCompare(b.open || b.close);
+  });
+  if (!out.length) throw new Error('calendar: nothing to build');
+  return out;
+}
+
+// ---------------------------------------------------------------------------
 // Market / IPO news — aggregated from publisher RSS feeds (syndication-safe)
 // ---------------------------------------------------------------------------
 const RSS_FEEDS = [
@@ -859,9 +1116,20 @@ async function main() {
   const now = new Date().toISOString();
   let hardFail = false;
 
-  for (const feature of FEATURES) {
+  /// Rows of each successful feed, so derived feeds (the calendar) can reuse
+  /// them instead of re-fetching the same pages.
+  const collected = {};
+
+  const allFeatures = [
+    ...FEATURES,
+    // Derived — must run last; reads `collected`.
+    { name: 'calendar', derived: true, sources: [{ name: 'derived', run: () => buildCalendar(collected) }] },
+  ];
+
+  for (const feature of allFeatures) {
     const file = new URL(`./${feature.name}.json`, OUT_DIR);
     const { items, source, errors } = await runFeature(feature);
+    if (items) collected[feature.name] = items;
 
     if (items) {
       await writeFile(
@@ -923,7 +1191,7 @@ async function main() {
   await writeFile(
     new URL('./index.json', OUT_DIR),
     JSON.stringify(
-      { updatedAt: now, feeds: FEATURES.map((f) => f.name), status },
+      { updatedAt: now, feeds: allFeatures.map((f) => f.name), status },
       null,
       2,
     ),

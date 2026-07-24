@@ -24,16 +24,45 @@ Each JSON includes a `"source"` field naming which site the data came from.
 Each feed tries multiple sources **in order** — if a primary site blocks our IP
 or changes layout, the backup keeps the app working with **no app update**:
 
-| Feed | Primary | Backup |
-|------|---------|--------|
-| gmp / upcoming_mainboard / upcoming_sme | ipowatch.in | investorgain JSON API |
-| gainers / losers | 5paisa | NSE JSON API |
-| ipo_reviews / stocks_today / penny / intraday | (5paisa/ipowatch only — no clean equivalent; the app also falls back to scraping on the user's own device) | — |
+| Feed | Primary | Backups |
+|------|---------|---------|
+| gmp | ipowatch.in | ipoji.com |
+| upcoming_mainboard | ipowatch.in | NSE `all-upcoming-issues` → ipoji.com |
+| upcoming_sme | ipowatch.in | ipoji.com |
+| gainers / losers | 5paisa | NSE `live-analysis-variations` |
+| week52_high / week52_low | 5paisa | NSE `live-analysis-data-52week*` |
+| subscription | NSE `ipo-current-issue` + `ipo-active-category` | — |
+| bulk_deals / indices | NSE | — |
+| listing | ipowatch.in | — |
+| news | publisher RSS (ET, Moneycontrol, Livemint, Business Standard) | — |
+| ipo_reviews / stocks_today / penny / intraday | ipowatch / 5paisa (no clean equivalent; the app also falls back to scraping on the user's own device) | — |
 
-- First source that returns rows wins.
+- First source that returns rows wins; the winner is recorded in the JSON's
+  `"source"` field.
 - If **all** sources fail, the JSON is **left unchanged** (app keeps last-good).
 - Test the backups locally: `FORCE_BACKUP=1 npm run scrape` (drops each
   feed's primary so the backups run).
+
+> **Note — investorgain was removed (July 2026).** Its report API
+> (`webnodejs.investorgain.com/cloud/report/data-read/...`) was retired and now
+> answers every request with `{"msg":"API not found"}`; the site renders its
+> tables with JavaScript, so it can't be scraped statically either. It used to
+> be the *only* source for `subscription`, which silently served stale data for
+> 16 days before this was caught — hence the staleness alerting below.
+
+## Knowing when a feed breaks
+
+Silent staleness was the real failure mode, so the job now reports it:
+
+- `docs/data/index.json` carries a **`status`** block — per feed: `ok`, which
+  source won, row count, and `staleHours` + the per-source error messages when
+  everything failed. Open it to see health at a glance.
+- Every run emits GitHub **annotations**: a warning when a feed had to fall back
+  to a backup (primary is broken — fix it before the backup breaks too), and
+  when a feed couldn't refresh at all.
+- The job **fails** (red ❌) only when a feed is genuinely unusable: no data file
+  at all, or all sources failing for more than **48h** (`STALE_FAIL_HOURS` in
+  `scrape.js`). One flaky scrape won't page you; a dead source will.
 
 ## One-time setup (≈5 minutes)
 
@@ -64,3 +93,14 @@ edit `scrape.js` here — no app update needed.
 npm install
 npm run scrape      # writes docs/data/*.json
 ```
+
+## Re-running a run in the Actions tab
+
+Safe to do. The commit step pushes with `git push origin HEAD:main` and, if the
+push is rejected, rebases onto the current `origin/main` and retries (3×).
+
+That matters because **re-running an old run checks out that run's original
+commit** — so without the rebase the push is a non-fast-forward and the job goes
+red even though the scrape succeeded. (That was the failure on run #171.)
+`fetch-depth: 0` on checkout exists for the same reason — a shallow clone
+can't rebase.

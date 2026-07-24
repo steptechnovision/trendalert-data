@@ -27,6 +27,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full history so the push step below can rebase onto origin/main.
+          # (A shallow clone can't rebase, which made re-runs fail.)
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -40,12 +44,37 @@ jobs:
 
       - name: Commit updated data
         run: |
+          set -u
           git config user.name "data-bot"
           git config user.email "actions@users.noreply.github.com"
+
           git add docs/data
           if git diff --quiet --cached; then
             echo "No data changes."
-          else
-            git commit -m "data: update $(date -u +%FT%TZ)"
-            git push
+            exit 0
           fi
+          git commit -m "data: update $(date -u +%FT%TZ)"
+
+          # Re-running an OLD run checks out that run's (stale) commit, and a
+          # scheduled run can also race a concurrent push. Either way a plain
+          # `git push` is rejected as non-fast-forward, which used to fail the
+          # job. Rebase our data commit onto the current main and retry.
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              echo "Pushed on attempt $attempt."
+              exit 0
+            fi
+            echo "Push rejected (attempt $attempt) — rebasing onto origin/main…"
+            git fetch origin main || true
+            # Our commit only ever touches docs/data, so on the rare content
+            # conflict the freshly-scraped copy is the one we want. During a
+            # rebase "theirs" is the commit being replayed — i.e. ours.
+            if ! git rebase -X theirs origin/main; then
+              git rebase --abort || true
+              echo "::warning::rebase failed; retrying from a clean fetch"
+            fi
+            sleep $((attempt * 5))
+          done
+
+          echo "::error::could not push data after 3 attempts"
+          exit 1

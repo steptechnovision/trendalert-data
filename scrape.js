@@ -11,7 +11,7 @@
 //  - every source is wrapped; one throwing never stops the others.
 
 import { load } from 'cheerio';
-import { writeFile, mkdir } from 'node:fs/promises';
+import { writeFile, readFile, mkdir } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 
 const OUT_DIR = new URL('./docs/data/', import.meta.url);
@@ -30,21 +30,36 @@ const firstNum = (s) => {
 // Fetch helpers
 // ---------------------------------------------------------------------------
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+// fetch + 2 retries with backoff. Source sites (and NSE especially) drop the
+// odd connection; a single blip should not cost us a whole feed.
+async function fetchRetry(url, options, tries = 3) {
+  let lastErr;
+  for (let i = 0; i < tries; i++) {
+    try {
+      const res = await fetch(url, { redirect: 'follow', ...options });
+      if (!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
+      return res;
+    } catch (e) {
+      lastErr = e;
+      if (i < tries - 1) await sleep(1200 * (i + 1));
+    }
+  }
+  throw lastErr;
+}
+
 async function getHtml(url) {
-  const res = await fetch(url, {
+  const res = await fetchRetry(url, {
     headers: { 'User-Agent': UA, Accept: 'text/html' },
-    redirect: 'follow',
   });
-  if (!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
   return load(await res.text());
 }
 
 async function getJson(url, headers = {}) {
-  const res = await fetch(url, {
+  const res = await fetchRetry(url, {
     headers: { 'User-Agent': DESKTOP_UA, Accept: 'application/json', ...headers },
-    redirect: 'follow',
   });
-  if (!res.ok) throw new Error(`HTTP ${res.status} ${url}`);
   return res.json();
 }
 
@@ -114,69 +129,97 @@ function splitDate(raw) {
 
 const absIpowatch = (u) =>
   !u ? '' : u.startsWith('http') ? u : `https://ipowatch.in${u}`;
-const absInvestorgain = (u) =>
-  !u ? '' : u.startsWith('http') ? u : `https://www.investorgain.com${u}`;
 
 // ---------------------------------------------------------------------------
-// investorgain JSON API (backup for all IPO feeds)
+// ipoji.com — server-rendered GMP table (backup for gmp / upcoming feeds)
 // ---------------------------------------------------------------------------
+//
+// Columns: IPO | Type | Price Band | GMP (₹) | GMP % | Indicative Listing |
+//          Open – Close | Status | Last Updated
+// The name cell reads "<Name> IPO <Type> <Status>" (type/status are badges),
+// so we strip those suffixes to get a clean name comparable to ipowatch's.
 
-async function investorgainReport(reportId, filter) {
-  const now = new Date();
-  const y = now.getFullYear();
-  const m = now.getMonth() + 1;
-  const fyStart = m >= 4 ? y : y - 1;
-  const fy = (s) => `${s}-${String((s + 1) % 100).padStart(2, '0')}`;
-  // Try a few year/FY combos for robustness around the financial-year boundary.
-  const combos = [
-    [y, fy(fyStart)],
-    [y, fy(fyStart - 1)],
-    [y - 1, fy(fyStart - 1)],
-    [y + 1, fy(fyStart)],
-  ];
-  for (const [cy, f] of combos) {
-    try {
-      const url = `https://webnodejs.investorgain.com/cloud/report/data-read/${reportId}/1/1/${cy}/${f}/0/${filter}`;
-      const data = await getJson(url, {
-        Referer: 'https://www.investorgain.com/',
-      });
-      const rows = data && data.msg === 1 ? data.reportTableData || [] : [];
-      if (rows.length) return rows;
-    } catch (_) {
-      /* try next combo */
-    }
-  }
-  throw new Error(`investorgain ${reportId}: no data for any FY combo`);
+const MONTHS_SHORT = {
+  jan: 'Jan', feb: 'Feb', mar: 'Mar', apr: 'Apr', may: 'May', jun: 'Jun',
+  jul: 'Jul', aug: 'Aug', sep: 'Sep', oct: 'Oct', nov: 'Nov', dec: 'Dec',
+};
+
+// "Jul 22, 2026" -> "22 Jul"  (matches the ipowatch-style short dates)
+function shortDate(raw) {
+  const m = norm(raw).match(/([A-Za-z]{3,9})\s+(\d{1,2})/);
+  if (!m) return norm(raw);
+  const mon = MONTHS_SHORT[m[1].slice(0, 3).toLowerCase()];
+  return mon ? `${m[2]} ${mon}` : norm(raw);
 }
 
-// investorgain subscription report (333) → category-wise live subscription.
-async function investorgainSub() {
-  const rows = await investorgainReport(333, 'all');
+function ipojiCleanName(cell, type, status) {
+  let n = norm(cell);
+  for (const suffix of [status, type, 'IPO']) {
+    if (!suffix) continue;
+    const re = new RegExp(`\\s*${suffix.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\s*$`, 'i');
+    n = n.replace(re, '').trim();
+  }
+  return n;
+}
+
+async function ipojiRows() {
+  const rows = await scrapeTable(
+    'https://ipoji.com/ipo-gmp',
+    ['gmp'],
+    {
+      title: ['ipo'],
+      type: ['type'],
+      price: ['price band', 'price'],
+      gmp: ['gmp (', 'gmp'],
+      gain: ['gmp %', '%'],
+      dates: ['open', 'close'],
+      status: ['status'],
+    },
+    'title',
+  );
   return rows
     .map((r) => {
-      const $n = load(`<div>${r.Name || ''}</div>`);
-      const a = $n('a').first();
-      const name =
-        norm(a.text()) || norm($n.root().text()).split('  ')[0];
-      const badge = norm($n('span').map((_, e) => $n(e).text()).get().join(' '));
-      const isSme = /sme/i.test(badge) || /sme/i.test(r.Name || '');
+      const type = norm(r.type);
+      const status = norm(r.status);
+      const title = ipojiCleanName(r.title, type, status);
+      // "+₹10 (+14%)" -> gmp "₹10"; "—" -> ''
+      const gmpNum = firstNum(r.gmp);
+      const gmp = gmpNum && gmpNum !== '0' ? `₹${gmpNum.replace('-', '')}` : '';
+      // "(+14%)" -> "14%", "(-3%)" -> "-3%", "—" -> ''
+      const pct = norm(r.gain).replace(/[()+]/g, '').trim();
+      const gain = /\d/.test(pct) ? pct : '';
+      const parts = norm(r.dates).split(/[–—-]/);
       return {
-        name,
-        total: firstNum(r.Total),
-        qib: norm(r.QIB),
-        shni: norm(r.SHNI),
-        bhni: norm(r.BHNI),
-        nii: norm(r.NII),
-        rii: norm(r.RII),
-        ipoSize: norm(load(`<x>${r['IPO Size'] || ''}</x>`).text())
-          .replace(/^Rs\s*/, '₹'),
-        price: norm(r['IPO Price']),
-        closeDate: norm(r['Close Date']),
-        type: isSme ? 'SME' : 'Mainboard',
-        url: absInvestorgain(a.attr('href') || ''),
+        title,
+        gmp: norm(r.gmp).startsWith('-') && gmp ? `-${gmp}` : gmp,
+        gain,
+        price: norm(r.price),
+        openDate: parts[0] ? shortDate(parts[0]) : '',
+        closeDate: parts[1] ? shortDate(parts[1]) : '',
+        type: type || 'Mainboard',
+        status,
+        url: 'https://ipoji.com/ipo-gmp',
       };
     })
-    .filter((x) => x.name && !/^[-\s]*$/.test(x.name));
+    .filter((x) => x.title && x.title.length > 1);
+}
+
+const ipojiGmp = async () => (await ipojiRows()).map(({ status, ...r }) => r);
+
+// Upcoming/open IPOs from ipoji, split by board. `sme=true` keeps SME rows.
+async function ipojiUpcoming(sme) {
+  return (await ipojiRows())
+    .filter((r) => /sme/i.test(r.type) === !!sme)
+    .filter((r) => !/listed|closed/i.test(r.status))
+    .map((r) => ({
+      title: r.title,
+      openDate: r.openDate,
+      closeDate: r.closeDate,
+      size: '',
+      priceBand: r.price,
+      type: r.type,
+      url: r.url,
+    }));
 }
 
 // 5paisa 52-week high/low list page.
@@ -192,43 +235,8 @@ async function paisa52(url) {
   });
 }
 
-// Parses one investorgain row into our IPO shape.
-function igParse(row) {
-  const $n = load(`<div>${row.Name || ''}</div>`);
-  const a = $n('a').first();
-  const title = norm(a.text()) || norm($n.root().text()).split('  ')[0];
-  const url = absInvestorgain(a.attr('href') || '');
-  const badge = norm($n('span').map((_, e) => $n(e).text()).get().join(' '));
-  const isSme = /sme/i.test(badge) || /sme/i.test(row.Name || '');
-
-  const gmpText = norm(load(`<div>${row.GMP || ''}</div>`).root().text());
-  // "₹ 52 (50.49%) ..." -> gmp "₹52", gain "50.49%"
-  const gmpNum = firstNum(gmpText.split('(')[0]);
-  const pctM = gmpText.match(/\(([-\d.]+)%\)/);
-  const gmp = gmpNum && gmpNum !== '0' ? `₹${gmpNum}` : '';
-  const gain = pctM ? `${pctM[1]}%` : '';
-
-  const price = firstNum(row['Price (₹)']);
-  const cleanDate = (s) => {
-    const t = norm(s).match(/^\d{1,2}[- ]?[A-Za-z]{0,9}/);
-    return t ? t[0].replace(/\s+$/, '') : '';
-  };
-  return {
-    title,
-    gmp,
-    gain,
-    price: price ? `₹${price}` : '',
-    openDate: cleanDate(row.Open),
-    closeDate: cleanDate(row.Close),
-    size: norm(row['IPO Size']) === '-' ? '' : norm(row['IPO Size']),
-    type: isSme ? (badge.includes('NSE') ? 'NSE SME' : 'BSE SME') : 'Mainboard',
-    url,
-    _sme: isSme,
-  };
-}
-
 // ---------------------------------------------------------------------------
-// NSE gainers/losers JSON API (backup for movers)
+// NSE JSON APIs (movers, 52-week, bulk deals, indices, live IPO subscription)
 // ---------------------------------------------------------------------------
 
 // NSE needs a cookie handshake from the homepage first; we cache it per run.
@@ -285,6 +293,141 @@ async function nse52(kind) {
     dayLow: '',
     dayHigh: '',
     volume: '',
+  }));
+}
+
+// --- Live IPO subscription (category-wise) --------------------------------
+//
+// `ipo-current-issue` lists the issues open for bidding right now; for each we
+// pull `ipo-active-category` (freshest, updated through the day) and fall back
+// to `ipo-detail` for the category split. Rows survive with just the total if
+// the per-symbol call fails, so one bad symbol never empties the feed.
+
+const NSE_CAT = {
+  qib: /qualified institutional/i,
+  nii: /^non institutional investors$/i,
+  bhni: /bid amount of more than ten lakh/i,
+  shni: /bid amount of more than two lakh/i,
+  rii: /retail individual/i,
+};
+
+const seriesType = (series) => {
+  const s = norm(series).toUpperCase();
+  if (s === 'SME' || s === 'SM' || s === 'ST') return 'SME';
+  if (s === 'IV' || s === 'IT') return 'InvIT';
+  return 'Mainboard';
+};
+
+// "2.2942809284517827" -> "2.29"; "" -> ""
+const xTimes = (v) => {
+  const d = Number(norm(v));
+  return norm(v) === '' || !isFinite(d) ? '' : d.toFixed(2);
+};
+
+async function nseCategories(symbol, series) {
+  const tryOne = async (path, listKey, catKey, timesKey) => {
+    const data = await nseGet(path);
+    const list = (data && data[listKey]) || [];
+    const out = {};
+    for (const row of list) {
+      const cat = norm(row[catKey]);
+      if (!cat || cat.toLowerCase() === 'category') continue; // header row
+      const times = xTimes(row[timesKey]);
+      if (/^total$/i.test(cat)) {
+        out.total = times;
+        continue;
+      }
+      for (const [key, re] of Object.entries(NSE_CAT)) {
+        if (re.test(cat) && !out[key]) out[key] = times;
+      }
+    }
+    return out;
+  };
+
+  try {
+    return await tryOne(
+      `ipo-active-category?symbol=${encodeURIComponent(symbol)}&series=${encodeURIComponent(series)}`,
+      'dataList',
+      'category',
+      'noOfTotalMeant',
+    );
+  } catch (_) {
+    try {
+      return await tryOne(
+        `ipo-detail?symbol=${encodeURIComponent(symbol)}&series=${encodeURIComponent(series)}`,
+        'bidDetails',
+        'category',
+        'noOfTime',
+      );
+    } catch (_) {
+      return {};
+    }
+  }
+}
+
+async function nseSubscription() {
+  const active = await nseGet('ipo-current-issue');
+  if (!Array.isArray(active) || !active.length) {
+    throw new Error('nse: no active issues');
+  }
+
+  // One row per symbol (the endpoint repeats a symbol per category).
+  const bySymbol = new Map();
+  for (const r of active) {
+    const sym = norm(r.symbol);
+    if (!sym) continue;
+    if (!bySymbol.has(sym)) bySymbol.set(sym, r);
+    if (/^total$/i.test(norm(r.category))) bySymbol.set(sym, r);
+  }
+
+  const out = [];
+  for (const [sym, r] of bySymbol) {
+    const cats = await nseCategories(sym, norm(r.series) || 'EQ');
+    const shares = Number(norm(r.issueSize));
+    out.push({
+      name: norm(r.companyName) || sym,
+      symbol: sym,
+      total: cats.total || xTimes(r.noOfTime),
+      qib: cats.qib || '',
+      shni: cats.shni || '',
+      bhni: cats.bhni || '',
+      nii: cats.nii || '',
+      rii: cats.rii || '',
+      ipoSize: isFinite(shares) && shares > 0 ? `${shares.toLocaleString('en-IN')} shares` : '',
+      price: norm(r.issuePrice).replace(/Rs\.?\s*/gi, '₹'),
+      closeDate: nseDate(r.issueEndDate),
+      type: seriesType(r.series),
+      url: '',
+    });
+    await sleep(250); // be polite to NSE
+  }
+  if (!out.length) throw new Error('nse: no subscription rows');
+  return out;
+}
+
+// "27-Jul-2026" -> "27 Jul" (same short form the ipowatch feeds produce).
+const nseDate = (raw) => {
+  const m = norm(raw).match(/^(\d{1,2})-([A-Za-z]{3})/);
+  return m ? `${m[1]} ${MONTHS_SHORT[m[2].toLowerCase()] || m[2]}` : norm(raw);
+};
+
+const sharesLabel = (v) => {
+  const n = Number(norm(v));
+  return isFinite(n) && n > 0 ? `${n.toLocaleString('en-IN')} shares` : norm(v);
+};
+
+// Upcoming mainboard/SME issues (backup for the ipowatch upcoming feeds).
+async function nseUpcoming(category) {
+  const arr = await nseGet(`all-upcoming-issues?category=${category}`);
+  if (!Array.isArray(arr) || !arr.length) throw new Error('nse: no upcoming issues');
+  return arr.map((r) => ({
+    title: norm(r.companyName) || norm(r.symbol),
+    openDate: nseDate(r.issueStartDate),
+    closeDate: nseDate(r.issueEndDate),
+    size: sharesLabel(r.issueSize),
+    priceBand: norm(r.issuePrice).replace(/Rs\.?\s*/gi, '₹'),
+    type: seriesType(r.series),
+    url: '',
   }));
 }
 
@@ -483,10 +626,7 @@ const FEATURES = [
           });
         },
       },
-      {
-        name: 'investorgain',
-        run: async () => (await investorgainReport(331, 'all')).map(igParse),
-      },
+      { name: 'ipoji', run: () => ipojiGmp() },
     ],
   },
   {
@@ -496,14 +636,8 @@ const FEATURES = [
         name: 'ipowatch',
         run: () => ipowatchUpcoming('https://ipowatch.in/upcoming-ipo-list/', 'Mainboard'),
       },
-      {
-        name: 'investorgain',
-        run: async () =>
-          (await investorgainReport(331, 'ipo'))
-            .map(igParse)
-            .filter((x) => !x._sme)
-            .map(toUpcoming),
-      },
+      { name: 'nse', run: () => nseUpcoming('ipo') },
+      { name: 'ipoji', run: () => ipojiUpcoming(false) },
     ],
   },
   {
@@ -513,11 +647,7 @@ const FEATURES = [
         name: 'ipowatch',
         run: () => ipowatchUpcoming('https://ipowatch.in/upcoming-sme-ipo-list/', null),
       },
-      {
-        name: 'investorgain',
-        run: async () =>
-          (await investorgainReport(331, 'sme')).map(igParse).map(toUpcoming),
-      },
+      { name: 'ipoji', run: () => ipojiUpcoming(true) },
     ],
   },
   {
@@ -620,7 +750,7 @@ const FEATURES = [
   },
   {
     name: 'subscription',
-    sources: [{ name: 'investorgain', run: () => investorgainSub() }],
+    sources: [{ name: 'nse', run: () => nseSubscription() }],
   },
   {
     name: 'indices',
@@ -665,18 +795,6 @@ async function ipowatchUpcoming(url, forcedType) {
   });
 }
 
-function toUpcoming(x) {
-  return {
-    title: x.title,
-    openDate: x.openDate,
-    closeDate: x.closeDate,
-    size: x.size,
-    priceBand: x.price,
-    type: x.type,
-    url: x.url,
-  };
-}
-
 const paisa5 = (url, kw, cols) => scrapeTable(url, kw, cols);
 
 async function paisaMovers(url) {
@@ -696,66 +814,128 @@ async function paisaMovers(url) {
 // ---------------------------------------------------------------------------
 
 async function runFeature(feature) {
+  const errors = [];
   for (const source of feature.sources) {
     try {
       const items = await source.run();
       if (Array.isArray(items) && items.length) {
-        // strip internal helper keys
-        const clean = items.map(({ _sme, ...rest }) => rest);
-        return { items: clean, source: source.name };
+        return { items, source: source.name, errors };
       }
+      errors.push(`${source.name}: 0 rows`);
+      console.log(`   · ${feature.name}/${source.name}: 0 rows`);
     } catch (e) {
+      errors.push(`${source.name}: ${e.message}`);
       console.log(`   · ${feature.name}/${source.name}: ${e.message}`);
     }
   }
-  return null;
+  return { items: null, source: null, errors };
+}
+
+/// How stale a kept-previous feed may get before we shout about it (hours).
+const STALE_WARN_HOURS = 6;
+const STALE_FAIL_HOURS = 48;
+
+/// Age in hours of the file already on disk, or null if there isn't one.
+async function fileAgeHours(file) {
+  if (!existsSync(file)) return null;
+  try {
+    const prev = JSON.parse(await readFile(file, 'utf8'));
+    const t = Date.parse(prev.updatedAt);
+    return isNaN(t) ? null : (Date.now() - t) / 3600000;
+  } catch (_) {
+    return null;
+  }
 }
 
 async function main() {
   await mkdir(OUT_DIR, { recursive: true });
   // Test hook: FORCE_BACKUP=1 drops each feed's primary source so we exercise
-  // the backups (investorgain / NSE). Harmless in production (env unset).
+  // the backups (NSE / ipoji). Harmless in production (env unset).
   if (process.env.FORCE_BACKUP) {
     for (const f of FEATURES) if (f.sources.length > 1) f.sources.shift();
   }
   const summary = [];
+  const status = {};
+  const now = new Date().toISOString();
+  let hardFail = false;
 
   for (const feature of FEATURES) {
     const file = new URL(`./${feature.name}.json`, OUT_DIR);
-    const result = await runFeature(feature);
-    if (result) {
+    const { items, source, errors } = await runFeature(feature);
+
+    if (items) {
       await writeFile(
         file,
         JSON.stringify(
-          {
-            updatedAt: new Date().toISOString(),
-            source: result.source,
-            count: result.items.length,
-            items: result.items,
-          },
+          { updatedAt: now, source, count: items.length, items },
           null,
           2,
         ),
       );
-      summary.push(`✅ ${feature.name}: ${result.items.length} (via ${result.source})`);
+      status[feature.name] = { ok: true, source, count: items.length, updatedAt: now };
+      const viaBackup = source !== feature.sources[0].name;
+      summary.push(
+        `✅ ${feature.name}: ${items.length} (via ${source}${viaBackup ? ' — BACKUP' : ''})`,
+      );
+      if (viaBackup) {
+        // Primary is broken but the feed still works — worth knowing before the
+        // backup breaks too.
+        console.log(
+          `::warning title=${feature.name} primary source failed::` +
+            `fell back to "${source}". ${errors.join('; ')}`,
+        );
+      }
+      continue;
+    }
+
+    // Every source failed — keep the last-good file, but make the age visible.
+    const ageH = await fileAgeHours(file);
+    const age = ageH == null ? null : Math.round(ageH * 10) / 10;
+    status[feature.name] = {
+      ok: false,
+      source: null,
+      staleHours: age,
+      errors,
+      updatedAt: null,
+    };
+
+    if (ageH == null) {
+      hardFail = true;
+      console.log(
+        `::error title=${feature.name} has no data::all sources failed and no previous file exists. ${errors.join('; ')}`,
+      );
+      summary.push(`❌ ${feature.name}: all sources failed (NO PREVIOUS FILE!)`);
+    } else if (ageH >= STALE_FAIL_HOURS) {
+      hardFail = true;
+      console.log(
+        `::error title=${feature.name} is ${age}h stale::all sources failed for over ${STALE_FAIL_HOURS}h. ${errors.join('; ')}`,
+      );
+      summary.push(`❌ ${feature.name}: all sources failed — data is ${age}h old`);
     } else {
-      const kept = existsSync(file) ? 'kept previous' : 'NO PREVIOUS!';
-      summary.push(`⚠️  ${feature.name}: all sources failed (${kept})`);
+      const level = ageH >= STALE_WARN_HOURS ? 'warning' : 'notice';
+      console.log(
+        `::${level} title=${feature.name} not updated::all sources failed; serving ${age}h-old data. ${errors.join('; ')}`,
+      );
+      summary.push(`⚠️  ${feature.name}: all sources failed (kept previous, ${age}h old)`);
     }
   }
 
   await writeFile(
     new URL('./index.json', OUT_DIR),
     JSON.stringify(
-      {
-        updatedAt: new Date().toISOString(),
-        feeds: FEATURES.map((f) => f.name),
-      },
+      { updatedAt: now, feeds: FEATURES.map((f) => f.name), status },
       null,
       2,
     ),
   );
-  console.log(summary.join('\n'));
+  console.log(`\n${summary.join('\n')}`);
+
+  // Exit non-zero only when a feed is genuinely unusable (no data at all, or
+  // stale beyond STALE_FAIL_HOURS) — a single flaky scrape shouldn't page you.
+  if (hardFail) {
+    console.log('\n::error::one or more feeds are unusable — see annotations above');
+    process.exit(1);
+  }
 }
 
 main().catch((e) => {

@@ -1,125 +1,8 @@
 {
-  "updatedAt": "2026-07-23T19:22:02.567Z",
+  "updatedAt": "2026-07-24T05:23:30.664Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "JIAUM BROKING LLP",
-      "buySell": "BUY",
-      "qty": "361203",
-      "price": "101.4",
-      "date": "23-Jul-2026"
-    },
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "QICAP MARKETS LLP",
-      "buySell": "BUY",
-      "qty": "268791",
-      "price": "102.74",
-      "date": "23-Jul-2026"
-    },
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "411825",
-      "price": "102.1",
-      "date": "23-Jul-2026"
-    },
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "3570216",
-      "price": "102.9",
-      "date": "23-Jul-2026"
-    },
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "MATHISYS QUANTCAP LLP",
-      "buySell": "BUY",
-      "qty": "783180",
-      "price": "102.51",
-      "date": "23-Jul-2026"
-    },
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "RIDDHI SIDDHI INTERNATIONAL",
-      "buySell": "BUY",
-      "qty": "510193",
-      "price": "103.17",
-      "date": "23-Jul-2026"
-    },
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "971383",
-      "price": "102.66",
-      "date": "23-Jul-2026"
-    },
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "IRAGE BROKING SERVICES LLP",
-      "buySell": "BUY",
-      "qty": "372697",
-      "price": "103.1",
-      "date": "23-Jul-2026"
-    },
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "RATHOD DIGVIJAYSINH RAJENDRASINH",
-      "buySell": "BUY",
-      "qty": "470000",
-      "price": "101.58",
-      "date": "23-Jul-2026"
-    },
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "PRRSAAR COMMODITIES PVT LTD",
-      "buySell": "BUY",
-      "qty": "220151",
-      "price": "103.03",
-      "date": "23-Jul-2026"
-    },
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "CHAUBARA EATS PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "500000",
-      "price": "100.52",
-      "date": "23-Jul-2026"
-    },
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "L7 HITECH PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1114194",
-      "price": "101.93",
-      "date": "23-Jul-2026"
-    },
-    {
-      "symbol": "AASTHA",
-      "name": "Aastha Spintex Limited",
-      "clientName": "SETU SECURITIES PVT LTD",
-      "buySell": "BUY",
-      "qty": "3",
-      "price": "97.67",
-      "date": "23-Jul-2026"
-    },
     {
       "symbol": "AASTHA",
       "name": "Aastha Spintex Limited",
@@ -721,6 +604,123 @@
       "buySell": "SELL",
       "qty": "223253",
       "price": "103.4",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "RATHOD DIGVIJAYSINH RAJENDRASINH",
+      "buySell": "SELL",
+      "qty": "653624",
+      "price": "101.6",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "IRAGE BROKING SERVICES LLP",
+      "buySell": "SELL",
+      "qty": "423956",
+      "price": "101.88",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "1026752",
+      "price": "102.93",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "MATHISYS QUANTCAP LLP",
+      "buySell": "SELL",
+      "qty": "999731",
+      "price": "102.48",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "3308924",
+      "price": "102.2",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "362848",
+      "price": "102.45",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "QICAP MARKETS LLP",
+      "buySell": "SELL",
+      "qty": "268791",
+      "price": "102.78",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "JIAUM BROKING LLP",
+      "buySell": "SELL",
+      "qty": "361203",
+      "price": "101.25",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "500000",
+      "price": "100.52",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "AGIIL",
+      "name": "Agi Infra Limited",
+      "clientName": "THAKKAR NILESHKUMAR FARSHURAM HUF",
+      "buySell": "SELL",
+      "qty": "725",
+      "price": "320.5",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "AGIIL",
+      "name": "Agi Infra Limited",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "SELL",
+      "qty": "1512514",
+      "price": "320.46",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "ARENTERP",
+      "name": "Rajdharshan Inds Ltd",
+      "clientName": "TRISHMA",
+      "buySell": "SELL",
+      "qty": "19989",
+      "price": "49.23",
+      "date": "23-Jul-2026"
+    },
+    {
+      "symbol": "ARENTERP",
+      "name": "Rajdharshan Inds Ltd",
+      "clientName": "BONANZA PORTFOLIO LTD",
+      "buySell": "SELL",
+      "qty": "14463",
+      "price": "49.08",
       "date": "23-Jul-2026"
     }
   ]

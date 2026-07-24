@@ -5,7 +5,8 @@
   "type": "module",
   "description": "Scrapes IPO/stock sources once and publishes cached JSON for the app (GitHub Actions, free).",
   "scripts": {
-    "scrape": "node scrape.js"
+    "scrape": "node scrape.js",
+    "check-health": "node check-health.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0"

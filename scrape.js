@@ -1198,11 +1198,18 @@ async function main() {
   );
   console.log(`\n${summary.join('\n')}`);
 
-  // Exit non-zero only when a feed is genuinely unusable (no data at all, or
-  // stale beyond STALE_FAIL_HOURS) — a single flaky scrape shouldn't page you.
+  // NOTE: we deliberately exit 0 even when a feed is unusable.
+  //
+  // Failing here would abort the job *before* the commit step, so one flaky
+  // feed would block publishing the other fifteen that scraped perfectly —
+  // a brand-new feed failing on its first run could take the whole site down
+  // with it. The health check runs after the commit instead (see
+  // `npm run check-health` in scrape.yml), so bad news still turns the build
+  // red, but only once the good data is safely published.
   if (hardFail) {
-    console.log('\n::error::one or more feeds are unusable — see annotations above');
-    process.exit(1);
+    console.log(
+      '\n::notice::one or more feeds are unusable — the health check after commit will fail the job',
+    );
   }
 }
 

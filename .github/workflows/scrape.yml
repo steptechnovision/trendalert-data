@@ -78,3 +78,9 @@ jobs:
 
           echo "::error::could not push data after 3 attempts"
           exit 1
+
+      # Runs last, on purpose: the data is already committed and live by now,
+      # so a broken feed turns the build red without ever blocking the healthy
+      # feeds from publishing.
+      - name: Check feed health
+        run: npm run check-health

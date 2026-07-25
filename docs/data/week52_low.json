@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T16:31:23.277Z",
+  "updatedAt": "2026-07-25T17:38:29.143Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -292,6 +292,15 @@
       "volume": "82,583"
     },
     {
+      "name": "Flair Writing",
+      "week52": "357",
+      "ltp": "252.85",
+      "gainPct": "3.0 %",
+      "dayLow": "242.90",
+      "dayHigh": "356.95",
+      "volume": "78,394"
+    },
+    {
       "name": "Orchasp Ltd",
       "week52": "4.16",
       "ltp": "1.59",
@@ -335,15 +344,6 @@
       "dayLow": "44.00",
       "dayHigh": "0.00",
       "volume": "6,200"
-    },
-    {
-      "name": "Flair Writing",
-      "week52": "357",
-      "ltp": "252.85",
-      "gainPct": "3.0 %",
-      "dayLow": "242.90",
-      "dayHigh": "356.95",
-      "volume": "78,394"
     },
     {
       "name": "Frontier Springs",
@@ -418,33 +418,6 @@
       "volume": "16,400"
     },
     {
-      "name": "Prism Johnson",
-      "week52": "176",
-      "ltp": "108.02",
-      "gainPct": "0.0 %",
-      "dayLow": "106.01",
-      "dayHigh": "172.15",
-      "volume": "89,164"
-    },
-    {
-      "name": "Aqylon Nexus",
-      "week52": "224.7",
-      "ltp": "26.25",
-      "gainPct": "-5.0 %",
-      "dayLow": "26.25",
-      "dayHigh": "226.00",
-      "volume": "1,012,703"
-    },
-    {
-      "name": "SBI Funds Mgt.",
-      "week52": "624.95",
-      "ltp": "587.30",
-      "gainPct": "1.7 %",
-      "dayLow": "572.00",
-      "dayHigh": "625.00",
-      "volume": "6,738,164"
-    },
-    {
       "name": "Pentagon Rubber",
       "week52": "99.5",
       "ltp": "53.95",
@@ -452,6 +425,33 @@
       "dayLow": "49.15",
       "dayHigh": "0.00",
       "volume": "2,000"
+    },
+    {
+      "name": "Vinit Mobile",
+      "week52": "155",
+      "ltp": "64.50",
+      "gainPct": "-4.9 %",
+      "dayLow": "64.50",
+      "dayHigh": "0.00",
+      "volume": "179,200"
+    },
+    {
+      "name": "Kotak Nifty Private Bank",
+      "week52": "28.29",
+      "ltp": "27.44",
+      "gainPct": "0.5 %",
+      "dayLow": "27.04",
+      "dayHigh": "0.00",
+      "volume": "22,534"
+    },
+    {
+      "name": "Prism Johnson",
+      "week52": "176",
+      "ltp": "108.02",
+      "gainPct": "0.0 %",
+      "dayLow": "106.01",
+      "dayHigh": "172.15",
+      "volume": "89,164"
     }
   ]
 }

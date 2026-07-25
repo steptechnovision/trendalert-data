@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T05:17:40.592Z",
+  "updatedAt": "2026-07-25T07:29:49.607Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -202,6 +202,33 @@
       "volume": "24,964,652"
     },
     {
+      "name": "Hoac Foods",
+      "week52": "740",
+      "ltp": "738.00",
+      "gainPct": "-0.1 %",
+      "dayLow": "738.00",
+      "dayHigh": "0.00",
+      "volume": "4,875"
+    },
+    {
+      "name": "Bikewo Green",
+      "week52": "64.3",
+      "ltp": "59.25",
+      "gainPct": "-5.0 %",
+      "dayLow": "59.25",
+      "dayHigh": "0.00",
+      "volume": "94,000"
+    },
+    {
+      "name": "Mirae AN EV ETF",
+      "week52": "33",
+      "ltp": "31.79",
+      "gainPct": "0.1 %",
+      "dayLow": "31.33",
+      "dayHigh": "33.23",
+      "volume": "166,314"
+    },
+    {
       "name": "Sona BLW Precis.",
       "week52": "741.65",
       "ltp": "717.95",
@@ -238,42 +265,6 @@
       "volume": "2,647,403"
     },
     {
-      "name": "Hoac Foods",
-      "week52": "740",
-      "ltp": "738.00",
-      "gainPct": "-0.1 %",
-      "dayLow": "738.00",
-      "dayHigh": "0.00",
-      "volume": "4,875"
-    },
-    {
-      "name": "Bikewo Green",
-      "week52": "64.3",
-      "ltp": "59.25",
-      "gainPct": "-5.0 %",
-      "dayLow": "59.25",
-      "dayHigh": "0.00",
-      "volume": "94,000"
-    },
-    {
-      "name": "Mirae AN EV ETF",
-      "week52": "33",
-      "ltp": "31.79",
-      "gainPct": "0.1 %",
-      "dayLow": "31.33",
-      "dayHigh": "33.23",
-      "volume": "166,314"
-    },
-    {
-      "name": "GSP Crop Science",
-      "week52": "557.95",
-      "ltp": "530.50",
-      "gainPct": "-2.9 %",
-      "dayLow": "525.05",
-      "dayHigh": "556.95",
-      "volume": "246,804"
-    },
-    {
       "name": "Rain Industries",
       "week52": "226.8",
       "ltp": "225.23",
@@ -292,6 +283,15 @@
       "volume": "1,478,903"
     },
     {
+      "name": "GSP Crop Science",
+      "week52": "557.95",
+      "ltp": "530.50",
+      "gainPct": "-2.9 %",
+      "dayLow": "525.05",
+      "dayHigh": "556.95",
+      "volume": "246,804"
+    },
+    {
       "name": "Laser Power",
       "week52": "307.52",
       "ltp": "307.52",
@@ -308,6 +308,24 @@
       "dayLow": "46.10",
       "dayHigh": "0.00",
       "volume": "268,515"
+    },
+    {
+      "name": "Kanoria Chem.",
+      "week52": "164.6",
+      "ltp": "160.00",
+      "gainPct": "-0.1 %",
+      "dayLow": "153.00",
+      "dayHigh": "161.85",
+      "volume": "32,309"
+    },
+    {
+      "name": "Kamdhenu",
+      "week52": "36.5",
+      "ltp": "36.14",
+      "gainPct": "3.3 %",
+      "dayLow": "34.00",
+      "dayHigh": "36.60",
+      "volume": "1,445,290"
     },
     {
       "name": "Onemi Technology",
@@ -335,24 +353,6 @@
       "dayLow": "1001.57",
       "dayHigh": "1000.92",
       "volume": "1,697"
-    },
-    {
-      "name": "Kanoria Chem.",
-      "week52": "164.6",
-      "ltp": "160.00",
-      "gainPct": "-0.1 %",
-      "dayLow": "153.00",
-      "dayHigh": "161.85",
-      "volume": "32,309"
-    },
-    {
-      "name": "Kamdhenu",
-      "week52": "36.5",
-      "ltp": "36.14",
-      "gainPct": "3.3 %",
-      "dayLow": "34.00",
-      "dayHigh": "36.60",
-      "volume": "1,445,290"
     },
     {
       "name": "Rubicon Research",
@@ -436,15 +436,6 @@
       "volume": "13,500"
     },
     {
-      "name": "Inv.& Prec.Cast.",
-      "week52": "999",
-      "ltp": "960.00",
-      "gainPct": "1.8 %",
-      "dayLow": "889.00",
-      "dayHigh": "995.00",
-      "volume": "28,627"
-    },
-    {
       "name": "Krishana Phosch.",
       "week52": "163.95",
       "ltp": "162.05",
@@ -452,6 +443,15 @@
       "dayLow": "149.60",
       "dayHigh": "0.00",
       "volume": "3,503,242"
+    },
+    {
+      "name": "SBI-ETF 10Y GILT",
+      "week52": "272.31",
+      "ltp": "263.51",
+      "gainPct": "-0.8 %",
+      "dayLow": "262.90",
+      "dayHigh": "0.00",
+      "volume": "3,215"
     }
   ]
 }

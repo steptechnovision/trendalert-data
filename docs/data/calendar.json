@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-25T09:20:13.068Z",
+  "updatedAt": "2026-07-25T10:49:55.848Z",
   "source": "derived",
-  "count": 65,
+  "count": 66,
   "items": [
     {
       "name": "Indo-MIM",
@@ -135,6 +135,21 @@
       "gmp": "₹217",
       "gain": "",
       "registrar": "MUFG Intime",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "H.R. Hygiene Products",
+      "type": "BSE SME",
+      "open": "2026-07-29",
+      "close": "2026-07-31",
+      "allotment": "2026-08-03",
+      "listing": "2026-08-05",
+      "priceBand": "₹88",
+      "size": "₹53.95 Cr.",
+      "gmp": "₹0",
+      "gain": "",
+      "registrar": "Purvashare",
       "listingGain": "",
       "status": "upcoming"
     },

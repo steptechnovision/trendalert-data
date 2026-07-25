@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T09:20:13.068Z",
+  "updatedAt": "2026-07-25T10:49:55.848Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -292,15 +292,6 @@
       "volume": "82,583"
     },
     {
-      "name": "Flair Writing",
-      "week52": "357",
-      "ltp": "252.85",
-      "gainPct": "3.0 %",
-      "dayLow": "242.90",
-      "dayHigh": "356.95",
-      "volume": "78,394"
-    },
-    {
       "name": "Orchasp Ltd",
       "week52": "4.16",
       "ltp": "1.59",
@@ -346,40 +337,13 @@
       "volume": "6,200"
     },
     {
-      "name": "AKG Exim",
-      "week52": "15.34",
-      "ltp": "10.25",
-      "gainPct": "10.0 %",
-      "dayLow": "9.01",
-      "dayHigh": "0.00",
-      "volume": "77,896"
-    },
-    {
-      "name": "Nirman Agri",
-      "week52": "231",
-      "ltp": "38.30",
-      "gainPct": "-0.4 %",
-      "dayLow": "38.00",
-      "dayHigh": "0.00",
-      "volume": "11,100"
-    },
-    {
-      "name": "Systango Tech",
-      "week52": "411",
-      "ltp": "214.00",
-      "gainPct": "-1.1 %",
-      "dayLow": "202.55",
-      "dayHigh": "0.00",
-      "volume": "16,400"
-    },
-    {
-      "name": "Frontier Springs",
-      "week52": "1869",
-      "ltp": "1328.80",
-      "gainPct": "-1.6 %",
-      "dayLow": "1309.10",
-      "dayHigh": "1870.05",
-      "volume": "18,339"
+      "name": "Flair Writing",
+      "week52": "357",
+      "ltp": "252.85",
+      "gainPct": "3.0 %",
+      "dayLow": "242.90",
+      "dayHigh": "356.95",
+      "volume": "78,394"
     },
     {
       "name": "Ramky Infra",
@@ -418,31 +382,40 @@
       "volume": "170,780"
     },
     {
-      "name": "Pentagon Rubber",
-      "week52": "99.5",
-      "ltp": "53.95",
-      "gainPct": "0.0 %",
-      "dayLow": "49.15",
+      "name": "AKG Exim",
+      "week52": "15.34",
+      "ltp": "10.25",
+      "gainPct": "10.0 %",
+      "dayLow": "9.01",
       "dayHigh": "0.00",
-      "volume": "2,000"
+      "volume": "77,896"
     },
     {
-      "name": "Vinit Mobile",
-      "week52": "155",
-      "ltp": "64.50",
-      "gainPct": "-4.9 %",
-      "dayLow": "64.50",
+      "name": "Nirman Agri",
+      "week52": "231",
+      "ltp": "38.30",
+      "gainPct": "-0.4 %",
+      "dayLow": "38.00",
       "dayHigh": "0.00",
-      "volume": "179,200"
+      "volume": "11,100"
     },
     {
-      "name": "Kotak Nifty Private Bank",
-      "week52": "28.29",
-      "ltp": "27.44",
-      "gainPct": "0.5 %",
-      "dayLow": "27.04",
+      "name": "Systango Tech",
+      "week52": "411",
+      "ltp": "214.00",
+      "gainPct": "-1.1 %",
+      "dayLow": "202.55",
       "dayHigh": "0.00",
-      "volume": "22,534"
+      "volume": "16,400"
+    },
+    {
+      "name": "Frontier Springs",
+      "week52": "1869",
+      "ltp": "1328.80",
+      "gainPct": "-1.6 %",
+      "dayLow": "1309.10",
+      "dayHigh": "1870.05",
+      "volume": "18,339"
     },
     {
       "name": "Prism Johnson",
@@ -452,6 +425,33 @@
       "dayLow": "106.01",
       "dayHigh": "172.15",
       "volume": "89,164"
+    },
+    {
+      "name": "Aqylon Nexus",
+      "week52": "224.7",
+      "ltp": "26.25",
+      "gainPct": "-5.0 %",
+      "dayLow": "26.25",
+      "dayHigh": "226.00",
+      "volume": "1,012,703"
+    },
+    {
+      "name": "SBI Funds Mgt.",
+      "week52": "624.95",
+      "ltp": "587.30",
+      "gainPct": "1.7 %",
+      "dayLow": "572.00",
+      "dayHigh": "625.00",
+      "volume": "6,738,164"
+    },
+    {
+      "name": "Pentagon Rubber",
+      "week52": "99.5",
+      "ltp": "53.95",
+      "gainPct": "0.0 %",
+      "dayLow": "49.15",
+      "dayHigh": "0.00",
+      "volume": "2,000"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T14:05:48.011Z",
+  "updatedAt": "2026-07-25T15:32:01.110Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -265,6 +265,33 @@
       "volume": "115,314"
     },
     {
+      "name": "Turtlemint Fintech",
+      "week52": "154.3",
+      "ltp": "130.07",
+      "gainPct": "2.3 %",
+      "dayLow": "123.53",
+      "dayHigh": "154.20",
+      "volume": "1,109,049"
+    },
+    {
+      "name": "ICICI PN Smallcap 250 ETF",
+      "week52": "18.68",
+      "ltp": "18.20",
+      "gainPct": "2.8 %",
+      "dayLow": "17.43",
+      "dayHigh": "20.50",
+      "volume": "87,286"
+    },
+    {
+      "name": "Bajaj Finserv BSE Top 10 Banks",
+      "week52": "24.9",
+      "ltp": "20.80",
+      "gainPct": "-16.5 %",
+      "dayLow": "20.17",
+      "dayHigh": "22.97",
+      "volume": "82,583"
+    },
+    {
       "name": "Orchasp Ltd",
       "week52": "4.16",
       "ltp": "1.59",
@@ -310,33 +337,6 @@
       "volume": "6,200"
     },
     {
-      "name": "Turtlemint Fintech",
-      "week52": "154.3",
-      "ltp": "130.07",
-      "gainPct": "2.3 %",
-      "dayLow": "123.53",
-      "dayHigh": "154.20",
-      "volume": "1,109,049"
-    },
-    {
-      "name": "ICICI PN Smallcap 250 ETF",
-      "week52": "18.68",
-      "ltp": "18.20",
-      "gainPct": "2.8 %",
-      "dayLow": "17.43",
-      "dayHigh": "20.50",
-      "volume": "87,286"
-    },
-    {
-      "name": "Bajaj Finserv BSE Top 10 Banks",
-      "week52": "24.9",
-      "ltp": "20.80",
-      "gainPct": "-16.5 %",
-      "dayLow": "20.17",
-      "dayHigh": "22.97",
-      "volume": "82,583"
-    },
-    {
       "name": "Flair Writing",
       "week52": "357",
       "ltp": "252.85",
@@ -344,15 +344,6 @@
       "dayLow": "242.90",
       "dayHigh": "356.95",
       "volume": "78,394"
-    },
-    {
-      "name": "Frontier Springs",
-      "week52": "1869",
-      "ltp": "1328.80",
-      "gainPct": "-1.6 %",
-      "dayLow": "1309.10",
-      "dayHigh": "1870.05",
-      "volume": "18,339"
     },
     {
       "name": "AKG Exim",
@@ -380,6 +371,15 @@
       "dayLow": "202.55",
       "dayHigh": "0.00",
       "volume": "16,400"
+    },
+    {
+      "name": "Frontier Springs",
+      "week52": "1869",
+      "ltp": "1328.80",
+      "gainPct": "-1.6 %",
+      "dayLow": "1309.10",
+      "dayHigh": "1870.05",
+      "volume": "18,339"
     },
     {
       "name": "Ramky Infra",
@@ -418,33 +418,6 @@
       "volume": "170,780"
     },
     {
-      "name": "Prism Johnson",
-      "week52": "176",
-      "ltp": "108.02",
-      "gainPct": "0.0 %",
-      "dayLow": "106.01",
-      "dayHigh": "172.15",
-      "volume": "89,164"
-    },
-    {
-      "name": "Aqylon Nexus",
-      "week52": "224.7",
-      "ltp": "26.25",
-      "gainPct": "-5.0 %",
-      "dayLow": "26.25",
-      "dayHigh": "226.00",
-      "volume": "1,012,703"
-    },
-    {
-      "name": "SBI Funds Mgt.",
-      "week52": "624.95",
-      "ltp": "587.30",
-      "gainPct": "1.7 %",
-      "dayLow": "572.00",
-      "dayHigh": "625.00",
-      "volume": "6,738,164"
-    },
-    {
       "name": "Pentagon Rubber",
       "week52": "99.5",
       "ltp": "53.95",
@@ -452,6 +425,33 @@
       "dayLow": "49.15",
       "dayHigh": "0.00",
       "volume": "2,000"
+    },
+    {
+      "name": "Vinit Mobile",
+      "week52": "155",
+      "ltp": "64.50",
+      "gainPct": "-4.9 %",
+      "dayLow": "64.50",
+      "dayHigh": "0.00",
+      "volume": "179,200"
+    },
+    {
+      "name": "Kotak Nifty Private Bank",
+      "week52": "28.29",
+      "ltp": "27.44",
+      "gainPct": "0.5 %",
+      "dayLow": "27.04",
+      "dayHigh": "0.00",
+      "volume": "22,534"
+    },
+    {
+      "name": "Prism Johnson",
+      "week52": "176",
+      "ltp": "108.02",
+      "gainPct": "0.0 %",
+      "dayLow": "106.01",
+      "dayHigh": "172.15",
+      "volume": "89,164"
     }
   ]
 }

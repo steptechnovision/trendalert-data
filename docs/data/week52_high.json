@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T12:03:58.422Z",
+  "updatedAt": "2026-07-25T14:05:48.011Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -202,6 +202,33 @@
       "volume": "24,964,652"
     },
     {
+      "name": "Hoac Foods",
+      "week52": "740",
+      "ltp": "738.00",
+      "gainPct": "-0.1 %",
+      "dayLow": "738.00",
+      "dayHigh": "0.00",
+      "volume": "4,875"
+    },
+    {
+      "name": "Bikewo Green",
+      "week52": "64.3",
+      "ltp": "59.25",
+      "gainPct": "-5.0 %",
+      "dayLow": "59.25",
+      "dayHigh": "0.00",
+      "volume": "94,000"
+    },
+    {
+      "name": "Mirae AN EV ETF",
+      "week52": "33",
+      "ltp": "31.79",
+      "gainPct": "0.1 %",
+      "dayLow": "31.33",
+      "dayHigh": "33.23",
+      "volume": "166,314"
+    },
+    {
       "name": "Sona BLW Precis.",
       "week52": "741.65",
       "ltp": "717.95",
@@ -236,33 +263,6 @@
       "dayLow": "1554.90",
       "dayHigh": "1610.00",
       "volume": "2,647,403"
-    },
-    {
-      "name": "Hoac Foods",
-      "week52": "740",
-      "ltp": "738.00",
-      "gainPct": "-0.1 %",
-      "dayLow": "738.00",
-      "dayHigh": "0.00",
-      "volume": "4,875"
-    },
-    {
-      "name": "Bikewo Green",
-      "week52": "64.3",
-      "ltp": "59.25",
-      "gainPct": "-5.0 %",
-      "dayLow": "59.25",
-      "dayHigh": "0.00",
-      "volume": "94,000"
-    },
-    {
-      "name": "Mirae AN EV ETF",
-      "week52": "33",
-      "ltp": "31.79",
-      "gainPct": "0.1 %",
-      "dayLow": "31.33",
-      "dayHigh": "33.23",
-      "volume": "166,314"
     },
     {
       "name": "Rain Industries",
@@ -436,15 +436,6 @@
       "volume": "13,500"
     },
     {
-      "name": "Inv.& Prec.Cast.",
-      "week52": "999",
-      "ltp": "960.00",
-      "gainPct": "1.8 %",
-      "dayLow": "889.00",
-      "dayHigh": "995.00",
-      "volume": "28,627"
-    },
-    {
       "name": "Krishana Phosch.",
       "week52": "163.95",
       "ltp": "162.05",
@@ -452,6 +443,15 @@
       "dayLow": "149.60",
       "dayHigh": "0.00",
       "volume": "3,503,242"
+    },
+    {
+      "name": "SBI-ETF 10Y GILT",
+      "week52": "272.31",
+      "ltp": "263.51",
+      "gainPct": "-0.8 %",
+      "dayLow": "262.90",
+      "dayHigh": "0.00",
+      "volume": "3,215"
     }
   ]
 }

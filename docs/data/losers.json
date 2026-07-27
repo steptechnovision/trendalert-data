@@ -1,55 +1,71 @@
 {
-  "updatedAt": "2026-07-27T09:56:24.918Z",
+  "updatedAt": "2026-07-27T13:15:05.817Z",
   "source": "5paisa",
-  "count": 6,
+  "count": 8,
   "items": [
     {
+      "name": "Cipla",
+      "ltp": "1409.40",
+      "gainPct": "-0.1 %",
+      "dayLow": "1392.80",
+      "dayHigh": "1418.10",
+      "volume": "1162030"
+    },
+    {
       "name": "Dr Reddys Labs",
-      "ltp": "1150.30",
+      "ltp": "1150.80",
       "gainPct": "-0.1 %",
       "dayLow": "1147.20",
       "dayHigh": "1159.30",
-      "volume": "1007133"
+      "volume": "1053461"
     },
     {
       "name": "HDFC Bank",
-      "ltp": "739.35",
-      "gainPct": "-0.5 %",
+      "ltp": "739.55",
+      "gainPct": "-0.4 %",
       "dayLow": "738.10",
       "dayHigh": "747.95",
-      "volume": "27666598"
+      "volume": "29678752"
     },
     {
       "name": "HDFC Life Insur.",
-      "ltp": "552.80",
+      "ltp": "552.85",
       "gainPct": "-0.4 %",
       "dayLow": "550.90",
       "dayHigh": "558.25",
-      "volume": "1292102"
+      "volume": "1368559"
+    },
+    {
+      "name": "Kotak Mah. Bank",
+      "ltp": "384.65",
+      "gainPct": "0.0 %",
+      "dayLow": "383.55",
+      "dayHigh": "388.75",
+      "volume": "16710096"
     },
     {
       "name": "O N G C",
-      "ltp": "238.64",
+      "ltp": "238.56",
       "gainPct": "-4.1 %",
-      "dayLow": "238.20",
+      "dayLow": "238.14",
       "dayHigh": "248.17",
-      "volume": "18891355"
+      "volume": "19910285"
     },
     {
       "name": "Axis Bank",
-      "ltp": "1227.70",
-      "gainPct": "0.0 %",
+      "ltp": "1227.50",
+      "gainPct": "-0.1 %",
       "dayLow": "1221.55",
       "dayHigh": "1236.45",
-      "volume": "107111"
+      "volume": "113048"
     },
     {
       "name": "HDFC Bank",
-      "ltp": "739.35",
+      "ltp": "739.55",
       "gainPct": "-0.4 %",
       "dayLow": "738.10",
       "dayHigh": "749.00",
-      "volume": "747696"
+      "volume": "780300"
     }
   ]
 }

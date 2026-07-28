@@ -1,8 +1,287 @@
 {
-  "updatedAt": "2026-07-28T05:17:35.096Z",
+  "updatedAt": "2026-07-28T07:56:59.789Z",
   "source": "nse",
   "count": 80,
   "items": [
+    {
+      "symbol": "ORIENTTECH",
+      "name": "Orient Technologies Ltd",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "478154",
+      "price": "280.34",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "ORIENTTECH",
+      "name": "Orient Technologies Ltd",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "354975",
+      "price": "279.92",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "ORIENTTECH",
+      "name": "Orient Technologies Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "247587",
+      "price": "280.97",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "ORIENTTECH",
+      "name": "Orient Technologies Ltd",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "251753",
+      "price": "279.83",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "PYRAMID",
+      "name": "Pyramid Technoplast Ltd",
+      "clientName": "NEO APEX SHARE BROKING SERVICES LLP",
+      "buySell": "SELL",
+      "qty": "230008",
+      "price": "196.79",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "PYRAMID",
+      "name": "Pyramid Technoplast Ltd",
+      "clientName": "INDRA KIRAN VENTURES",
+      "buySell": "SELL",
+      "qty": "137075",
+      "price": "195.7",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "PYRAMID",
+      "name": "Pyramid Technoplast Ltd",
+      "clientName": "ANKITA VISHAL SHAH",
+      "buySell": "SELL",
+      "qty": "325113",
+      "price": "196.32",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "IRAGE BROKING SERVICES LLP",
+      "buySell": "SELL",
+      "qty": "462508",
+      "price": "197.55",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "GRT STRATEGIC VENTURES LLP",
+      "buySell": "SELL",
+      "qty": "774594",
+      "price": "198.2",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "882408",
+      "price": "197.44",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1331184",
+      "price": "198.08",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1431413",
+      "price": "198.05",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "MUSIGMA SECURITIES",
+      "buySell": "SELL",
+      "qty": "553749",
+      "price": "198.1",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "CLT RESEARCH TECH PRIVATE LTD",
+      "buySell": "SELL",
+      "qty": "613682",
+      "price": "198.59",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "603443",
+      "price": "197.6",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
+      "buySell": "SELL",
+      "qty": "368301",
+      "price": "197.45",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "VINSUL MAKARDI LTD",
+      "buySell": "SELL",
+      "qty": "538061",
+      "price": "197.54",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "2662243",
+      "price": "198.56",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "SELL",
+      "qty": "2213786",
+      "price": "197.63",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "531143",
+      "price": "199.93",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "690550",
+      "price": "198.89",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1399858",
+      "price": "197.8",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "MATHISYS QUANTCAP LLP",
+      "buySell": "SELL",
+      "qty": "583343",
+      "price": "198.03",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "1959611",
+      "price": "197.53",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "RITCO",
+      "name": "Ritco Logistics Limited",
+      "clientName": "RIDDHI ANKIT DOSHI",
+      "buySell": "SELL",
+      "qty": "200000",
+      "price": "295.02",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "SAHANA",
+      "name": "Sahana System Limited",
+      "clientName": "MANSI SHARE AND STOCK BROKING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "34000",
+      "price": "911.36",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "SENCO",
+      "name": "Senco Gold Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "828917",
+      "price": "417.14",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "SHANTIGOLD",
+      "name": "Shanti Gold Internation L",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "SELL",
+      "qty": "563944",
+      "price": "224.07",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "SURYODAY",
+      "name": "Suryoday Small Fin Bk Ltd",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "643486",
+      "price": "191.71",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "SWARAJ",
+      "name": "Swaraj Suiting Limited",
+      "clientName": "JAYSHREE RAJESH SHAH",
+      "buySell": "SELL",
+      "qty": "77500",
+      "price": "363.05",
+      "date": "27-Jul-2026"
+    },
+    {
+      "symbol": "TIRUPATI",
+      "name": "Shree Tirupati Balajee",
+      "clientName": "BALGOPAL COMMERCIAL LIMITED",
+      "buySell": "SELL",
+      "qty": "58750",
+      "price": "418.45",
+      "date": "27-Jul-2026"
+    },
     {
       "symbol": "AASTHA",
       "name": "Aastha Spintex Limited",
@@ -442,285 +721,6 @@
       "buySell": "BUY",
       "qty": "288726",
       "price": "33.63",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "NRVANDANA",
-      "name": "N R Vandana Tex Ind Ltd",
-      "clientName": "TRANS GALACTIC TRADING FZ",
-      "buySell": "BUY",
-      "qty": "204000",
-      "price": "68",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "OPTIVALUE",
-      "name": "Optivalue Tek Consult Ltd",
-      "clientName": "SARABPREET KAUR",
-      "buySell": "BUY",
-      "qty": "384000",
-      "price": "113.88",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "OPTIVALUE",
-      "name": "Optivalue Tek Consult Ltd",
-      "clientName": "SURESH ZUNZUNWALA",
-      "buySell": "BUY",
-      "qty": "320000",
-      "price": "115.58",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "ORIENTLTD",
-      "name": "Orient Press Limited",
-      "clientName": "AMIT KUMAR JAIN",
-      "buySell": "BUY",
-      "qty": "22276",
-      "price": "96.95",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "ORIENTLTD",
-      "name": "Orient Press Limited",
-      "clientName": "DARSHAN RAJENDRA SHAH",
-      "buySell": "BUY",
-      "qty": "50253",
-      "price": "98.72",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "ORIENTTECH",
-      "name": "Orient Technologies Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "255954",
-      "price": "279.51",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "ORIENTTECH",
-      "name": "Orient Technologies Ltd",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "483720",
-      "price": "278.7",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "ORIENTTECH",
-      "name": "Orient Technologies Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "251840",
-      "price": "278.76",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "ORIENTTECH",
-      "name": "Orient Technologies Ltd",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "354975",
-      "price": "279.74",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "PYRAMID",
-      "name": "Pyramid Technoplast Ltd",
-      "clientName": "ANKITA VISHAL SHAH",
-      "buySell": "BUY",
-      "qty": "325113",
-      "price": "195.28",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "PYRAMID",
-      "name": "Pyramid Technoplast Ltd",
-      "clientName": "NEO APEX SHARE BROKING SERVICES LLP",
-      "buySell": "BUY",
-      "qty": "230008",
-      "price": "196.14",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "PYRAMID",
-      "name": "Pyramid Technoplast Ltd",
-      "clientName": "INDRA KIRAN VENTURES",
-      "buySell": "BUY",
-      "qty": "187075",
-      "price": "195.97",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "558770",
-      "price": "199.66",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "2662243",
-      "price": "198.44",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "BUY",
-      "qty": "2213786",
-      "price": "195.74",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "VINSUL MAKARDI LTD",
-      "buySell": "BUY",
-      "qty": "538061",
-      "price": "197.59",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "MATHISYS QUANTCAP LLP",
-      "buySell": "BUY",
-      "qty": "572140",
-      "price": "197.36",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "IRAGE BROKING SERVICES LLP",
-      "buySell": "BUY",
-      "qty": "447483",
-      "price": "197.68",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "GRT STRATEGIC VENTURES LLP",
-      "buySell": "BUY",
-      "qty": "774594",
-      "price": "198.14",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "882408",
-      "price": "197.28",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1331184",
-      "price": "198.01",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
-      "buySell": "BUY",
-      "qty": "368301",
-      "price": "197.55",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "603443",
-      "price": "197.6",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "CLT RESEARCH TECH PRIVATE LTD",
-      "buySell": "BUY",
-      "qty": "613682",
-      "price": "198.47",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "MUSIGMA SECURITIES",
-      "buySell": "BUY",
-      "qty": "553749",
-      "price": "198.07",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1424265",
-      "price": "197.91",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1599635",
-      "price": "197.85",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "690550",
-      "price": "198.29",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "1903858",
-      "price": "197.86",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "SAHANA",
-      "name": "Sahana System Limited",
-      "clientName": "MANSI SHARE AND STOCK BROKING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "62500",
-      "price": "946.13",
-      "date": "27-Jul-2026"
-    },
-    {
-      "symbol": "SENCO",
-      "name": "Senco Gold Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "828917",
-      "price": "417.07",
       "date": "27-Jul-2026"
     }
   ]

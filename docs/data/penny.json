@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T08:09:14.549Z",
+  "updatedAt": "2026-07-29T10:58:21.304Z",
   "source": "5paisa",
   "count": 5,
   "items": [
@@ -7,8 +7,15 @@
       "companyName": "Dharan Infra-EPC Ltd",
       "ltp": "₹0.16",
       "change": "6.67",
-      "volume": "9,697,092",
+      "volume": "11,212,548",
       "marketCap": "₹78.43"
+    },
+    {
+      "companyName": "GACM Technologies Ltd",
+      "ltp": "₹0.49",
+      "change": "2.08",
+      "volume": "6,394,838",
+      "marketCap": "₹61.28"
     },
     {
       "companyName": "Future Consumer Ltd",
@@ -18,25 +25,18 @@
       "marketCap": "₹53.92"
     },
     {
-      "companyName": "GACM Technologies Ltd",
-      "ltp": "₹0.49",
-      "change": "2.08",
-      "volume": "1,781,681",
-      "marketCap": "₹61.28"
-    },
-    {
-      "companyName": "Kshitij Polyline Ltd",
-      "ltp": "₹2.97",
-      "change": "-4.19",
-      "volume": "1,296,329",
-      "marketCap": "₹47.82"
-    },
-    {
       "companyName": "Ganga Forging Ltd",
       "ltp": "₹1.79",
       "change": "4.68",
-      "volume": "1,223,368",
+      "volume": "1,687,840",
       "marketCap": "₹57.63"
+    },
+    {
+      "companyName": "Kshitij Polyline Ltd",
+      "ltp": "₹2.95",
+      "change": "-4.84",
+      "volume": "1,489,698",
+      "marketCap": "₹47.82"
     }
   ]
 }

@@ -1,8 +1,143 @@
 {
-  "updatedAt": "2026-07-29T13:05:28.094Z",
+  "updatedAt": "2026-07-29T15:22:32.698Z",
   "source": "nse",
   "count": 80,
   "items": [
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "MATHISYS QUANTCAP LLP",
+      "buySell": "BUY",
+      "qty": "361875",
+      "price": "76.94",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "397348",
+      "price": "76.27",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "AASTHA",
+      "name": "Aastha Spintex Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "280094",
+      "price": "76.92",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "ASIANTILES",
+      "name": "Asian Granito India Limit",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "3339256",
+      "price": "62.57",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "ASIANTILES",
+      "name": "Asian Granito India Limit",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "5687245",
+      "price": "63.4",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "ASIANTILES",
+      "name": "Asian Granito India Limit",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1661549",
+      "price": "64.21",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "ASIANTILES",
+      "name": "Asian Granito India Limit",
+      "clientName": "GAURAV R GANDHI HUF",
+      "buySell": "BUY",
+      "qty": "8205524",
+      "price": "62.82",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "ASIANTILES",
+      "name": "Asian Granito India Limit",
+      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1545565",
+      "price": "63.38",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "ASIANTILES",
+      "name": "Asian Granito India Limit",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "4175961",
+      "price": "62.92",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "ASIANTILES",
+      "name": "Asian Granito India Limit",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "5959349",
+      "price": "63.56",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "ATALREAL",
+      "name": "Atal Realtech Limited",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "696675",
+      "price": "32.18",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "ATALREAL",
+      "name": "Atal Realtech Limited",
+      "clientName": "CHAUBARA EATS PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "925000",
+      "price": "32.05",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "ATALREAL",
+      "name": "Atal Realtech Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "1054825",
+      "price": "32.09",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "ATALREAL",
+      "name": "Atal Realtech Limited",
+      "clientName": "VISHAL MAHESH WAGHELA",
+      "buySell": "BUY",
+      "qty": "140000",
+      "price": "32.09",
+      "date": "29-Jul-2026"
+    },
+    {
+      "symbol": "ATALREAL",
+      "name": "Atal Realtech Limited",
+      "clientName": "ACME CAPITAL MARKET LIMITED",
+      "buySell": "BUY",
+      "qty": "1499083",
+      "price": "32.21",
+      "date": "29-Jul-2026"
+    },
     {
       "symbol": "BLUESTONE",
       "name": "BlueStone Jewel Lfstl Ltd",
@@ -586,141 +721,6 @@
       "buySell": "SELL",
       "qty": "1499083",
       "price": "32.1",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "1122861",
-      "price": "32.17",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "CHAUBARA EATS PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "925000",
-      "price": "32.07",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "BLUESTONE",
-      "name": "BlueStone Jewel Lfstl Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "815135",
-      "price": "785.36",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "BLUESTONE",
-      "name": "BlueStone Jewel Lfstl Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "773233",
-      "price": "785.11",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "BLUESTONE",
-      "name": "BlueStone Jewel Lfstl Ltd",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "965626",
-      "price": "783.99",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "BLUEWATER",
-      "name": "Blue Water Logistics Ltd",
-      "clientName": "SETU SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "65000",
-      "price": "490.5",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "BMLL",
-      "name": "Bio Medica Laboratories L",
-      "clientName": "RATHOD MANOJ CHHAGANLAL HUF",
-      "buySell": "SELL",
-      "qty": "77000",
-      "price": "158.66",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "CENTENKA",
-      "name": "Century Enka Ltd",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "127422",
-      "price": "648.34",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "CENTENKA",
-      "name": "Century Enka Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "115814",
-      "price": "639.99",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "COMSYN",
-      "name": "Commercial Syn Bags Ltd",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "SELL",
-      "qty": "1066199",
-      "price": "195.1",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "COMSYN",
-      "name": "Commercial Syn Bags Ltd",
-      "clientName": "IMC INDIA SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "373013",
-      "price": "195.4",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "CSM",
-      "name": "CSM Technologies Limited",
-      "clientName": "SSPL SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "300000",
-      "price": "96.6",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "DIGIKORE",
-      "name": "Digikore Studios Limited",
-      "clientName": "SHREE MPJ CEMENT WORKS LLP",
-      "buySell": "SELL",
-      "qty": "146000",
-      "price": "47.39",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "FOCE",
-      "name": "Foce India Limited",
-      "clientName": "BALGOPAL COMMERCIAL LIMITED",
-      "buySell": "SELL",
-      "qty": "83280",
-      "price": "540.6",
-      "date": "29-Jul-2026"
-    },
-    {
-      "symbol": "GANDHAR",
-      "name": "Gandhar Oil Refine Ind L",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "385254",
-      "price": "235.91",
       "date": "29-Jul-2026"
     }
   ]

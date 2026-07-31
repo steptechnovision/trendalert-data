@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-07-31T11:02:58.823Z",
+  "updatedAt": "2026-07-31T13:09:19.772Z",
   "source": "derived",
-  "count": 71,
+  "count": 72,
   "items": [
     {
       "name": "H.R. Hygiene Products",
@@ -102,7 +102,7 @@
       "listing": "2026-08-07",
       "priceBand": "₹159",
       "size": "₹39.04 Cr.",
-      "gmp": "₹9",
+      "gmp": "₹7",
       "gain": "",
       "registrar": "Maashitla",
       "listingGain": "",
@@ -222,9 +222,24 @@
       "listing": "2026-08-12",
       "priceBand": "₹53",
       "size": "₹425.87 Cr.",
-      "gmp": "₹13",
+      "gmp": "₹10",
       "gain": "",
       "registrar": "KfinTech",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "LAPL Automotive",
+      "type": "BSE SME",
+      "open": "2026-08-06",
+      "close": "2026-08-10",
+      "allotment": "2026-08-12",
+      "listing": "2026-08-13",
+      "priceBand": "₹94",
+      "size": "",
+      "gmp": "₹0",
+      "gain": "",
+      "registrar": "",
       "listingGain": "",
       "status": "upcoming"
     },

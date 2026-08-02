@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T18:14:20.017Z",
+  "updatedAt": "2026-08-02T19:38:42.849Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -22,15 +22,6 @@
       "volume": "0"
     },
     {
-      "name": "Digikore Studios",
-      "week52": "100",
-      "ltp": "37.50",
-      "gainPct": "-15.2 %",
-      "dayLow": "36.40",
-      "dayHigh": "0.00",
-      "volume": "360,000"
-    },
-    {
       "name": "Giriraj Civil",
       "week52": "378",
       "ltp": "66.90",
@@ -40,22 +31,31 @@
       "volume": "16,500"
     },
     {
-      "name": "HMA Agro Inds.",
-      "week52": "34.24",
-      "ltp": "20.98",
-      "gainPct": "-0.1 %",
-      "dayLow": "20.00",
-      "dayHigh": "34.21",
-      "volume": "870,634"
+      "name": "GVK Power Infra.",
+      "week52": "4.06",
+      "ltp": "2.39",
+      "gainPct": "1.7 %",
+      "dayLow": "2.32",
+      "dayHigh": "4.09",
+      "volume": "672,957"
     },
     {
-      "name": "National Standar",
-      "week52": "1495",
-      "ltp": "247.90",
+      "name": "Raj Television",
+      "week52": "46.9",
+      "ltp": "11.32",
       "gainPct": "-5.0 %",
-      "dayLow": "247.90",
-      "dayHigh": "2338.00",
-      "volume": "19,483"
+      "dayLow": "11.32",
+      "dayHigh": "46.90",
+      "volume": "211,872"
+    },
+    {
+      "name": "TruCap Finance",
+      "week52": "15.72",
+      "ltp": "4.60",
+      "gainPct": "-1.5 %",
+      "dayLow": "4.50",
+      "dayHigh": "15.78",
+      "volume": "334,417"
     },
     {
       "name": "Vedanta Power",
@@ -65,15 +65,6 @@
       "dayLow": "33.06",
       "dayHigh": "52.49",
       "volume": "31,142,945"
-    },
-    {
-      "name": "Veritaas Adver.",
-      "week52": "74.9",
-      "ltp": "33.30",
-      "gainPct": "-4.9 %",
-      "dayLow": "33.30",
-      "dayHigh": "0.00",
-      "volume": "1,200"
     },
     {
       "name": "Alpine Texworld",
@@ -94,15 +85,6 @@
       "volume": "264"
     },
     {
-      "name": "Happy Steels",
-      "week52": "71.4",
-      "ltp": "60.00",
-      "gainPct": "2.0 %",
-      "dayLow": "57.00",
-      "dayHigh": "0.00",
-      "volume": "86,000"
-    },
-    {
       "name": "Parsvnath Devl.",
       "week52": "18.75",
       "ltp": "1.80",
@@ -121,6 +103,24 @@
       "volume": "800"
     },
     {
+      "name": "Turtlemint Fintech",
+      "week52": "154.3",
+      "ltp": "120.10",
+      "gainPct": "3.8 %",
+      "dayLow": "115.21",
+      "dayHigh": "154.20",
+      "volume": "416,648"
+    },
+    {
+      "name": "Indosolar",
+      "week52": "725",
+      "ltp": "306.70",
+      "gainPct": "3.8 %",
+      "dayLow": "282.80",
+      "dayHigh": "725.00",
+      "volume": "275,972"
+    },
+    {
       "name": "Indo US Bio-Tech",
       "week52": "182.1",
       "ltp": "82.49",
@@ -130,22 +130,49 @@
       "volume": "50,770"
     },
     {
-      "name": "P & G Hygiene",
-      "week52": "14509",
-      "ltp": "8594.00",
-      "gainPct": "1.4 %",
-      "dayLow": "8419.00",
-      "dayHigh": "14493.15",
-      "volume": "19,125"
+      "name": "National Standar",
+      "week52": "1495",
+      "ltp": "247.90",
+      "gainPct": "-5.0 %",
+      "dayLow": "247.90",
+      "dayHigh": "2338.00",
+      "volume": "19,483"
     },
     {
-      "name": "Regency Ceramics",
-      "week52": "54.99",
-      "ltp": "33.00",
-      "gainPct": "4.7 %",
-      "dayLow": "30.00",
-      "dayHigh": "56.40",
-      "volume": "2,176"
+      "name": "Digikore Studios",
+      "week52": "100",
+      "ltp": "37.50",
+      "gainPct": "-15.2 %",
+      "dayLow": "36.40",
+      "dayHigh": "0.00",
+      "volume": "360,000"
+    },
+    {
+      "name": "HMA Agro Inds.",
+      "week52": "34.24",
+      "ltp": "20.98",
+      "gainPct": "-0.1 %",
+      "dayLow": "20.00",
+      "dayHigh": "34.21",
+      "volume": "870,634"
+    },
+    {
+      "name": "Happy Steels",
+      "week52": "71.4",
+      "ltp": "60.00",
+      "gainPct": "2.0 %",
+      "dayLow": "57.00",
+      "dayHigh": "0.00",
+      "volume": "86,000"
+    },
+    {
+      "name": "Veritaas Adver.",
+      "week52": "74.9",
+      "ltp": "33.30",
+      "gainPct": "-4.9 %",
+      "dayLow": "33.30",
+      "dayHigh": "0.00",
+      "volume": "1,200"
     },
     {
       "name": "Flexituff Vent.",
@@ -166,6 +193,24 @@
       "volume": "3,875"
     },
     {
+      "name": "P & G Hygiene",
+      "week52": "14509",
+      "ltp": "8594.00",
+      "gainPct": "1.4 %",
+      "dayLow": "8419.00",
+      "dayHigh": "14493.15",
+      "volume": "19,125"
+    },
+    {
+      "name": "Regency Ceramics",
+      "week52": "54.99",
+      "ltp": "33.00",
+      "gainPct": "4.7 %",
+      "dayLow": "30.00",
+      "dayHigh": "56.40",
+      "volume": "2,176"
+    },
+    {
       "name": "Goldkart Jewels",
       "week52": "285",
       "ltp": "104.55",
@@ -182,15 +227,6 @@
       "dayLow": "154.95",
       "dayHigh": "0.00",
       "volume": "21,600"
-    },
-    {
-      "name": "ABM Knowledge",
-      "week52": "254.9",
-      "ltp": "190.00",
-      "gainPct": "-3.5 %",
-      "dayLow": "188.80",
-      "dayHigh": "325.00",
-      "volume": "489"
     },
     {
       "name": "Brightcom Group",
@@ -220,49 +256,13 @@
       "volume": "36,895"
     },
     {
-      "name": "Turtlemint Fintech",
-      "week52": "154.3",
-      "ltp": "120.10",
-      "gainPct": "3.8 %",
-      "dayLow": "115.21",
-      "dayHigh": "154.20",
-      "volume": "416,648"
-    },
-    {
-      "name": "Raj Television",
-      "week52": "46.9",
-      "ltp": "11.32",
-      "gainPct": "-5.0 %",
-      "dayLow": "11.32",
-      "dayHigh": "46.90",
-      "volume": "211,872"
-    },
-    {
-      "name": "GVK Power Infra.",
-      "week52": "4.06",
-      "ltp": "2.39",
-      "gainPct": "1.7 %",
-      "dayLow": "2.32",
-      "dayHigh": "4.09",
-      "volume": "672,957"
-    },
-    {
-      "name": "Indosolar",
-      "week52": "725",
-      "ltp": "306.70",
-      "gainPct": "3.8 %",
-      "dayLow": "282.80",
-      "dayHigh": "725.00",
-      "volume": "275,972"
-    },
-    {
-      "name": "TruCap Finance",
-      "week52": "15.72",
-      "ltp": "4.60",
-      "gainPct": "-1.5 %",
-      "dayLow": "4.50",
-      "dayHigh": "15.78",
-      "volume": "334,417"
+      "name": "ABM Knowledge",
+      "week52": "254.9",
+      "ltp": "190.00",
+      "gainPct": "-3.5 %",
+      "dayLow": "188.80",
+      "dayHigh": "325.00",
+      "volume": "489"
     },
     {
       "name": "AB Cotspin",
@@ -346,24 +346,6 @@
       "volume": "30,297"
     },
     {
-      "name": "Innovision",
-      "week52": "470",
-      "ltp": "286.80",
-      "gainPct": "0.6 %",
-      "dayLow": "282.20",
-      "dayHigh": "468.60",
-      "volume": "14,585"
-    },
-    {
-      "name": "Jalan Transol.",
-      "week52": "7.1",
-      "ltp": "1.55",
-      "gainPct": "-3.1 %",
-      "dayLow": "1.55",
-      "dayHigh": "0.00",
-      "volume": "6,000"
-    },
-    {
       "name": "Newjaisa Tech",
       "week52": "51.5",
       "ltp": "14.00",
@@ -371,6 +353,15 @@
       "dayLow": "13.55",
       "dayHigh": "0.00",
       "volume": "22,500"
+    },
+    {
+      "name": "Oriana Power Ltd",
+      "week52": "3064",
+      "ltp": "1379.05",
+      "gainPct": "-2.4 %",
+      "dayLow": "1375.00",
+      "dayHigh": "0.00",
+      "volume": "29,325"
     },
     {
       "name": "Prism Johnson",
@@ -391,6 +382,15 @@
       "volume": "3,061,579"
     },
     {
+      "name": "Tega Inds.",
+      "week52": "2125",
+      "ltp": "1485.50",
+      "gainPct": "0.5 %",
+      "dayLow": "1475.00",
+      "dayHigh": "2130.00",
+      "volume": "106,121"
+    },
+    {
       "name": "Winny Immigratio",
       "week52": "93.1",
       "ltp": "32.20",
@@ -398,15 +398,6 @@
       "dayLow": "32.20",
       "dayHigh": "0.00",
       "volume": "1,500"
-    },
-    {
-      "name": "Neelam Linens",
-      "week52": "24.2",
-      "ltp": "9.25",
-      "gainPct": "-2.1 %",
-      "dayLow": "9.25",
-      "dayHigh": "0.00",
-      "volume": "6,000"
     },
     {
       "name": "Indo-MIM",
@@ -427,13 +418,13 @@
       "volume": "32,973"
     },
     {
-      "name": "Timescan Logist.",
-      "week52": "69.05",
-      "ltp": "39.00",
-      "gainPct": "-3.3 %",
-      "dayLow": "39.00",
-      "dayHigh": "0.00",
-      "volume": "2,000"
+      "name": "Om Power Transmission",
+      "week52": "206",
+      "ltp": "167.93",
+      "gainPct": "5.5 %",
+      "dayLow": "159.50",
+      "dayHigh": "206.95",
+      "volume": "141,531"
     },
     {
       "name": "Aqylon Nexus",
@@ -445,13 +436,22 @@
       "volume": "9,646,392"
     },
     {
-      "name": "Arshiya",
-      "week52": "2.89",
-      "ltp": "0.98",
-      "gainPct": "1.0 %",
-      "dayLow": "0.93",
-      "dayHigh": "2.93",
-      "volume": "98,943"
+      "name": "KKV Agro Powers",
+      "week52": "693",
+      "ltp": "475.15",
+      "gainPct": "-4.8 %",
+      "dayLow": "475.15",
+      "dayHigh": "0.00",
+      "volume": "171"
+    },
+    {
+      "name": "Jalan Transol.",
+      "week52": "7.1",
+      "ltp": "1.55",
+      "gainPct": "-3.1 %",
+      "dayLow": "1.55",
+      "dayHigh": "0.00",
+      "volume": "6,000"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-02T18:14:20.017Z",
+  "updatedAt": "2026-08-02T19:38:42.849Z",
   "source": "nse",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "name": "MV Electrosystems Limited",
@@ -31,6 +31,21 @@
       "price": "₹214 to ₹225",
       "closeDate": "03 Aug",
       "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "Anawil Wire and Engineering Limited",
+      "symbol": "ANAWIL",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "",
+      "price": "",
+      "closeDate": "05 Aug",
+      "type": "SME",
       "url": ""
     }
   ]

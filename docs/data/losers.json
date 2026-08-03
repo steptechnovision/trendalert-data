@@ -1,119 +1,135 @@
 {
-  "updatedAt": "2026-08-03T05:45:13.751Z",
+  "updatedAt": "2026-08-03T09:50:29.493Z",
   "source": "5paisa",
-  "count": 14,
+  "count": 16,
   "items": [
     {
       "name": "Apollo Hospitals",
-      "ltp": "8922.00",
-      "gainPct": "-0.4 %",
-      "dayLow": "8911.50",
+      "ltp": "8789.50",
+      "gainPct": "-1.9 %",
+      "dayLow": "8789.50",
       "dayHigh": "9049.00",
-      "volume": "74387"
+      "volume": "177844"
     },
     {
       "name": "Bajaj Auto",
-      "ltp": "11501.00",
-      "gainPct": "-0.2 %",
+      "ltp": "11507.00",
+      "gainPct": "-0.1 %",
       "dayLow": "11456.00",
       "dayHigh": "11575.00",
-      "volume": "118055"
+      "volume": "208018"
     },
     {
       "name": "Bharti Airtel",
-      "ltp": "1954.70",
-      "gainPct": "-0.9 %",
-      "dayLow": "1952.10",
+      "ltp": "1953.10",
+      "gainPct": "-1.0 %",
+      "dayLow": "1943.00",
       "dayHigh": "1987.40",
-      "volume": "1256555"
+      "volume": "3322473"
+    },
+    {
+      "name": "Cipla",
+      "ltp": "1456.70",
+      "gainPct": "-1.1 %",
+      "dayLow": "1454.30",
+      "dayHigh": "1480.60",
+      "volume": "574536"
+    },
+    {
+      "name": "M & M",
+      "ltp": "3388.10",
+      "gainPct": "-0.3 %",
+      "dayLow": "3386.20",
+      "dayHigh": "3465.00",
+      "volume": "1656405"
     },
     {
       "name": "Maruti Suzuki",
-      "ltp": "14127.00",
+      "ltp": "14116.00",
       "gainPct": "-0.8 %",
       "dayLow": "13901.00",
       "dayHigh": "14440.00",
-      "volume": "568389"
+      "volume": "793588"
+    },
+    {
+      "name": "Max Healthcare",
+      "ltp": "1096.80",
+      "gainPct": "-0.2 %",
+      "dayLow": "1096.30",
+      "dayHigh": "1113.90",
+      "volume": "822295"
     },
     {
       "name": "NTPC",
-      "ltp": "346.30",
-      "gainPct": "-0.3 %",
+      "ltp": "347.10",
+      "gainPct": "0.0 %",
       "dayLow": "345.30",
       "dayHigh": "348.95",
-      "volume": "1379704"
+      "volume": "3905997"
     },
     {
       "name": "O N G C",
-      "ltp": "242.20",
-      "gainPct": "-0.1 %",
-      "dayLow": "240.40",
+      "ltp": "241.01",
+      "gainPct": "-0.6 %",
+      "dayLow": "240.30",
       "dayHigh": "242.62",
-      "volume": "2987238"
+      "volume": "5716414"
     },
     {
       "name": "Sun Pharma.Inds.",
-      "ltp": "1962.40",
-      "gainPct": "-1.4 %",
+      "ltp": "1953.70",
+      "gainPct": "-1.9 %",
       "dayLow": "1937.00",
       "dayHigh": "1988.00",
-      "volume": "1494905"
+      "volume": "2772899"
     },
     {
       "name": "Tech Mahindra",
-      "ltp": "1643.00",
-      "gainPct": "-0.5 %",
-      "dayLow": "1642.40",
+      "ltp": "1639.20",
+      "gainPct": "-0.7 %",
+      "dayLow": "1634.30",
       "dayHigh": "1670.00",
-      "volume": "890267"
-    },
-    {
-      "name": "Trent",
-      "ltp": "3005.40",
-      "gainPct": "0.0 %",
-      "dayLow": "3002.90",
-      "dayHigh": "3035.00",
-      "volume": "217810"
+      "volume": "2412064"
     },
     {
       "name": "Bharti Airtel",
-      "ltp": "1955.00",
-      "gainPct": "-0.8 %",
-      "dayLow": "1952.10",
+      "ltp": "1953.65",
+      "gainPct": "-0.9 %",
+      "dayLow": "1943.40",
       "dayHigh": "1987.95",
-      "volume": "44312"
+      "volume": "123938"
+    },
+    {
+      "name": "M & M",
+      "ltp": "3388.10",
+      "gainPct": "-0.2 %",
+      "dayLow": "3387.00",
+      "dayHigh": "3489.95",
+      "volume": "94947"
     },
     {
       "name": "Maruti Suzuki",
-      "ltp": "14130.45",
+      "ltp": "14123.25",
       "gainPct": "-0.8 %",
       "dayLow": "13903.05",
       "dayHigh": "14412.00",
-      "volume": "30983"
-    },
-    {
-      "name": "NTPC",
-      "ltp": "346.10",
-      "gainPct": "-0.3 %",
-      "dayLow": "345.35",
-      "dayHigh": "351.45",
-      "volume": "56113"
+      "volume": "40613"
     },
     {
       "name": "Sun Pharma.Inds.",
-      "ltp": "1962.30",
-      "gainPct": "-1.4 %",
+      "ltp": "1954.50",
+      "gainPct": "-1.8 %",
       "dayLow": "1936.15",
       "dayHigh": "1990.00",
-      "volume": "291327"
+      "volume": "434677"
     },
     {
       "name": "Tech Mahindra",
-      "ltp": "1643.40",
-      "gainPct": "-0.5 %",
-      "dayLow": "1642.25",
+      "ltp": "1638.30",
+      "gainPct": "-0.8 %",
+      "dayLow": "1634.00",
       "dayHigh": "1669.70",
-      "volume": "36826"
+      "volume": "89715"
     }
   ]
 }

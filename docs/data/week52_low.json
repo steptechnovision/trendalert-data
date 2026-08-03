@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T15:44:47.163Z",
+  "updatedAt": "2026-08-03T17:53:06.192Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -346,15 +346,6 @@
       "volume": "264"
     },
     {
-      "name": "HDFC Nifty Metal",
-      "week52": "132",
-      "ltp": "131.79",
-      "gainPct": "3.6 %",
-      "dayLow": "128.04",
-      "dayHigh": "131.00",
-      "volume": "61,917"
-    },
-    {
       "name": "Nucleus Soft.",
       "week52": "1168.6",
       "ltp": "698.50",
@@ -362,6 +353,15 @@
       "dayLow": "686.05",
       "dayHigh": "1168.90",
       "volume": "36,002"
+    },
+    {
+      "name": "HDFC Nifty Metal",
+      "week52": "132",
+      "ltp": "131.79",
+      "gainPct": "3.6 %",
+      "dayLow": "128.04",
+      "dayHigh": "131.00",
+      "volume": "61,917"
     },
     {
       "name": "Indo US Bio-Tech",
@@ -427,15 +427,6 @@
       "volume": "3,875"
     },
     {
-      "name": "Regency Ceramics",
-      "week52": "54.99",
-      "ltp": "33.28",
-      "gainPct": "1.1 %",
-      "dayLow": "31.00",
-      "dayHigh": "56.40",
-      "volume": "6,139"
-    },
-    {
       "name": "Xtranet Techno.",
       "week52": "136.9",
       "ltp": "124.01",
@@ -452,6 +443,15 @@
       "dayLow": "69.50",
       "dayHigh": "105.00",
       "volume": "456,767"
+    },
+    {
+      "name": "Regency Ceramics",
+      "week52": "54.99",
+      "ltp": "33.28",
+      "gainPct": "1.1 %",
+      "dayLow": "31.00",
+      "dayHigh": "56.40",
+      "volume": "6,139"
     }
   ]
 }

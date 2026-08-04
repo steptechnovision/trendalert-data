@@ -1,14 +1,28 @@
 {
-  "updatedAt": "2026-08-04T05:17:23.297Z",
+  "updatedAt": "2026-08-04T07:57:45.741Z",
   "source": "5paisa",
   "count": 5,
   "items": [
     {
+      "companyName": "Dharan Infra-EPC Ltd",
+      "ltp": "₹0.16",
+      "change": "6.67",
+      "volume": "32,273,538",
+      "marketCap": "₹78.43"
+    },
+    {
       "companyName": "GACM Technologies Ltd",
       "ltp": "₹0.68",
       "change": "-9.33",
-      "volume": "13,606,738",
+      "volume": "15,329,754",
       "marketCap": "₹92.76"
+    },
+    {
+      "companyName": "Ganga Forging Ltd",
+      "ltp": "₹1.87",
+      "change": "4.47",
+      "volume": "7,097,913",
+      "marketCap": "₹60.32"
     },
     {
       "companyName": "Future Consumer Ltd",
@@ -18,24 +32,10 @@
       "marketCap": "₹51.92"
     },
     {
-      "companyName": "Dharan Infra-EPC Ltd",
-      "ltp": "₹0.16",
-      "change": "6.67",
-      "volume": "4,250,723",
-      "marketCap": "₹78.43"
-    },
-    {
-      "companyName": "Ganga Forging Ltd",
-      "ltp": "₹1.87",
-      "change": "4.47",
-      "volume": "1,169,104",
-      "marketCap": "₹60.32"
-    },
-    {
       "companyName": "Shrenik Ltd",
       "ltp": "₹0.34",
       "change": "3.03",
-      "volume": "1,157,651",
+      "volume": "1,338,356",
       "marketCap": "₹20.20"
     }
   ]

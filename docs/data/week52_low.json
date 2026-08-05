@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T10:44:14.603Z",
+  "updatedAt": "2026-08-05T12:54:49.567Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -283,6 +283,15 @@
       "volume": "260,227"
     },
     {
+      "name": "Foce India",
+      "week52": "835.01",
+      "ltp": "540.00",
+      "gainPct": "2.9 %",
+      "dayLow": "540.00",
+      "dayHigh": "0.00",
+      "volume": "10,080"
+    },
+    {
       "name": "Turtlemint Fintech",
       "week52": "154.3",
       "ltp": "115.11",
@@ -299,15 +308,6 @@
       "dayLow": "147.80",
       "dayHigh": "0.00",
       "volume": "63,600"
-    },
-    {
-      "name": "Foce India",
-      "week52": "835.01",
-      "ltp": "540.00",
-      "gainPct": "2.9 %",
-      "dayLow": "540.00",
-      "dayHigh": "0.00",
-      "volume": "10,080"
     },
     {
       "name": "SEL Mfg. Co",
@@ -409,13 +409,22 @@
       "volume": "89,306"
     },
     {
-      "name": "UTI Nifty 1D Rate Liquid",
-      "week52": "1002.91",
-      "ltp": "1002.91",
-      "gainPct": "0.0 %",
-      "dayLow": "1002.91",
-      "dayHigh": "1000.92",
-      "volume": "209"
+      "name": "Newjaisa Tech",
+      "week52": "51.5",
+      "ltp": "15.65",
+      "gainPct": "4.7 %",
+      "dayLow": "14.50",
+      "dayHigh": "0.00",
+      "volume": "36,000"
+    },
+    {
+      "name": "Winny Immigratio",
+      "week52": "88.45",
+      "ltp": "30.60",
+      "gainPct": "-5.0 %",
+      "dayLow": "30.60",
+      "dayHigh": "0.00",
+      "volume": "1,000"
     },
     {
       "name": "Rajvir Inds.",
@@ -436,22 +445,13 @@
       "volume": "268,391"
     },
     {
-      "name": "Newjaisa Tech",
-      "week52": "51.5",
-      "ltp": "15.65",
-      "gainPct": "4.7 %",
-      "dayLow": "14.50",
-      "dayHigh": "0.00",
-      "volume": "36,000"
-    },
-    {
-      "name": "Winny Immigratio",
-      "week52": "88.45",
-      "ltp": "30.60",
-      "gainPct": "-5.0 %",
-      "dayLow": "30.60",
-      "dayHigh": "0.00",
-      "volume": "1,000"
+      "name": "UTI Nifty 1D Rate Liquid",
+      "week52": "1002.91",
+      "ltp": "1002.91",
+      "gainPct": "0.0 %",
+      "dayLow": "1002.91",
+      "dayHigh": "1000.92",
+      "volume": "209"
     }
   ]
 }

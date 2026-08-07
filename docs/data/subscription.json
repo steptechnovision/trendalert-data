@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-08-06T15:21:45.301Z",
+  "updatedAt": "2026-08-07T04:27:27.794Z",
   "source": "nse",
-  "count": 1,
+  "count": 4,
   "items": [
+    {
+      "name": "Leap India Limited",
+      "symbol": "LEAP",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "11,49,91,735 shares",
+      "price": "₹151 to ₹159",
+      "closeDate": "11 Aug",
+      "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "Technocraft Ventures Limited",
+      "symbol": "TECHNOCRAF",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "83,17,190 shares",
+      "price": "₹200 to ₹212",
+      "closeDate": "11 Aug",
+      "type": "Mainboard",
+      "url": ""
+    },
     {
       "name": "Ardee Industries Limited",
       "symbol": "ARDEE",
@@ -16,6 +46,21 @@
       "price": "₹50 to ₹53",
       "closeDate": "07 Aug",
       "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "Optimystix Entertainment India Limited",
+      "symbol": "OPTIMYSTIX",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "",
+      "price": "",
+      "closeDate": "11 Aug",
+      "type": "SME",
       "url": ""
     }
   ]

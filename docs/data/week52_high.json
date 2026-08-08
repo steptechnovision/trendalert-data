@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:37:02.634Z",
+  "updatedAt": "2026-08-08T03:29:07.227Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -29,15 +29,6 @@
       "dayLow": "30.16",
       "dayHigh": "30.80",
       "volume": "2,138,012"
-    },
-    {
-      "name": "Bharat Forge",
-      "week52": "2270",
-      "ltp": "2265.20",
-      "gainPct": "2.5 %",
-      "dayLow": "2190.40",
-      "dayHigh": "2274.00",
-      "volume": "1,152,060"
     },
     {
       "name": "Prataap Snacks",
@@ -292,6 +283,15 @@
       "volume": "37,554"
     },
     {
+      "name": "M M Forgings",
+      "week52": "644.7",
+      "ltp": "629.10",
+      "gainPct": "4.2 %",
+      "dayLow": "599.95",
+      "dayHigh": "643.50",
+      "volume": "686,456"
+    },
+    {
       "name": "OBSC Perfection",
       "week52": "809.55",
       "ltp": "742.00",
@@ -409,6 +409,15 @@
       "volume": "1,037,107"
     },
     {
+      "name": "Bharat Forge",
+      "week52": "2270",
+      "ltp": "2265.20",
+      "gainPct": "2.5 %",
+      "dayLow": "2190.40",
+      "dayHigh": "2274.00",
+      "volume": "1,152,060"
+    },
+    {
       "name": "Bikewo Green",
       "week52": "78.5",
       "ltp": "78.50",
@@ -443,15 +452,6 @@
       "dayLow": "239.28",
       "dayHigh": "267.00",
       "volume": "46,030,388"
-    },
-    {
-      "name": "ABSL NftyN50 ETF",
-      "week52": "80.33",
-      "ltp": "78.45",
-      "gainPct": "0.1 %",
-      "dayLow": "77.28",
-      "dayHigh": "85.00",
-      "volume": "9,608"
     }
   ]
 }

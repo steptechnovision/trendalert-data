@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:37:02.634Z",
+  "updatedAt": "2026-08-08T03:29:07.227Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -130,15 +130,6 @@
       "volume": "18,000"
     },
     {
-      "name": "Australian Prem",
-      "week52": "543.95",
-      "ltp": "251.00",
-      "gainPct": "-0.2 %",
-      "dayLow": "246.00",
-      "dayHigh": "0.00",
-      "volume": "28,500"
-    },
-    {
       "name": "M.V.K. Agro",
       "week52": "819",
       "ltp": "242.10",
@@ -175,6 +166,15 @@
       "volume": "750"
     },
     {
+      "name": "Australian Prem",
+      "week52": "543.95",
+      "ltp": "251.00",
+      "gainPct": "-0.2 %",
+      "dayLow": "246.00",
+      "dayHigh": "0.00",
+      "volume": "28,500"
+    },
+    {
       "name": "Mo Nifty Metal ETF",
       "week52": "13.29",
       "ltp": "13.19",
@@ -184,15 +184,6 @@
       "volume": "3,040"
     },
     {
-      "name": "DSP BSE MidSmall Private Banks",
-      "week52": "17.4",
-      "ltp": "17.40",
-      "gainPct": "0.4 %",
-      "dayLow": "17.36",
-      "dayHigh": "17.97",
-      "volume": "3,909"
-    },
-    {
       "name": "Rallis India",
       "week52": "385.8",
       "ltp": "213.03",
@@ -200,15 +191,6 @@
       "dayLow": "211.51",
       "dayHigh": "385.50",
       "volume": "791,724"
-    },
-    {
-      "name": "Indo Thai Sec.",
-      "week52": "466.35",
-      "ltp": "99.59",
-      "gainPct": "-10.0 %",
-      "dayLow": "99.59",
-      "dayHigh": "470.00",
-      "volume": "204,974"
     },
     {
       "name": "Shankar Lal Ram.",
@@ -227,6 +209,33 @@
       "dayLow": "7.85",
       "dayHigh": "0.00",
       "volume": "56,000"
+    },
+    {
+      "name": "Indo Thai Sec.",
+      "week52": "466.35",
+      "ltp": "99.59",
+      "gainPct": "-10.0 %",
+      "dayLow": "99.59",
+      "dayHigh": "470.00",
+      "volume": "204,974"
+    },
+    {
+      "name": "Laxmi Goldorna",
+      "week52": "399.59",
+      "ltp": "203.88",
+      "gainPct": "1.0 %",
+      "dayLow": "195.10",
+      "dayHigh": "0.00",
+      "volume": "18,249"
+    },
+    {
+      "name": "Veritaas Adver.",
+      "week52": "74.9",
+      "ltp": "33.30",
+      "gainPct": "-4.3 %",
+      "dayLow": "33.10",
+      "dayHigh": "0.00",
+      "volume": "2,400"
     },
     {
       "name": "Alpine Texworld",
@@ -254,24 +263,6 @@
       "dayLow": "101.15",
       "dayHigh": "202.10",
       "volume": "2,174,787"
-    },
-    {
-      "name": "Laxmi Goldorna",
-      "week52": "399.59",
-      "ltp": "203.88",
-      "gainPct": "1.0 %",
-      "dayLow": "195.10",
-      "dayHigh": "0.00",
-      "volume": "18,249"
-    },
-    {
-      "name": "Veritaas Adver.",
-      "week52": "74.9",
-      "ltp": "33.30",
-      "gainPct": "-4.3 %",
-      "dayLow": "33.10",
-      "dayHigh": "0.00",
-      "volume": "2,400"
     },
     {
       "name": "Tarapur Trans",
@@ -310,24 +301,6 @@
       "volume": "736,313"
     },
     {
-      "name": "Bandhan Gold ETF",
-      "week52": "180.16",
-      "ltp": "149.85",
-      "gainPct": "1.4 %",
-      "dayLow": "115.17",
-      "dayHigh": "181.47",
-      "volume": "29,922"
-    },
-    {
-      "name": "Turtlemint Fintech",
-      "week52": "154.3",
-      "ltp": "111.84",
-      "gainPct": "-0.8 %",
-      "dayLow": "111.04",
-      "dayHigh": "154.20",
-      "volume": "286,715"
-    },
-    {
       "name": "Digikore Studios",
       "week52": "100",
       "ltp": "35.00",
@@ -353,6 +326,24 @@
       "dayLow": "8.50",
       "dayHigh": "0.00",
       "volume": "12,000"
+    },
+    {
+      "name": "Bandhan Gold ETF",
+      "week52": "180.16",
+      "ltp": "149.85",
+      "gainPct": "1.4 %",
+      "dayLow": "115.17",
+      "dayHigh": "181.47",
+      "volume": "29,922"
+    },
+    {
+      "name": "Turtlemint Fintech",
+      "week52": "154.3",
+      "ltp": "111.84",
+      "gainPct": "-0.8 %",
+      "dayLow": "111.04",
+      "dayHigh": "154.20",
+      "volume": "286,715"
     },
     {
       "name": "National Standar",
@@ -452,6 +443,15 @@
       "dayLow": "33.60",
       "dayHigh": "0.00",
       "volume": "26,700"
+    },
+    {
+      "name": "Osia Hyper Reta.",
+      "week52": "33.08",
+      "ltp": "2.81",
+      "gainPct": "2.2 %",
+      "dayLow": "2.67",
+      "dayHigh": "0.00",
+      "volume": "552,004"
     }
   ]
 }

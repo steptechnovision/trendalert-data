@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:01:00.957Z",
+  "updatedAt": "2026-08-08T16:56:22.014Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -175,15 +175,6 @@
       "volume": "28,500"
     },
     {
-      "name": "Mo Nifty Metal ETF",
-      "week52": "13.29",
-      "ltp": "13.19",
-      "gainPct": "0.2 %",
-      "dayLow": "13.11",
-      "dayHigh": "0.00",
-      "volume": "3,040"
-    },
-    {
       "name": "Rallis India",
       "week52": "385.8",
       "ltp": "213.03",
@@ -191,6 +182,15 @@
       "dayLow": "211.51",
       "dayHigh": "385.50",
       "volume": "791,724"
+    },
+    {
+      "name": "Mo Nifty Metal ETF",
+      "week52": "13.29",
+      "ltp": "13.19",
+      "gainPct": "0.2 %",
+      "dayLow": "13.11",
+      "dayHigh": "0.00",
+      "volume": "3,040"
     },
     {
       "name": "Indo Thai Sec.",
@@ -247,6 +247,15 @@
       "volume": "158,482"
     },
     {
+      "name": "Marsons",
+      "week52": "175.4",
+      "ltp": "103.97",
+      "gainPct": "-3.6 %",
+      "dayLow": "101.15",
+      "dayHigh": "202.10",
+      "volume": "2,174,787"
+    },
+    {
       "name": "Alpine Texworld",
       "week52": "105",
       "ltp": "63.27",
@@ -265,13 +274,13 @@
       "volume": "3,292,526"
     },
     {
-      "name": "Marsons",
-      "week52": "175.4",
-      "ltp": "103.97",
-      "gainPct": "-3.6 %",
-      "dayLow": "101.15",
-      "dayHigh": "202.10",
-      "volume": "2,174,787"
+      "name": "T T",
+      "week52": "12.67",
+      "ltp": "5.81",
+      "gainPct": "-7.5 %",
+      "dayLow": "5.70",
+      "dayHigh": "12.63",
+      "volume": "736,313"
     },
     {
       "name": "Giriraj Civil",
@@ -292,13 +301,22 @@
       "volume": "97,581"
     },
     {
-      "name": "T T",
-      "week52": "12.67",
-      "ltp": "5.81",
-      "gainPct": "-7.5 %",
-      "dayLow": "5.70",
-      "dayHigh": "12.63",
-      "volume": "736,313"
+      "name": "Bandhan Gold ETF",
+      "week52": "180.16",
+      "ltp": "149.85",
+      "gainPct": "1.4 %",
+      "dayLow": "115.17",
+      "dayHigh": "181.47",
+      "volume": "29,922"
+    },
+    {
+      "name": "Turtlemint Fintech",
+      "week52": "154.3",
+      "ltp": "111.84",
+      "gainPct": "-0.8 %",
+      "dayLow": "111.04",
+      "dayHigh": "154.20",
+      "volume": "286,715"
     },
     {
       "name": "Digikore Studios",
@@ -328,24 +346,6 @@
       "volume": "12,000"
     },
     {
-      "name": "Bandhan Gold ETF",
-      "week52": "180.16",
-      "ltp": "149.85",
-      "gainPct": "1.4 %",
-      "dayLow": "115.17",
-      "dayHigh": "181.47",
-      "volume": "29,922"
-    },
-    {
-      "name": "Turtlemint Fintech",
-      "week52": "154.3",
-      "ltp": "111.84",
-      "gainPct": "-0.8 %",
-      "dayLow": "111.04",
-      "dayHigh": "154.20",
-      "volume": "286,715"
-    },
-    {
       "name": "National Standar",
       "week52": "1495",
       "ltp": "191.85",
@@ -353,6 +353,33 @@
       "dayLow": "191.85",
       "dayHigh": "2338.00",
       "volume": "4,431"
+    },
+    {
+      "name": "CSB Bank",
+      "week52": "574.4",
+      "ltp": "316.95",
+      "gainPct": "-2.2 %",
+      "dayLow": "315.25",
+      "dayHigh": "574.70",
+      "volume": "473,828"
+    },
+    {
+      "name": "Cerebra Integr.",
+      "week52": "10.08",
+      "ltp": "2.83",
+      "gainPct": "1.4 %",
+      "dayLow": "2.71",
+      "dayHigh": "10.14",
+      "volume": "78,431"
+    },
+    {
+      "name": "Aprameya Enginee",
+      "week52": "360",
+      "ltp": "142.60",
+      "gainPct": "-2.3 %",
+      "dayLow": "140.05",
+      "dayHigh": "0.00",
+      "volume": "19,000"
     },
     {
       "name": "Vikram Solar",
@@ -380,33 +407,6 @@
       "dayLow": "51.00",
       "dayHigh": "0.00",
       "volume": "43,000"
-    },
-    {
-      "name": "Aprameya Enginee",
-      "week52": "360",
-      "ltp": "142.60",
-      "gainPct": "-2.3 %",
-      "dayLow": "140.05",
-      "dayHigh": "0.00",
-      "volume": "19,000"
-    },
-    {
-      "name": "CSB Bank",
-      "week52": "574.4",
-      "ltp": "316.95",
-      "gainPct": "-2.2 %",
-      "dayLow": "315.25",
-      "dayHigh": "574.70",
-      "volume": "473,828"
-    },
-    {
-      "name": "Cerebra Integr.",
-      "week52": "10.08",
-      "ltp": "2.83",
-      "gainPct": "1.4 %",
-      "dayLow": "2.71",
-      "dayHigh": "10.14",
-      "volume": "78,431"
     },
     {
       "name": "Juniper Green",

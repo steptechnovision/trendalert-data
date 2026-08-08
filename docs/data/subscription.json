@@ -1,23 +1,8 @@
 {
-  "updatedAt": "2026-08-08T18:01:50.430Z",
+  "updatedAt": "2026-08-08T19:03:16.153Z",
   "source": "nse",
   "count": 3,
   "items": [
-    {
-      "name": "Leap India Limited",
-      "symbol": "LEAP",
-      "total": "0.26",
-      "qib": "0.61",
-      "shni": "0.16",
-      "bhni": "0.08",
-      "nii": "0.11",
-      "rii": "0.13",
-      "ipoSize": "11,49,91,735 shares",
-      "price": "₹151 to ₹159",
-      "closeDate": "11 Aug",
-      "type": "Mainboard",
-      "url": ""
-    },
     {
       "name": "Technocraft Ventures Limited",
       "symbol": "TECHNOCRAF",
@@ -29,6 +14,21 @@
       "rii": "1.00",
       "ipoSize": "83,17,190 shares",
       "price": "₹200 to ₹212",
+      "closeDate": "11 Aug",
+      "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "Leap India Limited",
+      "symbol": "LEAP",
+      "total": "0.26",
+      "qib": "0.61",
+      "shni": "0.16",
+      "bhni": "0.08",
+      "nii": "0.11",
+      "rii": "0.13",
+      "ipoSize": "11,49,91,735 shares",
+      "price": "₹151 to ₹159",
       "closeDate": "11 Aug",
       "type": "Mainboard",
       "url": ""

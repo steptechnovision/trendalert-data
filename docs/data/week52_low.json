@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T13:24:03.831Z",
+  "updatedAt": "2026-08-09T14:17:54.141Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -175,15 +175,6 @@
       "volume": "15,300"
     },
     {
-      "name": "Rallis India",
-      "week52": "385.8",
-      "ltp": "213.03",
-      "gainPct": "-0.9 %",
-      "dayLow": "211.51",
-      "dayHigh": "385.50",
-      "volume": "791,724"
-    },
-    {
       "name": "Mo Nifty Metal ETF",
       "week52": "13.29",
       "ltp": "13.19",
@@ -191,6 +182,15 @@
       "dayLow": "13.11",
       "dayHigh": "0.00",
       "volume": "3,040"
+    },
+    {
+      "name": "Rallis India",
+      "week52": "385.8",
+      "ltp": "213.03",
+      "gainPct": "-0.9 %",
+      "dayLow": "211.51",
+      "dayHigh": "385.50",
+      "volume": "791,724"
     },
     {
       "name": "Indo Thai Sec.",
@@ -220,33 +220,6 @@
       "volume": "56,000"
     },
     {
-      "name": "Laxmi Goldorna",
-      "week52": "399.59",
-      "ltp": "203.88",
-      "gainPct": "1.0 %",
-      "dayLow": "195.10",
-      "dayHigh": "0.00",
-      "volume": "18,249"
-    },
-    {
-      "name": "Veritaas Adver.",
-      "week52": "74.9",
-      "ltp": "33.30",
-      "gainPct": "-4.3 %",
-      "dayLow": "33.10",
-      "dayHigh": "0.00",
-      "volume": "2,400"
-    },
-    {
-      "name": "Tarapur Trans",
-      "week52": "39.99",
-      "ltp": "13.29",
-      "gainPct": "-1.8 %",
-      "dayLow": "12.21",
-      "dayHigh": "40.25",
-      "volume": "158,482"
-    },
-    {
       "name": "Marsons",
       "week52": "175.4",
       "ltp": "103.97",
@@ -272,6 +245,33 @@
       "dayLow": "15.47",
       "dayHigh": "16.28",
       "volume": "3,292,526"
+    },
+    {
+      "name": "Laxmi Goldorna",
+      "week52": "399.59",
+      "ltp": "203.88",
+      "gainPct": "1.0 %",
+      "dayLow": "195.10",
+      "dayHigh": "0.00",
+      "volume": "18,249"
+    },
+    {
+      "name": "Veritaas Adver.",
+      "week52": "74.9",
+      "ltp": "33.30",
+      "gainPct": "-4.3 %",
+      "dayLow": "33.10",
+      "dayHigh": "0.00",
+      "volume": "2,400"
+    },
+    {
+      "name": "Tarapur Trans",
+      "week52": "39.99",
+      "ltp": "13.29",
+      "gainPct": "-1.8 %",
+      "dayLow": "12.21",
+      "dayHigh": "40.25",
+      "volume": "158,482"
     },
     {
       "name": "Giriraj Civil",

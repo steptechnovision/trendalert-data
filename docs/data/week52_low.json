@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T10:11:31.644Z",
+  "updatedAt": "2026-08-09T10:55:56.100Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -175,22 +175,13 @@
       "volume": "15,300"
     },
     {
-      "name": "Mo Nifty Metal ETF",
-      "week52": "13.29",
-      "ltp": "13.19",
-      "gainPct": "0.2 %",
-      "dayLow": "13.11",
-      "dayHigh": "0.00",
-      "volume": "3,040"
-    },
-    {
-      "name": "Rallis India",
-      "week52": "385.8",
-      "ltp": "213.03",
-      "gainPct": "-0.9 %",
-      "dayLow": "211.51",
-      "dayHigh": "385.50",
-      "volume": "791,724"
+      "name": "Indo Thai Sec.",
+      "week52": "466.35",
+      "ltp": "99.59",
+      "gainPct": "-10.0 %",
+      "dayLow": "99.59",
+      "dayHigh": "470.00",
+      "volume": "204,974"
     },
     {
       "name": "Shankar Lal Ram.",
@@ -211,13 +202,22 @@
       "volume": "56,000"
     },
     {
-      "name": "Indo Thai Sec.",
-      "week52": "466.35",
-      "ltp": "99.59",
-      "gainPct": "-10.0 %",
-      "dayLow": "99.59",
-      "dayHigh": "470.00",
-      "volume": "204,974"
+      "name": "Rallis India",
+      "week52": "385.8",
+      "ltp": "213.03",
+      "gainPct": "-0.9 %",
+      "dayLow": "211.51",
+      "dayHigh": "385.50",
+      "volume": "791,724"
+    },
+    {
+      "name": "Mo Nifty Metal ETF",
+      "week52": "13.29",
+      "ltp": "13.19",
+      "gainPct": "0.2 %",
+      "dayLow": "13.11",
+      "dayHigh": "0.00",
+      "volume": "3,040"
     },
     {
       "name": "Alpine Texworld",
@@ -301,24 +301,6 @@
       "volume": "736,313"
     },
     {
-      "name": "Bandhan Gold ETF",
-      "week52": "180.16",
-      "ltp": "149.85",
-      "gainPct": "1.4 %",
-      "dayLow": "115.17",
-      "dayHigh": "181.47",
-      "volume": "29,922"
-    },
-    {
-      "name": "Turtlemint Fintech",
-      "week52": "154.3",
-      "ltp": "111.84",
-      "gainPct": "-0.8 %",
-      "dayLow": "111.04",
-      "dayHigh": "154.20",
-      "volume": "286,715"
-    },
-    {
       "name": "Digikore Studios",
       "week52": "100",
       "ltp": "35.00",
@@ -344,6 +326,24 @@
       "dayLow": "8.50",
       "dayHigh": "0.00",
       "volume": "12,000"
+    },
+    {
+      "name": "Bandhan Gold ETF",
+      "week52": "180.16",
+      "ltp": "149.85",
+      "gainPct": "1.4 %",
+      "dayLow": "115.17",
+      "dayHigh": "181.47",
+      "volume": "29,922"
+    },
+    {
+      "name": "Turtlemint Fintech",
+      "week52": "154.3",
+      "ltp": "111.84",
+      "gainPct": "-0.8 %",
+      "dayLow": "111.04",
+      "dayHigh": "154.20",
+      "volume": "286,715"
     },
     {
       "name": "National Standar",

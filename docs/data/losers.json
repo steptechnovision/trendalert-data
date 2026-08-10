@@ -1,8 +1,192 @@
 {
-  "updatedAt": "2026-08-10T10:18:30.438Z",
+  "updatedAt": "2026-08-10T11:28:13.237Z",
   "source": "5paisa",
-  "count": 11,
+  "count": 34,
   "items": [
+    {
+      "name": "Adani Enterp.",
+      "ltp": "3010.00",
+      "gainPct": "-0.3 %",
+      "dayLow": "2969.90",
+      "dayHigh": "3021.80",
+      "volume": "811593"
+    },
+    {
+      "name": "Adani Ports",
+      "ltp": "1681.00",
+      "gainPct": "-0.7 %",
+      "dayLow": "1673.10",
+      "dayHigh": "1690.00",
+      "volume": "2177216"
+    },
+    {
+      "name": "Apollo Hospitals",
+      "ltp": "8912.00",
+      "gainPct": "-0.4 %",
+      "dayLow": "8865.50",
+      "dayHigh": "8971.00",
+      "volume": "411854"
+    },
+    {
+      "name": "Bharti Airtel",
+      "ltp": "1943.00",
+      "gainPct": "-0.9 %",
+      "dayLow": "1935.00",
+      "dayHigh": "1959.00",
+      "volume": "3671000"
+    },
+    {
+      "name": "Coal India",
+      "ltp": "411.00",
+      "gainPct": "-1.0 %",
+      "dayLow": "410.35",
+      "dayHigh": "415.15",
+      "volume": "6284552"
+    },
+    {
+      "name": "Dr Reddys Labs",
+      "ltp": "1158.80",
+      "gainPct": "-1.1 %",
+      "dayLow": "1156.00",
+      "dayHigh": "1178.80",
+      "volume": "1770609"
+    },
+    {
+      "name": "Eicher Motors",
+      "ltp": "7975.00",
+      "gainPct": "-0.6 %",
+      "dayLow": "7938.00",
+      "dayHigh": "8024.00",
+      "volume": "372667"
+    },
+    {
+      "name": "Eternal",
+      "ltp": "310.25",
+      "gainPct": "-1.5 %",
+      "dayLow": "309.50",
+      "dayHigh": "316.25",
+      "volume": "16471148"
+    },
+    {
+      "name": "Hind. Unilever",
+      "ltp": "2087.20",
+      "gainPct": "-0.4 %",
+      "dayLow": "2076.00",
+      "dayHigh": "2097.00",
+      "volume": "1118008"
+    },
+    {
+      "name": "Hindalco Inds.",
+      "ltp": "1054.05",
+      "gainPct": "-0.5 %",
+      "dayLow": "1040.45",
+      "dayHigh": "1068.35",
+      "volume": "7055761"
+    },
+    {
+      "name": "ITC",
+      "ltp": "282.65",
+      "gainPct": "-1.2 %",
+      "dayLow": "281.40",
+      "dayHigh": "286.10",
+      "volume": "9347929"
+    },
+    {
+      "name": "Jio Financial",
+      "ltp": "254.00",
+      "gainPct": "-1.1 %",
+      "dayLow": "253.55",
+      "dayHigh": "257.85",
+      "volume": "9861960"
+    },
+    {
+      "name": "Max Healthcare",
+      "ltp": "1069.00",
+      "gainPct": "-0.1 %",
+      "dayLow": "1054.30",
+      "dayHigh": "1079.90",
+      "volume": "2126362"
+    },
+    {
+      "name": "NTPC",
+      "ltp": "340.45",
+      "gainPct": "-0.6 %",
+      "dayLow": "337.15",
+      "dayHigh": "343.70",
+      "volume": "8818488"
+    },
+    {
+      "name": "Nestle India",
+      "ltp": "1528.60",
+      "gainPct": "-0.7 %",
+      "dayLow": "1520.00",
+      "dayHigh": "1547.50",
+      "volume": "1455200"
+    },
+    {
+      "name": "Power Grid Corpn",
+      "ltp": "270.10",
+      "gainPct": "-0.6 %",
+      "dayLow": "268.80",
+      "dayHigh": "271.60",
+      "volume": "8329347"
+    },
+    {
+      "name": "Reliance Industries",
+      "ltp": "1327.30",
+      "gainPct": "-0.6 %",
+      "dayLow": "1321.30",
+      "dayHigh": "1332.90",
+      "volume": "8207102"
+    },
+    {
+      "name": "SBI",
+      "ltp": "1071.00",
+      "gainPct": "-2.4 %",
+      "dayLow": "1068.60",
+      "dayHigh": "1113.30",
+      "volume": "16623448"
+    },
+    {
+      "name": "SBI Life Insuran",
+      "ltp": "1855.00",
+      "gainPct": "0.0 %",
+      "dayLow": "1836.00",
+      "dayHigh": "1865.10",
+      "volume": "834293"
+    },
+    {
+      "name": "Sun Pharma.Inds.",
+      "ltp": "1944.40",
+      "gainPct": "0.0 %",
+      "dayLow": "1939.80",
+      "dayHigh": "1965.00",
+      "volume": "1726946"
+    },
+    {
+      "name": "TCS",
+      "ltp": "2425.70",
+      "gainPct": "-1.1 %",
+      "dayLow": "2423.50",
+      "dayHigh": "2472.90",
+      "volume": "2322023"
+    },
+    {
+      "name": "UltraTech Cem.",
+      "ltp": "12038.00",
+      "gainPct": "-0.6 %",
+      "dayLow": "11921.00",
+      "dayHigh": "12124.00",
+      "volume": "138801"
+    },
+    {
+      "name": "Wipro",
+      "ltp": "185.50",
+      "gainPct": "-1.1 %",
+      "dayLow": "185.00",
+      "dayHigh": "187.89",
+      "volume": "5337618"
+    },
     {
       "name": "Adani Ports",
       "ltp": "1680.00",

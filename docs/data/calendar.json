@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-10T06:56:52.861Z",
+  "updatedAt": "2026-08-10T08:44:45.956Z",
   "source": "derived",
-  "count": 75,
+  "count": 76,
   "items": [
     {
       "name": "LAPL Automotive",
@@ -207,7 +207,7 @@
       "listing": "2026-08-19",
       "priceBand": "₹115",
       "size": "₹26.25 Cr.",
-      "gmp": "₹6",
+      "gmp": "₹12",
       "gain": "",
       "registrar": "Skylinerta",
       "listingGain": "",
@@ -222,7 +222,7 @@
       "listing": "2026-08-19",
       "priceBand": "₹285",
       "size": "₹301.62 Cr.",
-      "gmp": "₹25",
+      "gmp": "₹43",
       "gain": "",
       "registrar": "MUFG Intime",
       "listingGain": "",
@@ -255,6 +255,21 @@
       "gmp": "₹22",
       "gain": "",
       "registrar": "KfinTech",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Credent Connect N Care",
+      "type": "NSE SME",
+      "open": "2026-08-13",
+      "close": "2026-08-17",
+      "allotment": "2026-08-18",
+      "listing": "2026-08-20",
+      "priceBand": "₹189",
+      "size": "₹93.90 Cr.",
+      "gmp": "₹0",
+      "gain": "",
+      "registrar": "Kfintech",
       "listingGain": "",
       "status": "upcoming"
     },

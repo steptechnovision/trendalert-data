@@ -1,8 +1,22 @@
 {
-  "updatedAt": "2026-08-11T03:46:55.162Z",
+  "updatedAt": "2026-08-11T05:11:33.451Z",
   "source": "5paisa",
   "count": 5,
   "items": [
+    {
+      "companyName": "GACM Technologies Ltd",
+      "ltp": "₹0.71",
+      "change": "2.9",
+      "volume": "6,284,991",
+      "marketCap": "₹82.45"
+    },
+    {
+      "companyName": "Ganga Forging Ltd",
+      "ltp": "₹2.31",
+      "change": "4.52",
+      "volume": "5,760,712",
+      "marketCap": "₹71.11"
+    },
     {
       "companyName": "Future Consumer Ltd",
       "ltp": "₹0.25",
@@ -11,32 +25,18 @@
       "marketCap": "₹51.92"
     },
     {
-      "companyName": "GACM Technologies Ltd",
-      "ltp": "₹0.71",
-      "change": "2.9",
-      "volume": "1,631,353",
-      "marketCap": "₹82.45"
+      "companyName": "Vaxtex Cotfab Ltd",
+      "ltp": "₹1.38",
+      "change": "-1.43",
+      "volume": "2,032,240",
+      "marketCap": "₹24.62"
     },
     {
-      "companyName": "Ganga Forging Ltd",
-      "ltp": "₹2.30",
-      "change": "4.07",
-      "volume": "1,129,720",
-      "marketCap": "₹71.11"
-    },
-    {
-      "companyName": "Debock Industries Ltd",
-      "ltp": "₹0.76",
-      "change": "-1.3",
-      "volume": "652,805",
-      "marketCap": "₹12.53"
-    },
-    {
-      "companyName": "Impex Ferro Tech Ltd",
-      "ltp": "₹3.32",
-      "change": "4.73",
-      "volume": "485,385",
-      "marketCap": "₹27.87"
+      "companyName": "Dharan Infra-EPC Ltd",
+      "ltp": "₹0.15",
+      "change": "0",
+      "volume": "1,844,762",
+      "marketCap": "₹78.43"
     }
   ]
 }

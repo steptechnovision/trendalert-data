@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T07:41:47.780Z",
+  "updatedAt": "2026-08-11T08:59:45.112Z",
   "source": "5paisa",
   "count": 5,
   "items": [
@@ -7,22 +7,29 @@
       "companyName": "Ganga Forging Ltd",
       "ltp": "₹2.31",
       "change": "4.52",
-      "volume": "9,458,542",
+      "volume": "11,505,913",
       "marketCap": "₹71.11"
     },
     {
       "companyName": "GACM Technologies Ltd",
-      "ltp": "₹0.71",
-      "change": "2.9",
-      "volume": "8,060,045",
+      "ltp": "₹0.70",
+      "change": "1.45",
+      "volume": "9,425,175",
       "marketCap": "₹82.45"
     },
     {
       "companyName": "Dharan Infra-EPC Ltd",
-      "ltp": "₹0.16",
-      "change": "6.67",
-      "volume": "4,717,835",
+      "ltp": "₹0.15",
+      "change": "0",
+      "volume": "8,475,710",
       "marketCap": "₹78.43"
+    },
+    {
+      "companyName": "Vaxtex Cotfab Ltd",
+      "ltp": "₹1.47",
+      "change": "5",
+      "volume": "3,082,813",
+      "marketCap": "₹24.62"
     },
     {
       "companyName": "Future Consumer Ltd",
@@ -30,13 +37,6 @@
       "change": "-3.85",
       "volume": "2,805,832",
       "marketCap": "₹51.92"
-    },
-    {
-      "companyName": "Vaxtex Cotfab Ltd",
-      "ltp": "₹1.45",
-      "change": "3.57",
-      "volume": "2,762,735",
-      "marketCap": "₹24.62"
     }
   ]
 }

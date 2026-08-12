@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-12T05:49:28.815Z",
+  "updatedAt": "2026-08-12T07:27:35.295Z",
   "source": "derived",
-  "count": 83,
+  "count": 84,
   "items": [
     {
       "name": "Molbio Diagnostics",
@@ -199,32 +199,17 @@
       "status": "allotment"
     },
     {
-      "name": "G.V. Electricals",
-      "type": "BSE SME",
-      "open": "2026-07-31",
-      "close": "2026-08-07",
-      "allotment": "2026-08-10",
-      "listing": "2026-08-12",
-      "priceBand": "₹130",
-      "size": "₹42.25 Cr.",
-      "gmp": "₹26",
-      "gain": "",
-      "registrar": "Mudra RTA",
-      "listingGain": "",
-      "status": "listing"
-    },
-    {
       "name": "Ardee Industries",
       "type": "Mainboard",
       "open": "2026-08-05",
       "close": "2026-08-07",
-      "allotment": "2026-08-10",
+      "allotment": "2026-08-11",
       "listing": "2026-08-12",
       "priceBand": "₹53",
       "size": "₹425.87 Cr.",
       "gmp": "₹17",
       "gain": "",
-      "registrar": "KfinTech",
+      "registrar": "",
       "listingGain": "",
       "status": "listing"
     },
@@ -319,6 +304,21 @@
       "status": "upcoming"
     },
     {
+      "name": "Horizon Industrial Parks",
+      "type": "Mainboard",
+      "open": "2026-08-17",
+      "close": "2026-08-19",
+      "allotment": "2026-08-20",
+      "listing": "2026-08-24",
+      "priceBand": "₹57 to ₹60",
+      "size": "₹2,600 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "KfinTech",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
       "name": "Sunshine Pictures",
       "type": "Mainboard",
       "open": "2026-08-18",
@@ -345,6 +345,21 @@
       "gmp": "₹0",
       "gain": "",
       "registrar": "KfinTech",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Skyways Air",
+      "type": "Mainboard",
+      "open": "2026-08-24",
+      "close": "2026-08-26",
+      "allotment": "2026-08-27",
+      "listing": "2026-08-31",
+      "priceBand": "₹131 to ₹137",
+      "size": "₹[.] Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Bigshare",
       "listingGain": "",
       "status": "upcoming"
     },
@@ -1223,13 +1238,13 @@
       "type": "NSE SME",
       "open": "2026-08-03",
       "close": "2026-08-05",
-      "allotment": "2026-08-06",
+      "allotment": "2026-08-07",
       "listing": "2026-08-10",
       "priceBand": "₹257 to ₹270",
       "size": "₹177.81 Cr.",
       "gmp": "",
       "gain": "",
-      "registrar": "Bigshare",
+      "registrar": "",
       "listingGain": "",
       "status": "listed"
     },
@@ -1238,13 +1253,13 @@
       "type": "BSE SME",
       "open": "2026-08-04",
       "close": "2026-08-06",
-      "allotment": "2026-08-07",
+      "allotment": "2026-08-10",
       "listing": "2026-08-11",
       "priceBand": "₹100 to ₹105",
       "size": "₹23.71 Cr.",
       "gmp": "",
       "gain": "",
-      "registrar": "Skylinerta",
+      "registrar": "",
       "listingGain": "",
       "status": "listed"
     }

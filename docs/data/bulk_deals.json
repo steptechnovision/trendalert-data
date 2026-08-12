@@ -1,8 +1,44 @@
 {
-  "updatedAt": "2026-08-12T11:12:10.149Z",
+  "updatedAt": "2026-08-12T12:02:11.602Z",
   "source": "nse",
   "count": 80,
   "items": [
+    {
+      "symbol": "VCL",
+      "name": "Vaxtex Cotfab Limited",
+      "clientName": "KENKERE CHANNAIAH JAYASWAMY",
+      "buySell": "SELL",
+      "qty": "1110000",
+      "price": "1.47",
+      "date": "11-Aug-2026"
+    },
+    {
+      "symbol": "WANBURY",
+      "name": "Wanbury Limited",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "209192",
+      "price": "245.28",
+      "date": "11-Aug-2026"
+    },
+    {
+      "symbol": "WEL",
+      "name": "Wonder Electricals Ltd",
+      "clientName": "DUSHYANT YASHWANT SAND",
+      "buySell": "SELL",
+      "qty": "698454",
+      "price": "137.19",
+      "date": "11-Aug-2026"
+    },
+    {
+      "symbol": "WINDLAS",
+      "name": "Windlas Biotech Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "118632",
+      "price": "936.43",
+      "date": "11-Aug-2026"
+    },
     {
       "symbol": "AARTIPHARM",
       "name": "Aarti Pharmalabs Limited",
@@ -685,42 +721,6 @@
       "buySell": "SELL",
       "qty": "200",
       "price": "350",
-      "date": "11-Aug-2026"
-    },
-    {
-      "symbol": "MASON",
-      "name": "Mason Infratech Limited",
-      "clientName": "COMPACT STRUCTURE FUND",
-      "buySell": "SELL",
-      "qty": "211500",
-      "price": "118.17",
-      "date": "11-Aug-2026"
-    },
-    {
-      "symbol": "METROPOLIS",
-      "name": "Metropolis Healthcare Ltd",
-      "clientName": "METZ ADVISORY LLP",
-      "buySell": "SELL",
-      "qty": "1050000",
-      "price": "564",
-      "date": "11-Aug-2026"
-    },
-    {
-      "symbol": "METROPOLIS",
-      "name": "Metropolis Healthcare Ltd",
-      "clientName": "DURU SHAH FAMILY TRUST",
-      "buySell": "SELL",
-      "qty": "1050000",
-      "price": "564",
-      "date": "11-Aug-2026"
-    },
-    {
-      "symbol": "MILTON",
-      "name": "Milton Industries Limited",
-      "clientName": "TRADE PULSE BROKING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "2200",
-      "price": "37.3",
       "date": "11-Aug-2026"
     }
   ]

@@ -1,71 +1,127 @@
 {
-  "updatedAt": "2026-08-12T07:27:35.295Z",
+  "updatedAt": "2026-08-12T08:50:04.668Z",
   "source": "5paisa",
-  "count": 8,
+  "count": 15,
   "items": [
     {
-      "name": "Bajaj Auto",
-      "ltp": "11750.00",
-      "gainPct": "0.3 %",
-      "dayLow": "11706.00",
-      "dayHigh": "11819.00",
-      "volume": "137050"
+      "name": "Asian Paints",
+      "ltp": "2736.10",
+      "gainPct": "0.0 %",
+      "dayLow": "2712.30",
+      "dayHigh": "2748.40",
+      "volume": "361458"
     },
     {
-      "name": "Cipla",
-      "ltp": "1464.40",
+      "name": "Bajaj Auto",
+      "ltp": "11730.00",
       "gainPct": "0.1 %",
-      "dayLow": "1456.10",
-      "dayHigh": "1468.80",
-      "volume": "319765"
+      "dayLow": "11706.00",
+      "dayHigh": "11819.00",
+      "volume": "181438"
+    },
+    {
+      "name": "Eicher Motors",
+      "ltp": "8009.00",
+      "gainPct": "0.1 %",
+      "dayLow": "7940.00",
+      "dayHigh": "8016.00",
+      "volume": "225065"
     },
     {
       "name": "Grasim Inds",
-      "ltp": "3353.30",
-      "gainPct": "0.9 %",
+      "ltp": "3360.10",
+      "gainPct": "1.1 %",
       "dayLow": "3325.10",
       "dayHigh": "3385.90",
-      "volume": "606841"
+      "volume": "747933"
     },
     {
       "name": "Hindalco Inds.",
-      "ltp": "1082.00",
-      "gainPct": "3.1 %",
+      "ltp": "1079.05",
+      "gainPct": "2.9 %",
       "dayLow": "1056.90",
       "dayHigh": "1087.95",
-      "volume": "5959781"
+      "volume": "6749497"
+    },
+    {
+      "name": "NTPC",
+      "ltp": "339.60",
+      "gainPct": "0.3 %",
+      "dayLow": "335.35",
+      "dayHigh": "341.35",
+      "volume": "8597130"
     },
     {
       "name": "Nestle India",
-      "ltp": "1507.20",
-      "gainPct": "0.9 %",
+      "ltp": "1498.80",
+      "gainPct": "0.4 %",
       "dayLow": "1496.60",
       "dayHigh": "1515.70",
-      "volume": "1189740"
+      "volume": "1484866"
+    },
+    {
+      "name": "Power Grid Corpn",
+      "ltp": "268.50",
+      "gainPct": "0.2 %",
+      "dayLow": "266.30",
+      "dayHigh": "269.40",
+      "volume": "3860018"
     },
     {
       "name": "SBI",
-      "ltp": "1082.20",
-      "gainPct": "1.5 %",
+      "ltp": "1077.80",
+      "gainPct": "1.1 %",
       "dayLow": "1066.00",
       "dayHigh": "1085.50",
-      "volume": "10314315"
+      "volume": "12197542"
     },
     {
       "name": "Asian Paints",
-      "ltp": "2728.95",
-      "gainPct": "0.1 %",
+      "ltp": "2736.00",
+      "gainPct": "0.3 %",
       "dayLow": "2712.05",
       "dayHigh": "2742.60",
-      "volume": "10082"
+      "volume": "11575"
+    },
+    {
+      "name": "Bajaj Finserv",
+      "ltp": "2011.65",
+      "gainPct": "0.1 %",
+      "dayLow": "2007.00",
+      "dayHigh": "2024.50",
+      "volume": "11349"
+    },
+    {
+      "name": "Interglobe Aviat",
+      "ltp": "5261.15",
+      "gainPct": "0.0 %",
+      "dayLow": "5230.00",
+      "dayHigh": "5287.95",
+      "volume": "6885"
+    },
+    {
+      "name": "NTPC",
+      "ltp": "339.70",
+      "gainPct": "0.2 %",
+      "dayLow": "335.40",
+      "dayHigh": "341.45",
+      "volume": "565245"
+    },
+    {
+      "name": "Power Grid Corpn",
+      "ltp": "268.70",
+      "gainPct": "0.3 %",
+      "dayLow": "266.30",
+      "dayHigh": "269.30",
+      "volume": "427879"
     },
     {
       "name": "SBI",
-      "ltp": "1082.15",
-      "gainPct": "1.5 %",
+      "ltp": "1077.85",
+      "gainPct": "1.1 %",
       "dayLow": "1065.25",
       "dayHigh": "1085.00",
-      "volume": "773262"
+      "volume": "902966"
     }
   ]
 }

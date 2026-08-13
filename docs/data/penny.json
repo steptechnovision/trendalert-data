@@ -1,28 +1,35 @@
 {
-  "updatedAt": "2026-08-13T07:37:30.631Z",
+  "updatedAt": "2026-08-13T08:54:38.871Z",
   "source": "5paisa",
   "count": 5,
   "items": [
     {
       "companyName": "Dharan Infra-EPC Ltd",
-      "ltp": "₹0.16",
-      "change": "6.67",
-      "volume": "28,378,271",
+      "ltp": "₹0.15",
+      "change": "0",
+      "volume": "31,472,776",
       "marketCap": "₹78.43"
     },
     {
       "companyName": "Ganga Forging Ltd",
       "ltp": "₹2.52",
       "change": "5",
-      "volume": "16,789,271",
+      "volume": "19,941,159",
       "marketCap": "₹80.88"
     },
     {
       "companyName": "GACM Technologies Ltd",
       "ltp": "₹0.75",
       "change": "4.17",
-      "volume": "12,303,485",
+      "volume": "13,583,289",
       "marketCap": "₹89.06"
+    },
+    {
+      "companyName": "Sundaram Multi Pap Ltd",
+      "ltp": "₹1.13",
+      "change": "-5.04",
+      "volume": "3,269,012",
+      "marketCap": "₹56.39"
     },
     {
       "companyName": "Future Consumer Ltd",
@@ -30,13 +37,6 @@
       "change": "-3.85",
       "volume": "2,805,832",
       "marketCap": "₹49.93"
-    },
-    {
-      "companyName": "Sundaram Multi Pap Ltd",
-      "ltp": "₹1.19",
-      "change": "0",
-      "volume": "1,642,535",
-      "marketCap": "₹56.39"
     }
   ]
 }

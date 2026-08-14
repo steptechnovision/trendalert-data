@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-08-14T11:11:21.952Z",
+  "updatedAt": "2026-08-14T12:00:28.215Z",
   "source": "5paisa",
   "count": 50,
   "items": [
+    {
+      "name": "Viji Finance",
+      "week52": "12.39",
+      "ltp": "12.39",
+      "gainPct": "2.0 %",
+      "dayLow": "12.39",
+      "dayHigh": "12.24",
+      "volume": "64,653"
+    },
+    {
+      "name": "Innomet Advanced",
+      "week52": "210.2",
+      "ltp": "210.20",
+      "gainPct": "2.0 %",
+      "dayLow": "210.20",
+      "dayHigh": "0.00",
+      "volume": "48,600"
+    },
     {
       "name": "Ratnaveer Precis",
       "week52": "233.02",
@@ -434,24 +452,6 @@
       "dayLow": "735.00",
       "dayHigh": "753.15",
       "volume": "174,450"
-    },
-    {
-      "name": "KRN Heat Exchan",
-      "week52": "1468.3",
-      "ltp": "1468.30",
-      "gainPct": "5.0 %",
-      "dayLow": "1468.30",
-      "dayHigh": "1405.00",
-      "volume": "407,590"
-    },
-    {
-      "name": "Raghav Product.",
-      "week52": "1473",
-      "ltp": "1433.90",
-      "gainPct": "3.2 %",
-      "dayLow": "1389.60",
-      "dayHigh": "1398.80",
-      "volume": "243,416"
     }
   ]
 }

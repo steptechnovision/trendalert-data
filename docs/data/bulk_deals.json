@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-08-14T10:05:02.716Z",
+  "updatedAt": "2026-08-14T11:11:21.952Z",
   "source": "nse",
   "count": 80,
   "items": [
+    {
+      "symbol": "APOLLOPIPE",
+      "name": "Apollo Pipes Limited",
+      "clientName": "ANIL LAXMICHAND SHAH",
+      "buySell": "BUY",
+      "qty": "247365",
+      "price": "508.81",
+      "date": "13-Aug-2026"
+    },
     {
       "symbol": "ASIANTILES",
       "name": "Asian Granito India Limit",
@@ -712,15 +721,6 @@
       "buySell": "SELL",
       "qty": "10205650",
       "price": "14.36",
-      "date": "13-Aug-2026"
-    },
-    {
-      "symbol": "MUNJALAU",
-      "name": "Munjal Auto Industries Li",
-      "clientName": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "520743",
-      "price": "116.6",
       "date": "13-Aug-2026"
     }
   ]

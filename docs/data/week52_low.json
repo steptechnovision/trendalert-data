@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T18:57:20.578Z",
+  "updatedAt": "2026-08-15T02:53:19.874Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -40,13 +40,22 @@
       "volume": "610,849"
     },
     {
-      "name": "Optimystix Entertainment",
-      "week52": "189",
-      "ltp": "189.00",
-      "gainPct": "8.0 %",
-      "dayLow": "175.00",
+      "name": "Laxmi Goldorna",
+      "week52": "399.59",
+      "ltp": "181.00",
+      "gainPct": "-7.9 %",
+      "dayLow": "178.50",
       "dayHigh": "0.00",
-      "volume": "2,879,200"
+      "volume": "53,218"
+    },
+    {
+      "name": "Oriana Power Ltd",
+      "week52": "3064",
+      "ltp": "1299.00",
+      "gainPct": "-2.9 %",
+      "dayLow": "1290.05",
+      "dayHigh": "0.00",
+      "volume": "82,875"
     },
     {
       "name": "Plada Infotech S",
@@ -85,15 +94,6 @@
       "volume": "3,800,741"
     },
     {
-      "name": "Symphony",
-      "week52": "991.5",
-      "ltp": "623.50",
-      "gainPct": "-1.2 %",
-      "dayLow": "618.20",
-      "dayHigh": "988.00",
-      "volume": "79,110"
-    },
-    {
       "name": "Thirumalai Chem.",
       "week52": "328.8",
       "ltp": "158.80",
@@ -119,15 +119,6 @@
       "dayLow": "78.85",
       "dayHigh": "0.00",
       "volume": "35,300"
-    },
-    {
-      "name": "UPL",
-      "week52": "812.2",
-      "ltp": "563.00",
-      "gainPct": "-0.9 %",
-      "dayLow": "558.05",
-      "dayHigh": "812.00",
-      "volume": "1,557,252"
     },
     {
       "name": "ICICI Pru. BSE",
@@ -166,6 +157,15 @@
       "volume": "88,000"
     },
     {
+      "name": "Symphony",
+      "week52": "991.5",
+      "ltp": "623.50",
+      "gainPct": "-1.2 %",
+      "dayLow": "618.20",
+      "dayHigh": "988.00",
+      "volume": "79,110"
+    },
+    {
       "name": "Pramara Promotio",
       "week52": "374.8",
       "ltp": "107.75",
@@ -193,31 +193,13 @@
       "volume": "40,771"
     },
     {
-      "name": "Leap India",
-      "week52": "167",
-      "ltp": "144.93",
-      "gainPct": "-8.8 %",
-      "dayLow": "143.00",
-      "dayHigh": "166.80",
-      "volume": "92,916,431"
-    },
-    {
-      "name": "Laxmi Goldorna",
-      "week52": "399.59",
-      "ltp": "181.00",
-      "gainPct": "-7.9 %",
-      "dayLow": "178.50",
-      "dayHigh": "0.00",
-      "volume": "53,218"
-    },
-    {
-      "name": "Oriana Power Ltd",
-      "week52": "3064",
-      "ltp": "1299.00",
-      "gainPct": "-2.9 %",
-      "dayLow": "1290.05",
-      "dayHigh": "0.00",
-      "volume": "82,875"
+      "name": "UPL",
+      "week52": "812.2",
+      "ltp": "563.00",
+      "gainPct": "-0.9 %",
+      "dayLow": "558.05",
+      "dayHigh": "812.00",
+      "volume": "1,557,252"
     },
     {
       "name": "Mafatlal Inds.",
@@ -265,33 +247,6 @@
       "volume": "79,075"
     },
     {
-      "name": "KPI Green Energy",
-      "week52": "542.25",
-      "ltp": "319.00",
-      "gainPct": "-2.8 %",
-      "dayLow": "317.00",
-      "dayHigh": "541.90",
-      "volume": "1,330,666"
-    },
-    {
-      "name": "Technocraft Ven.",
-      "week52": "334.4",
-      "ltp": "311.15",
-      "gainPct": "46.8 %",
-      "dayLow": "284.00",
-      "dayHigh": "334.60",
-      "volume": "28,679,235"
-    },
-    {
-      "name": "M.V.K. Agro",
-      "week52": "819",
-      "ltp": "228.95",
-      "gainPct": "-5.0 %",
-      "dayLow": "228.95",
-      "dayHigh": "0.00",
-      "volume": "21,300"
-    },
-    {
       "name": "Marathon Nextgen",
       "week52": "685.4",
       "ltp": "361.35",
@@ -308,6 +263,24 @@
       "dayLow": "1.41",
       "dayHigh": "4.19",
       "volume": "96,412"
+    },
+    {
+      "name": "KPI Green Energy",
+      "week52": "542.25",
+      "ltp": "319.00",
+      "gainPct": "-2.8 %",
+      "dayLow": "317.00",
+      "dayHigh": "541.90",
+      "volume": "1,330,666"
+    },
+    {
+      "name": "M.V.K. Agro",
+      "week52": "819",
+      "ltp": "228.95",
+      "gainPct": "-5.0 %",
+      "dayLow": "228.95",
+      "dayHigh": "0.00",
+      "volume": "21,300"
     },
     {
       "name": "CMR Green Tech.",
@@ -409,13 +382,49 @@
       "volume": "1,513"
     },
     {
-      "name": "Shukra Pharma.",
-      "week52": "43.4",
-      "ltp": "41.42",
-      "gainPct": "0.4 %",
-      "dayLow": "40.06",
-      "dayHigh": "65.26",
-      "volume": "1,113,804"
+      "name": "Guj Apollo Inds",
+      "week52": "556",
+      "ltp": "341.00",
+      "gainPct": "-1.8 %",
+      "dayLow": "300.50",
+      "dayHigh": "555.00",
+      "volume": "13,667"
+    },
+    {
+      "name": "Osia Hyper Reta.",
+      "week52": "33.08",
+      "ltp": "2.47",
+      "gainPct": "-2.4 %",
+      "dayLow": "2.41",
+      "dayHigh": "0.00",
+      "volume": "468,397"
+    },
+    {
+      "name": "Maks Energy",
+      "week52": "36",
+      "ltp": "16.30",
+      "gainPct": "-0.3 %",
+      "dayLow": "16.30",
+      "dayHigh": "0.00",
+      "volume": "3,000"
+    },
+    {
+      "name": "Nirman Agri",
+      "week52": "231",
+      "ltp": "30.50",
+      "gainPct": "-4.7 %",
+      "dayLow": "30.00",
+      "dayHigh": "0.00",
+      "volume": "37,500"
+    },
+    {
+      "name": "Ardee Industries",
+      "week52": "73.19",
+      "ltp": "59.15",
+      "gainPct": "-8.8 %",
+      "dayLow": "58.61",
+      "dayHigh": "73.60",
+      "volume": "22,017,200"
     },
     {
       "name": "Kama Holdings",
@@ -443,15 +452,6 @@
       "dayLow": "18.32",
       "dayHigh": "24.49",
       "volume": "4,498"
-    },
-    {
-      "name": "IRB Infra.Devl.",
-      "week52": "23.95",
-      "ltp": "19.26",
-      "gainPct": "0.3 %",
-      "dayLow": "19.06",
-      "dayHigh": "23.94",
-      "volume": "5,641,520"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:46:10.432Z",
+  "updatedAt": "2026-08-16T10:24:56.216Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -265,24 +265,6 @@
       "volume": "96,412"
     },
     {
-      "name": "KPI Green Energy",
-      "week52": "542.25",
-      "ltp": "319.00",
-      "gainPct": "-2.8 %",
-      "dayLow": "317.00",
-      "dayHigh": "541.90",
-      "volume": "1,330,666"
-    },
-    {
-      "name": "M.V.K. Agro",
-      "week52": "819",
-      "ltp": "228.95",
-      "gainPct": "-5.0 %",
-      "dayLow": "228.95",
-      "dayHigh": "0.00",
-      "volume": "21,300"
-    },
-    {
       "name": "CMR Green Tech.",
       "week52": "268.96",
       "ltp": "213.57",
@@ -328,13 +310,22 @@
       "volume": "141,655"
     },
     {
-      "name": "MO Nifty Oil & Gas ETF",
-      "week52": "11.7",
-      "ltp": "11.21",
-      "gainPct": "-0.2 %",
-      "dayLow": "11.19",
+      "name": "KPI Green Energy",
+      "week52": "542.25",
+      "ltp": "319.00",
+      "gainPct": "-2.8 %",
+      "dayLow": "317.00",
+      "dayHigh": "541.90",
+      "volume": "1,330,666"
+    },
+    {
+      "name": "M.V.K. Agro",
+      "week52": "819",
+      "ltp": "228.95",
+      "gainPct": "-5.0 %",
+      "dayLow": "228.95",
       "dayHigh": "0.00",
-      "volume": "1,675"
+      "volume": "21,300"
     },
     {
       "name": "Cool Caps",
@@ -373,6 +364,15 @@
       "volume": "3,600"
     },
     {
+      "name": "MO Nifty Oil & Gas ETF",
+      "week52": "11.7",
+      "ltp": "11.21",
+      "gainPct": "-0.2 %",
+      "dayLow": "11.19",
+      "dayHigh": "0.00",
+      "volume": "1,675"
+    },
+    {
       "name": "National Standar",
       "week52": "1495",
       "ltp": "148.47",
@@ -382,49 +382,13 @@
       "volume": "1,513"
     },
     {
-      "name": "Kama Holdings",
-      "week52": "2783.9",
-      "ltp": "2448.20",
-      "gainPct": "-1.1 %",
-      "dayLow": "2435.40",
-      "dayHigh": "3150.00",
-      "volume": "58,635"
-    },
-    {
-      "name": "Parsvnath Devl.",
-      "week52": "18.75",
-      "ltp": "1.50",
-      "gainPct": "-2.0 %",
-      "dayLow": "1.50",
-      "dayHigh": "18.72",
-      "volume": "168,178"
-    },
-    {
-      "name": "Burnpur Cement",
-      "week52": "21.39",
-      "ltp": "18.32",
-      "gainPct": "-5.0 %",
-      "dayLow": "18.32",
-      "dayHigh": "24.49",
-      "volume": "4,498"
-    },
-    {
-      "name": "IRB Infra.Devl.",
-      "week52": "23.95",
-      "ltp": "19.26",
-      "gainPct": "0.3 %",
-      "dayLow": "19.06",
-      "dayHigh": "23.94",
-      "volume": "5,641,520"
-    },
-    {
-      "name": "Indo Thai Sec.",
-      "week52": "466.35",
-      "ltp": "77.08",
-      "gainPct": "-5.0 %",
-      "dayLow": "77.08",
-      "dayHigh": "470.00",
-      "volume": "54,315"
+      "name": "Guj Apollo Inds",
+      "week52": "556",
+      "ltp": "341.00",
+      "gainPct": "-1.8 %",
+      "dayLow": "300.50",
+      "dayHigh": "555.00",
+      "volume": "13,667"
     },
     {
       "name": "Osia Hyper Reta.",
@@ -452,6 +416,42 @@
       "dayLow": "30.00",
       "dayHigh": "0.00",
       "volume": "37,500"
+    },
+    {
+      "name": "Ardee Industries",
+      "week52": "73.19",
+      "ltp": "59.15",
+      "gainPct": "-8.8 %",
+      "dayLow": "58.61",
+      "dayHigh": "73.60",
+      "volume": "22,017,200"
+    },
+    {
+      "name": "Kama Holdings",
+      "week52": "2783.9",
+      "ltp": "2448.20",
+      "gainPct": "-1.1 %",
+      "dayLow": "2435.40",
+      "dayHigh": "3150.00",
+      "volume": "58,635"
+    },
+    {
+      "name": "Parsvnath Devl.",
+      "week52": "18.75",
+      "ltp": "1.50",
+      "gainPct": "-2.0 %",
+      "dayLow": "1.50",
+      "dayHigh": "18.72",
+      "volume": "168,178"
+    },
+    {
+      "name": "Burnpur Cement",
+      "week52": "21.39",
+      "ltp": "18.32",
+      "gainPct": "-5.0 %",
+      "dayLow": "18.32",
+      "dayHigh": "24.49",
+      "volume": "4,498"
     }
   ]
 }

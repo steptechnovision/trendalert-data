@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T13:57:07.411Z",
+  "updatedAt": "2026-08-16T14:30:10.371Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -328,15 +328,6 @@
       "volume": "96,412"
     },
     {
-      "name": "MO Nifty Oil & Gas ETF",
-      "week52": "11.7",
-      "ltp": "11.21",
-      "gainPct": "-0.2 %",
-      "dayLow": "11.19",
-      "dayHigh": "0.00",
-      "volume": "1,675"
-    },
-    {
       "name": "Cool Caps",
       "week52": "99.5",
       "ltp": "20.00",
@@ -371,6 +362,15 @@
       "dayLow": "17.00",
       "dayHigh": "0.00",
       "volume": "3,600"
+    },
+    {
+      "name": "MO Nifty Oil & Gas ETF",
+      "week52": "11.7",
+      "ltp": "11.21",
+      "gainPct": "-0.2 %",
+      "dayLow": "11.19",
+      "dayHigh": "0.00",
+      "volume": "1,675"
     },
     {
       "name": "National Standar",
@@ -418,6 +418,15 @@
       "volume": "22,017,200"
     },
     {
+      "name": "Guj Apollo Inds",
+      "week52": "556",
+      "ltp": "341.00",
+      "gainPct": "-1.8 %",
+      "dayLow": "300.50",
+      "dayHigh": "555.00",
+      "volume": "13,667"
+    },
+    {
       "name": "Kama Holdings",
       "week52": "2783.9",
       "ltp": "2448.20",
@@ -443,15 +452,6 @@
       "dayLow": "18.32",
       "dayHigh": "24.49",
       "volume": "4,498"
-    },
-    {
-      "name": "IRB Infra.Devl.",
-      "week52": "23.95",
-      "ltp": "19.26",
-      "gainPct": "0.3 %",
-      "dayLow": "19.06",
-      "dayHigh": "23.94",
-      "volume": "5,641,520"
     }
   ]
 }

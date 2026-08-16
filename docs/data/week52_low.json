@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T05:58:37.398Z",
+  "updatedAt": "2026-08-16T06:53:15.639Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -247,6 +247,24 @@
       "volume": "79,075"
     },
     {
+      "name": "KPI Green Energy",
+      "week52": "542.25",
+      "ltp": "319.00",
+      "gainPct": "-2.8 %",
+      "dayLow": "317.00",
+      "dayHigh": "541.90",
+      "volume": "1,330,666"
+    },
+    {
+      "name": "M.V.K. Agro",
+      "week52": "819",
+      "ltp": "228.95",
+      "gainPct": "-5.0 %",
+      "dayLow": "228.95",
+      "dayHigh": "0.00",
+      "volume": "21,300"
+    },
+    {
       "name": "CMR Green Tech.",
       "week52": "268.96",
       "ltp": "213.57",
@@ -290,24 +308,6 @@
       "dayLow": "4.00",
       "dayHigh": "13.74",
       "volume": "141,655"
-    },
-    {
-      "name": "KPI Green Energy",
-      "week52": "542.25",
-      "ltp": "319.00",
-      "gainPct": "-2.8 %",
-      "dayLow": "317.00",
-      "dayHigh": "541.90",
-      "volume": "1,330,666"
-    },
-    {
-      "name": "M.V.K. Agro",
-      "week52": "819",
-      "ltp": "228.95",
-      "gainPct": "-5.0 %",
-      "dayLow": "228.95",
-      "dayHigh": "0.00",
-      "volume": "21,300"
     },
     {
       "name": "Marathon Nextgen",
@@ -382,15 +382,6 @@
       "volume": "1,513"
     },
     {
-      "name": "Guj Apollo Inds",
-      "week52": "556",
-      "ltp": "341.00",
-      "gainPct": "-1.8 %",
-      "dayLow": "300.50",
-      "dayHigh": "555.00",
-      "volume": "13,667"
-    },
-    {
       "name": "Osia Hyper Reta.",
       "week52": "33.08",
       "ltp": "2.47",
@@ -452,6 +443,15 @@
       "dayLow": "18.32",
       "dayHigh": "24.49",
       "volume": "4,498"
+    },
+    {
+      "name": "IRB Infra.Devl.",
+      "week52": "23.95",
+      "ltp": "19.26",
+      "gainPct": "0.3 %",
+      "dayLow": "19.06",
+      "dayHigh": "23.94",
+      "volume": "5,641,520"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T09:02:25.828Z",
+  "updatedAt": "2026-08-16T09:46:10.432Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -247,6 +247,24 @@
       "volume": "79,075"
     },
     {
+      "name": "Marathon Nextgen",
+      "week52": "685.4",
+      "ltp": "361.35",
+      "gainPct": "-2.1 %",
+      "dayLow": "361.25",
+      "dayHigh": "689.90",
+      "volume": "98,450"
+    },
+    {
+      "name": "Orchasp Ltd",
+      "week52": "4.16",
+      "ltp": "1.48",
+      "gainPct": "0.0 %",
+      "dayLow": "1.41",
+      "dayHigh": "4.19",
+      "volume": "96,412"
+    },
+    {
       "name": "KPI Green Energy",
       "week52": "542.25",
       "ltp": "319.00",
@@ -310,22 +328,13 @@
       "volume": "141,655"
     },
     {
-      "name": "Marathon Nextgen",
-      "week52": "685.4",
-      "ltp": "361.35",
-      "gainPct": "-2.1 %",
-      "dayLow": "361.25",
-      "dayHigh": "689.90",
-      "volume": "98,450"
-    },
-    {
-      "name": "Orchasp Ltd",
-      "week52": "4.16",
-      "ltp": "1.48",
-      "gainPct": "0.0 %",
-      "dayLow": "1.41",
-      "dayHigh": "4.19",
-      "volume": "96,412"
+      "name": "MO Nifty Oil & Gas ETF",
+      "week52": "11.7",
+      "ltp": "11.21",
+      "gainPct": "-0.2 %",
+      "dayLow": "11.19",
+      "dayHigh": "0.00",
+      "volume": "1,675"
     },
     {
       "name": "Cool Caps",
@@ -364,15 +373,6 @@
       "volume": "3,600"
     },
     {
-      "name": "MO Nifty Oil & Gas ETF",
-      "week52": "11.7",
-      "ltp": "11.21",
-      "gainPct": "-0.2 %",
-      "dayLow": "11.19",
-      "dayHigh": "0.00",
-      "volume": "1,675"
-    },
-    {
       "name": "National Standar",
       "week52": "1495",
       "ltp": "148.47",
@@ -380,51 +380,6 @@
       "dayLow": "148.47",
       "dayHigh": "2338.00",
       "volume": "1,513"
-    },
-    {
-      "name": "Osia Hyper Reta.",
-      "week52": "33.08",
-      "ltp": "2.47",
-      "gainPct": "-2.4 %",
-      "dayLow": "2.41",
-      "dayHigh": "0.00",
-      "volume": "468,397"
-    },
-    {
-      "name": "Maks Energy",
-      "week52": "36",
-      "ltp": "16.30",
-      "gainPct": "-0.3 %",
-      "dayLow": "16.30",
-      "dayHigh": "0.00",
-      "volume": "3,000"
-    },
-    {
-      "name": "Nirman Agri",
-      "week52": "231",
-      "ltp": "30.50",
-      "gainPct": "-4.7 %",
-      "dayLow": "30.00",
-      "dayHigh": "0.00",
-      "volume": "37,500"
-    },
-    {
-      "name": "Ardee Industries",
-      "week52": "73.19",
-      "ltp": "59.15",
-      "gainPct": "-8.8 %",
-      "dayLow": "58.61",
-      "dayHigh": "73.60",
-      "volume": "22,017,200"
-    },
-    {
-      "name": "Guj Apollo Inds",
-      "week52": "556",
-      "ltp": "341.00",
-      "gainPct": "-1.8 %",
-      "dayLow": "300.50",
-      "dayHigh": "555.00",
-      "volume": "13,667"
     },
     {
       "name": "Kama Holdings",
@@ -452,6 +407,51 @@
       "dayLow": "18.32",
       "dayHigh": "24.49",
       "volume": "4,498"
+    },
+    {
+      "name": "IRB Infra.Devl.",
+      "week52": "23.95",
+      "ltp": "19.26",
+      "gainPct": "0.3 %",
+      "dayLow": "19.06",
+      "dayHigh": "23.94",
+      "volume": "5,641,520"
+    },
+    {
+      "name": "Indo Thai Sec.",
+      "week52": "466.35",
+      "ltp": "77.08",
+      "gainPct": "-5.0 %",
+      "dayLow": "77.08",
+      "dayHigh": "470.00",
+      "volume": "54,315"
+    },
+    {
+      "name": "Osia Hyper Reta.",
+      "week52": "33.08",
+      "ltp": "2.47",
+      "gainPct": "-2.4 %",
+      "dayLow": "2.41",
+      "dayHigh": "0.00",
+      "volume": "468,397"
+    },
+    {
+      "name": "Maks Energy",
+      "week52": "36",
+      "ltp": "16.30",
+      "gainPct": "-0.3 %",
+      "dayLow": "16.30",
+      "dayHigh": "0.00",
+      "volume": "3,000"
+    },
+    {
+      "name": "Nirman Agri",
+      "week52": "231",
+      "ltp": "30.50",
+      "gainPct": "-4.7 %",
+      "dayLow": "30.00",
+      "dayHigh": "0.00",
+      "volume": "37,500"
     }
   ]
 }

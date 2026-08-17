@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-08-17T17:48:38.672Z",
+  "updatedAt": "2026-08-17T18:42:15.377Z",
   "source": "nse",
-  "count": 5,
+  "count": 6,
   "items": [
+    {
+      "name": "Sunshine Pictures Limited",
+      "symbol": "SUNSHINE",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "54,86,051 shares",
+      "price": "₹342 to ₹360",
+      "closeDate": "20 Aug",
+      "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "Shankesh Jewellers Limited",
+      "symbol": "SHANKESH",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "2,76,37,400 shares",
+      "price": "₹88 to ₹93",
+      "closeDate": "20 Aug",
+      "type": "Mainboard",
+      "url": ""
+    },
     {
       "name": "Lalithaa Jewellery Mart Limited",
       "symbol": "LALITHAA",
@@ -45,21 +75,6 @@
       "ipoSize": "",
       "price": "",
       "closeDate": "18 Aug",
-      "type": "SME",
-      "url": ""
-    },
-    {
-      "name": "Credent Connect N Care Limited",
-      "symbol": "CREDENT",
-      "total": "0.00",
-      "qib": "0.00",
-      "shni": "0.00",
-      "bhni": "0.00",
-      "nii": "0.00",
-      "rii": "",
-      "ipoSize": "",
-      "price": "",
-      "closeDate": "17 Aug",
       "type": "SME",
       "url": ""
     },

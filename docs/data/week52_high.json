@@ -1,115 +1,421 @@
 {
-  "updatedAt": "2026-08-17T04:06:40.342Z",
+  "updatedAt": "2026-08-17T05:01:41.641Z",
   "source": "5paisa",
   "count": 50,
   "items": [
     {
-      "name": "Mirae ABI Defence ETF",
-      "week52": "84.11",
-      "ltp": "82.92",
-      "gainPct": "0.6 %",
-      "dayLow": "82.55",
-      "dayHigh": "82.94",
-      "volume": "9,786"
+      "name": "Ajanta Pharma",
+      "week52": "3725",
+      "ltp": "3714.00",
+      "gainPct": "1.1 %",
+      "dayLow": "3650.00",
+      "dayHigh": "3698.00",
+      "volume": "26,154"
     },
     {
-      "name": "KRN Heat Exchan",
-      "week52": "1541.7",
-      "ltp": "1525.20",
-      "gainPct": "3.9 %",
-      "dayLow": "1500.00",
-      "dayHigh": "1468.70",
-      "volume": "294,070"
+      "name": "Anthem Bioscienc",
+      "week52": "904",
+      "ltp": "891.00",
+      "gainPct": "0.1 %",
+      "dayLow": "887.05",
+      "dayHigh": "899.35",
+      "volume": "247,206"
     },
     {
-      "name": "Mirae Nifty 200",
-      "week52": "27.2",
-      "ltp": "26.62",
-      "gainPct": "-0.2 %",
-      "dayLow": "26.54",
-      "dayHigh": "27.15",
-      "volume": "37,771"
-    },
-    {
-      "name": "AVT Natural Prod",
-      "week52": "87.95",
-      "ltp": "86.00",
-      "gainPct": "5.8 %",
-      "dayLow": "83.05",
-      "dayHigh": "82.98",
-      "volume": "314,978"
-    },
-    {
-      "name": "LG Electronics",
-      "week52": "1755",
-      "ltp": "1713.00",
-      "gainPct": "-1.0 %",
-      "dayLow": "1709.20",
-      "dayHigh": "1736.40",
-      "volume": "288,571"
+      "name": "Avalon Tech",
+      "week52": "2050",
+      "ltp": "2022.50",
+      "gainPct": "4.2 %",
+      "dayLow": "1948.00",
+      "dayHigh": "2001.45",
+      "volume": "429,196"
     },
     {
       "name": "Morepen Labs.",
-      "week52": "85.19",
-      "ltp": "84.81",
-      "gainPct": "0.7 %",
+      "week52": "86.89",
+      "ltp": "86.48",
+      "gainPct": "2.7 %",
       "dayLow": "83.21",
       "dayHigh": "84.79",
-      "volume": "2,145,559"
+      "volume": "13,426,485"
     },
     {
-      "name": "Hind.Aeronautics",
-      "week52": "5111",
-      "ltp": "5106.50",
-      "gainPct": "1.5 %",
-      "dayLow": "5045.00",
-      "dayHigh": "5054.40",
-      "volume": "164,305"
-    },
-    {
-      "name": "Rubicon Research",
-      "week52": "1779.7",
-      "ltp": "1663.10",
-      "gainPct": "2.7 %",
-      "dayLow": "1650.00",
-      "dayHigh": "1686.45",
-      "volume": "279,189"
-    },
-    {
-      "name": "Knowledge Marine",
-      "week52": "2938.7",
-      "ltp": "2916.60",
-      "gainPct": "6.8 %",
-      "dayLow": "2803.70",
-      "dayHigh": "2807.25",
-      "volume": "152,206"
+      "name": "Marksans Pharma",
+      "week52": "345.5",
+      "ltp": "332.70",
+      "gainPct": "-0.1 %",
+      "dayLow": "330.30",
+      "dayHigh": "336.80",
+      "volume": "7,514,644"
     },
     {
       "name": "Nippon ETF Juni.",
       "week52": "823.97",
-      "ltp": "805.01",
+      "ltp": "805.09",
       "gainPct": "-0.3 %",
       "dayLow": "804.20",
       "dayHigh": "815.00",
-      "volume": "15,887"
+      "volume": "83,105"
+    },
+    {
+      "name": "AVT Natural Prod",
+      "week52": "87.99",
+      "ltp": "87.35",
+      "gainPct": "7.5 %",
+      "dayLow": "83.05",
+      "dayHigh": "82.98",
+      "volume": "1,256,353"
+    },
+    {
+      "name": "Ucal",
+      "week52": "153.9",
+      "ltp": "152.98",
+      "gainPct": "9.4 %",
+      "dayLow": "139.90",
+      "dayHigh": "146.00",
+      "volume": "197,113"
+    },
+    {
+      "name": "Fujiyama Power",
+      "week52": "453.95",
+      "ltp": "451.05",
+      "gainPct": "6.4 %",
+      "dayLow": "425.20",
+      "dayHigh": "431.25",
+      "volume": "447,243"
+    },
+    {
+      "name": "Hind.Aeronautics",
+      "week52": "5149.9",
+      "ltp": "5081.70",
+      "gainPct": "1.0 %",
+      "dayLow": "5045.00",
+      "dayHigh": "5054.40",
+      "volume": "845,036"
+    },
+    {
+      "name": "Azad Engineering",
+      "week52": "2936",
+      "ltp": "2931.30",
+      "gainPct": "7.9 %",
+      "dayLow": "2703.00",
+      "dayHigh": "2734.25",
+      "volume": "952,551"
+    },
+    {
+      "name": "Rubicon Research",
+      "week52": "1779.7",
+      "ltp": "1705.60",
+      "gainPct": "5.3 %",
+      "dayLow": "1626.10",
+      "dayHigh": "1686.45",
+      "volume": "1,558,579"
+    },
+    {
+      "name": "LG Electronics",
+      "week52": "1755",
+      "ltp": "1681.20",
+      "gainPct": "-2.8 %",
+      "dayLow": "1675.80",
+      "dayHigh": "1736.40",
+      "volume": "1,271,785"
+    },
+    {
+      "name": "Gujarat Kidney",
+      "week52": "151.49",
+      "ltp": "148.41",
+      "gainPct": "8.8 %",
+      "dayLow": "134.81",
+      "dayHigh": "148.45",
+      "volume": "1,594,293"
+    },
+    {
+      "name": "Varroc Engineer",
+      "week52": "874.85",
+      "ltp": "865.55",
+      "gainPct": "2.1 %",
+      "dayLow": "843.05",
+      "dayHigh": "865.00",
+      "volume": "168,729"
+    },
+    {
+      "name": "Happy Forgings",
+      "week52": "2207",
+      "ltp": "2166.10",
+      "gainPct": "3.7 %",
+      "dayLow": "2115.10",
+      "dayHigh": "2104.90",
+      "volume": "129,191"
+    },
+    {
+      "name": "Kanpur Plastipa.",
+      "week52": "272.2",
+      "ltp": "264.00",
+      "gainPct": "5.1 %",
+      "dayLow": "252.81",
+      "dayHigh": "263.75",
+      "volume": "117,417"
+    },
+    {
+      "name": "Kwality Pharma",
+      "week52": "3744",
+      "ltp": "3624.00",
+      "gainPct": "5.5 %",
+      "dayLow": "3523.00",
+      "dayHigh": "3480.00",
+      "volume": "52,420"
+    },
+    {
+      "name": "Neuland Labs.",
+      "week52": "23748",
+      "ltp": "23740.00",
+      "gainPct": "1.8 %",
+      "dayLow": "22971.00",
+      "dayHigh": "23641.10",
+      "volume": "31,309"
+    },
+    {
+      "name": "Knowledge Marine",
+      "week52": "2999.9",
+      "ltp": "2799.80",
+      "gainPct": "2.5 %",
+      "dayLow": "2765.30",
+      "dayHigh": "2807.25",
+      "volume": "430,366"
+    },
+    {
+      "name": "Munjal Auto Inds",
+      "week52": "130.6",
+      "ltp": "123.20",
+      "gainPct": "2.2 %",
+      "dayLow": "118.40",
+      "dayHigh": "125.20",
+      "volume": "6,100,309"
     },
     {
       "name": "Vardhman Special",
       "week52": "375.95",
-      "ltp": "361.95",
+      "ltp": "361.85",
       "gainPct": "2.4 %",
-      "dayLow": "358.00",
+      "dayLow": "357.10",
       "dayHigh": "356.00",
-      "volume": "157,971"
+      "volume": "326,585"
+    },
+    {
+      "name": "PTC Industries",
+      "week52": "20081",
+      "ltp": "19135.00",
+      "gainPct": "0.4 %",
+      "dayLow": "19121.00",
+      "dayHigh": "19863.00",
+      "volume": "73,130"
+    },
+    {
+      "name": "Viji Finance",
+      "week52": "12.63",
+      "ltp": "12.39",
+      "gainPct": "0.0 %",
+      "dayLow": "12.63",
+      "dayHigh": "12.48",
+      "volume": "4,949"
+    },
+    {
+      "name": "TVS Srichakra",
+      "week52": "4800",
+      "ltp": "4715.00",
+      "gainPct": "5.3 %",
+      "dayLow": "4425.10",
+      "dayHigh": "4787.80",
+      "volume": "134,480"
+    },
+    {
+      "name": "TD Power Systems",
+      "week52": "1559",
+      "ltp": "1546.10",
+      "gainPct": "4.1 %",
+      "dayLow": "1467.10",
+      "dayHigh": "1529.00",
+      "volume": "1,417,524"
+    },
+    {
+      "name": "Bosch",
+      "week52": "47730",
+      "ltp": "47340.00",
+      "gainPct": "0.5 %",
+      "dayLow": "47105.00",
+      "dayHigh": "47300.00",
+      "volume": "11,485"
+    },
+    {
+      "name": "Tour. Fin. Corp.",
+      "week52": "125",
+      "ltp": "124.23",
+      "gainPct": "5.8 %",
+      "dayLow": "115.90",
+      "dayHigh": "119.35",
+      "volume": "9,784,675"
+    },
+    {
+      "name": "Ratnaveer Precis",
+      "week52": "244.75",
+      "ltp": "231.80",
+      "gainPct": "0.7 %",
+      "dayLow": "230.30",
+      "dayHigh": "232.95",
+      "volume": "6,780,202"
+    },
+    {
+      "name": "Iris Clothings",
+      "week52": "59.1",
+      "ltp": "58.93",
+      "gainPct": "1.7 %",
+      "dayLow": "57.21",
+      "dayHigh": "0.00",
+      "volume": "522,513"
+    },
+    {
+      "name": "E2E Networks",
+      "week52": "698",
+      "ltp": "689.05",
+      "gainPct": "3.3 %",
+      "dayLow": "670.10",
+      "dayHigh": "663.85",
+      "volume": "440,752"
+    },
+    {
+      "name": "KRN Heat Exchan",
+      "week52": "1541.7",
+      "ltp": "1541.70",
+      "gainPct": "5.0 %",
+      "dayLow": "1469.00",
+      "dayHigh": "1468.70",
+      "volume": "716,857"
     },
     {
       "name": "Bharat Bond 2030",
       "week52": "1646.18",
-      "ltp": "1613.99",
-      "gainPct": "0.0 %",
-      "dayLow": "1613.00",
+      "ltp": "1612.01",
+      "gainPct": "-0.1 %",
+      "dayLow": "1610.86",
       "dayHigh": "1622.97",
-      "volume": "481"
+      "volume": "4,562"
+    },
+    {
+      "name": "Moti.Osw.Q 50ETF",
+      "week52": "151.4",
+      "ltp": "151.40",
+      "gainPct": "0.8 %",
+      "dayLow": "151.40",
+      "dayHigh": "150.15",
+      "volume": "6,140"
+    },
+    {
+      "name": "MOSL Defence ETF",
+      "week52": "108.76",
+      "ltp": "108.09",
+      "gainPct": "0.4 %",
+      "dayLow": "106.56",
+      "dayHigh": "109.00",
+      "volume": "652,502"
+    },
+    {
+      "name": "Zerodha Nifty 1D",
+      "week52": "115.51",
+      "ltp": "115.50",
+      "gainPct": "0.0 %",
+      "dayLow": "115.49",
+      "dayHigh": "116.54",
+      "volume": "4,177,285"
+    },
+    {
+      "name": "Sahyadri Industr",
+      "week52": "399.7",
+      "ltp": "396.00",
+      "gainPct": "10.0 %",
+      "dayLow": "363.90",
+      "dayHigh": "378.30",
+      "volume": "83,653"
+    },
+    {
+      "name": "Standard Engineering Technology",
+      "week52": "313.3",
+      "ltp": "309.75",
+      "gainPct": "3.8 %",
+      "dayLow": "303.10",
+      "dayHigh": "306.75",
+      "volume": "969,675"
+    },
+    {
+      "name": "Pitti Engg.",
+      "week52": "1100",
+      "ltp": "1072.00",
+      "gainPct": "1.2 %",
+      "dayLow": "1065.05",
+      "dayHigh": "1092.00",
+      "volume": "61,952"
+    },
+    {
+      "name": "Sedemac Mechatro",
+      "week52": "3227.9",
+      "ltp": "3206.60",
+      "gainPct": "1.7 %",
+      "dayLow": "3143.10",
+      "dayHigh": "3184.65",
+      "volume": "45,302"
+    },
+    {
+      "name": "Avadh Sugar",
+      "week52": "709.95",
+      "ltp": "696.00",
+      "gainPct": "6.6 %",
+      "dayLow": "656.40",
+      "dayHigh": "663.90",
+      "volume": "243,180"
+    },
+    {
+      "name": "Dolphin Offshore",
+      "week52": "549",
+      "ltp": "540.00",
+      "gainPct": "6.3 %",
+      "dayLow": "500.00",
+      "dayHigh": "536.95",
+      "volume": "59,936"
+    },
+    {
+      "name": "Laser Power",
+      "week52": "320",
+      "ltp": "308.45",
+      "gainPct": "1.8 %",
+      "dayLow": "302.95",
+      "dayHigh": "317.00",
+      "volume": "2,800,763"
+    },
+    {
+      "name": "Innomet Advanced",
+      "week52": "214.4",
+      "ltp": "210.20",
+      "gainPct": "0.0 %",
+      "dayLow": "214.40",
+      "dayHigh": "0.00",
+      "volume": "12,600"
+    },
+    {
+      "name": "Pricol Ltd",
+      "week52": "804.35",
+      "ltp": "795.80",
+      "gainPct": "0.5 %",
+      "dayLow": "790.00",
+      "dayHigh": "795.00",
+      "volume": "183,399"
+    },
+    {
+      "name": "Zerodha Nif.8-13",
+      "week52": "31.31",
+      "ltp": "30.65",
+      "gainPct": "-0.2 %",
+      "dayLow": "30.61",
+      "dayHigh": "30.71",
+      "volume": "3,751"
     },
     {
       "name": "Mirae Asset NYS.",
@@ -118,340 +424,34 @@
       "gainPct": "1.9 %",
       "dayLow": "210.00",
       "dayHigh": "210.20",
-      "volume": "118,343"
-    },
-    {
-      "name": "MOSL Defence ETF",
-      "week52": "108.76",
-      "ltp": "108.35",
-      "gainPct": "0.7 %",
-      "dayLow": "106.56",
-      "dayHigh": "109.00",
-      "volume": "167,004"
-    },
-    {
-      "name": "Zerodha Nifty 1D",
-      "week52": "115.51",
-      "ltp": "115.49",
-      "gainPct": "0.0 %",
-      "dayLow": "115.49",
-      "dayHigh": "116.54",
-      "volume": "1,465,427"
-    },
-    {
-      "name": "IL&FS Engg.",
-      "week52": "37.46",
-      "ltp": "37.05",
-      "gainPct": "0.9 %",
-      "dayLow": "37.05",
-      "dayHigh": "38.00",
-      "volume": "46"
-    },
-    {
-      "name": "Aimtron",
-      "week52": "1769.9",
-      "ltp": "1752.70",
-      "gainPct": "1.2 %",
-      "dayLow": "1751.00",
-      "dayHigh": "0.00",
-      "volume": "3,000"
-    },
-    {
-      "name": "Creative Newtech",
-      "week52": "1257",
-      "ltp": "1248.75",
-      "gainPct": "0.5 %",
-      "dayLow": "1230.25",
-      "dayHigh": "1248.00",
-      "volume": "1,548"
+      "volume": "159,817"
     },
     {
       "name": "Commerl. Synbags",
-      "week52": "292.4",
-      "ltp": "288.92",
-      "gainPct": "0.2 %",
+      "week52": "298",
+      "ltp": "290.92",
+      "gainPct": "0.9 %",
       "dayLow": "283.59",
       "dayHigh": "289.80",
-      "volume": "9,059"
+      "volume": "59,724"
     },
     {
-      "name": "Anawil Wire",
-      "week52": "437.8",
-      "ltp": "429.00",
-      "gainPct": "2.0 %",
-      "dayLow": "425.10",
-      "dayHigh": "0.00",
-      "volume": "28,000"
-    },
-    {
-      "name": "Anthem Bioscienc",
-      "week52": "899.95",
-      "ltp": "895.85",
-      "gainPct": "0.6 %",
-      "dayLow": "891.00",
-      "dayHigh": "899.35",
-      "volume": "35,780"
-    },
-    {
-      "name": "Standard Engineering Technology",
-      "week52": "310",
-      "ltp": "308.60",
-      "gainPct": "3.4 %",
-      "dayLow": "303.10",
-      "dayHigh": "306.75",
-      "volume": "105,659"
-    },
-    {
-      "name": "Pitti Engg.",
-      "week52": "1099.5",
-      "ltp": "1077.70",
-      "gainPct": "1.7 %",
-      "dayLow": "1065.05",
-      "dayHigh": "1092.00",
-      "volume": "11,990"
-    },
-    {
-      "name": "Fujiyama Power",
-      "week52": "438.4",
-      "ltp": "438.00",
-      "gainPct": "3.3 %",
-      "dayLow": "425.20",
-      "dayHigh": "431.25",
-      "volume": "48,361"
-    },
-    {
-      "name": "Sedemac Mechatro",
-      "week52": "3197.9",
-      "ltp": "3170.90",
-      "gainPct": "0.6 %",
-      "dayLow": "3143.10",
-      "dayHigh": "3184.65",
-      "volume": "9,843"
-    },
-    {
-      "name": "Azad Engineering",
-      "week52": "2753",
-      "ltp": "2741.20",
-      "gainPct": "0.9 %",
-      "dayLow": "2703.00",
-      "dayHigh": "2734.25",
-      "volume": "55,282"
-    },
-    {
-      "name": "Bilcare",
-      "week52": "86.2",
-      "ltp": "80.96",
-      "gainPct": "5.4 %",
-      "dayLow": "80.11",
-      "dayHigh": "116.00",
-      "volume": "58,194"
-    },
-    {
-      "name": "Univastu India",
-      "week52": "168.72",
-      "ltp": "168.68",
-      "gainPct": "5.0 %",
-      "dayLow": "163.60",
-      "dayHigh": "0.00",
-      "volume": "41,022"
-    },
-    {
-      "name": "Bosch",
-      "week52": "47730",
-      "ltp": "47540.00",
-      "gainPct": "0.9 %",
-      "dayLow": "47105.00",
-      "dayHigh": "47300.00",
-      "volume": "3,115"
-    },
-    {
-      "name": "Panache Digilife",
-      "week52": "545.7",
-      "ltp": "543.00",
-      "gainPct": "3.5 %",
-      "dayLow": "531.50",
-      "dayHigh": "0.00",
-      "volume": "558"
-    },
-    {
-      "name": "LMW",
-      "week52": "19551",
-      "ltp": "19438.00",
-      "gainPct": "2.7 %",
-      "dayLow": "18765.00",
-      "dayHigh": "19174.95",
-      "volume": "2,014"
-    },
-    {
-      "name": "M B Agro Prod.",
-      "week52": "172.85",
-      "ltp": "170.53",
-      "gainPct": "1.2 %",
-      "dayLow": "169.91",
-      "dayHigh": "0.00",
-      "volume": "70,281"
-    },
-    {
-      "name": "Alphageo (India)",
-      "week52": "315.1",
-      "ltp": "312.50",
-      "gainPct": "3.7 %",
-      "dayLow": "302.42",
-      "dayHigh": "315.95",
-      "volume": "7,979"
-    },
-    {
-      "name": "Happy Forgings",
-      "week52": "2138.8",
-      "ltp": "2123.40",
-      "gainPct": "1.6 %",
-      "dayLow": "2115.10",
-      "dayHigh": "2104.90",
-      "volume": "7,415"
-    },
-    {
-      "name": "B&B Triplewall",
-      "week52": "262",
-      "ltp": "250.12",
-      "gainPct": "2.2 %",
-      "dayLow": "247.68",
-      "dayHigh": "252.50",
-      "volume": "8,888"
-    },
-    {
-      "name": "Shukra Pharma.",
-      "week52": "44.39",
-      "ltp": "42.97",
-      "gainPct": "3.7 %",
-      "dayLow": "41.42",
-      "dayHigh": "65.26",
-      "volume": "66,995"
-    },
-    {
-      "name": "Krishana Phosch.",
-      "week52": "195.71",
-      "ltp": "193.03",
-      "gainPct": "1.2 %",
-      "dayLow": "192.01",
-      "dayHigh": "0.00",
-      "volume": "74,866"
+      "name": "Galaxy Surfact.",
+      "week52": "2648",
+      "ltp": "2488.70",
+      "gainPct": "-0.8 %",
+      "dayLow": "2406.80",
+      "dayHigh": "2505.60",
+      "volume": "475,380"
     },
     {
       "name": "Dalmia Bharat",
-      "week52": "443",
-      "ltp": "438.90",
-      "gainPct": "3.9 %",
+      "week52": "445.5",
+      "ltp": "432.95",
+      "gainPct": "2.5 %",
       "dayLow": "426.00",
       "dayHigh": "441.95",
-      "volume": "88,458"
-    },
-    {
-      "name": "Pricol Ltd",
-      "week52": "797.4",
-      "ltp": "796.30",
-      "gainPct": "0.5 %",
-      "dayLow": "790.00",
-      "dayHigh": "795.00",
-      "volume": "27,275"
-    },
-    {
-      "name": "E2E Networks",
-      "week52": "698",
-      "ltp": "696.00",
-      "gainPct": "4.4 %",
-      "dayLow": "670.10",
-      "dayHigh": "663.85",
-      "volume": "140,879"
-    },
-    {
-      "name": "Optivalue Tek",
-      "week52": "185.25",
-      "ltp": "184.90",
-      "gainPct": "4.8 %",
-      "dayLow": "178.20",
-      "dayHigh": "0.00",
-      "volume": "81,600"
-    },
-    {
-      "name": "QMS Medical",
-      "week52": "137.8",
-      "ltp": "130.00",
-      "gainPct": "-1.5 %",
-      "dayLow": "130.00",
-      "dayHigh": "0.00",
-      "volume": "2,775"
-    },
-    {
-      "name": "Vivid Electromech",
-      "week52": "1635",
-      "ltp": "1626.00",
-      "gainPct": "3.8 %",
-      "dayLow": "1591.00",
-      "dayHigh": "0.00",
-      "volume": "1,920"
-    },
-    {
-      "name": "Metalic Technoforge",
-      "week52": "130",
-      "ltp": "130.00",
-      "gainPct": "4.1 %",
-      "dayLow": "123.60",
-      "dayHigh": "0.00",
-      "volume": "48,000"
-    },
-    {
-      "name": "Bikewo Green",
-      "week52": "105.05",
-      "ltp": "105.05",
-      "gainPct": "5.0 %",
-      "dayLow": "104.95",
-      "dayHigh": "0.00",
-      "volume": "18,000"
-    },
-    {
-      "name": "Hitech Corp.",
-      "week52": "338.4",
-      "ltp": "338.15",
-      "gainPct": "1.8 %",
-      "dayLow": "334.90",
-      "dayHigh": "341.25",
-      "volume": "1,738"
-    },
-    {
-      "name": "Sundaram Brake",
-      "week52": "920",
-      "ltp": "902.00",
-      "gainPct": "2.4 %",
-      "dayLow": "902.00",
-      "dayHigh": "878.85",
-      "volume": "963"
-    },
-    {
-      "name": "Shalimar Paints",
-      "week52": "95.95",
-      "ltp": "95.95",
-      "gainPct": "5.0 %",
-      "dayLow": "95.95",
-      "dayHigh": "92.06",
-      "volume": "57,838"
-    },
-    {
-      "name": "Iris Clothings",
-      "week52": "58.89",
-      "ltp": "57.71",
-      "gainPct": "-0.4 %",
-      "dayLow": "57.71",
-      "dayHigh": "0.00",
-      "volume": "19,169"
-    },
-    {
-      "name": "Sacheerome",
-      "week52": "485",
-      "ltp": "479.00",
-      "gainPct": "5.9 %",
-      "dayLow": "463.00",
-      "dayHigh": "0.00",
-      "volume": "5,400"
+      "volume": "314,068"
     }
   ]
 }

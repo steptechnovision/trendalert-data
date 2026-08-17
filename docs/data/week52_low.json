@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T19:00:13.576Z",
+  "updatedAt": "2026-08-17T03:01:40.849Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -13,103 +13,13 @@
       "volume": "0"
     },
     {
-      "name": "Indian Emuls",
-      "week52": "173.81",
-      "ltp": "42.50",
-      "gainPct": "6.9 %",
-      "dayLow": "37.80",
+      "name": "Quicktouch Tech",
+      "week52": "63.6",
+      "ltp": "19.05",
+      "gainPct": "-4.5 %",
+      "dayLow": "19.00",
       "dayHigh": "0.00",
-      "volume": "88,000"
-    },
-    {
-      "name": "ICICI Pru. BSE",
-      "week52": "1041.19",
-      "ltp": "998.90",
-      "gainPct": "-0.1 %",
-      "dayLow": "955.00",
-      "dayHigh": "1005.83",
-      "volume": "419,597"
-    },
-    {
-      "name": "Plada Infotech S",
-      "week52": "20.3",
-      "ltp": "9.10",
-      "gainPct": "-4.2 %",
-      "dayLow": "9.05",
-      "dayHigh": "0.00",
-      "volume": "21,000"
-    },
-    {
-      "name": "C2C Advanced",
-      "week52": "888",
-      "ltp": "254.70",
-      "gainPct": "-1.0 %",
-      "dayLow": "246.00",
-      "dayHigh": "0.00",
-      "volume": "92,400"
-    },
-    {
-      "name": "GSM Foils",
-      "week52": "293.85",
-      "ltp": "97.70",
-      "gainPct": "-5.0 %",
-      "dayLow": "97.70",
-      "dayHigh": "0.00",
-      "volume": "38,500"
-    },
-    {
-      "name": "Oriana Power Ltd",
-      "week52": "3064",
-      "ltp": "1299.00",
-      "gainPct": "-2.9 %",
-      "dayLow": "1290.05",
-      "dayHigh": "0.00",
-      "volume": "82,875"
-    },
-    {
-      "name": "Alpine Texworld",
-      "week52": "105",
-      "ltp": "58.60",
-      "gainPct": "-2.8 %",
-      "dayLow": "58.49",
-      "dayHigh": "105.00",
-      "volume": "300,193"
-    },
-    {
-      "name": "UPL",
-      "week52": "812.2",
-      "ltp": "563.00",
-      "gainPct": "-0.9 %",
-      "dayLow": "558.05",
-      "dayHigh": "812.00",
-      "volume": "1,557,252"
-    },
-    {
-      "name": "Bella Casa Fashi",
-      "week52": "497.35",
-      "ltp": "223.90",
-      "gainPct": "-6.5 %",
-      "dayLow": "214.68",
-      "dayHigh": "497.00",
-      "volume": "40,771"
-    },
-    {
-      "name": "Thirumalai Chem.",
-      "week52": "328.8",
-      "ltp": "158.80",
-      "gainPct": "-1.2 %",
-      "dayLow": "156.30",
-      "dayHigh": "328.70",
-      "volume": "382,459"
-    },
-    {
-      "name": "Sundaram Multi.",
-      "week52": "2.38",
-      "ltp": "1.06",
-      "gainPct": "-2.8 %",
-      "dayLow": "1.03",
-      "dayHigh": "2.22",
-      "volume": "3,800,741"
+      "volume": "7,000"
     },
     {
       "name": "KEC International",
@@ -121,6 +31,24 @@
       "volume": "610,849"
     },
     {
+      "name": "Indian Emuls",
+      "week52": "173.81",
+      "ltp": "42.50",
+      "gainPct": "6.9 %",
+      "dayLow": "37.80",
+      "dayHigh": "0.00",
+      "volume": "88,000"
+    },
+    {
+      "name": "GSM Foils",
+      "week52": "293.85",
+      "ltp": "97.70",
+      "gainPct": "-5.0 %",
+      "dayLow": "97.70",
+      "dayHigh": "0.00",
+      "volume": "38,500"
+    },
+    {
       "name": "Owais Metal",
       "week52": "580",
       "ltp": "78.85",
@@ -130,13 +58,31 @@
       "volume": "35,300"
     },
     {
-      "name": "Symphony",
-      "week52": "991.5",
-      "ltp": "623.50",
+      "name": "ICICI Pru. BSE",
+      "week52": "1041.19",
+      "ltp": "998.90",
+      "gainPct": "-0.1 %",
+      "dayLow": "955.00",
+      "dayHigh": "1005.83",
+      "volume": "419,597"
+    },
+    {
+      "name": "UPL",
+      "week52": "812.2",
+      "ltp": "563.00",
+      "gainPct": "-0.9 %",
+      "dayLow": "558.05",
+      "dayHigh": "812.00",
+      "volume": "1,557,252"
+    },
+    {
+      "name": "Thirumalai Chem.",
+      "week52": "328.8",
+      "ltp": "158.80",
       "gainPct": "-1.2 %",
-      "dayLow": "618.20",
-      "dayHigh": "988.00",
-      "volume": "79,110"
+      "dayLow": "156.30",
+      "dayHigh": "328.70",
+      "volume": "382,459"
     },
     {
       "name": "Brand Concepts",
@@ -148,13 +94,13 @@
       "volume": "36,170"
     },
     {
-      "name": "Laxmi Goldorna",
-      "week52": "399.59",
-      "ltp": "181.00",
-      "gainPct": "-7.9 %",
-      "dayLow": "178.50",
-      "dayHigh": "0.00",
-      "volume": "53,218"
+      "name": "Bella Casa Fashi",
+      "week52": "497.35",
+      "ltp": "223.90",
+      "gainPct": "-6.5 %",
+      "dayLow": "214.68",
+      "dayHigh": "497.00",
+      "volume": "40,771"
     },
     {
       "name": "Jain Irrigation",
@@ -166,13 +112,40 @@
       "volume": "1,814,788"
     },
     {
-      "name": "Quicktouch Tech",
-      "week52": "63.6",
-      "ltp": "19.05",
-      "gainPct": "-4.5 %",
-      "dayLow": "19.00",
+      "name": "C2C Advanced",
+      "week52": "888",
+      "ltp": "254.70",
+      "gainPct": "-1.0 %",
+      "dayLow": "246.00",
       "dayHigh": "0.00",
-      "volume": "7,000"
+      "volume": "92,400"
+    },
+    {
+      "name": "Sundaram Multi.",
+      "week52": "2.38",
+      "ltp": "1.06",
+      "gainPct": "-2.8 %",
+      "dayLow": "1.03",
+      "dayHigh": "2.22",
+      "volume": "3,800,741"
+    },
+    {
+      "name": "Symphony",
+      "week52": "991.5",
+      "ltp": "623.50",
+      "gainPct": "-1.2 %",
+      "dayLow": "618.20",
+      "dayHigh": "988.00",
+      "volume": "79,110"
+    },
+    {
+      "name": "SBI Funds Mgt.",
+      "week52": "624.95",
+      "ltp": "559.10",
+      "gainPct": "-0.8 %",
+      "dayLow": "555.50",
+      "dayHigh": "625.00",
+      "volume": "1,641,085"
     },
     {
       "name": "Pramara Promotio",
@@ -184,6 +157,24 @@
       "volume": "27,500"
     },
     {
+      "name": "Plada Infotech S",
+      "week52": "20.3",
+      "ltp": "9.10",
+      "gainPct": "-4.2 %",
+      "dayLow": "9.05",
+      "dayHigh": "0.00",
+      "volume": "21,000"
+    },
+    {
+      "name": "Oriana Power Ltd",
+      "week52": "3064",
+      "ltp": "1299.00",
+      "gainPct": "-2.9 %",
+      "dayLow": "1290.05",
+      "dayHigh": "0.00",
+      "volume": "82,875"
+    },
+    {
       "name": "Mo Nifty Metal ETF",
       "week52": "13.32",
       "ltp": "13.06",
@@ -193,13 +184,22 @@
       "volume": "17,506"
     },
     {
-      "name": "SBI Funds Mgt.",
-      "week52": "624.95",
-      "ltp": "559.10",
-      "gainPct": "-0.8 %",
-      "dayLow": "555.50",
-      "dayHigh": "625.00",
-      "volume": "1,641,085"
+      "name": "Alpine Texworld",
+      "week52": "105",
+      "ltp": "58.60",
+      "gainPct": "-2.8 %",
+      "dayLow": "58.49",
+      "dayHigh": "105.00",
+      "volume": "300,193"
+    },
+    {
+      "name": "Laxmi Goldorna",
+      "week52": "399.59",
+      "ltp": "181.00",
+      "gainPct": "-7.9 %",
+      "dayLow": "178.50",
+      "dayHigh": "0.00",
+      "volume": "53,218"
     },
     {
       "name": "Mafatlal Inds.",
@@ -247,22 +247,22 @@
       "volume": "79,075"
     },
     {
-      "name": "KPI Green Energy",
-      "week52": "542.25",
-      "ltp": "319.00",
-      "gainPct": "-2.8 %",
-      "dayLow": "317.00",
-      "dayHigh": "541.90",
-      "volume": "1,330,666"
+      "name": "Marathon Nextgen",
+      "week52": "685.4",
+      "ltp": "361.35",
+      "gainPct": "-2.1 %",
+      "dayLow": "361.25",
+      "dayHigh": "689.90",
+      "volume": "98,450"
     },
     {
-      "name": "M.V.K. Agro",
-      "week52": "819",
-      "ltp": "228.95",
-      "gainPct": "-5.0 %",
-      "dayLow": "228.95",
-      "dayHigh": "0.00",
-      "volume": "21,300"
+      "name": "Orchasp Ltd",
+      "week52": "4.16",
+      "ltp": "1.48",
+      "gainPct": "0.0 %",
+      "dayLow": "1.41",
+      "dayHigh": "4.19",
+      "volume": "96,412"
     },
     {
       "name": "CMR Green Tech.",
@@ -310,22 +310,22 @@
       "volume": "141,655"
     },
     {
-      "name": "Marathon Nextgen",
-      "week52": "685.4",
-      "ltp": "361.35",
-      "gainPct": "-2.1 %",
-      "dayLow": "361.25",
-      "dayHigh": "689.90",
-      "volume": "98,450"
+      "name": "KPI Green Energy",
+      "week52": "542.25",
+      "ltp": "319.00",
+      "gainPct": "-2.8 %",
+      "dayLow": "317.00",
+      "dayHigh": "541.90",
+      "volume": "1,330,666"
     },
     {
-      "name": "Orchasp Ltd",
-      "week52": "4.16",
-      "ltp": "1.48",
-      "gainPct": "0.0 %",
-      "dayLow": "1.41",
-      "dayHigh": "4.19",
-      "volume": "96,412"
+      "name": "M.V.K. Agro",
+      "week52": "819",
+      "ltp": "228.95",
+      "gainPct": "-5.0 %",
+      "dayLow": "228.95",
+      "dayHigh": "0.00",
+      "volume": "21,300"
     },
     {
       "name": "MO Nifty Oil & Gas ETF",

@@ -1,8 +1,80 @@
 {
-  "updatedAt": "2026-08-18T10:03:56.986Z",
+  "updatedAt": "2026-08-18T10:50:24.415Z",
   "source": "5paisa",
-  "count": 8,
+  "count": 17,
   "items": [
+    {
+      "name": "Axis Bank",
+      "ltp": "1243.00",
+      "gainPct": "1.3 %",
+      "dayLow": "1223.40",
+      "dayHigh": "1250.50",
+      "volume": "5064697"
+    },
+    {
+      "name": "Bajaj Finance",
+      "ltp": "1094.30",
+      "gainPct": "0.5 %",
+      "dayLow": "1087.60",
+      "dayHigh": "1100.00",
+      "volume": "3374018"
+    },
+    {
+      "name": "Grasim Inds",
+      "ltp": "3278.70",
+      "gainPct": "0.9 %",
+      "dayLow": "3250.50",
+      "dayHigh": "3297.70",
+      "volume": "1498859"
+    },
+    {
+      "name": "M & M",
+      "ltp": "3421.50",
+      "gainPct": "0.9 %",
+      "dayLow": "3390.20",
+      "dayHigh": "3435.00",
+      "volume": "1371664"
+    },
+    {
+      "name": "Max Healthcare",
+      "ltp": "1014.40",
+      "gainPct": "1.1 %",
+      "dayLow": "982.10",
+      "dayHigh": "1017.00",
+      "volume": "2219107"
+    },
+    {
+      "name": "NTPC",
+      "ltp": "337.10",
+      "gainPct": "0.0 %",
+      "dayLow": "333.90",
+      "dayHigh": "339.30",
+      "volume": "9943991"
+    },
+    {
+      "name": "O N G C",
+      "ltp": "239.50",
+      "gainPct": "0.4 %",
+      "dayLow": "238.02",
+      "dayHigh": "241.30",
+      "volume": "14903605"
+    },
+    {
+      "name": "Power Grid Corpn",
+      "ltp": "268.00",
+      "gainPct": "0.7 %",
+      "dayLow": "266.05",
+      "dayHigh": "268.95",
+      "volume": "6792173"
+    },
+    {
+      "name": "Reliance Industries",
+      "ltp": "1322.00",
+      "gainPct": "0.5 %",
+      "dayLow": "1311.20",
+      "dayHigh": "1328.60",
+      "volume": "10180567"
+    },
     {
       "name": "Axis Bank",
       "ltp": "1241.00",
@@ -65,7 +137,7 @@
       "gainPct": "0.1 %",
       "dayLow": "1310.00",
       "dayHigh": "1328.00",
-      "volume": "527374"
+      "volume": "577440"
     }
   ]
 }

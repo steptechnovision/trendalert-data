@@ -1,79 +1,87 @@
 {
-  "updatedAt": "2026-08-20T07:42:07.868Z",
+  "updatedAt": "2026-08-20T08:40:48.929Z",
   "source": "5paisa",
-  "count": 9,
+  "count": 10,
   "items": [
     {
       "name": "Apollo Hospitals",
-      "ltp": "8700.00",
+      "ltp": "8698.00",
       "gainPct": "-0.6 %",
-      "dayLow": "8696.50",
+      "dayLow": "8685.00",
       "dayHigh": "8788.00",
-      "volume": "168660"
-    },
-    {
-      "name": "Asian Paints",
-      "ltp": "2625.20",
-      "gainPct": "-0.2 %",
-      "dayLow": "2607.00",
-      "dayHigh": "2641.80",
-      "volume": "227494"
+      "volume": "199034"
     },
     {
       "name": "HCL Technologies",
-      "ltp": "1321.90",
-      "gainPct": "-0.2 %",
-      "dayLow": "1321.00",
+      "ltp": "1324.40",
+      "gainPct": "0.0 %",
+      "dayLow": "1320.50",
       "dayHigh": "1345.30",
-      "volume": "867024"
+      "volume": "1023474"
     },
     {
       "name": "Hindalco Inds.",
-      "ltp": "1029.10",
-      "gainPct": "-1.0 %",
+      "ltp": "1026.75",
+      "gainPct": "-1.2 %",
       "dayLow": "1013.00",
       "dayHigh": "1048.00",
-      "volume": "3260933"
+      "volume": "3464676"
     },
     {
       "name": "Interglobe Aviat",
-      "ltp": "5184.50",
-      "gainPct": "-0.2 %",
+      "ltp": "5178.00",
+      "gainPct": "-0.3 %",
       "dayLow": "5160.50",
       "dayHigh": "5235.00",
-      "volume": "202513"
+      "volume": "234737"
+    },
+    {
+      "name": "Nestle India",
+      "ltp": "1463.30",
+      "gainPct": "-0.1 %",
+      "dayLow": "1455.10",
+      "dayHigh": "1482.00",
+      "volume": "1449080"
     },
     {
       "name": "O N G C",
-      "ltp": "237.55",
+      "ltp": "237.54",
       "gainPct": "-0.2 %",
       "dayLow": "233.64",
       "dayHigh": "239.24",
-      "volume": "7485799"
+      "volume": "8403961"
+    },
+    {
+      "name": "Tata Consumer",
+      "ltp": "1064.00",
+      "gainPct": "-0.4 %",
+      "dayLow": "1062.80",
+      "dayHigh": "1074.70",
+      "volume": "1480251"
+    },
+    {
+      "name": "Tata Motors PVeh",
+      "ltp": "321.10",
+      "gainPct": "-0.1 %",
+      "dayLow": "321.00",
+      "dayHigh": "324.55",
+      "volume": "5576261"
     },
     {
       "name": "Tata Steel",
-      "ltp": "183.63",
-      "gainPct": "-0.2 %",
-      "dayLow": "183.01",
+      "ltp": "183.36",
+      "gainPct": "-0.4 %",
+      "dayLow": "183.00",
       "dayHigh": "185.60",
-      "volume": "13916944"
-    },
-    {
-      "name": "HCL Technologies",
-      "ltp": "1322.00",
-      "gainPct": "0.0 %",
-      "dayLow": "1321.30",
-      "dayHigh": "1344.20",
-      "volume": "40217"
+      "volume": "17149066"
     },
     {
       "name": "Tata Steel",
-      "ltp": "183.65",
-      "gainPct": "-0.2 %",
+      "ltp": "183.35",
+      "gainPct": "-0.4 %",
       "dayLow": "183.10",
       "dayHigh": "185.55",
-      "volume": "6094676"
+      "volume": "6153290"
     }
   ]
 }

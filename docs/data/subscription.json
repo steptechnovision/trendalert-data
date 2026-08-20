@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-08-20T17:49:52.042Z",
+  "updatedAt": "2026-08-20T18:41:55.009Z",
   "source": "nse",
-  "count": 4,
+  "count": 3,
   "items": [
+    {
+      "name": "Augmont Enterprises Limited",
+      "symbol": "AUGMONT",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "77,15,999 shares",
+      "price": "₹750 to ₹788",
+      "closeDate": "25 Aug",
+      "type": "Mainboard",
+      "url": ""
+    },
     {
       "name": "Tempsens Instruments (India) Limited",
       "symbol": "TEMPSENS",
@@ -30,36 +45,6 @@
       "ipoSize": "2,53,28,946 shares",
       "price": "₹152 to ₹160",
       "closeDate": "21 Aug",
-      "type": "Mainboard",
-      "url": ""
-    },
-    {
-      "name": "Sunshine Pictures Limited",
-      "symbol": "SUNSHINE",
-      "total": "105.81",
-      "qib": "123.52",
-      "shni": "194.27",
-      "bhni": "198.42",
-      "nii": "197.04",
-      "rii": "56.60",
-      "ipoSize": "54,86,051 shares",
-      "price": "₹342 to ₹360",
-      "closeDate": "20 Aug",
-      "type": "Mainboard",
-      "url": ""
-    },
-    {
-      "name": "Shankesh Jewellers Limited",
-      "symbol": "SHANKESH",
-      "total": "2.80",
-      "qib": "1.32",
-      "shni": "6.46",
-      "bhni": "5.29",
-      "nii": "5.68",
-      "rii": "2.42",
-      "ipoSize": "2,76,37,400 shares",
-      "price": "₹88 to ₹93",
-      "closeDate": "20 Aug",
       "type": "Mainboard",
       "url": ""
     }

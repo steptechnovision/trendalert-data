@@ -1,152 +1,8 @@
 {
-  "updatedAt": "2026-08-21T07:11:35.882Z",
+  "updatedAt": "2026-08-21T08:00:56.731Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "GSMFOILS",
-      "name": "GSM Foils Limited",
-      "clientName": "JOWIN WILSON",
-      "buySell": "BUY",
-      "qty": "87500",
-      "price": "83.64",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "GSMFOILS",
-      "name": "GSM Foils Limited",
-      "clientName": "KENIL JAYSUKHBHAI THATHAGAR",
-      "buySell": "BUY",
-      "qty": "82500",
-      "price": "86.26",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "GSMFOILS",
-      "name": "GSM Foils Limited",
-      "clientName": "SOHAM FINCARE INDIA LLP",
-      "buySell": "BUY",
-      "qty": "99000",
-      "price": "83.22",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "GSMFOILS",
-      "name": "GSM Foils Limited",
-      "clientName": "MATALIA STOCK BROKING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "71500",
-      "price": "83.67",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "GSMFOILS",
-      "name": "GSM Foils Limited",
-      "clientName": "HI GROWTH CORPORATE SERVICES PVT LTD",
-      "buySell": "BUY",
-      "qty": "75500",
-      "price": "80.79",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "GSMFOILS",
-      "name": "GSM Foils Limited",
-      "clientName": "MULTIPLIER SHARE & STOCK ADVISORS PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "578000",
-      "price": "80.2",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "GSMFOILS",
-      "name": "GSM Foils Limited",
-      "clientName": "PRIJAL TRADEFIN LLP",
-      "buySell": "BUY",
-      "qty": "82000",
-      "price": "79.9",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "GSMFOILS",
-      "name": "GSM Foils Limited",
-      "clientName": "EPITOME TRADING AND INVESTMENTS",
-      "buySell": "BUY",
-      "qty": "87000",
-      "price": "79.85",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "GSMFOILS",
-      "name": "GSM Foils Limited",
-      "clientName": "JENIVA ANTONY EPHREM",
-      "buySell": "BUY",
-      "qty": "200000",
-      "price": "79.7",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "INDOBORAX",
-      "name": "Indo Borax & Chemical Ltd",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "188589",
-      "price": "489.26",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "INDOBORAX",
-      "name": "Indo Borax & Chemical Ltd",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "256769",
-      "price": "479.66",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "INDOBORAX",
-      "name": "Indo Borax & Chemical Ltd",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "300553",
-      "price": "492.7",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "INDOBORAX",
-      "name": "Indo Borax & Chemical Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "318475",
-      "price": "486.05",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "KFINTECH",
-      "name": "Kfin Technologies Limited",
-      "clientName": "MIRAE ASSET MUTUAL FUND",
-      "buySell": "BUY",
-      "qty": "2562162",
-      "price": "925",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "KFINTECH",
-      "name": "Kfin Technologies Limited",
-      "clientName": "KOTAK MAHINDRA MUTUAL FUND",
-      "buySell": "BUY",
-      "qty": "2000000",
-      "price": "925",
-      "date": "20-Aug-2026"
-    },
-    {
-      "symbol": "KFINTECH",
-      "name": "Kfin Technologies Limited",
-      "clientName": "INVESCO MUTUAL FUND",
-      "buySell": "BUY",
-      "qty": "4324324",
-      "price": "925",
-      "date": "20-Aug-2026"
-    },
     {
       "symbol": "AARTECH",
       "name": "Aartech Solonics Limited",
@@ -460,6 +316,150 @@
       "buySell": "BUY",
       "qty": "75000",
       "price": "80.15",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "GSMFOILS",
+      "name": "GSM Foils Limited",
+      "clientName": "JOWIN WILSON",
+      "buySell": "BUY",
+      "qty": "87500",
+      "price": "83.64",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "GSMFOILS",
+      "name": "GSM Foils Limited",
+      "clientName": "KENIL JAYSUKHBHAI THATHAGAR",
+      "buySell": "BUY",
+      "qty": "82500",
+      "price": "86.26",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "GSMFOILS",
+      "name": "GSM Foils Limited",
+      "clientName": "SOHAM FINCARE INDIA LLP",
+      "buySell": "BUY",
+      "qty": "99000",
+      "price": "83.22",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "GSMFOILS",
+      "name": "GSM Foils Limited",
+      "clientName": "MATALIA STOCK BROKING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "71500",
+      "price": "83.67",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "GSMFOILS",
+      "name": "GSM Foils Limited",
+      "clientName": "HI GROWTH CORPORATE SERVICES PVT LTD",
+      "buySell": "BUY",
+      "qty": "75500",
+      "price": "80.79",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "GSMFOILS",
+      "name": "GSM Foils Limited",
+      "clientName": "MULTIPLIER SHARE & STOCK ADVISORS PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "578000",
+      "price": "80.2",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "GSMFOILS",
+      "name": "GSM Foils Limited",
+      "clientName": "PRIJAL TRADEFIN LLP",
+      "buySell": "BUY",
+      "qty": "82000",
+      "price": "79.9",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "GSMFOILS",
+      "name": "GSM Foils Limited",
+      "clientName": "EPITOME TRADING AND INVESTMENTS",
+      "buySell": "BUY",
+      "qty": "87000",
+      "price": "79.85",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "GSMFOILS",
+      "name": "GSM Foils Limited",
+      "clientName": "JENIVA ANTONY EPHREM",
+      "buySell": "BUY",
+      "qty": "200000",
+      "price": "79.7",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "INDOBORAX",
+      "name": "Indo Borax & Chemical Ltd",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "188589",
+      "price": "489.26",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "INDOBORAX",
+      "name": "Indo Borax & Chemical Ltd",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "256769",
+      "price": "479.66",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "INDOBORAX",
+      "name": "Indo Borax & Chemical Ltd",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "300553",
+      "price": "492.7",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "INDOBORAX",
+      "name": "Indo Borax & Chemical Ltd",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "318475",
+      "price": "486.05",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "KFINTECH",
+      "name": "Kfin Technologies Limited",
+      "clientName": "MIRAE ASSET MUTUAL FUND",
+      "buySell": "BUY",
+      "qty": "2562162",
+      "price": "925",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "KFINTECH",
+      "name": "Kfin Technologies Limited",
+      "clientName": "KOTAK MAHINDRA MUTUAL FUND",
+      "buySell": "BUY",
+      "qty": "2000000",
+      "price": "925",
+      "date": "20-Aug-2026"
+    },
+    {
+      "symbol": "KFINTECH",
+      "name": "Kfin Technologies Limited",
+      "clientName": "INVESCO MUTUAL FUND",
+      "buySell": "BUY",
+      "qty": "4324324",
+      "price": "925",
       "date": "20-Aug-2026"
     },
     {

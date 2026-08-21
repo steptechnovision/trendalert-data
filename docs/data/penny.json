@@ -1,13 +1,20 @@
 {
-  "updatedAt": "2026-08-21T04:05:23.334Z",
+  "updatedAt": "2026-08-21T04:57:23.187Z",
   "source": "5paisa",
   "count": 5,
   "items": [
     {
+      "companyName": "Dharan Infra-EPC Ltd",
+      "ltp": "₹0.16",
+      "change": "6.67",
+      "volume": "5,234,304",
+      "marketCap": "₹78.43"
+    },
+    {
       "companyName": "Teamo Productions HQ Ltd",
-      "ltp": "₹0.66",
-      "change": "-2.94",
-      "volume": "4,253,150",
+      "ltp": "₹0.63",
+      "change": "-7.35",
+      "volume": "5,211,267",
       "marketCap": "₹74.54"
     },
     {
@@ -19,9 +26,9 @@
     },
     {
       "companyName": "Virtual Global Education Ltd",
-      "ltp": "₹0.57",
-      "change": "11.76",
-      "volume": "833,132",
+      "ltp": "₹0.54",
+      "change": "5.88",
+      "volume": "1,235,500",
       "marketCap": "₹28.87"
     },
     {
@@ -30,13 +37,6 @@
       "change": "-4.05",
       "volume": "747,679",
       "marketCap": "₹11.55"
-    },
-    {
-      "companyName": "Super Tannery Ltd",
-      "ltp": "₹8.74",
-      "change": "19.56",
-      "volume": "330,455",
-      "marketCap": "₹78.93"
     }
   ]
 }

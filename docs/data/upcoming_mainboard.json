@@ -1,88 +1,592 @@
 {
-  "updatedAt": "2026-08-21T11:46:39.272Z",
-  "source": "nse",
-  "count": 9,
+  "updatedAt": "2026-08-21T12:52:07.895Z",
+  "source": "ipowatch",
+  "count": 65,
   "items": [
     {
-      "title": "Augmont Enterprises Limited",
-      "openDate": "21 Aug",
-      "closeDate": "25 Aug",
-      "size": "77,15,999 shares",
-      "priceBand": "₹750 to ₹788",
+      "title": "Rays of Belief",
+      "openDate": "1 September",
+      "closeDate": "3 September",
+      "size": "₹[.] Cr.",
+      "priceBand": "₹[.] to ₹[.]",
       "type": "Mainboard",
-      "url": ""
+      "url": "https://ipowatch.in/rays-of-belief-ipo-details/"
     },
     {
-      "title": "Tempsens Instruments (India) Limited",
-      "openDate": "20 Aug",
-      "closeDate": "24 Aug",
-      "size": "1,51,81,667 shares",
-      "priceBand": "₹285 to ₹300",
+      "title": "Lumino Industries",
+      "openDate": "27 August",
+      "closeDate": "31 August",
+      "size": "₹700 Cr.",
+      "priceBand": "₹78 to ₹82",
       "type": "Mainboard",
-      "url": ""
+      "url": "https://ipowatch.in/lumino-industries-ipo/"
     },
     {
-      "title": "Gaja Alternative Asset Management Limited",
-      "openDate": "19 Aug",
-      "closeDate": "21 Aug",
-      "size": "2,53,28,946 shares",
-      "priceBand": "₹152 to ₹160",
+      "title": "Annu Projects",
+      "openDate": "25 August",
+      "closeDate": "28 August",
+      "size": "₹175 Cr.",
+      "priceBand": "₹94 to ₹99",
       "type": "Mainboard",
-      "url": ""
+      "url": "https://ipowatch.in/annu-projects-ipo/"
     },
     {
-      "title": "Hy-Tech Engineers Limited",
-      "openDate": "24 Aug",
-      "closeDate": "27 Aug",
-      "size": "1,81,45,406 shares",
-      "priceBand": "₹50 to ₹53",
-      "type": "Mainboard",
-      "url": ""
-    },
-    {
-      "title": "Symbiotec Pharmalab Limited",
-      "openDate": "24 Aug",
-      "closeDate": "27 Aug",
-      "size": "1,87,34,736 shares",
+      "title": "Symbiotec Pharmalab",
+      "openDate": "24 August",
+      "closeDate": "27 August",
+      "size": "₹1,757 Cr.",
       "priceBand": "₹938 to ₹988",
       "type": "Mainboard",
-      "url": ""
+      "url": "https://ipowatch.in/symbiotec-pharmalab-ipo/"
     },
     {
-      "title": "Skyways Air Services Limited",
-      "openDate": "24 Aug",
-      "closeDate": "27 Aug",
-      "size": "4,22,31,600 shares",
+      "title": "Hy-Tech Engineers",
+      "openDate": "24 August",
+      "closeDate": "27 August",
+      "size": "₹135.73 Cr.",
+      "priceBand": "₹50 to ₹53",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/hy-tech-engineers-ipo/"
+    },
+    {
+      "title": "Skyways Air",
+      "openDate": "24 August",
+      "closeDate": "27 August",
+      "size": "₹582.80 Cr.",
       "priceBand": "₹131 to ₹138",
       "type": "Mainboard",
-      "url": ""
+      "url": "https://ipowatch.in/skyways-air-ipo/"
     },
     {
-      "title": "Sumax Engineering Limited",
-      "openDate": "25 Aug",
-      "closeDate": "28 Aug",
-      "size": "52,87,200 shares",
-      "priceBand": "₹95 to ₹101",
-      "type": "SME",
-      "url": ""
+      "title": "Augmont Enterprises",
+      "openDate": "21 August",
+      "closeDate": "25 August",
+      "size": "₹825 Cr.",
+      "priceBand": "₹750 to ₹788",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/augmont-enterprises-ipo/"
     },
     {
-      "title": "Madhur Knit Crafts Limited",
-      "openDate": "24 Aug",
-      "closeDate": "27 Aug",
-      "size": "50,24,400 shares",
+      "title": "Tempsens Instruments",
+      "openDate": "20 August",
+      "closeDate": "24 August",
+      "size": "₹650 Cr.",
+      "priceBand": "₹285 to ₹300",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/tempsens-instruments-india-ipo/"
+    },
+    {
+      "title": "Gaja Alternative",
+      "openDate": "19 August",
+      "closeDate": "21 August",
+      "size": "₹550 Cr.",
+      "priceBand": "₹152 to ₹160",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/gaja-alternative-asset-management-ipo/"
+    },
+    {
+      "title": "Shankesh Jewellers",
+      "openDate": "18 August",
+      "closeDate": "20 August",
+      "size": "₹367.18 Cr.",
+      "priceBand": "₹88 to ₹93",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/shankesh-jewellers-ipo/"
+    },
+    {
+      "title": "Sunshine Pictures",
+      "openDate": "18 August",
+      "closeDate": "20 August",
+      "size": "₹282.14 Cr.",
+      "priceBand": "₹342 to ₹360",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/sunshine-pictures-ipo/"
+    },
+    {
+      "title": "Horizon Industrial Parks",
+      "openDate": "17 August",
+      "closeDate": "19 August",
+      "size": "₹2,600 Cr.",
+      "priceBand": "₹57 to ₹60",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/horizon-industrial-parks-ipo/"
+    },
+    {
+      "title": "Lalithaa Jewellery Mart",
+      "openDate": "17 August",
+      "closeDate": "19 August",
+      "size": "₹1,700 Cr.",
+      "priceBand": "₹190 to ₹201",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/lalithaa-jewellery-mart-ipo/"
+    },
+    {
+      "title": "Behari Lal Engineering",
+      "openDate": "12 August",
+      "closeDate": "14 August",
+      "size": "₹301.62 Cr.",
+      "priceBand": "₹271 to ₹285",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/behari-lal-engineering-ipo/"
+    },
+    {
+      "title": "Shiprocket",
+      "openDate": "12 August",
+      "closeDate": "14 August",
+      "size": "₹1,617.48 Cr.",
+      "priceBand": "₹92 to ₹97",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/shiprocket-ipo/"
+    },
+    {
+      "title": "Milky Mist",
+      "openDate": "11 August",
+      "closeDate": "13 August",
+      "size": "₹1,553 Cr.",
+      "priceBand": "₹133 to ₹140",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/milky-mist-dairy-food-ipo/"
+    },
+    {
+      "title": "Molbio Diagnostics",
+      "openDate": "10 August",
+      "closeDate": "12 August",
+      "size": "₹939.70 Cr.",
+      "priceBand": "₹768 to ₹807",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/molbio-diagnostics-ipo/"
+    },
+    {
+      "title": "Dhoot Transmission",
+      "openDate": "10 August",
+      "closeDate": "12 August",
+      "size": "₹3,066.89 Cr.",
+      "priceBand": "₹829 to ₹871",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/dhoot-transmission-ipo/"
+    },
+    {
+      "title": "LEAP India",
+      "openDate": "7 August",
+      "closeDate": "11 August",
+      "size": "₹2480 Cr.",
+      "priceBand": "₹151 to ₹159",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/leap-india-ipo/"
+    },
+    {
+      "title": "Technocraft Ventures",
+      "openDate": "7 August",
+      "closeDate": "11 August",
+      "size": "₹252 Cr.",
+      "priceBand": "₹200 to ₹212",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/technocraft-ventures-ipo/"
+    },
+    {
+      "title": "Ardee Industries",
+      "openDate": "5 August",
+      "closeDate": "7 August",
+      "size": "₹425.87 Cr.",
+      "priceBand": "₹50 to ₹53",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/ardee-industries-ipo/"
+    },
+    {
+      "title": "MV Electrosystems",
+      "openDate": "30 August",
+      "closeDate": "3 August",
+      "size": "₹290 Cr.",
+      "priceBand": "₹400 to ₹425",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/mv-electrosystems-ipo/"
+    },
+    {
+      "title": "Juniper Green Energy",
+      "openDate": "30 August",
+      "closeDate": "3 August",
+      "size": "₹1800 Cr.",
+      "priceBand": "₹214 to ₹225",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/juniper-green-energy-ipo/"
+    },
+    {
+      "title": "Manipal Health",
+      "openDate": "29 July",
+      "closeDate": "31 July",
+      "size": "₹9,275.22 Cr.",
+      "priceBand": "₹560 to ₹590",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/manipal-health-ipo/"
+    },
+    {
+      "title": "Indo-MIM",
+      "openDate": "23 July",
+      "closeDate": "27 July",
+      "size": "₹3,811.21 Cr.",
+      "priceBand": "₹461 to ₹485",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/indo-mim-ipo/"
+    },
+    {
+      "title": "Xtranet Technologies",
+      "openDate": "23 July",
+      "closeDate": "27 July",
+      "size": "₹166.80 Cr.",
+      "priceBand": "₹120 to ₹127",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/xtranet-technologies-ipo/"
+    },
+    {
+      "title": "Lohia Corp",
+      "openDate": "23 July",
+      "closeDate": "27 July",
+      "size": "₹1,101.28 Cr.",
+      "priceBand": "₹404 to ₹425",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/lohia-corp-ipo/"
+    },
+    {
+      "title": "Cube Highways Trust InvIT",
+      "openDate": "22 July",
+      "closeDate": "24 July",
+      "size": "₹5000 Cr.",
+      "priceBand": "₹151 to ₹152",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/cube-highways-trust-invit-ipo/"
+    },
+    {
+      "title": "Caliber Mining",
+      "openDate": "17 July",
+      "closeDate": "21 July",
+      "size": "₹450 Cr.",
+      "priceBand": "₹402 to ₹424",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/caliber-mining-ipo/"
+    },
+    {
+      "title": "Alpine Texworld",
+      "openDate": "14 July",
+      "closeDate": "16 July",
+      "size": "₹126.25 Cr.",
+      "priceBand": "₹100 to ₹105",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/alpine-texworld-ipo/"
+    },
+    {
+      "title": "SBI Funds Management",
+      "openDate": "14 July",
+      "closeDate": "16 July",
+      "size": "₹9,813 Cr.",
+      "priceBand": "₹545 to ₹574",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/sbi-funds-management-ipo/"
+    },
+    {
+      "title": "Laser Power & Infra",
+      "openDate": "9 July",
+      "closeDate": "13 July",
+      "size": "₹742 Cr.",
+      "priceBand": "₹203 to ₹214",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/laser-power-infra-ipo/"
+    },
+    {
+      "title": "Kusumgar",
+      "openDate": "8 July",
+      "closeDate": "10 July",
+      "size": "₹650 Cr.",
+      "priceBand": "₹398 to ₹419",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/kusumgar-ipo/"
+    },
+    {
+      "title": "Knack Packaging",
+      "openDate": "1 July",
+      "closeDate": "3 July",
+      "size": "₹439.50 Cr.",
+      "priceBand": "₹161 to ₹170",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/knack-packagin-ipo/"
+    },
+    {
+      "title": "Aastha Spintex",
+      "openDate": "29 July",
+      "closeDate": "1 July",
+      "size": "₹170 Cr.",
+      "priceBand": "₹125 to ₹136",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/aastha-spintex-ipo/"
+    },
+    {
+      "title": "CSM Technologies",
+      "openDate": "24 June",
+      "closeDate": "29 June",
+      "size": "₹146 Cr.",
+      "priceBand": "₹107 to ₹113",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/csm-technologies-ipo/"
+    },
+    {
+      "title": "Waterways Leisure Tourism",
+      "openDate": "23 June",
+      "closeDate": "25 June",
+      "size": "₹585 Cr.",
+      "priceBand": "₹769 to ₹808",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/cordelia-cruises-ipo/"
+    },
+    {
+      "title": "Advit Jewels",
+      "openDate": "23 June",
+      "closeDate": "25 June",
+      "size": "₹165.16 Cr.",
+      "priceBand": "₹130 to ₹138",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/advit-jewels-ipo/"
+    },
+    {
+      "title": "Turtlemint Fintech",
+      "openDate": "19 June",
+      "closeDate": "23 June",
+      "size": "₹883 Cr.",
+      "priceBand": "₹144 to ₹152",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/turtlemint-fintech-ipo/"
+    },
+    {
+      "title": "Hexagon Nutrition",
+      "openDate": "5 June",
+      "closeDate": "9 June",
+      "size": "₹138.87 Cr.",
+      "priceBand": "₹42 to ₹45",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/hexagon-nutrition-ipo/"
+    },
+    {
+      "title": "CMR Green Technologies",
+      "openDate": "3 June",
+      "closeDate": "5 June",
+      "size": "₹630.88 Cr.",
+      "priceBand": "₹182 to ₹192",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/cmr-green-technologies-ipo/"
+    },
+    {
+      "title": "Bagmane REIT",
+      "openDate": "5 May",
+      "closeDate": "7 May",
+      "size": "₹3,405 Cr.",
       "priceBand": "₹95 to ₹100",
-      "type": "SME",
-      "url": ""
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/bagmane-reit-ipo/"
     },
     {
-      "title": "ABH Healthcare Limited",
-      "openDate": "24 Aug",
-      "closeDate": "27 Aug",
-      "size": "34,29,600 shares",
-      "priceBand": "₹96 to ₹102",
-      "type": "SME",
-      "url": ""
+      "title": "Kissht",
+      "openDate": "30 May",
+      "closeDate": "5 May",
+      "size": "₹926 Cr.",
+      "priceBand": "₹162 to ₹171",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/kissht-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Citius Transnet InvIT",
+      "openDate": "17 April",
+      "closeDate": "21 April",
+      "size": "₹1,105 Cr.",
+      "priceBand": "₹99 to ₹100",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/citius-transnet-invit-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Propshare Celestia",
+      "openDate": "10 April",
+      "closeDate": "16 April",
+      "size": "₹245 Cr,",
+      "priceBand": "₹1000000 to ₹1050000",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/propshare-celestia-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Om Power Transmission",
+      "openDate": "9 April",
+      "closeDate": "13 April",
+      "size": "₹150 Cr,",
+      "priceBand": "₹166 to ₹175",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/om-power-transmission-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Powerica",
+      "openDate": "24 March",
+      "closeDate": "27 March",
+      "size": "₹1,100 Cr.",
+      "priceBand": "₹375 to ₹395",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/powerica-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Sai Parenteral’s",
+      "openDate": "24 March",
+      "closeDate": "27 March",
+      "size": "₹409 Cr.",
+      "priceBand": "₹372 to ₹392",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/sai-parenterals-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Amir Chand",
+      "openDate": "24 March",
+      "closeDate": "27 March",
+      "size": "₹440 Cr.",
+      "priceBand": "₹201 to ₹212",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/amir-chand-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Central Mine Planning",
+      "openDate": "20 March",
+      "closeDate": "24 March",
+      "size": "₹1,842 Cr.",
+      "priceBand": "₹163 to ₹172",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/central-mine-planning-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "GSP Crop Science",
+      "openDate": "16 March",
+      "closeDate": "18 March",
+      "size": "₹400 Cr.",
+      "priceBand": "₹304 to ₹320",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/gsp-crop-science-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Raajmarg Infra InvIT",
+      "openDate": "11 March",
+      "closeDate": "13 March",
+      "size": "₹6,000 Cr.",
+      "priceBand": "₹99 to ₹100",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/raajmarg-infra-investment-trust-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Innovision",
+      "openDate": "10 March",
+      "closeDate": "17 March",
+      "size": "₹306 Cr.",
+      "priceBand": "₹494 to ₹519",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/innovision-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Rajputana Stainless",
+      "openDate": "9 March",
+      "closeDate": "11 March",
+      "size": "₹255 Cr.",
+      "priceBand": "₹116 to ₹122",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/rajputana-stainless-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "SEDEMAC Mechatronics",
+      "openDate": "4 March",
+      "closeDate": "6 March",
+      "size": "₹1087.45 Cr.",
+      "priceBand": "₹1287 to ₹1352",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/sedemac-mechatronics-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Omnitech Engineering",
+      "openDate": "25 Feb",
+      "closeDate": "27 Feb",
+      "size": "₹583 Cr.",
+      "priceBand": "₹216 to ₹227",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/omnitech-engineering-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "PNGS Reva Diamond",
+      "openDate": "24 Feb",
+      "closeDate": "26 Feb",
+      "size": "₹380 Cr.",
+      "priceBand": "₹367 to ₹386",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/pngs-reva-diamond-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Clean Max Enviro",
+      "openDate": "23 Feb",
+      "closeDate": "25 Feb",
+      "size": "₹3100 Cr.",
+      "priceBand": "₹1000 to ₹1053",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/clean-max-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Shree Ram Twistex",
+      "openDate": "23 Feb",
+      "closeDate": "25 Feb",
+      "size": "₹110.2 Cr.",
+      "priceBand": "₹95 to ₹104",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/shree-ram-twistex-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Gaudium IVF",
+      "openDate": "20 Feb",
+      "closeDate": "24 Feb",
+      "size": "₹165 Cr.",
+      "priceBand": "₹75 to ₹79",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/gaudium-ivf-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Aye Finance",
+      "openDate": "9 Feb",
+      "closeDate": "11 Feb",
+      "size": "₹1,010 Cr.",
+      "priceBand": "₹122 to ₹129",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/aye-finance-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Fractal Analytics",
+      "openDate": "9 Feb",
+      "closeDate": "11 Feb",
+      "size": "₹2,833.9 Cr.",
+      "priceBand": "₹857 to ₹900",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/fractal-analytics-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Shadowfax",
+      "openDate": "20 Jan",
+      "closeDate": "22 Jan",
+      "size": "₹1907.27 Cr.",
+      "priceBand": "₹118 to ₹124",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/shadowfax-technologies-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Amagi Media Labs",
+      "openDate": "13 Jan",
+      "closeDate": "16 Jan",
+      "size": "₹1789 Cr.",
+      "priceBand": "₹343 to ₹361",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in/amagi-media-labs-ipo-date-review-price-allotment-details/"
+    },
+    {
+      "title": "Bharat Coking Coal",
+      "openDate": "9 Jan",
+      "closeDate": "13 Jan",
+      "size": "₹1071.1 Cr.",
+      "priceBand": "₹21 to ₹23",
+      "type": "Mainboard",
+      "url": "https://ipowatch.in//bharat-coking-coal-ipo-date-review-price-allotment-details/"
     }
   ]
 }

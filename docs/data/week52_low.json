@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T11:27:00.935Z",
+  "updatedAt": "2026-08-22T11:55:18.399Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -301,24 +301,6 @@
       "volume": "54"
     },
     {
-      "name": "Assam Entrade",
-      "week52": "850",
-      "ltp": "780.00",
-      "gainPct": "-2.5 %",
-      "dayLow": "760.00",
-      "dayHigh": "968.00",
-      "volume": "38"
-    },
-    {
-      "name": "Nxt-Infra Trust",
-      "week52": "100.05",
-      "ltp": "96.20",
-      "gainPct": "0.6 %",
-      "dayLow": "93.85",
-      "dayHigh": "0.00",
-      "volume": "8,025,000"
-    },
-    {
       "name": "LCC Infotech",
       "week52": "5.89",
       "ltp": "3.55",
@@ -355,13 +337,22 @@
       "volume": "319,328"
     },
     {
-      "name": "Sh. Jagdamba Pol",
-      "week52": "801.25",
-      "ltp": "682.00",
-      "gainPct": "-1.1 %",
-      "dayLow": "669.00",
-      "dayHigh": "980.00",
-      "volume": "736"
+      "name": "Assam Entrade",
+      "week52": "850",
+      "ltp": "780.00",
+      "gainPct": "-2.5 %",
+      "dayLow": "760.00",
+      "dayHigh": "968.00",
+      "volume": "38"
+    },
+    {
+      "name": "Nxt-Infra Trust",
+      "week52": "100.05",
+      "ltp": "96.20",
+      "gainPct": "0.6 %",
+      "dayLow": "93.85",
+      "dayHigh": "0.00",
+      "volume": "8,025,000"
     },
     {
       "name": "Mirae Asset BSE LargeMid (60:40)",
@@ -371,6 +362,15 @@
       "dayLow": "36.75",
       "dayHigh": "38.70",
       "volume": "1,173"
+    },
+    {
+      "name": "Sh. Jagdamba Pol",
+      "week52": "801.25",
+      "ltp": "682.00",
+      "gainPct": "-1.1 %",
+      "dayLow": "669.00",
+      "dayHigh": "980.00",
+      "volume": "736"
     },
     {
       "name": "ARCL Organics",
@@ -436,22 +436,22 @@
       "volume": "128,208"
     },
     {
-      "name": "Nirman Agri",
-      "week52": "231",
-      "ltp": "29.05",
-      "gainPct": "-6.1 %",
-      "dayLow": "28.00",
-      "dayHigh": "0.00",
-      "volume": "57,900"
+      "name": "Onix Solar",
+      "week52": "393.95",
+      "ltp": "305.90",
+      "gainPct": "-5.0 %",
+      "dayLow": "305.90",
+      "dayHigh": "782.21",
+      "volume": "11,633"
     },
     {
-      "name": "Maxposure",
-      "week52": "62.9",
-      "ltp": "30.25",
-      "gainPct": "-2.7 %",
-      "dayLow": "30.00",
-      "dayHigh": "0.00",
-      "volume": "16,000"
+      "name": "KSE",
+      "week52": "205",
+      "ltp": "184.00",
+      "gainPct": "-6.5 %",
+      "dayLow": "183.30",
+      "dayHigh": "284.90",
+      "volume": "71,756"
     }
   ]
 }

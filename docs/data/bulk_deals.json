@@ -1,143 +1,8 @@
 {
-  "updatedAt": "2026-08-22T16:57:16.047Z",
+  "updatedAt": "2026-08-22T17:27:25.598Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "AHIMSA",
-      "name": "Ahimsa Industries Ltd.",
-      "clientName": "BHANSALI VALUE CREATIONS PVT LTD",
-      "buySell": "BUY",
-      "qty": "81000",
-      "price": "28.5",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "ALLCARGO",
-      "name": "Allcargo Logistics Ltd",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "6668362",
-      "price": "11.67",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "AMAGI",
-      "name": "Amagi Media Labs Limited",
-      "clientName": "SBI MUTUAL FUND",
-      "buySell": "BUY",
-      "qty": "3248305",
-      "price": "560",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "AMAGI",
-      "name": "Amagi Media Labs Limited",
-      "clientName": "SBI MUTUAL FUND",
-      "buySell": "BUY",
-      "qty": "1840979",
-      "price": "560",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "AMAGI",
-      "name": "Amagi Media Labs Limited",
-      "clientName": "HDFC STANDARD LIFE INSURANCE COMPANY LTD",
-      "buySell": "BUY",
-      "qty": "1785713",
-      "price": "560",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "ACME CAPITAL MARKET LIMITED",
-      "buySell": "BUY",
-      "qty": "2283786",
-      "price": "33.72",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1172196",
-      "price": "33.7",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "ALTIZEN VENTURES LLP",
-      "buySell": "BUY",
-      "qty": "1678324",
-      "price": "33.59",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "CHAUBARA EATS PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "895811",
-      "price": "33.92",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "AVADHSUGAR",
-      "name": "Avadh Sug & Energy Ltd",
-      "clientName": "AMAN KUMAR SONTHALIA",
-      "buySell": "BUY",
-      "qty": "120000",
-      "price": "809.91",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "BLEL",
-      "name": "Behari Lal Engineering L",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "218835",
-      "price": "503.19",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "BLEL",
-      "name": "Behari Lal Engineering L",
-      "clientName": "MATHISYS QUANTCAP LLP",
-      "buySell": "BUY",
-      "qty": "217647",
-      "price": "504.66",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "CREDENT",
-      "name": "Credent Connect N Care L",
-      "clientName": "NEO APEX SHARE BROKING SERVICES LLP",
-      "buySell": "BUY",
-      "qty": "144000",
-      "price": "358.2",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "DAVANGERE",
-      "name": "Davangere Sugar Company L",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "BUY",
-      "qty": "6542597",
-      "price": "3",
-      "date": "21-Aug-2026"
-    },
-    {
-      "symbol": "DBSTOCKBRO",
-      "name": "DB (Int) Stock Brokers",
-      "clientName": "ORCHARD ROAD PROPERTIES PVT LT",
-      "buySell": "BUY",
-      "qty": "220000",
-      "price": "30.38",
-      "date": "21-Aug-2026"
-    },
     {
       "symbol": "GSMFOILS",
       "name": "GSM Foils Limited",
@@ -721,6 +586,141 @@
       "buySell": "SELL",
       "qty": "48600",
       "price": "54.97",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "287808",
+      "price": "209.87",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "910038",
+      "price": "209.65",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "772632",
+      "price": "209.32",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "VINSUL MAKARDI LTD",
+      "buySell": "SELL",
+      "qty": "250245",
+      "price": "210.03",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "220851",
+      "price": "207.81",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
+      "buySell": "SELL",
+      "qty": "237220",
+      "price": "208.56",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "MUSIGMA SECURITIES",
+      "buySell": "SELL",
+      "qty": "287649",
+      "price": "211.05",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "CLT RESEARCH TECH PRIVATE LTD",
+      "buySell": "SELL",
+      "qty": "418317",
+      "price": "209.9",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1010563",
+      "price": "211.05",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "RAMDOOT REALTORS PVT LTD",
+      "buySell": "SELL",
+      "qty": "404367",
+      "price": "217.5",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "665501",
+      "price": "207.37",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "GRT STRATEGIC VENTURES LLP",
+      "buySell": "SELL",
+      "qty": "269340",
+      "price": "209.09",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "IRAGE BROKING SERVICES LLP",
+      "buySell": "SELL",
+      "qty": "266283",
+      "price": "208.49",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "228658",
+      "price": "205.67",
+      "date": "21-Aug-2026"
+    },
+    {
+      "symbol": "KRONOX",
+      "name": "Kronox Lab Sciences Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "627218",
+      "price": "206.74",
       "date": "21-Aug-2026"
     }
   ]

@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-23T11:55:31.701Z",
+  "updatedAt": "2026-08-23T12:45:33.393Z",
   "source": "derived",
-  "count": 96,
+  "count": 98,
   "items": [
     {
       "name": "Tempsens Instruments",
@@ -250,6 +250,36 @@
       "close": "2026-08-31",
       "allotment": "2026-09-01",
       "listing": "2026-09-03",
+      "priceBand": "₹[.] to ₹[.]",
+      "size": "₹[.] Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Bigshare",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Priority Jewels",
+      "type": "Mainboard",
+      "open": "2026-08-28",
+      "close": "2026-09-01",
+      "allotment": "2026-09-03",
+      "listing": "2026-09-04",
+      "priceBand": "₹-",
+      "size": "₹[.] Cr.",
+      "gmp": "₹0",
+      "gain": "",
+      "registrar": "MUFG Intime",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Complete Sports & Management",
+      "type": "BSE SME",
+      "open": "2026-08-28",
+      "close": "2026-09-01",
+      "allotment": "2026-09-02",
+      "listing": "2026-09-04",
       "priceBand": "₹[.] to ₹[.]",
       "size": "₹[.] Cr.",
       "gmp": "",

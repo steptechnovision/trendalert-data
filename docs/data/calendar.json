@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-24T10:07:09.061Z",
+  "updatedAt": "2026-08-24T10:56:50.212Z",
   "source": "derived",
-  "count": 98,
+  "count": 100,
   "items": [
     {
       "name": "Tempsens Instruments",
@@ -319,6 +319,21 @@
       "status": "upcoming"
     },
     {
+      "name": "Paluck Technologies",
+      "type": "BSE SME",
+      "open": "2026-08-28",
+      "close": "2026-09-01",
+      "allotment": "2026-09-02",
+      "listing": "2026-09-04",
+      "priceBand": "₹46 to ₹48",
+      "size": "₹33 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Bigshare",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
       "name": "Complete Sports & Management",
       "type": "BSE SME",
       "open": "2026-08-28",
@@ -330,6 +345,21 @@
       "gmp": "",
       "gain": "",
       "registrar": "Bigshare",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Shanti Inorganics",
+      "type": "NSE SME",
+      "open": "2026-08-31",
+      "close": "2026-09-02",
+      "allotment": "2026-09-03",
+      "listing": "2026-09-07",
+      "priceBand": "₹79 to ₹83",
+      "size": "₹41.50 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "KfinTech",
       "listingGain": "",
       "status": "upcoming"
     },

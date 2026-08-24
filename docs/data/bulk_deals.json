@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-08-24T17:32:33.939Z",
+  "updatedAt": "2026-08-24T18:02:19.758Z",
   "source": "nse",
   "count": 80,
   "items": [
+    {
+      "symbol": "SHIVAUM",
+      "name": "Shiv Aum Steels Limited",
+      "clientName": "ARYAMAN CAPITAL MARKETS LIMITED",
+      "buySell": "SELL",
+      "qty": "126000",
+      "price": "445",
+      "date": "24-Aug-2026"
+    },
+    {
+      "symbol": "STRIDERS",
+      "name": "Striders Impex Limited",
+      "clientName": "UPSURGE OPPORTUNITIES FUND 1",
+      "buySell": "SELL",
+      "qty": "139200",
+      "price": "62.8",
+      "date": "24-Aug-2026"
+    },
     {
       "symbol": "ALLCARGO",
       "name": "Allcargo Logistics Ltd",
@@ -703,24 +721,6 @@
       "buySell": "SELL",
       "qty": "720000",
       "price": "33.63",
-      "date": "24-Aug-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "L7 HITECH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "625000",
-      "price": "33.5",
-      "date": "24-Aug-2026"
-    },
-    {
-      "symbol": "ATALREAL",
-      "name": "Atal Realtech Limited",
-      "clientName": "CHAUBARA EATS PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1500000",
-      "price": "33.08",
       "date": "24-Aug-2026"
     }
   ]

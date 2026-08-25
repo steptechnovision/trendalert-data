@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-25T08:02:26.327Z",
+  "updatedAt": "2026-08-25T09:03:02.524Z",
   "source": "derived",
-  "count": 104,
+  "count": 108,
   "items": [
     {
       "name": "Augmont Enterprises",
@@ -274,6 +274,21 @@
       "status": "upcoming"
     },
     {
+      "name": "ESDS Software",
+      "type": "Mainboard",
+      "open": "2026-08-28",
+      "close": "2026-09-01",
+      "allotment": "2026-09-02",
+      "listing": "2026-09-04",
+      "priceBand": "₹429",
+      "size": "₹720 Cr.",
+      "gmp": "₹285",
+      "gain": "",
+      "registrar": "MUFG Intime",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
       "name": "Priority Jewels",
       "type": "Mainboard",
       "open": "2026-08-28",
@@ -315,6 +330,51 @@
       "gmp": "",
       "gain": "",
       "registrar": "Bigshare",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Purple Style Labs",
+      "type": "Mainboard",
+      "open": "2026-08-31",
+      "close": "2026-09-02",
+      "allotment": "2026-09-03",
+      "listing": "2026-09-07",
+      "priceBand": "₹-",
+      "size": "₹680 Cr.",
+      "gmp": "₹0",
+      "gain": "",
+      "registrar": "KfinTech",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Ashutosh Fibre",
+      "type": "NSE SME",
+      "open": "2026-08-31",
+      "close": "2026-09-02",
+      "allotment": "2026-09-03",
+      "listing": "2026-09-07",
+      "priceBand": "₹87 to ₹92",
+      "size": "₹56.35 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "KfinTech",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Phychem Technologies",
+      "type": "BSE SME",
+      "open": "2026-08-31",
+      "close": "2026-09-02",
+      "allotment": "2026-09-03",
+      "listing": "2026-09-07",
+      "priceBand": "₹51 to ₹54",
+      "size": "₹14.58 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "MUFG Intime",
       "listingGain": "",
       "status": "upcoming"
     },

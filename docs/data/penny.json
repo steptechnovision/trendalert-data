@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T13:51:58.899Z",
+  "updatedAt": "2026-08-25T14:48:04.016Z",
   "source": "5paisa",
   "count": 5,
   "items": [
@@ -8,7 +8,7 @@
       "ltp": "₹1.86",
       "change": "-4.62",
       "volume": "18,772,857",
-      "marketCap": "₹65.72"
+      "marketCap": "₹62.68"
     },
     {
       "companyName": "Dharan Infra-EPC Ltd",
@@ -22,7 +22,14 @@
       "ltp": "₹1.39",
       "change": "1.46",
       "volume": "6,988,440",
-      "marketCap": "₹59.62"
+      "marketCap": "₹60.49"
+    },
+    {
+      "companyName": "Landsmill Green Limited",
+      "ltp": "₹0.70",
+      "change": "-5.41",
+      "volume": "6,015,449",
+      "marketCap": "₹98.75"
     },
     {
       "companyName": "Future Consumer Ltd",
@@ -30,13 +37,6 @@
       "change": "-4.17",
       "volume": "2,257,183",
       "marketCap": "₹45.93"
-    },
-    {
-      "companyName": "Inventure Growth & Securities Ltd",
-      "ltp": "₹0.91",
-      "change": "7.06",
-      "volume": "2,156,622",
-      "marketCap": "₹89.25"
     }
   ]
 }

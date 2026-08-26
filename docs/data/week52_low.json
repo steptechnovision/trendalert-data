@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T18:41:51.650Z",
+  "updatedAt": "2026-08-26T03:07:00.525Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -121,15 +121,6 @@
       "volume": "35,200"
     },
     {
-      "name": "Quant Silver ETF",
-      "week52": "24.55",
-      "ltp": "24.25",
-      "gainPct": "-1.1 %",
-      "dayLow": "24.01",
-      "dayHigh": "0.00",
-      "volume": "28,279"
-    },
-    {
       "name": "Sun TV Network",
       "week52": "660.7",
       "ltp": "468.90",
@@ -220,6 +211,15 @@
       "volume": "14,708"
     },
     {
+      "name": "JK Lakshmi Cem.",
+      "week52": "989.8",
+      "ltp": "542.45",
+      "gainPct": "-2.2 %",
+      "dayLow": "540.45",
+      "dayHigh": "990.85",
+      "volume": "166,979"
+    },
+    {
       "name": "Onix Solar",
       "week52": "393.95",
       "ltp": "276.25",
@@ -238,15 +238,6 @@
       "volume": "112,883"
     },
     {
-      "name": "JK Lakshmi Cem.",
-      "week52": "989.8",
-      "ltp": "542.45",
-      "gainPct": "-2.2 %",
-      "dayLow": "540.45",
-      "dayHigh": "990.85",
-      "volume": "166,979"
-    },
-    {
       "name": "Credent Connect N Care",
       "week52": "380",
       "ltp": "338.45",
@@ -256,22 +247,40 @@
       "volume": "412,800"
     },
     {
-      "name": "Vibrant Glo. Cap",
-      "week52": "62.95",
-      "ltp": "54.13",
-      "gainPct": "-5.0 %",
-      "dayLow": "54.13",
-      "dayHigh": "66.65",
-      "volume": "19,780"
+      "name": "Shrenik",
+      "week52": "0.65",
+      "ltp": "0.28",
+      "gainPct": "0.0 %",
+      "dayLow": "0.27",
+      "dayHigh": "0.00",
+      "volume": "769,158"
     },
     {
-      "name": "East WestFreight",
-      "week52": "2.59",
-      "ltp": "2.47",
-      "gainPct": "1.2 %",
-      "dayLow": "2.20",
-      "dayHigh": "5.59",
-      "volume": "73,039"
+      "name": "Astron Paper",
+      "week52": "18.89",
+      "ltp": "2.94",
+      "gainPct": "-2.6 %",
+      "dayLow": "2.89",
+      "dayHigh": "18.90",
+      "volume": "37,400"
+    },
+    {
+      "name": "Polysil Irrigati",
+      "week52": "356.75",
+      "ltp": "49.70",
+      "gainPct": "-5.0 %",
+      "dayLow": "49.70",
+      "dayHigh": "0.00",
+      "volume": "12,500"
+    },
+    {
+      "name": "Veritaas Adver.",
+      "week52": "74.9",
+      "ltp": "31.65",
+      "gainPct": "-5.0 %",
+      "dayLow": "31.65",
+      "dayHigh": "0.00",
+      "volume": "3,600"
     },
     {
       "name": "Fascinate Textiles",
@@ -310,40 +319,22 @@
       "volume": "56,866"
     },
     {
-      "name": "Shrenik",
-      "week52": "0.65",
-      "ltp": "0.28",
-      "gainPct": "0.0 %",
-      "dayLow": "0.27",
-      "dayHigh": "0.00",
-      "volume": "769,158"
-    },
-    {
-      "name": "Astron Paper",
-      "week52": "18.89",
-      "ltp": "2.94",
-      "gainPct": "-2.6 %",
-      "dayLow": "2.89",
-      "dayHigh": "18.90",
-      "volume": "37,400"
-    },
-    {
-      "name": "Polysil Irrigati",
-      "week52": "356.75",
-      "ltp": "49.70",
+      "name": "Vibrant Glo. Cap",
+      "week52": "62.95",
+      "ltp": "54.13",
       "gainPct": "-5.0 %",
-      "dayLow": "49.70",
-      "dayHigh": "0.00",
-      "volume": "12,500"
+      "dayLow": "54.13",
+      "dayHigh": "66.65",
+      "volume": "19,780"
     },
     {
-      "name": "Veritaas Adver.",
-      "week52": "74.9",
-      "ltp": "31.65",
-      "gainPct": "-5.0 %",
-      "dayLow": "31.65",
-      "dayHigh": "0.00",
-      "volume": "3,600"
+      "name": "East WestFreight",
+      "week52": "2.59",
+      "ltp": "2.47",
+      "gainPct": "1.2 %",
+      "dayLow": "2.20",
+      "dayHigh": "5.59",
+      "volume": "73,039"
     },
     {
       "name": "Mafatlal Inds.",
@@ -391,15 +382,6 @@
       "volume": "7,812"
     },
     {
-      "name": "OBCL",
-      "week52": "64.84",
-      "ltp": "55.00",
-      "gainPct": "0.3 %",
-      "dayLow": "46.51",
-      "dayHigh": "64.47",
-      "volume": "40,626"
-    },
-    {
       "name": "Teerth Gopicon",
       "week52": "113.4",
       "ltp": "14.10",
@@ -416,6 +398,33 @@
       "dayLow": "256.00",
       "dayHigh": "468.60",
       "volume": "11,964"
+    },
+    {
+      "name": "OBCL",
+      "week52": "64.84",
+      "ltp": "55.00",
+      "gainPct": "0.3 %",
+      "dayLow": "46.51",
+      "dayHigh": "64.47",
+      "volume": "40,626"
+    },
+    {
+      "name": "SBI Funds Mgt.",
+      "week52": "624.95",
+      "ltp": "549.05",
+      "gainPct": "1.4 %",
+      "dayLow": "536.50",
+      "dayHigh": "625.00",
+      "volume": "2,151,544"
+    },
+    {
+      "name": "Flexituff Vent.",
+      "week52": "29.49",
+      "ltp": "2.65",
+      "gainPct": "-0.7 %",
+      "dayLow": "2.55",
+      "dayHigh": "29.69",
+      "volume": "62,015"
     },
     {
       "name": "Teja Engineering",
@@ -443,15 +452,6 @@
       "dayLow": "75.54",
       "dayHigh": "80.70",
       "volume": "1,950"
-    },
-    {
-      "name": "P & G Hygiene",
-      "week52": "14509",
-      "ltp": "8099.00",
-      "gainPct": "-0.4 %",
-      "dayLow": "8075.50",
-      "dayHigh": "14493.15",
-      "volume": "7,809"
     }
   ]
 }

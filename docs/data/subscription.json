@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-08-26T18:09:32.585Z",
+  "updatedAt": "2026-08-26T20:12:03.988Z",
   "source": "nse",
-  "count": 7,
+  "count": 8,
   "items": [
+    {
+      "name": "Lumino Industries Limited",
+      "symbol": "LUMINO",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "6,32,05,127 shares",
+      "price": "₹78 to ₹82",
+      "closeDate": "31 Aug",
+      "type": "Mainboard",
+      "url": ""
+    },
     {
       "name": "Annu Projects Limited",
       "symbol": "ANNU",
@@ -15,21 +30,6 @@
       "ipoSize": "1,76,83,000 shares",
       "price": "₹94 to ₹99",
       "closeDate": "28 Aug",
-      "type": "Mainboard",
-      "url": ""
-    },
-    {
-      "name": "Symbiotec Pharmalab Limited",
-      "symbol": "SYMBIOTEC",
-      "total": "5.30",
-      "qib": "0.59",
-      "shni": "13.94",
-      "bhni": "11.30",
-      "nii": "12.18",
-      "rii": "5.05",
-      "ipoSize": "1,31,24,929 shares",
-      "price": "₹938 to ₹988",
-      "closeDate": "27 Aug",
       "type": "Mainboard",
       "url": ""
     },
@@ -59,6 +59,21 @@
       "rii": "6.91",
       "ipoSize": "2,95,83,600 shares",
       "price": "₹131 to ₹138",
+      "closeDate": "27 Aug",
+      "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "Symbiotec Pharmalab Limited",
+      "symbol": "SYMBIOTEC",
+      "total": "5.30",
+      "qib": "0.59",
+      "shni": "13.94",
+      "bhni": "11.30",
+      "nii": "12.18",
+      "rii": "5.05",
+      "ipoSize": "1,31,24,929 shares",
+      "price": "₹938 to ₹988",
       "closeDate": "27 Aug",
       "type": "Mainboard",
       "url": ""

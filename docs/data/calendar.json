@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-08-26T08:46:45.766Z",
+  "updatedAt": "2026-08-26T09:44:12.367Z",
   "source": "derived",
-  "count": 109,
+  "count": 110,
   "items": [
     {
       "name": "Symbiotec Pharmalab",
@@ -295,7 +295,7 @@
       "close": "2026-09-02",
       "allotment": "2026-09-03",
       "listing": "2026-09-07",
-      "priceBand": "₹-",
+      "priceBand": "₹575",
       "size": "₹680 Cr.",
       "gmp": "₹0",
       "gain": "",
@@ -345,6 +345,21 @@
       "gmp": "",
       "gain": "",
       "registrar": "KfinTech",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Deepa Jewellers",
+      "type": "Mainboard",
+      "open": "2026-09-01",
+      "close": "2026-09-03",
+      "allotment": "2026-09-07",
+      "listing": "2026-09-08",
+      "priceBand": "₹-",
+      "size": "",
+      "gmp": "₹0",
+      "gain": "",
+      "registrar": "",
       "listingGain": "",
       "status": "upcoming"
     },

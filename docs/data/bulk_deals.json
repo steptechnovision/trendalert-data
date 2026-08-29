@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-08-29T08:44:24.613Z",
+  "updatedAt": "2026-08-29T14:13:42.601Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "TEJASNET",
-      "name": "Tejas Networks Limited",
-      "clientName": "GRAVITON RESEARCH CAPITAL LLP",
-      "buySell": "BUY",
-      "qty": "906031",
-      "price": "560.07",
-      "date": "28-Aug-2026"
-    },
     {
       "symbol": "TEMPSENS",
       "name": "Tempsens Inst (India) Ltd",
@@ -721,6 +712,15 @@
       "buySell": "SELL",
       "qty": "21600",
       "price": "111.33",
+      "date": "28-Aug-2026"
+    },
+    {
+      "symbol": "SPAL",
+      "name": "S. P. Apparels Limited",
+      "clientName": "SUNDARARAJAN PERUMAL MUDALIAR",
+      "buySell": "SELL",
+      "qty": "500000",
+      "price": "925",
       "date": "28-Aug-2026"
     }
   ]

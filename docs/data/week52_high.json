@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T23:34:28.620Z",
+  "updatedAt": "2026-08-29T08:44:24.613Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -38,15 +38,6 @@
       "dayLow": "800.00",
       "dayHigh": "835.65",
       "volume": "817,892"
-    },
-    {
-      "name": "ESAF Small Fin",
-      "week52": "44.99",
-      "ltp": "44.71",
-      "gainPct": "1.7 %",
-      "dayLow": "43.80",
-      "dayHigh": "45.00",
-      "volume": "493,495"
     },
     {
       "name": "Glenmark Pharma.",
@@ -101,6 +92,15 @@
       "dayLow": "85.00",
       "dayHigh": "109.95",
       "volume": "6,005"
+    },
+    {
+      "name": "PVP Ventures",
+      "week52": "65.22",
+      "ltp": "65.22",
+      "gainPct": "5.0 %",
+      "dayLow": "63.90",
+      "dayHigh": "65.12",
+      "volume": "1,739,968"
     },
     {
       "name": "Ram Ratna Wires",
@@ -166,15 +166,6 @@
       "volume": "128,635"
     },
     {
-      "name": "Supreme Engg.",
-      "week52": "2.78",
-      "ltp": "2.78",
-      "gainPct": "1.8 %",
-      "dayLow": "2.78",
-      "dayHigh": "0.00",
-      "volume": "127,764"
-    },
-    {
       "name": "Syncom Formul.",
       "week52": "20.38",
       "ltp": "19.46",
@@ -182,15 +173,6 @@
       "dayLow": "17.26",
       "dayHigh": "20.35",
       "volume": "57,135,698"
-    },
-    {
-      "name": "Tempsens Instruments",
-      "week52": "634.85",
-      "ltp": "586.65",
-      "gainPct": "95.6 %",
-      "dayLow": "551.15",
-      "dayHigh": "635.00",
-      "volume": "51,084,119"
     },
     {
       "name": "Ucal",
@@ -209,6 +191,15 @@
       "dayLow": "143.60",
       "dayHigh": "0.00",
       "volume": "24,000"
+    },
+    {
+      "name": "Viji Finance",
+      "week52": "15.04",
+      "ltp": "15.04",
+      "gainPct": "2.0 %",
+      "dayLow": "15.04",
+      "dayHigh": "15.15",
+      "volume": "96,240"
     },
     {
       "name": "Vintage Coffee",
@@ -317,6 +308,15 @@
       "dayLow": "63.60",
       "dayHigh": "0.00",
       "volume": "1,074,944"
+    },
+    {
+      "name": "Supreme Engg.",
+      "week52": "2.78",
+      "ltp": "2.78",
+      "gainPct": "1.8 %",
+      "dayLow": "2.78",
+      "dayHigh": "0.00",
+      "volume": "127,764"
     },
     {
       "name": "Super Tannery",
@@ -436,22 +436,22 @@
       "volume": "1,261,120"
     },
     {
-      "name": "Ingersoll-Rand",
-      "week52": "4899",
-      "ltp": "4860.20",
-      "gainPct": "5.4 %",
-      "dayLow": "4609.00",
-      "dayHigh": "4895.00",
-      "volume": "123,159"
+      "name": "Prizor Viztech",
+      "week52": "1087.4",
+      "ltp": "1087.40",
+      "gainPct": "2.0 %",
+      "dayLow": "1087.40",
+      "dayHigh": "0.00",
+      "volume": "8,400"
     },
     {
-      "name": "Viji Finance",
-      "week52": "15.04",
-      "ltp": "15.04",
-      "gainPct": "2.0 %",
-      "dayLow": "15.04",
-      "dayHigh": "15.15",
-      "volume": "96,240"
+      "name": "Propshop Events",
+      "week52": "80",
+      "ltp": "74.00",
+      "gainPct": "-0.9 %",
+      "dayLow": "72.50",
+      "dayHigh": "0.00",
+      "volume": "338,000"
     }
   ]
 }

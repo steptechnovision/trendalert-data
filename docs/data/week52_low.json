@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T20:37:16.691Z",
+  "updatedAt": "2026-08-30T08:01:34.232Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -220,24 +220,6 @@
       "volume": "88,867"
     },
     {
-      "name": "Alfred Herbert",
-      "week52": "3599",
-      "ltp": "2855.00",
-      "gainPct": "-1.9 %",
-      "dayLow": "2828.90",
-      "dayHigh": "3892.00",
-      "volume": "8"
-    },
-    {
-      "name": "JK Lakshmi Cem.",
-      "week52": "989.8",
-      "ltp": "541.60",
-      "gainPct": "-0.5 %",
-      "dayLow": "539.00",
-      "dayHigh": "990.85",
-      "volume": "66,478"
-    },
-    {
       "name": "A G Universal",
       "week52": "86",
       "ltp": "46.05",
@@ -247,22 +229,13 @@
       "volume": "2,000"
     },
     {
-      "name": "Innovision",
-      "week52": "470",
-      "ltp": "247.25",
-      "gainPct": "-1.7 %",
-      "dayLow": "246.20",
-      "dayHigh": "468.60",
-      "volume": "16,674"
-    },
-    {
-      "name": "Vesuvius India",
-      "week52": "607.9",
-      "ltp": "422.00",
-      "gainPct": "-0.1 %",
-      "dayLow": "418.30",
-      "dayHigh": "608.45",
-      "volume": "106,746"
+      "name": "Alfred Herbert",
+      "week52": "3599",
+      "ltp": "2855.00",
+      "gainPct": "-1.9 %",
+      "dayLow": "2828.90",
+      "dayHigh": "3892.00",
+      "volume": "8"
     },
     {
       "name": "RPP Infra Proj.",
@@ -283,13 +256,31 @@
       "volume": "631"
     },
     {
-      "name": "Captain Polyplas",
-      "week52": "75.74",
-      "ltp": "63.89",
-      "gainPct": "-1.3 %",
-      "dayLow": "63.01",
-      "dayHigh": "87.75",
-      "volume": "148,670"
+      "name": "Innovision",
+      "week52": "470",
+      "ltp": "247.25",
+      "gainPct": "-1.7 %",
+      "dayLow": "246.20",
+      "dayHigh": "468.60",
+      "volume": "16,674"
+    },
+    {
+      "name": "JK Lakshmi Cem.",
+      "week52": "989.8",
+      "ltp": "541.60",
+      "gainPct": "-0.5 %",
+      "dayLow": "539.00",
+      "dayHigh": "990.85",
+      "volume": "66,478"
+    },
+    {
+      "name": "Vesuvius India",
+      "week52": "607.9",
+      "ltp": "422.00",
+      "gainPct": "-0.1 %",
+      "dayLow": "418.30",
+      "dayHigh": "608.45",
+      "volume": "106,746"
     },
     {
       "name": "Archean Chemical",
@@ -301,6 +292,15 @@
       "volume": "390,477"
     },
     {
+      "name": "Captain Polyplas",
+      "week52": "75.74",
+      "ltp": "63.89",
+      "gainPct": "-1.3 %",
+      "dayLow": "63.01",
+      "dayHigh": "87.75",
+      "volume": "148,670"
+    },
+    {
       "name": "Avio Smart Market",
       "week52": "17.6",
       "ltp": "7.05",
@@ -308,60 +308,6 @@
       "dayLow": "6.75",
       "dayHigh": "17.55",
       "volume": "138,147"
-    },
-    {
-      "name": "Prakash Steelage",
-      "week52": "6.57",
-      "ltp": "3.92",
-      "gainPct": "1.0 %",
-      "dayLow": "3.70",
-      "dayHigh": "6.60",
-      "volume": "355,098"
-    },
-    {
-      "name": "Aditya Bir. Fas.",
-      "week52": "94.95",
-      "ltp": "52.49",
-      "gainPct": "-2.1 %",
-      "dayLow": "52.21",
-      "dayHigh": "94.95",
-      "volume": "4,611,357"
-    },
-    {
-      "name": "HDFC Bank",
-      "week52": "1020.5",
-      "ltp": "720.30",
-      "gainPct": "1.3 %",
-      "dayLow": "707.00",
-      "dayHigh": "1020.35",
-      "volume": "16,494,301"
-    },
-    {
-      "name": "TCC Concept",
-      "week52": "526.4",
-      "ltp": "223.25",
-      "gainPct": "-3.7 %",
-      "dayLow": "218.05",
-      "dayHigh": "688.00",
-      "volume": "362,460"
-    },
-    {
-      "name": "Maks Energy",
-      "week52": "36",
-      "ltp": "13.30",
-      "gainPct": "-0.4 %",
-      "dayLow": "13.30",
-      "dayHigh": "0.00",
-      "volume": "3,000"
-    },
-    {
-      "name": "Bombay Metrics",
-      "week52": "56.9",
-      "ltp": "33.50",
-      "gainPct": "-4.3 %",
-      "dayLow": "33.00",
-      "dayHigh": "0.00",
-      "volume": "3,200"
     },
     {
       "name": "Shree Ram Twist.",
@@ -391,6 +337,69 @@
       "volume": "209,600"
     },
     {
+      "name": "HDFC Bank",
+      "week52": "1020.5",
+      "ltp": "720.30",
+      "gainPct": "1.3 %",
+      "dayLow": "707.00",
+      "dayHigh": "1020.35",
+      "volume": "16,494,301"
+    },
+    {
+      "name": "TCC Concept",
+      "week52": "526.4",
+      "ltp": "223.25",
+      "gainPct": "-3.7 %",
+      "dayLow": "218.05",
+      "dayHigh": "688.00",
+      "volume": "362,460"
+    },
+    {
+      "name": "Prakash Steelage",
+      "week52": "6.57",
+      "ltp": "3.92",
+      "gainPct": "1.0 %",
+      "dayLow": "3.70",
+      "dayHigh": "6.60",
+      "volume": "355,098"
+    },
+    {
+      "name": "Aditya Bir. Fas.",
+      "week52": "94.95",
+      "ltp": "52.49",
+      "gainPct": "-2.1 %",
+      "dayLow": "52.21",
+      "dayHigh": "94.95",
+      "volume": "4,611,357"
+    },
+    {
+      "name": "Maks Energy",
+      "week52": "36",
+      "ltp": "13.30",
+      "gainPct": "-0.4 %",
+      "dayLow": "13.30",
+      "dayHigh": "0.00",
+      "volume": "3,000"
+    },
+    {
+      "name": "Bombay Metrics",
+      "week52": "56.9",
+      "ltp": "33.50",
+      "gainPct": "-4.3 %",
+      "dayLow": "33.00",
+      "dayHigh": "0.00",
+      "volume": "3,200"
+    },
+    {
+      "name": "DSP Nifty FMCG",
+      "week52": "51.09",
+      "ltp": "47.16",
+      "gainPct": "-0.7 %",
+      "dayLow": "46.84",
+      "dayHigh": "53.47",
+      "volume": "37,492"
+    },
+    {
       "name": "Hind. Unilever",
       "week52": "2705.09",
       "ltp": "2010.40",
@@ -418,24 +427,6 @@
       "volume": "8,794"
     },
     {
-      "name": "DSP Nifty FMCG",
-      "week52": "51.09",
-      "ltp": "47.16",
-      "gainPct": "-0.7 %",
-      "dayLow": "46.84",
-      "dayHigh": "53.47",
-      "volume": "37,492"
-    },
-    {
-      "name": "Continental Seed",
-      "week52": "28.5",
-      "ltp": "10.95",
-      "gainPct": "4.8 %",
-      "dayLow": "10.15",
-      "dayHigh": "0.00",
-      "volume": "273,306"
-    },
-    {
       "name": "Digikore Studios",
       "week52": "100",
       "ltp": "39.40",
@@ -452,6 +443,15 @@
       "dayLow": "29.85",
       "dayHigh": "0.00",
       "volume": "3,600"
+    },
+    {
+      "name": "Teja Engineering",
+      "week52": "775",
+      "ltp": "259.00",
+      "gainPct": "-5.0 %",
+      "dayLow": "259.00",
+      "dayHigh": "0.00",
+      "volume": "600"
     }
   ]
 }

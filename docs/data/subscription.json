@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-30T17:58:22.132Z",
+  "updatedAt": "2026-08-30T20:56:59.044Z",
   "source": "nse",
-  "count": 3,
+  "count": 6,
   "items": [
     {
-      "name": "ESDS Software Solution Limited",
-      "symbol": "ESDS",
-      "total": "2.10",
-      "qib": "0.01",
-      "shni": "5.74",
-      "bhni": "2.40",
-      "nii": "3.51",
-      "rii": "2.69",
-      "ipoSize": "1,23,52,942 shares",
-      "price": "₹408 to ₹429",
-      "closeDate": "01 Sep",
+      "name": "Purple Style Labs Limited",
+      "symbol": "PERNIASPOP",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "68,49,816 shares",
+      "price": "₹546 to ₹575",
+      "closeDate": "02 Sep",
       "type": "Mainboard",
       "url": ""
     },
@@ -34,6 +34,21 @@
       "url": ""
     },
     {
+      "name": "ESDS Software Solution Limited",
+      "symbol": "ESDS",
+      "total": "2.10",
+      "qib": "0.01",
+      "shni": "5.74",
+      "bhni": "2.40",
+      "nii": "3.51",
+      "rii": "2.69",
+      "ipoSize": "1,23,52,942 shares",
+      "price": "₹408 to ₹429",
+      "closeDate": "01 Sep",
+      "type": "Mainboard",
+      "url": ""
+    },
+    {
       "name": "Lumino Industries Limited",
       "symbol": "LUMINO",
       "total": "4.87",
@@ -46,6 +61,36 @@
       "price": "₹78 to ₹82",
       "closeDate": "31 Aug",
       "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "Ashutosh Fibre Limited",
+      "symbol": "ASHUTOSH",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "",
+      "price": "",
+      "closeDate": "02 Sep",
+      "type": "SME",
+      "url": ""
+    },
+    {
+      "name": "Shanti Inorganics Limited",
+      "symbol": "SHANTIINOR",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "",
+      "price": "",
+      "closeDate": "02 Sep",
+      "type": "SME",
       "url": ""
     }
   ]

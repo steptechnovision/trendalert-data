@@ -1,62 +1,8 @@
 {
-  "updatedAt": "2026-09-02T06:55:04.702Z",
+  "updatedAt": "2026-09-02T11:59:40.435Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "AARADHYA",
-      "name": "Aaradhya Disposal Indus L",
-      "clientName": "M/S VA TRADINGVENTURE LLP",
-      "buySell": "BUY",
-      "qty": "76800",
-      "price": "85.05",
-      "date": "01-Sep-2026"
-    },
-    {
-      "symbol": "ABH",
-      "name": "ABH Healthcare Limited",
-      "clientName": "RATHOD DIGVIJAYSINH RAJENDRASINH",
-      "buySell": "BUY",
-      "qty": "192000",
-      "price": "99",
-      "date": "01-Sep-2026"
-    },
-    {
-      "symbol": "ARIS",
-      "name": "Arisinfra Solutions Ltd",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "183741",
-      "price": "131.37",
-      "date": "01-Sep-2026"
-    },
-    {
-      "symbol": "ARIS",
-      "name": "Arisinfra Solutions Ltd",
-      "clientName": "VAIBHAV RAJENDRA DOSHI",
-      "buySell": "BUY",
-      "qty": "476281",
-      "price": "131.38",
-      "date": "01-Sep-2026"
-    },
-    {
-      "symbol": "ASIANTILES",
-      "name": "Asian Granito India Limit",
-      "clientName": "THAKKAR NILESHKUMAR FARSHURAM HUF",
-      "buySell": "BUY",
-      "qty": "2843939",
-      "price": "50.25",
-      "date": "01-Sep-2026"
-    },
-    {
-      "symbol": "ASIANTILES",
-      "name": "Asian Granito India Limit",
-      "clientName": "CORE INC",
-      "buySell": "BUY",
-      "qty": "2484416",
-      "price": "50.07",
-      "date": "01-Sep-2026"
-    },
     {
       "symbol": "ATALREAL",
       "name": "Atal Realtech Limited",
@@ -721,6 +667,60 @@
       "buySell": "BUY",
       "qty": "797712",
       "price": "299.42",
+      "date": "01-Sep-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "INFINITE DERIVATIVES LLP",
+      "buySell": "BUY",
+      "qty": "390000",
+      "price": "295.62",
+      "date": "01-Sep-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "423981",
+      "price": "294.57",
+      "date": "01-Sep-2026"
+    },
+    {
+      "symbol": "RBZJEWEL",
+      "name": "RBZ Jewellers Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "330332",
+      "price": "170.18",
+      "date": "01-Sep-2026"
+    },
+    {
+      "symbol": "RCDL-RE",
+      "name": "Rajgor Cast Derivati Ltd",
+      "clientName": "SHABBIR NAZMUDDIN PARATHA",
+      "buySell": "BUY",
+      "qty": "156000",
+      "price": "3.13",
+      "date": "01-Sep-2026"
+    },
+    {
+      "symbol": "SAHLIBHFI",
+      "name": "Shalibhadra Finance Ltd",
+      "clientName": "PIYUSH SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "493276",
+      "price": "75.22",
+      "date": "01-Sep-2026"
+    },
+    {
+      "symbol": "SAWALIYA",
+      "name": "Sawaliya Food Products L",
+      "clientName": "KAUSHAL MANOJBHAI KORADIYA",
+      "buySell": "BUY",
+      "qty": "99000",
+      "price": "158.02",
       "date": "01-Sep-2026"
     }
   ]

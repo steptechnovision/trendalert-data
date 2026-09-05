@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T11:10:19.446Z",
+  "updatedAt": "2026-09-05T13:54:09.720Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -382,15 +382,6 @@
       "volume": "32,000"
     },
     {
-      "name": "General Insuranc",
-      "week52": "417.95",
-      "ltp": "358.45",
-      "gainPct": "0.6 %",
-      "dayLow": "341.60",
-      "dayHigh": "418.00",
-      "volume": "4,931,565"
-    },
-    {
       "name": "Shiva Cement",
       "week52": "17.94",
       "ltp": "15.99",
@@ -436,13 +427,13 @@
       "volume": "742,070"
     },
     {
-      "name": "Dabur India",
-      "week52": "577",
-      "ltp": "380.90",
-      "gainPct": "0.1 %",
-      "dayLow": "377.35",
-      "dayHigh": "576.80",
-      "volume": "1,702,061"
+      "name": "General Insuranc",
+      "week52": "417.95",
+      "ltp": "358.45",
+      "gainPct": "0.6 %",
+      "dayLow": "341.60",
+      "dayHigh": "418.00",
+      "volume": "4,931,565"
     },
     {
       "name": "Captain Polyplas",
@@ -452,6 +443,15 @@
       "dayLow": "61.45",
       "dayHigh": "87.75",
       "volume": "138,710"
+    },
+    {
+      "name": "Dabur India",
+      "week52": "577",
+      "ltp": "380.90",
+      "gainPct": "0.1 %",
+      "dayLow": "377.35",
+      "dayHigh": "576.80",
+      "volume": "1,702,061"
     }
   ]
 }

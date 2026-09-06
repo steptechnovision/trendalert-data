@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T06:57:04.609Z",
+  "updatedAt": "2026-09-06T11:36:39.664Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -319,6 +319,24 @@
       "volume": "44,800"
     },
     {
+      "name": "Bikaji Foods",
+      "week52": "818.7",
+      "ltp": "584.20",
+      "gainPct": "-0.5 %",
+      "dayLow": "582.00",
+      "dayHigh": "820.85",
+      "volume": "52,134"
+    },
+    {
+      "name": "ARCL Organics",
+      "week52": "249.68",
+      "ltp": "218.00",
+      "gainPct": "-4.5 %",
+      "dayLow": "216.89",
+      "dayHigh": "434.60",
+      "volume": "997"
+    },
+    {
       "name": "Flair Writing",
       "week52": "348.8",
       "ltp": "243.71",
@@ -344,24 +362,6 @@
       "dayLow": "7.55",
       "dayHigh": "0.00",
       "volume": "152,000"
-    },
-    {
-      "name": "Bikaji Foods",
-      "week52": "818.7",
-      "ltp": "584.20",
-      "gainPct": "-0.5 %",
-      "dayLow": "582.00",
-      "dayHigh": "820.85",
-      "volume": "52,134"
-    },
-    {
-      "name": "ARCL Organics",
-      "week52": "249.68",
-      "ltp": "218.00",
-      "gainPct": "-4.5 %",
-      "dayLow": "216.89",
-      "dayHigh": "434.60",
-      "volume": "997"
     },
     {
       "name": "Shiva Cement",
@@ -436,15 +436,6 @@
       "volume": "32,000"
     },
     {
-      "name": "Dabur India",
-      "week52": "577",
-      "ltp": "380.90",
-      "gainPct": "0.1 %",
-      "dayLow": "377.35",
-      "dayHigh": "576.80",
-      "volume": "1,702,061"
-    },
-    {
       "name": "Captain Polyplas",
       "week52": "75.74",
       "ltp": "62.50",
@@ -452,6 +443,15 @@
       "dayLow": "61.45",
       "dayHigh": "87.75",
       "volume": "138,710"
+    },
+    {
+      "name": "Dabur India",
+      "week52": "577",
+      "ltp": "380.90",
+      "gainPct": "0.1 %",
+      "dayLow": "377.35",
+      "dayHigh": "576.80",
+      "volume": "1,702,061"
     }
   ]
 }

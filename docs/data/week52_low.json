@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T17:20:28.786Z",
+  "updatedAt": "2026-09-06T19:29:12.268Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -373,24 +373,6 @@
       "volume": "4,931,565"
     },
     {
-      "name": "Credent Connect N Care",
-      "week52": "380",
-      "ltp": "317.70",
-      "gainPct": "-5.6 %",
-      "dayLow": "311.00",
-      "dayHigh": "0.00",
-      "volume": "140,400"
-    },
-    {
-      "name": "Skytech Infinite Platform",
-      "week52": "74",
-      "ltp": "40.05",
-      "gainPct": "-10.0 %",
-      "dayLow": "40.05",
-      "dayHigh": "0.00",
-      "volume": "32,000"
-    },
-    {
       "name": "Shiva Cement",
       "week52": "17.94",
       "ltp": "15.99",
@@ -436,13 +418,22 @@
       "volume": "742,070"
     },
     {
-      "name": "Captain Polyplas",
-      "week52": "75.74",
-      "ltp": "62.50",
-      "gainPct": "0.2 %",
-      "dayLow": "61.45",
-      "dayHigh": "87.75",
-      "volume": "138,710"
+      "name": "Credent Connect N Care",
+      "week52": "380",
+      "ltp": "317.70",
+      "gainPct": "-5.6 %",
+      "dayLow": "311.00",
+      "dayHigh": "0.00",
+      "volume": "140,400"
+    },
+    {
+      "name": "Skytech Infinite Platform",
+      "week52": "74",
+      "ltp": "40.05",
+      "gainPct": "-10.0 %",
+      "dayLow": "40.05",
+      "dayHigh": "0.00",
+      "volume": "32,000"
     },
     {
       "name": "Dabur India",
@@ -452,6 +443,15 @@
       "dayLow": "377.35",
       "dayHigh": "576.80",
       "volume": "1,702,061"
+    },
+    {
+      "name": "Captain Polyplas",
+      "week52": "75.74",
+      "ltp": "62.50",
+      "gainPct": "0.2 %",
+      "dayLow": "61.45",
+      "dayHigh": "87.75",
+      "volume": "138,710"
     }
   ]
 }

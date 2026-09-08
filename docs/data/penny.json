@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-07T21:45:57.864Z",
+  "updatedAt": "2026-09-08T07:01:20.075Z",
   "source": "5paisa",
   "count": 5,
   "items": [
     {
+      "companyName": "Landsmill Green Limited",
+      "ltp": "₹0.59",
+      "change": "1.72",
+      "volume": "4,145,563",
+      "marketCap": "₹81.81"
+    },
+    {
       "companyName": "Dharan Infra-EPC Ltd",
       "ltp": "₹0.14",
-      "change": "7.69",
-      "volume": "13,389,174",
+      "change": "0",
+      "volume": "4,069,132",
       "marketCap": "₹67.97"
     },
     {
+      "companyName": "AKI India Ltd",
+      "ltp": "₹7.20",
+      "change": "-9.32",
+      "volume": "3,715,736",
+      "marketCap": "₹81.95"
+    },
+    {
+      "companyName": "Kshitij Polyline Ltd",
+      "ltp": "₹3.63",
+      "change": "4.91",
+      "volume": "3,512,785",
+      "marketCap": "₹85.39"
+    },
+    {
       "companyName": "Mittal Life Style Ltd",
-      "ltp": "₹0.92",
-      "change": "15",
-      "volume": "11,585,530",
-      "marketCap": "₹35.52"
-    },
-    {
-      "companyName": "Landsmill Green Limited",
-      "ltp": "₹0.58",
-      "change": "-7.94",
-      "volume": "6,371,276",
-      "marketCap": "₹88.87"
-    },
-    {
-      "companyName": "Ganga Forging Ltd",
-      "ltp": "₹1.63",
-      "change": "-2.98",
-      "volume": "6,103,756",
-      "marketCap": "₹56.62"
-    },
-    {
-      "companyName": "Gradiente Infotainment Ltd",
-      "ltp": "₹2.64",
-      "change": "-2.58",
-      "volume": "1,514,582",
-      "marketCap": "₹6.10"
+      "ltp": "₹0.97",
+      "change": "5.43",
+      "volume": "3,283,709",
+      "marketCap": "₹40.85"
     }
   ]
 }

@@ -1,23 +1,8 @@
 {
-  "updatedAt": "2026-09-08T19:46:03.915Z",
+  "updatedAt": "2026-09-09T07:10:42.680Z",
   "source": "derived",
   "count": 124,
   "items": [
-    {
-      "name": "Qualiance International",
-      "type": "NSE SME",
-      "open": "2026-09-04",
-      "close": "2026-09-08",
-      "allotment": "2026-09-09",
-      "listing": "2026-09-11",
-      "priceBand": "₹120 to ₹127",
-      "size": "₹45.11 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "MUFG Intime",
-      "listingGain": "",
-      "status": "open"
-    },
     {
       "name": "Pranav Constructions",
       "type": "Mainboard",
@@ -87,71 +72,11 @@
       "listing": "2026-09-15",
       "priceBand": "₹632",
       "size": "₹1,055.74 Cr.",
-      "gmp": "₹210",
+      "gmp": "₹218",
       "gain": "",
       "registrar": "MUFG Intime",
       "listingGain": "",
       "status": "open"
-    },
-    {
-      "name": "Deepa Jewellers",
-      "type": "Mainboard",
-      "open": "2026-09-01",
-      "close": "2026-09-03",
-      "allotment": "2026-09-07",
-      "listing": "2026-09-08",
-      "priceBand": "₹168 to ₹177",
-      "size": "₹459.72 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "",
-      "listingGain": "",
-      "status": "listing"
-    },
-    {
-      "name": "Rays of Belief",
-      "type": "Mainboard",
-      "open": "2026-09-01",
-      "close": "2026-09-03",
-      "allotment": "2026-09-07",
-      "listing": "2026-09-08",
-      "priceBand": "₹227 to ₹239",
-      "size": "₹125 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "",
-      "listingGain": "",
-      "status": "listing"
-    },
-    {
-      "name": "Fly-Hi Maritime",
-      "type": "BSE SME",
-      "open": "2026-09-01",
-      "close": "2026-09-03",
-      "allotment": "2026-09-07",
-      "listing": "2026-09-08",
-      "priceBand": "₹102",
-      "size": "₹52.63 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "",
-      "listingGain": "",
-      "status": "listing"
-    },
-    {
-      "name": "Farm Peace",
-      "type": "BSE SME",
-      "open": "2026-09-01",
-      "close": "2026-09-03",
-      "allotment": "2026-09-07",
-      "listing": "2026-09-08",
-      "priceBand": "₹59",
-      "size": "₹32 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "",
-      "listingGain": "",
-      "status": "listing"
     },
     {
       "name": "Asset Reconstruction",
@@ -166,7 +91,7 @@
       "gain": "",
       "registrar": "MUFG Intime",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
     },
     {
       "name": "LCC Projects",
@@ -177,11 +102,11 @@
       "listing": "2026-09-16",
       "priceBand": "₹146",
       "size": "₹427.14 Cr..",
-      "gmp": "₹25",
+      "gmp": "₹33",
       "gain": "",
       "registrar": "KfinTech",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
     },
     {
       "name": "Karamtara Engineering",
@@ -192,11 +117,11 @@
       "listing": "2026-09-16",
       "priceBand": "₹254",
       "size": "₹875 cr.",
-      "gmp": "₹65",
+      "gmp": "₹69",
       "gain": "",
       "registrar": "MUFG Intime",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
     },
     {
       "name": "Manipal Payment",
@@ -211,7 +136,7 @@
       "gain": "",
       "registrar": "MUFG Intime",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
     },
     {
       "name": "Rentomojo",
@@ -222,11 +147,11 @@
       "listing": "2026-09-16",
       "priceBand": "₹404",
       "size": "₹150 Cr.",
-      "gmp": "₹125",
+      "gmp": "₹135",
       "gain": "",
       "registrar": "KfinTech",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
     },
     {
       "name": "Steamhouse India",
@@ -237,11 +162,11 @@
       "listing": "2026-09-16",
       "priceBand": "₹81",
       "size": "₹414 Cr.",
-      "gmp": "₹15",
+      "gmp": "₹18",
       "gain": "",
       "registrar": "KfinTech",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
     },
     {
       "name": "Infrax Renewable",
@@ -256,7 +181,7 @@
       "gain": "",
       "registrar": "Bigshare",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
     },
     {
       "name": "Vinod Texworld",
@@ -271,7 +196,7 @@
       "gain": "",
       "registrar": "KfinTech",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
     },
     {
       "name": "Amtech Esters",
@@ -286,7 +211,22 @@
       "gain": "",
       "registrar": "Maashitla",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
+    },
+    {
+      "name": "Qualiance International",
+      "type": "NSE SME",
+      "open": "2026-09-04",
+      "close": "2026-09-08",
+      "allotment": "2026-09-09",
+      "listing": "2026-09-11",
+      "priceBand": "₹120 to ₹127",
+      "size": "₹45.11 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "MUFG Intime",
+      "listingGain": "",
+      "status": "allotment"
     },
     {
       "name": "Veegaland Developers",
@@ -372,7 +312,7 @@
       "listing": "2026-09-21",
       "priceBand": "₹43",
       "size": "₹125.50 Cr.",
-      "gmp": "₹20",
+      "gmp": "₹17",
       "gain": "",
       "registrar": "MUFG Intime",
       "listingGain": "",
@@ -1857,6 +1797,66 @@
       "listing": "2026-09-03",
       "priceBand": "₹85 to ₹90",
       "size": "₹50.77 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "",
+      "listingGain": "",
+      "status": "listed"
+    },
+    {
+      "name": "Deepa Jewellers",
+      "type": "Mainboard",
+      "open": "2026-09-01",
+      "close": "2026-09-03",
+      "allotment": "2026-09-07",
+      "listing": "2026-09-08",
+      "priceBand": "₹168 to ₹177",
+      "size": "₹459.72 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "",
+      "listingGain": "",
+      "status": "listed"
+    },
+    {
+      "name": "Rays of Belief",
+      "type": "Mainboard",
+      "open": "2026-09-01",
+      "close": "2026-09-03",
+      "allotment": "2026-09-07",
+      "listing": "2026-09-08",
+      "priceBand": "₹227 to ₹239",
+      "size": "₹125 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "",
+      "listingGain": "",
+      "status": "listed"
+    },
+    {
+      "name": "Fly-Hi Maritime",
+      "type": "BSE SME",
+      "open": "2026-09-01",
+      "close": "2026-09-03",
+      "allotment": "2026-09-07",
+      "listing": "2026-09-08",
+      "priceBand": "₹102",
+      "size": "₹52.63 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "",
+      "listingGain": "",
+      "status": "listed"
+    },
+    {
+      "name": "Farm Peace",
+      "type": "BSE SME",
+      "open": "2026-09-01",
+      "close": "2026-09-03",
+      "allotment": "2026-09-07",
+      "listing": "2026-09-08",
+      "priceBand": "₹59",
+      "size": "₹32 Cr.",
       "gmp": "",
       "gain": "",
       "registrar": "",

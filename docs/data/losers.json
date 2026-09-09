@@ -1,55 +1,63 @@
 {
-  "updatedAt": "2026-09-09T07:10:42.680Z",
+  "updatedAt": "2026-09-09T12:22:38.105Z",
   "source": "5paisa",
-  "count": 49,
+  "count": 60,
   "items": [
     {
-      "name": "Asian Paints",
-      "ltp": "2473.30",
-      "gainPct": "-0.3 %",
-      "dayLow": "2457.40",
-      "dayHigh": "2481.10",
-      "volume": "187416"
+      "name": "Axis Bank",
+      "ltp": "1238.50",
+      "gainPct": "-0.5 %",
+      "dayLow": "1234.70",
+      "dayHigh": "1257.40",
+      "volume": "6679663"
     },
     {
       "name": "Bajaj Auto",
-      "ltp": "11804.00",
-      "gainPct": "-0.6 %",
-      "dayLow": "11763.00",
+      "ltp": "11790.00",
+      "gainPct": "-0.8 %",
+      "dayLow": "11740.00",
       "dayHigh": "11896.00",
-      "volume": "49503"
+      "volume": "119472"
     },
     {
       "name": "Bajaj Finance",
-      "ltp": "1051.90",
-      "gainPct": "-0.2 %",
-      "dayLow": "1041.10",
+      "ltp": "1039.30",
+      "gainPct": "-1.4 %",
+      "dayLow": "1038.50",
       "dayHigh": "1060.10",
-      "volume": "4653476"
+      "volume": "9244698"
+    },
+    {
+      "name": "Bajaj Finserv",
+      "ltp": "1927.00",
+      "gainPct": "-0.6 %",
+      "dayLow": "1921.50",
+      "dayHigh": "1951.90",
+      "volume": "617280"
     },
     {
       "name": "Bharat Electron",
-      "ltp": "407.50",
-      "gainPct": "-0.7 %",
-      "dayLow": "406.60",
+      "ltp": "406.00",
+      "gainPct": "-1.1 %",
+      "dayLow": "406.00",
       "dayHigh": "413.85",
-      "volume": "5759161"
+      "volume": "10899391"
     },
     {
       "name": "Bharti Airtel",
-      "ltp": "1830.00",
-      "gainPct": "-0.8 %",
+      "ltp": "1814.70",
+      "gainPct": "-1.6 %",
       "dayLow": "1813.00",
       "dayHigh": "1834.80",
-      "volume": "3215903"
+      "volume": "5574027"
     },
     {
       "name": "Cipla",
-      "ltp": "1371.60",
-      "gainPct": "-0.9 %",
-      "dayLow": "1368.90",
+      "ltp": "1363.10",
+      "gainPct": "-1.5 %",
+      "dayLow": "1363.10",
       "dayHigh": "1388.70",
-      "volume": "348039"
+      "volume": "818773"
     },
     {
       "name": "Dr Reddys Labs",
@@ -57,343 +65,423 @@
       "gainPct": "-0.5 %",
       "dayLow": "1136.40",
       "dayHigh": "1151.00",
-      "volume": "207352"
+      "volume": "528499"
     },
     {
       "name": "Eicher Motors",
-      "ltp": "7716.50",
-      "gainPct": "-0.4 %",
+      "ltp": "7734.50",
+      "gainPct": "-0.2 %",
       "dayLow": "7664.50",
-      "dayHigh": "7742.50",
-      "volume": "163415"
+      "dayHigh": "7784.50",
+      "volume": "318638"
     },
     {
       "name": "Eternal",
-      "ltp": "320.25",
-      "gainPct": "-0.4 %",
-      "dayLow": "318.40",
+      "ltp": "320.60",
+      "gainPct": "-0.3 %",
+      "dayLow": "318.00",
       "dayHigh": "322.55",
-      "volume": "10131816"
+      "volume": "22599551"
+    },
+    {
+      "name": "Grasim Inds",
+      "ltp": "3300.00",
+      "gainPct": "-0.2 %",
+      "dayLow": "3279.00",
+      "dayHigh": "3320.00",
+      "volume": "850901"
     },
     {
       "name": "HCL Technologies",
-      "ltp": "1230.70",
-      "gainPct": "-3.6 %",
-      "dayLow": "1228.00",
+      "ltp": "1229.80",
+      "gainPct": "-3.7 %",
+      "dayLow": "1222.70",
       "dayHigh": "1264.80",
-      "volume": "1289962"
+      "volume": "2099173"
     },
     {
       "name": "HDFC Bank",
-      "ltp": "694.60",
-      "gainPct": "-1.2 %",
-      "dayLow": "690.65",
+      "ltp": "687.10",
+      "gainPct": "-2.3 %",
+      "dayLow": "687.10",
       "dayHigh": "700.00",
-      "volume": "19734105"
+      "volume": "39173990"
     },
     {
       "name": "HDFC Life Insur.",
-      "ltp": "510.15",
-      "gainPct": "-4.4 %",
+      "ltp": "514.00",
+      "gainPct": "-3.7 %",
       "dayLow": "508.95",
       "dayHigh": "534.60",
-      "volume": "5881428"
+      "volume": "9024185"
     },
     {
       "name": "Hind. Unilever",
-      "ltp": "1949.30",
-      "gainPct": "-1.6 %",
-      "dayLow": "1945.00",
+      "ltp": "1945.00",
+      "gainPct": "-1.8 %",
+      "dayLow": "1936.00",
       "dayHigh": "1979.60",
-      "volume": "651371"
+      "volume": "1455307"
     },
     {
       "name": "ICICI Bank",
-      "ltp": "1397.50",
-      "gainPct": "-0.1 %",
+      "ltp": "1389.10",
+      "gainPct": "-0.7 %",
       "dayLow": "1385.50",
-      "dayHigh": "1399.00",
-      "volume": "8806309"
+      "dayHigh": "1402.50",
+      "volume": "14229080"
     },
     {
       "name": "ITC",
-      "ltp": "262.20",
-      "gainPct": "-0.5 %",
+      "ltp": "260.80",
+      "gainPct": "-1.0 %",
       "dayLow": "260.20",
       "dayHigh": "264.50",
-      "volume": "5200122"
+      "volume": "10065188"
     },
     {
       "name": "Infosys",
-      "ltp": "1035.40",
+      "ltp": "1035.00",
       "gainPct": "-4.3 %",
-      "dayLow": "1034.30",
+      "dayLow": "1026.50",
       "dayHigh": "1059.00",
-      "volume": "7610327"
+      "volume": "13530457"
     },
     {
       "name": "Interglobe Aviat",
-      "ltp": "4996.50",
-      "gainPct": "-0.1 %",
+      "ltp": "4975.00",
+      "gainPct": "-0.5 %",
       "dayLow": "4950.00",
-      "dayHigh": "5006.00",
-      "volume": "245329"
+      "dayHigh": "5009.00",
+      "volume": "443075"
     },
     {
       "name": "Jio Financial",
-      "ltp": "231.98",
-      "gainPct": "-0.5 %",
-      "dayLow": "230.75",
+      "ltp": "231.00",
+      "gainPct": "-0.9 %",
+      "dayLow": "230.63",
       "dayHigh": "232.97",
-      "volume": "6221616"
+      "volume": "10774282"
     },
     {
       "name": "Kotak Mah. Bank",
-      "ltp": "415.70",
-      "gainPct": "-0.9 %",
+      "ltp": "414.00",
+      "gainPct": "-1.3 %",
       "dayLow": "413.95",
       "dayHigh": "420.65",
-      "volume": "6227833"
+      "volume": "10886349"
+    },
+    {
+      "name": "Larsen & Toubro",
+      "ltp": "3922.60",
+      "gainPct": "-0.6 %",
+      "dayLow": "3922.60",
+      "dayHigh": "4020.20",
+      "volume": "2954721"
     },
     {
       "name": "M & M",
-      "ltp": "3146.50",
-      "gainPct": "-0.4 %",
+      "ltp": "3150.00",
+      "gainPct": "-0.3 %",
       "dayLow": "3118.00",
-      "dayHigh": "3150.60",
-      "volume": "472205"
+      "dayHigh": "3151.30",
+      "volume": "1050769"
+    },
+    {
+      "name": "Maruti Suzuki",
+      "ltp": "12618.00",
+      "gainPct": "-0.2 %",
+      "dayLow": "12537.00",
+      "dayHigh": "12692.00",
+      "volume": "534832"
     },
     {
       "name": "Nestle India",
-      "ltp": "1396.20",
-      "gainPct": "-0.3 %",
+      "ltp": "1393.00",
+      "gainPct": "-0.5 %",
       "dayLow": "1389.20",
       "dayHigh": "1405.90",
-      "volume": "448485"
+      "volume": "994121"
+    },
+    {
+      "name": "O N G C",
+      "ltp": "234.02",
+      "gainPct": "-0.8 %",
+      "dayLow": "234.02",
+      "dayHigh": "239.27",
+      "volume": "12781171"
     },
     {
       "name": "Reliance Industries",
-      "ltp": "1286.50",
-      "gainPct": "-0.7 %",
+      "ltp": "1279.00",
+      "gainPct": "-1.2 %",
       "dayLow": "1277.20",
       "dayHigh": "1294.70",
-      "volume": "6578365"
+      "volume": "12152819"
+    },
+    {
+      "name": "SBI",
+      "ltp": "1000.50",
+      "gainPct": "-0.7 %",
+      "dayLow": "992.40",
+      "dayHigh": "1012.20",
+      "volume": "7091386"
     },
     {
       "name": "SBI Life Insuran",
-      "ltp": "1683.00",
-      "gainPct": "-0.8 %",
+      "ltp": "1684.00",
+      "gainPct": "-0.7 %",
       "dayLow": "1676.00",
       "dayHigh": "1703.60",
-      "volume": "475800"
+      "volume": "1020022"
     },
     {
       "name": "Sun Pharma.Inds.",
-      "ltp": "1872.90",
-      "gainPct": "-0.7 %",
-      "dayLow": "1866.20",
+      "ltp": "1864.90",
+      "gainPct": "-1.1 %",
+      "dayLow": "1864.90",
       "dayHigh": "1898.60",
-      "volume": "511644"
+      "volume": "1396896"
     },
     {
       "name": "TCS",
-      "ltp": "2206.50",
-      "gainPct": "-2.2 %",
+      "ltp": "2208.00",
+      "gainPct": "-2.1 %",
       "dayLow": "2193.20",
       "dayHigh": "2237.00",
-      "volume": "1693099"
+      "volume": "3370071"
     },
     {
       "name": "Tata Consumer",
-      "ltp": "1010.60",
-      "gainPct": "-0.4 %",
-      "dayLow": "1003.50",
+      "ltp": "1001.00",
+      "gainPct": "-1.3 %",
+      "dayLow": "1001.00",
       "dayHigh": "1013.70",
-      "volume": "465102"
+      "volume": "973918"
     },
     {
       "name": "Tata Motors PVeh",
-      "ltp": "304.15",
-      "gainPct": "-0.8 %",
+      "ltp": "303.00",
+      "gainPct": "-1.1 %",
       "dayLow": "300.80",
       "dayHigh": "306.45",
-      "volume": "3848285"
+      "volume": "6971556"
     },
     {
       "name": "Tech Mahindra",
-      "ltp": "1513.30",
-      "gainPct": "-2.9 %",
-      "dayLow": "1504.00",
+      "ltp": "1508.00",
+      "gainPct": "-3.3 %",
+      "dayLow": "1498.00",
       "dayHigh": "1531.00",
-      "volume": "582486"
+      "volume": "1329200"
     },
     {
       "name": "UltraTech Cem.",
-      "ltp": "10959.00",
-      "gainPct": "-0.5 %",
-      "dayLow": "10905.00",
+      "ltp": "10900.00",
+      "gainPct": "-1.0 %",
+      "dayLow": "10860.00",
       "dayHigh": "10998.00",
-      "volume": "149914"
+      "volume": "325637"
     },
     {
       "name": "Wipro",
-      "ltp": "167.70",
-      "gainPct": "-2.2 %",
+      "ltp": "167.00",
+      "gainPct": "-2.6 %",
       "dayLow": "166.37",
       "dayHigh": "169.15",
-      "volume": "7947336"
+      "volume": "12001620"
     },
     {
-      "name": "Asian Paints",
-      "ltp": "2474.00",
-      "gainPct": "-0.3 %",
-      "dayLow": "2456.55",
-      "dayHigh": "2481.00",
-      "volume": "9909"
+      "name": "Axis Bank",
+      "ltp": "1239.50",
+      "gainPct": "-0.5 %",
+      "dayLow": "1232.75",
+      "dayHigh": "1257.45",
+      "volume": "414937"
     },
     {
       "name": "Bajaj Finance",
-      "ltp": "1052.00",
-      "gainPct": "-0.3 %",
-      "dayLow": "1041.00",
+      "ltp": "1040.00",
+      "gainPct": "-1.4 %",
+      "dayLow": "1038.15",
       "dayHigh": "1059.70",
-      "volume": "826346"
+      "volume": "1725267"
+    },
+    {
+      "name": "Bajaj Finserv",
+      "ltp": "1927.00",
+      "gainPct": "-0.6 %",
+      "dayLow": "1925.10",
+      "dayHigh": "1950.00",
+      "volume": "63026"
     },
     {
       "name": "Bharat Electron",
-      "ltp": "407.55",
-      "gainPct": "-0.7 %",
-      "dayLow": "406.65",
+      "ltp": "406.20",
+      "gainPct": "-1.1 %",
+      "dayLow": "406.00",
       "dayHigh": "413.75",
-      "volume": "388814"
+      "volume": "547761"
     },
     {
       "name": "Bharti Airtel",
-      "ltp": "1829.90",
-      "gainPct": "-0.5 %",
+      "ltp": "1818.80",
+      "gainPct": "-1.1 %",
       "dayLow": "1813.60",
       "dayHigh": "1835.00",
-      "volume": "145933"
+      "volume": "312466"
     },
     {
       "name": "Eternal",
-      "ltp": "320.10",
+      "ltp": "320.00",
       "gainPct": "-0.3 %",
-      "dayLow": "318.40",
+      "dayLow": "318.10",
       "dayHigh": "322.70",
-      "volume": "312552"
+      "volume": "1467207"
     },
     {
       "name": "HCL Technologies",
-      "ltp": "1231.60",
-      "gainPct": "-4.2 %",
-      "dayLow": "1228.20",
+      "ltp": "1226.55",
+      "gainPct": "-4.6 %",
+      "dayLow": "1223.00",
       "dayHigh": "1261.40",
-      "volume": "107401"
+      "volume": "146126"
     },
     {
       "name": "HDFC Bank",
-      "ltp": "694.80",
-      "gainPct": "-1.2 %",
-      "dayLow": "690.65",
+      "ltp": "687.25",
+      "gainPct": "-2.2 %",
+      "dayLow": "687.25",
       "dayHigh": "700.05",
-      "volume": "2452757"
+      "volume": "3428400"
     },
     {
       "name": "Hind. Unilever",
-      "ltp": "1949.85",
-      "gainPct": "-1.7 %",
-      "dayLow": "1945.00",
+      "ltp": "1945.00",
+      "gainPct": "-1.9 %",
+      "dayLow": "1934.45",
       "dayHigh": "1975.45",
-      "volume": "58477"
+      "volume": "470093"
     },
     {
       "name": "ICICI Bank",
-      "ltp": "1397.00",
-      "gainPct": "-0.2 %",
+      "ltp": "1390.10",
+      "gainPct": "-0.7 %",
       "dayLow": "1385.05",
-      "dayHigh": "1399.00",
-      "volume": "1414461"
+      "dayHigh": "1401.70",
+      "volume": "2129133"
     },
     {
       "name": "ITC",
-      "ltp": "262.20",
-      "gainPct": "-0.5 %",
+      "ltp": "261.20",
+      "gainPct": "-0.9 %",
       "dayLow": "260.45",
       "dayHigh": "264.50",
-      "volume": "456370"
+      "volume": "1433761"
     },
     {
       "name": "Infosys",
-      "ltp": "1035.20",
+      "ltp": "1035.00",
       "gainPct": "-4.4 %",
-      "dayLow": "1034.50",
+      "dayLow": "1026.90",
       "dayHigh": "1058.25",
-      "volume": "553058"
+      "volume": "855244"
     },
     {
       "name": "Interglobe Aviat",
-      "ltp": "4997.00",
-      "gainPct": "-0.2 %",
+      "ltp": "4964.40",
+      "gainPct": "-0.9 %",
       "dayLow": "4935.20",
       "dayHigh": "5007.30",
-      "volume": "8283"
+      "volume": "15562"
     },
     {
       "name": "Kotak Mah. Bank",
-      "ltp": "415.40",
-      "gainPct": "-0.4 %",
+      "ltp": "414.40",
+      "gainPct": "-0.7 %",
       "dayLow": "414.00",
       "dayHigh": "420.40",
-      "volume": "78466"
+      "volume": "262734"
+    },
+    {
+      "name": "Larsen & Toubro",
+      "ltp": "3925.00",
+      "gainPct": "-0.9 %",
+      "dayLow": "3925.00",
+      "dayHigh": "4020.90",
+      "volume": "119178"
     },
     {
       "name": "M & M",
-      "ltp": "3147.70",
-      "gainPct": "-0.4 %",
+      "ltp": "3150.00",
+      "gainPct": "-0.3 %",
       "dayLow": "3118.60",
-      "dayHigh": "3150.00",
-      "volume": "25646"
+      "dayHigh": "3151.90",
+      "volume": "63503"
+    },
+    {
+      "name": "Maruti Suzuki",
+      "ltp": "12628.00",
+      "gainPct": "-0.1 %",
+      "dayLow": "12552.55",
+      "dayHigh": "12680.00",
+      "volume": "8571"
     },
     {
       "name": "Reliance Industries",
-      "ltp": "1286.60",
-      "gainPct": "-0.6 %",
+      "ltp": "1281.00",
+      "gainPct": "-1.0 %",
       "dayLow": "1278.00",
       "dayHigh": "1294.40",
-      "volume": "362296"
+      "volume": "615195"
+    },
+    {
+      "name": "SBI",
+      "ltp": "1001.60",
+      "gainPct": "-0.6 %",
+      "dayLow": "992.50",
+      "dayHigh": "1012.25",
+      "volume": "459470"
     },
     {
       "name": "Sun Pharma.Inds.",
-      "ltp": "1873.95",
-      "gainPct": "-0.4 %",
-      "dayLow": "1866.80",
+      "ltp": "1868.50",
+      "gainPct": "-0.7 %",
+      "dayLow": "1866.00",
       "dayHigh": "1898.10",
-      "volume": "214579"
+      "volume": "235131"
     },
     {
       "name": "TCS",
-      "ltp": "2206.45",
-      "gainPct": "-2.4 %",
+      "ltp": "2209.00",
+      "gainPct": "-2.3 %",
       "dayLow": "2194.00",
       "dayHigh": "2241.05",
-      "volume": "156749"
+      "volume": "194916"
     },
     {
       "name": "Tech Mahindra",
-      "ltp": "1513.55",
-      "gainPct": "-3.1 %",
-      "dayLow": "1504.95",
+      "ltp": "1502.25",
+      "gainPct": "-3.9 %",
+      "dayLow": "1498.70",
       "dayHigh": "1534.95",
-      "volume": "32987"
+      "volume": "46509"
+    },
+    {
+      "name": "Titan Company",
+      "ltp": "4989.80",
+      "gainPct": "-0.2 %",
+      "dayLow": "4968.00",
+      "dayHigh": "5019.60",
+      "volume": "38109"
     },
     {
       "name": "UltraTech Cem.",
-      "ltp": "10953.05",
-      "gainPct": "-0.9 %",
-      "dayLow": "10908.00",
+      "ltp": "10896.00",
+      "gainPct": "-1.4 %",
+      "dayLow": "10861.00",
       "dayHigh": "10994.65",
-      "volume": "3864"
+      "volume": "6414"
     }
   ]
 }

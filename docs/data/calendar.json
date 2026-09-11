@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-09-11T07:06:10.361Z",
+  "updatedAt": "2026-09-11T12:14:36.634Z",
   "source": "derived",
-  "count": 133,
+  "count": 134,
   "items": [
     {
       "name": "Asset Reconstruction",
@@ -450,6 +450,21 @@
       "gmp": "₹0",
       "gain": "",
       "registrar": "KfinTech",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "SpectraA Technology",
+      "type": "NSE SME",
+      "open": "2026-09-17",
+      "close": "2026-09-21",
+      "allotment": "2026-09-22",
+      "listing": "2026-09-24",
+      "priceBand": "₹112 to ₹118",
+      "size": "₹42.52 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Maashitla",
       "listingGain": "",
       "status": "upcoming"
     },

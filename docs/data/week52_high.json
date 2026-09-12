@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T14:21:27.810Z",
+  "updatedAt": "2026-09-12T17:26:22.840Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -328,6 +328,15 @@
       "volume": "6,000"
     },
     {
+      "name": "Q-Line Biotech",
+      "week52": "730",
+      "ltp": "728.00",
+      "gainPct": "1.8 %",
+      "dayLow": "694.95",
+      "dayHigh": "0.00",
+      "volume": "64,000"
+    },
+    {
       "name": "Auto.Corp.of Goa",
       "week52": "1961.9",
       "ltp": "1784.00",
@@ -346,13 +355,40 @@
       "volume": "3,358,636"
     },
     {
-      "name": "Q-Line Biotech",
-      "week52": "730",
-      "ltp": "728.00",
-      "gainPct": "1.8 %",
-      "dayLow": "694.95",
-      "dayHigh": "0.00",
-      "volume": "64,000"
+      "name": "Hatsun Agro",
+      "week52": "1240.2",
+      "ltp": "1223.40",
+      "gainPct": "2.4 %",
+      "dayLow": "1167.70",
+      "dayHigh": "1238.50",
+      "volume": "112,945"
+    },
+    {
+      "name": "Subex",
+      "week52": "21",
+      "ltp": "20.80",
+      "gainPct": "5.3 %",
+      "dayLow": "19.20",
+      "dayHigh": "21.00",
+      "volume": "34,488,169"
+    },
+    {
+      "name": "Dhoot Transmission",
+      "week52": "1728.7",
+      "ltp": "1728.70",
+      "gainPct": "10.0 %",
+      "dayLow": "1531.50",
+      "dayHigh": "1727.35",
+      "volume": "5,862,704"
+    },
+    {
+      "name": "Manaksia Steels",
+      "week52": "120.76",
+      "ltp": "118.50",
+      "gainPct": "3.0 %",
+      "dayLow": "112.10",
+      "dayHigh": "122.00",
+      "volume": "149,999"
     },
     {
       "name": "Committed Cargo",
@@ -400,40 +436,13 @@
       "volume": "10,362,562"
     },
     {
-      "name": "Hatsun Agro",
-      "week52": "1240.2",
-      "ltp": "1223.40",
-      "gainPct": "2.4 %",
-      "dayLow": "1167.70",
-      "dayHigh": "1238.50",
-      "volume": "112,945"
-    },
-    {
-      "name": "Subex",
-      "week52": "21",
-      "ltp": "20.80",
-      "gainPct": "5.3 %",
-      "dayLow": "19.20",
-      "dayHigh": "21.00",
-      "volume": "34,488,169"
-    },
-    {
-      "name": "Dhoot Transmission",
-      "week52": "1728.7",
-      "ltp": "1728.70",
-      "gainPct": "10.0 %",
-      "dayLow": "1531.50",
-      "dayHigh": "1727.35",
-      "volume": "5,862,704"
-    },
-    {
-      "name": "Manaksia Steels",
-      "week52": "120.76",
-      "ltp": "118.50",
-      "gainPct": "3.0 %",
-      "dayLow": "112.10",
-      "dayHigh": "122.00",
-      "volume": "149,999"
+      "name": "Shankesh Jewellers",
+      "week52": "115.9",
+      "ltp": "101.30",
+      "gainPct": "2.9 %",
+      "dayLow": "100.00",
+      "dayHigh": "116.00",
+      "volume": "53,876,821"
     },
     {
       "name": "McNally Bharat",
@@ -443,15 +452,6 @@
       "dayLow": "330.40",
       "dayHigh": "330.31",
       "volume": "1,091"
-    },
-    {
-      "name": "RACL Geartech",
-      "week52": "1856",
-      "ltp": "1756.70",
-      "gainPct": "10.6 %",
-      "dayLow": "1551.00",
-      "dayHigh": "1859.05",
-      "volume": "1,142,834"
     }
   ]
 }

@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-09-12T17:26:22.840Z",
+  "updatedAt": "2026-09-12T19:37:40.793Z",
   "source": "5paisa",
   "count": 50,
   "items": [
-    {
-      "name": "Aimtron",
-      "week52": "1800",
-      "ltp": "1771.50",
-      "gainPct": "1.3 %",
-      "dayLow": "1746.90",
-      "dayHigh": "0.00",
-      "volume": "50,800"
-    },
     {
       "name": "ARCL Organics",
       "week52": "249.9",
@@ -20,15 +11,6 @@
       "dayLow": "235.00",
       "dayHigh": "434.60",
       "volume": "3,115"
-    },
-    {
-      "name": "Confidence Fut.",
-      "week52": "49.41",
-      "ltp": "49.41",
-      "gainPct": "10.0 %",
-      "dayLow": "42.00",
-      "dayHigh": "60.30",
-      "volume": "493,522"
     },
     {
       "name": "Granules India",
@@ -40,33 +22,6 @@
       "volume": "7,851,231"
     },
     {
-      "name": "IL&FS Engg.",
-      "week52": "39.9",
-      "ltp": "38.40",
-      "gainPct": "-1.8 %",
-      "dayLow": "37.50",
-      "dayHigh": "39.84",
-      "volume": "62,188"
-    },
-    {
-      "name": "Laurus Labs",
-      "week52": "1981.8",
-      "ltp": "1969.00",
-      "gainPct": "1.2 %",
-      "dayLow": "1918.10",
-      "dayHigh": "1981.45",
-      "volume": "2,277,375"
-    },
-    {
-      "name": "Monolithisch Ind",
-      "week52": "1505",
-      "ltp": "1449.00",
-      "gainPct": "0.2 %",
-      "dayLow": "1411.05",
-      "dayHigh": "0.00",
-      "volume": "108,250"
-    },
-    {
       "name": "NRB Bearings",
       "week52": "519",
       "ltp": "514.65",
@@ -74,15 +29,6 @@
       "dayLow": "498.20",
       "dayHigh": "519.00",
       "volume": "700,202"
-    },
-    {
-      "name": "Nupur Recyclers",
-      "week52": "138",
-      "ltp": "133.97",
-      "gainPct": "-0.6 %",
-      "dayLow": "132.00",
-      "dayHigh": "0.00",
-      "volume": "39,928"
     },
     {
       "name": "Paisalo Digital",
@@ -119,15 +65,6 @@
       "dayLow": "35.57",
       "dayHigh": "36.54",
       "volume": "5,579,818"
-    },
-    {
-      "name": "Sterlite Tech.",
-      "week52": "897.45",
-      "ltp": "897.45",
-      "gainPct": "5.0 %",
-      "dayLow": "830.00",
-      "dayHigh": "900.15",
-      "volume": "2,409,510"
     },
     {
       "name": "Sumax Engineering",
@@ -202,24 +139,6 @@
       "volume": "398,000"
     },
     {
-      "name": "Waterways Leisur",
-      "week52": "114.32",
-      "ltp": "112.85",
-      "gainPct": "3.1 %",
-      "dayLow": "107.05",
-      "dayHigh": "114.30",
-      "volume": "3,486,070"
-    },
-    {
-      "name": "Kabra Extrusion",
-      "week52": "733",
-      "ltp": "723.15",
-      "gainPct": "2.2 %",
-      "dayLow": "690.60",
-      "dayHigh": "733.30",
-      "volume": "479,794"
-    },
-    {
       "name": "KSR Footwear",
       "week52": "42.9",
       "ltp": "42.60",
@@ -245,15 +164,6 @@
       "dayLow": "337.60",
       "dayHigh": "0.00",
       "volume": "9,000"
-    },
-    {
-      "name": "Valiant Laborato",
-      "week52": "129.9",
-      "ltp": "127.91",
-      "gainPct": "2.5 %",
-      "dayLow": "118.56",
-      "dayHigh": "130.00",
-      "volume": "234,978"
     },
     {
       "name": "Vedavaag Systems",
@@ -283,15 +193,6 @@
       "volume": "1,133,568"
     },
     {
-      "name": "Digjam",
-      "week52": "73.19",
-      "ltp": "68.42",
-      "gainPct": "10.6 %",
-      "dayLow": "61.84",
-      "dayHigh": "73.47",
-      "volume": "1,282,661"
-    },
-    {
       "name": "One 97",
       "week52": "1840",
       "ltp": "1807.50",
@@ -310,6 +211,60 @@
       "volume": "2,000"
     },
     {
+      "name": "IL&FS Engg.",
+      "week52": "39.9",
+      "ltp": "38.40",
+      "gainPct": "-1.8 %",
+      "dayLow": "37.50",
+      "dayHigh": "39.84",
+      "volume": "62,188"
+    },
+    {
+      "name": "Sterlite Tech.",
+      "week52": "897.45",
+      "ltp": "897.45",
+      "gainPct": "5.0 %",
+      "dayLow": "830.00",
+      "dayHigh": "900.15",
+      "volume": "2,409,510"
+    },
+    {
+      "name": "Laurus Labs",
+      "week52": "1981.8",
+      "ltp": "1969.00",
+      "gainPct": "1.2 %",
+      "dayLow": "1918.10",
+      "dayHigh": "1981.45",
+      "volume": "2,277,375"
+    },
+    {
+      "name": "Digjam",
+      "week52": "73.19",
+      "ltp": "68.42",
+      "gainPct": "10.6 %",
+      "dayLow": "61.84",
+      "dayHigh": "73.47",
+      "volume": "1,282,661"
+    },
+    {
+      "name": "Confidence Fut.",
+      "week52": "49.41",
+      "ltp": "49.41",
+      "gainPct": "10.0 %",
+      "dayLow": "42.00",
+      "dayHigh": "60.30",
+      "volume": "493,522"
+    },
+    {
+      "name": "Kabra Extrusion",
+      "week52": "733",
+      "ltp": "723.15",
+      "gainPct": "2.2 %",
+      "dayLow": "690.60",
+      "dayHigh": "733.30",
+      "volume": "479,794"
+    },
+    {
       "name": "ESDS Software",
       "week52": "1740.4",
       "ltp": "1740.40",
@@ -317,6 +272,33 @@
       "dayLow": "1582.70",
       "dayHigh": "1716.35",
       "volume": "7,498,763"
+    },
+    {
+      "name": "Nupur Recyclers",
+      "week52": "138",
+      "ltp": "133.97",
+      "gainPct": "-0.6 %",
+      "dayLow": "132.00",
+      "dayHigh": "0.00",
+      "volume": "39,928"
+    },
+    {
+      "name": "Valiant Laborato",
+      "week52": "129.9",
+      "ltp": "127.91",
+      "gainPct": "2.5 %",
+      "dayLow": "118.56",
+      "dayHigh": "130.00",
+      "volume": "234,978"
+    },
+    {
+      "name": "Aimtron",
+      "week52": "1800",
+      "ltp": "1771.50",
+      "gainPct": "1.3 %",
+      "dayLow": "1746.90",
+      "dayHigh": "0.00",
+      "volume": "50,800"
     },
     {
       "name": "Accretion Pha.",
@@ -328,67 +310,22 @@
       "volume": "6,000"
     },
     {
-      "name": "Q-Line Biotech",
-      "week52": "730",
-      "ltp": "728.00",
-      "gainPct": "1.8 %",
-      "dayLow": "694.95",
+      "name": "Monolithisch Ind",
+      "week52": "1505",
+      "ltp": "1449.00",
+      "gainPct": "0.2 %",
+      "dayLow": "1411.05",
       "dayHigh": "0.00",
-      "volume": "64,000"
+      "volume": "108,250"
     },
     {
-      "name": "Auto.Corp.of Goa",
-      "week52": "1961.9",
-      "ltp": "1784.00",
-      "gainPct": "1.7 %",
-      "dayLow": "1702.00",
-      "dayHigh": "2403.00",
-      "volume": "2,237"
-    },
-    {
-      "name": "Finolex Cables",
-      "week52": "1498",
-      "ltp": "1424.00",
-      "gainPct": "0.4 %",
-      "dayLow": "1340.10",
-      "dayHigh": "1498.35",
-      "volume": "3,358,636"
-    },
-    {
-      "name": "Hatsun Agro",
-      "week52": "1240.2",
-      "ltp": "1223.40",
-      "gainPct": "2.4 %",
-      "dayLow": "1167.70",
-      "dayHigh": "1238.50",
-      "volume": "112,945"
-    },
-    {
-      "name": "Subex",
-      "week52": "21",
-      "ltp": "20.80",
-      "gainPct": "5.3 %",
-      "dayLow": "19.20",
-      "dayHigh": "21.00",
-      "volume": "34,488,169"
-    },
-    {
-      "name": "Dhoot Transmission",
-      "week52": "1728.7",
-      "ltp": "1728.70",
-      "gainPct": "10.0 %",
-      "dayLow": "1531.50",
-      "dayHigh": "1727.35",
-      "volume": "5,862,704"
-    },
-    {
-      "name": "Manaksia Steels",
-      "week52": "120.76",
-      "ltp": "118.50",
-      "gainPct": "3.0 %",
-      "dayLow": "112.10",
-      "dayHigh": "122.00",
-      "volume": "149,999"
+      "name": "Waterways Leisur",
+      "week52": "114.32",
+      "ltp": "112.85",
+      "gainPct": "3.1 %",
+      "dayLow": "107.05",
+      "dayHigh": "114.30",
+      "volume": "3,486,070"
     },
     {
       "name": "Committed Cargo",
@@ -436,22 +373,85 @@
       "volume": "10,362,562"
     },
     {
-      "name": "Shankesh Jewellers",
-      "week52": "115.9",
-      "ltp": "101.30",
-      "gainPct": "2.9 %",
-      "dayLow": "100.00",
-      "dayHigh": "116.00",
-      "volume": "53,876,821"
+      "name": "Q-Line Biotech",
+      "week52": "730",
+      "ltp": "728.00",
+      "gainPct": "1.8 %",
+      "dayLow": "694.95",
+      "dayHigh": "0.00",
+      "volume": "64,000"
     },
     {
-      "name": "McNally Bharat",
-      "week52": "330.4",
-      "ltp": "330.40",
-      "gainPct": "5.0 %",
-      "dayLow": "330.40",
-      "dayHigh": "330.31",
-      "volume": "1,091"
+      "name": "Hatsun Agro",
+      "week52": "1240.2",
+      "ltp": "1223.40",
+      "gainPct": "2.4 %",
+      "dayLow": "1167.70",
+      "dayHigh": "1238.50",
+      "volume": "112,945"
+    },
+    {
+      "name": "Subex",
+      "week52": "21",
+      "ltp": "20.80",
+      "gainPct": "5.3 %",
+      "dayLow": "19.20",
+      "dayHigh": "21.00",
+      "volume": "34,488,169"
+    },
+    {
+      "name": "Dhoot Transmission",
+      "week52": "1728.7",
+      "ltp": "1728.70",
+      "gainPct": "10.0 %",
+      "dayLow": "1531.50",
+      "dayHigh": "1727.35",
+      "volume": "5,862,704"
+    },
+    {
+      "name": "Manaksia Steels",
+      "week52": "120.76",
+      "ltp": "118.50",
+      "gainPct": "3.0 %",
+      "dayLow": "112.10",
+      "dayHigh": "122.00",
+      "volume": "149,999"
+    },
+    {
+      "name": "Auto.Corp.of Goa",
+      "week52": "1961.9",
+      "ltp": "1784.00",
+      "gainPct": "1.7 %",
+      "dayLow": "1702.00",
+      "dayHigh": "2403.00",
+      "volume": "2,237"
+    },
+    {
+      "name": "Finolex Cables",
+      "week52": "1498",
+      "ltp": "1424.00",
+      "gainPct": "0.4 %",
+      "dayLow": "1340.10",
+      "dayHigh": "1498.35",
+      "volume": "3,358,636"
+    },
+    {
+      "name": "Sheetal Univer.",
+      "week52": "353",
+      "ltp": "353.00",
+      "gainPct": "0.8 %",
+      "dayLow": "352.10",
+      "dayHigh": "0.00",
+      "volume": "1,000"
+    },
+    {
+      "name": "Anlon Healthcare",
+      "week52": "20",
+      "ltp": "19.57",
+      "gainPct": "11.6 %",
+      "dayLow": "17.54",
+      "dayHigh": "20.00",
+      "volume": "150,749,037"
     }
   ]
 }

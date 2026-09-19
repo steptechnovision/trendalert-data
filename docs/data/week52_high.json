@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T19:10:50.278Z",
+  "updatedAt": "2026-09-19T07:08:31.013Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -319,24 +319,6 @@
       "volume": "9,860,141"
     },
     {
-      "name": "Softtech Enginee",
-      "week52": "525.7",
-      "ltp": "525.70",
-      "gainPct": "5.0 %",
-      "dayLow": "515.00",
-      "dayHigh": "496.15",
-      "volume": "35,070"
-    },
-    {
-      "name": "Supreme Engg.",
-      "week52": "3.58",
-      "ltp": "3.58",
-      "gainPct": "2.0 %",
-      "dayLow": "3.58",
-      "dayHigh": "0.00",
-      "volume": "420,602"
-    },
-    {
       "name": "Toyam Sports",
       "week52": "0.77",
       "ltp": "0.77",
@@ -427,6 +409,15 @@
       "volume": "1,324,987"
     },
     {
+      "name": "Softtech Enginee",
+      "week52": "525.7",
+      "ltp": "525.70",
+      "gainPct": "5.0 %",
+      "dayLow": "515.00",
+      "dayHigh": "496.15",
+      "volume": "35,070"
+    },
+    {
       "name": "Valiant Organics",
       "week52": "428.85",
       "ltp": "427.60",
@@ -445,13 +436,22 @@
       "volume": "1,050,636"
     },
     {
-      "name": "Welspun Enterp",
-      "week52": "837.75",
-      "ltp": "823.35",
-      "gainPct": "5.7 %",
-      "dayLow": "774.65",
-      "dayHigh": "837.95",
-      "volume": "1,675,361"
+      "name": "Supreme Engg.",
+      "week52": "3.58",
+      "ltp": "3.58",
+      "gainPct": "2.0 %",
+      "dayLow": "3.58",
+      "dayHigh": "0.00",
+      "volume": "420,602"
+    },
+    {
+      "name": "Grand Foundry",
+      "week52": "25.44",
+      "ltp": "25.44",
+      "gainPct": "5.0 %",
+      "dayLow": "25.44",
+      "dayHigh": "22.59",
+      "volume": "4,818"
     }
   ]
 }

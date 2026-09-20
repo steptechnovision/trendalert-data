@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-09-19T20:59:10.225Z",
+  "updatedAt": "2026-09-20T07:33:30.290Z",
   "source": "5paisa",
   "count": 50,
   "items": [
-    {
-      "name": "Armour Security",
-      "week52": "45.6",
-      "ltp": "15.85",
-      "gainPct": "-4.5 %",
-      "dayLow": "15.80",
-      "dayHigh": "0.00",
-      "volume": "16,000"
-    },
     {
       "name": "Balmer Law. Inv.",
       "week52": "79.5",
@@ -67,6 +58,15 @@
       "volume": "11,654,009"
     },
     {
+      "name": "Sharda Cropchem",
+      "week52": "1297",
+      "ltp": "742.55",
+      "gainPct": "0.1 %",
+      "dayLow": "737.15",
+      "dayHigh": "1297.80",
+      "volume": "119,733"
+    },
+    {
       "name": "Tata Elxsi",
       "week52": "5950",
       "ltp": "3266.70",
@@ -83,6 +83,15 @@
       "dayLow": "821.55",
       "dayHigh": "1245.05",
       "volume": "20,300"
+    },
+    {
+      "name": "Twamev Constr.",
+      "week52": "33.99",
+      "ltp": "5.87",
+      "gainPct": "-3.9 %",
+      "dayLow": "5.81",
+      "dayHigh": "34.14",
+      "volume": "292,004"
     },
     {
       "name": "Vedanta Power",
@@ -112,15 +121,6 @@
       "volume": "21,523,794"
     },
     {
-      "name": "A B Lifestyle",
-      "week52": "150.79",
-      "ltp": "81.17",
-      "gainPct": "-1.5 %",
-      "dayLow": "80.81",
-      "dayHigh": "150.75",
-      "volume": "1,106,286"
-    },
-    {
       "name": "Bank of Baroda",
       "week52": "325.5",
       "ltp": "234.94",
@@ -128,6 +128,33 @@
       "dayLow": "231.92",
       "dayHigh": "325.55",
       "volume": "7,110,561"
+    },
+    {
+      "name": "Kaveri Seed Co.",
+      "week52": "1225",
+      "ltp": "696.35",
+      "gainPct": "-1.0 %",
+      "dayLow": "685.00",
+      "dayHigh": "1241.95",
+      "volume": "71,585"
+    },
+    {
+      "name": "Maruti Suzuki",
+      "week52": "17370",
+      "ltp": "12103.00",
+      "gainPct": "-1.9 %",
+      "dayLow": "12103.00",
+      "dayHigh": "17371.60",
+      "volume": "659,773"
+    },
+    {
+      "name": "P & G Hygiene",
+      "week52": "14509",
+      "ltp": "7486.00",
+      "gainPct": "-1.7 %",
+      "dayLow": "7432.00",
+      "dayHigh": "14493.15",
+      "volume": "66,505"
     },
     {
       "name": "Ducon Tech",
@@ -148,6 +175,15 @@
       "volume": "578,349"
     },
     {
+      "name": "A B Lifestyle",
+      "week52": "150.79",
+      "ltp": "81.17",
+      "gainPct": "-1.5 %",
+      "dayLow": "80.81",
+      "dayHigh": "150.75",
+      "volume": "1,106,286"
+    },
+    {
       "name": "Continental Seed",
       "week52": "27",
       "ltp": "10.05",
@@ -166,24 +202,6 @@
       "volume": "24,800"
     },
     {
-      "name": "Kaveri Seed Co.",
-      "week52": "1225",
-      "ltp": "696.35",
-      "gainPct": "-1.0 %",
-      "dayLow": "685.00",
-      "dayHigh": "1241.95",
-      "volume": "71,585"
-    },
-    {
-      "name": "P & G Hygiene",
-      "week52": "14509",
-      "ltp": "7486.00",
-      "gainPct": "-1.7 %",
-      "dayLow": "7432.00",
-      "dayHigh": "14493.15",
-      "volume": "66,505"
-    },
-    {
       "name": "ICRA",
       "week52": "6982",
       "ltp": "4544.70",
@@ -193,15 +211,6 @@
       "volume": "33,473"
     },
     {
-      "name": "Praxis Home",
-      "week52": "14.44",
-      "ltp": "4.07",
-      "gainPct": "-1.0 %",
-      "dayLow": "3.91",
-      "dayHigh": "14.65",
-      "volume": "101,700"
-    },
-    {
       "name": "Gillette India",
       "week52": "10553",
       "ltp": "7073.00",
@@ -209,24 +218,6 @@
       "dayLow": "7031.50",
       "dayHigh": "10549.95",
       "volume": "52,262"
-    },
-    {
-      "name": "Vinod Texworld",
-      "week52": "94",
-      "ltp": "84.85",
-      "gainPct": "-5.0 %",
-      "dayLow": "84.85",
-      "dayHigh": "0.00",
-      "volume": "1,200"
-    },
-    {
-      "name": "Visaman Global",
-      "week52": "145",
-      "ltp": "38.85",
-      "gainPct": "-4.9 %",
-      "dayLow": "38.85",
-      "dayHigh": "0.00",
-      "volume": "2,000"
     },
     {
       "name": "Wonder Electric.",
@@ -247,24 +238,6 @@
       "volume": "38,267,346"
     },
     {
-      "name": "Maruti Suzuki",
-      "week52": "17370",
-      "ltp": "12103.00",
-      "gainPct": "-1.9 %",
-      "dayLow": "12103.00",
-      "dayHigh": "17371.60",
-      "volume": "659,773"
-    },
-    {
-      "name": "Sharda Cropchem",
-      "week52": "1297",
-      "ltp": "742.55",
-      "gainPct": "0.1 %",
-      "dayLow": "737.15",
-      "dayHigh": "1297.80",
-      "volume": "119,733"
-    },
-    {
       "name": "Happiest Minds",
       "week52": "583.4",
       "ltp": "321.55",
@@ -283,13 +256,40 @@
       "volume": "138,000"
     },
     {
-      "name": "Twamev Constr.",
-      "week52": "33.99",
-      "ltp": "5.87",
-      "gainPct": "-3.9 %",
-      "dayLow": "5.81",
-      "dayHigh": "34.14",
-      "volume": "292,004"
+      "name": "Vinod Texworld",
+      "week52": "94",
+      "ltp": "84.85",
+      "gainPct": "-5.0 %",
+      "dayLow": "84.85",
+      "dayHigh": "0.00",
+      "volume": "1,200"
+    },
+    {
+      "name": "Visaman Global",
+      "week52": "145",
+      "ltp": "38.85",
+      "gainPct": "-4.9 %",
+      "dayLow": "38.85",
+      "dayHigh": "0.00",
+      "volume": "2,000"
+    },
+    {
+      "name": "Praxis Home",
+      "week52": "14.44",
+      "ltp": "4.07",
+      "gainPct": "-1.0 %",
+      "dayLow": "3.91",
+      "dayHigh": "14.65",
+      "volume": "101,700"
+    },
+    {
+      "name": "Armour Security",
+      "week52": "45.6",
+      "ltp": "15.85",
+      "gainPct": "-4.5 %",
+      "dayLow": "15.80",
+      "dayHigh": "0.00",
+      "volume": "16,000"
     },
     {
       "name": "Osia Hyper Reta.",
@@ -409,15 +409,6 @@
       "volume": "4,816"
     },
     {
-      "name": "Skytech Infinite Platform",
-      "week52": "74",
-      "ltp": "25.20",
-      "gainPct": "5.0 %",
-      "dayLow": "22.80",
-      "dayHigh": "0.00",
-      "volume": "440,000"
-    },
-    {
       "name": "Lexus Granito",
       "week52": "39.25",
       "ltp": "13.24",
@@ -443,6 +434,15 @@
       "dayLow": "225.10",
       "dayHigh": "0.00",
       "volume": "10,250"
+    },
+    {
+      "name": "Skytech Infinite Platform",
+      "week52": "74",
+      "ltp": "25.20",
+      "gainPct": "5.0 %",
+      "dayLow": "22.80",
+      "dayHigh": "0.00",
+      "volume": "440,000"
     },
     {
       "name": "Camlin Fine",

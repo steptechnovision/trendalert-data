@@ -1,8 +1,53 @@
 {
-  "updatedAt": "2026-09-23T17:49:03.609Z",
+  "updatedAt": "2026-09-23T21:15:52.318Z",
   "source": "nse",
-  "count": 7,
+  "count": 10,
   "items": [
+    {
+      "name": "Moneyview Limited",
+      "symbol": "MONEYVIEW",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "23,25,24,175 shares",
+      "price": "₹32 to ₹34",
+      "closeDate": "28 Sep",
+      "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "A-One Steels India Limited",
+      "symbol": "AONESTEELS",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "73,84,934 shares",
+      "price": "₹385 to ₹405",
+      "closeDate": "28 Sep",
+      "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "Swastika Infra Limited",
+      "symbol": "SWASTIKAIN",
+      "total": "0.96",
+      "qib": "0.69",
+      "shni": "0.73",
+      "bhni": "2.49",
+      "nii": "1.90",
+      "rii": "0.71",
+      "ipoSize": "63,35,001 shares",
+      "price": "₹175 to ₹185",
+      "closeDate": "25 Sep",
+      "type": "Mainboard",
+      "url": ""
+    },
     {
       "name": "Adroit Industries (India) Limited",
       "symbol": "ADROITIND",
@@ -49,21 +94,6 @@
       "url": ""
     },
     {
-      "name": "Swastika Infra Limited",
-      "symbol": "SWASTIKAIN",
-      "total": "0.96",
-      "qib": "0.69",
-      "shni": "0.73",
-      "bhni": "2.49",
-      "nii": "1.90",
-      "rii": "0.71",
-      "ipoSize": "63,35,001 shares",
-      "price": "₹175 to ₹185",
-      "closeDate": "25 Sep",
-      "type": "Mainboard",
-      "url": ""
-    },
-    {
       "name": "Varmora Granito Limited",
       "symbol": "VARMORA",
       "total": "0.27",
@@ -76,6 +106,21 @@
       "price": "₹140 to ₹148",
       "closeDate": "24 Sep",
       "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "Green Asia Impex Limited",
+      "symbol": "GREENASIA",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "",
+      "price": "",
+      "closeDate": "28 Sep",
+      "type": "SME",
       "url": ""
     },
     {

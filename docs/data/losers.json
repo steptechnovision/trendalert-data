@@ -1,127 +1,191 @@
 {
-  "updatedAt": "2026-09-23T07:30:32.332Z",
+  "updatedAt": "2026-09-23T12:59:42.629Z",
   "source": "5paisa",
-  "count": 15,
+  "count": 23,
   "items": [
     {
       "name": "Adani Enterp.",
-      "ltp": "2991.20",
-      "gainPct": "-0.2 %",
-      "dayLow": "2988.00",
+      "ltp": "2993.20",
+      "gainPct": "-0.1 %",
+      "dayLow": "2978.20",
       "dayHigh": "3023.90",
-      "volume": "563736"
+      "volume": "855435"
+    },
+    {
+      "name": "Bharat Electron",
+      "ltp": "396.05",
+      "gainPct": "-0.5 %",
+      "dayLow": "395.60",
+      "dayHigh": "399.50",
+      "volume": "6731863"
     },
     {
       "name": "Cipla",
-      "ltp": "1373.60",
-      "gainPct": "-0.8 %",
+      "ltp": "1383.00",
+      "gainPct": "-0.1 %",
       "dayLow": "1371.80",
       "dayHigh": "1387.00",
-      "volume": "184176"
+      "volume": "651221"
     },
     {
       "name": "Coal India",
-      "ltp": "424.05",
-      "gainPct": "-0.9 %",
+      "ltp": "424.55",
+      "gainPct": "-0.8 %",
       "dayLow": "421.55",
       "dayHigh": "429.40",
-      "volume": "5394489"
+      "volume": "7956161"
     },
     {
       "name": "HCL Technologies",
-      "ltp": "1264.20",
-      "gainPct": "-0.5 %",
-      "dayLow": "1262.30",
+      "ltp": "1256.70",
+      "gainPct": "-1.1 %",
+      "dayLow": "1250.00",
       "dayHigh": "1279.80",
-      "volume": "1286000"
+      "volume": "2724431"
+    },
+    {
+      "name": "HDFC Bank",
+      "ltp": "737.25",
+      "gainPct": "-0.2 %",
+      "dayLow": "734.00",
+      "dayHigh": "742.80",
+      "volume": "23197231"
     },
     {
       "name": "Infosys",
-      "ltp": "1020.00",
+      "ltp": "1020.50",
       "gainPct": "-0.9 %",
-      "dayLow": "1019.80",
+      "dayLow": "1015.10",
       "dayHigh": "1029.40",
-      "volume": "2528437"
+      "volume": "5108734"
+    },
+    {
+      "name": "Interglobe Aviat",
+      "ltp": "5028.50",
+      "gainPct": "0.0 %",
+      "dayLow": "5000.00",
+      "dayHigh": "5061.00",
+      "volume": "581998"
     },
     {
       "name": "M & M",
-      "ltp": "3036.20",
+      "ltp": "3035.00",
       "gainPct": "-0.3 %",
       "dayLow": "3022.40",
       "dayHigh": "3052.00",
-      "volume": "1341031"
+      "volume": "2600352"
     },
     {
-      "name": "Tech Mahindra",
-      "ltp": "1550.50",
-      "gainPct": "-0.1 %",
-      "dayLow": "1539.30",
-      "dayHigh": "1553.00",
-      "volume": "436836"
-    },
-    {
-      "name": "Titan Company",
-      "ltp": "4861.50",
-      "gainPct": "-1.4 %",
-      "dayLow": "4852.50",
-      "dayHigh": "4951.00",
-      "volume": "370898"
-    },
-    {
-      "name": "Trent",
-      "ltp": "2777.80",
-      "gainPct": "-0.2 %",
-      "dayLow": "2764.50",
-      "dayHigh": "2794.40",
-      "volume": "530155"
-    },
-    {
-      "name": "Wipro",
-      "ltp": "165.24",
-      "gainPct": "-0.5 %",
-      "dayLow": "164.15",
-      "dayHigh": "165.70",
-      "volume": "6387962"
-    },
-    {
-      "name": "HCL Technologies",
-      "ltp": "1265.00",
-      "gainPct": "-0.4 %",
-      "dayLow": "1262.65",
-      "dayHigh": "1280.30",
-      "volume": "81824"
-    },
-    {
-      "name": "Infosys",
-      "ltp": "1020.00",
-      "gainPct": "-1.0 %",
-      "dayLow": "1019.70",
-      "dayHigh": "1029.70",
-      "volume": "222467"
-    },
-    {
-      "name": "M & M",
-      "ltp": "3036.30",
-      "gainPct": "-0.5 %",
-      "dayLow": "3021.00",
-      "dayHigh": "3053.65",
-      "volume": "94878"
+      "name": "NTPC",
+      "ltp": "326.00",
+      "gainPct": "-0.6 %",
+      "dayLow": "325.00",
+      "dayHigh": "329.40",
+      "volume": "10525477"
     },
     {
       "name": "TCS",
-      "ltp": "2091.25",
+      "ltp": "2089.60",
       "gainPct": "-0.7 %",
-      "dayLow": "2085.30",
-      "dayHigh": "2103.95",
-      "volume": "105516"
+      "dayLow": "2077.60",
+      "dayHigh": "2104.20",
+      "volume": "2228402"
     },
     {
       "name": "Titan Company",
-      "ltp": "4862.00",
+      "ltp": "4880.00",
       "gainPct": "-1.0 %",
+      "dayLow": "4852.50",
+      "dayHigh": "4951.00",
+      "volume": "769737"
+    },
+    {
+      "name": "Trent",
+      "ltp": "2774.00",
+      "gainPct": "-0.3 %",
+      "dayLow": "2764.50",
+      "dayHigh": "2794.40",
+      "volume": "839769"
+    },
+    {
+      "name": "Wipro",
+      "ltp": "164.90",
+      "gainPct": "-0.7 %",
+      "dayLow": "164.10",
+      "dayHigh": "165.70",
+      "volume": "10856986"
+    },
+    {
+      "name": "Bharat Electron",
+      "ltp": "397.00",
+      "gainPct": "-0.1 %",
+      "dayLow": "395.65",
+      "dayHigh": "399.50",
+      "volume": "345953"
+    },
+    {
+      "name": "HCL Technologies",
+      "ltp": "1256.00",
+      "gainPct": "-1.1 %",
+      "dayLow": "1250.70",
+      "dayHigh": "1280.30",
+      "volume": "210565"
+    },
+    {
+      "name": "HDFC Bank",
+      "ltp": "738.00",
+      "gainPct": "-0.1 %",
+      "dayLow": "734.00",
+      "dayHigh": "742.80",
+      "volume": "1270577"
+    },
+    {
+      "name": "ICICI Bank",
+      "ltp": "1337.50",
+      "gainPct": "-0.2 %",
+      "dayLow": "1334.00",
+      "dayHigh": "1344.70",
+      "volume": "886394"
+    },
+    {
+      "name": "Infosys",
+      "ltp": "1019.20",
+      "gainPct": "-1.0 %",
+      "dayLow": "1015.00",
+      "dayHigh": "1029.70",
+      "volume": "407318"
+    },
+    {
+      "name": "M & M",
+      "ltp": "3035.00",
+      "gainPct": "-0.5 %",
+      "dayLow": "3021.00",
+      "dayHigh": "3053.65",
+      "volume": "196802"
+    },
+    {
+      "name": "NTPC",
+      "ltp": "326.50",
+      "gainPct": "-0.2 %",
+      "dayLow": "325.10",
+      "dayHigh": "329.50",
+      "volume": "606077"
+    },
+    {
+      "name": "TCS",
+      "ltp": "2085.90",
+      "gainPct": "-1.0 %",
+      "dayLow": "2078.00",
+      "dayHigh": "2103.95",
+      "volume": "170689"
+    },
+    {
+      "name": "Titan Company",
+      "ltp": "4880.40",
+      "gainPct": "-0.6 %",
       "dayLow": "4850.40",
       "dayHigh": "4950.00",
-      "volume": "31376"
+      "volume": "38971"
     }
   ]
 }

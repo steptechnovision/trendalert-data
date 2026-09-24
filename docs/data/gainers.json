@@ -1,47 +1,31 @@
 {
-  "updatedAt": "2026-09-24T07:23:28.973Z",
+  "updatedAt": "2026-09-24T12:53:17.874Z",
   "source": "5paisa",
-  "count": 5,
+  "count": 3,
   "items": [
     {
-      "name": "Bharat Electron",
-      "ltp": "396.25",
-      "gainPct": "0.1 %",
-      "dayLow": "393.90",
-      "dayHigh": "398.05",
-      "volume": "3003878"
-    },
-    {
       "name": "Cipla",
-      "ltp": "1411.60",
-      "gainPct": "2.1 %",
+      "ltp": "1399.00",
+      "gainPct": "1.2 %",
       "dayLow": "1364.60",
       "dayHigh": "1419.00",
-      "volume": "1113884"
+      "volume": "1580784"
     },
     {
       "name": "NTPC",
-      "ltp": "326.05",
-      "gainPct": "0.0 %",
-      "dayLow": "325.10",
-      "dayHigh": "327.70",
-      "volume": "4025907"
-    },
-    {
-      "name": "SBI Life Insuran",
-      "ltp": "1765.90",
-      "gainPct": "0.3 %",
-      "dayLow": "1699.90",
-      "dayHigh": "1791.40",
-      "volume": "2688602"
-    },
-    {
-      "name": "TCS",
-      "ltp": "2090.80",
+      "ltp": "326.60",
       "gainPct": "0.2 %",
-      "dayLow": "2067.70",
-      "dayHigh": "2096.90",
-      "volume": "72490"
+      "dayLow": "324.40",
+      "dayHigh": "327.70",
+      "volume": "7662580"
+    },
+    {
+      "name": "O N G C",
+      "ltp": "239.00",
+      "gainPct": "0.9 %",
+      "dayLow": "235.23",
+      "dayHigh": "239.00",
+      "volume": "8493746"
     }
   ]
 }

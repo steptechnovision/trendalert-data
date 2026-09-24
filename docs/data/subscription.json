@@ -1,23 +1,8 @@
 {
-  "updatedAt": "2026-09-24T12:53:17.874Z",
+  "updatedAt": "2026-09-24T17:46:55.498Z",
   "source": "nse",
   "count": 10,
   "items": [
-    {
-      "name": "Moneyview Limited",
-      "symbol": "MONEYVIEW",
-      "total": "1.44",
-      "qib": "0.05",
-      "shni": "3.22",
-      "bhni": "2.03",
-      "nii": "2.43",
-      "rii": "1.79",
-      "ipoSize": "23,25,24,175 shares",
-      "price": "₹32 to ₹34",
-      "closeDate": "28 Sep",
-      "type": "Mainboard",
-      "url": ""
-    },
     {
       "name": "A-One Steels India Limited",
       "symbol": "AONESTEELS",
@@ -29,6 +14,21 @@
       "rii": "0.77",
       "ipoSize": "73,84,934 shares",
       "price": "₹385 to ₹405",
+      "closeDate": "28 Sep",
+      "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "Moneyview Limited",
+      "symbol": "MONEYVIEW",
+      "total": "1.44",
+      "qib": "0.05",
+      "shni": "3.22",
+      "bhni": "2.03",
+      "nii": "2.43",
+      "rii": "1.79",
+      "ipoSize": "23,25,24,175 shares",
+      "price": "₹32 to ₹34",
       "closeDate": "28 Sep",
       "type": "Mainboard",
       "url": ""

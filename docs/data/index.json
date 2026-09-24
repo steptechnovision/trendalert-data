@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T17:46:55.498Z",
+  "updatedAt": "2026-09-24T21:16:53.897Z",
   "feeds": [
     "gmp",
     "upcoming_mainboard",
@@ -24,103 +24,103 @@
       "ok": true,
       "source": "ipowatch",
       "count": 13,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "upcoming_mainboard": {
       "ok": true,
       "source": "ipowatch",
       "count": 99,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "upcoming_sme": {
       "ok": true,
       "source": "ipowatch",
       "count": 175,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "ipo_reviews": {
       "ok": true,
       "source": "ipowatch",
       "count": 93,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "stocks_today": {
       "ok": true,
       "source": "5paisa",
       "count": 5,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "penny": {
       "ok": true,
       "source": "5paisa",
       "count": 5,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "intraday": {
       "ok": true,
       "source": "5paisa",
       "count": 20,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "gainers": {
       "ok": true,
       "source": "5paisa",
       "count": 3,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "losers": {
       "ok": true,
       "source": "5paisa",
       "count": 76,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "week52_high": {
       "ok": true,
       "source": "5paisa",
       "count": 50,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "week52_low": {
       "ok": true,
       "source": "5paisa",
       "count": 50,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "bulk_deals": {
       "ok": true,
       "source": "nse",
       "count": 80,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "subscription": {
       "ok": true,
       "source": "nse",
-      "count": 10,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "count": 15,
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "indices": {
       "ok": true,
       "source": "nse",
       "count": 6,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "listing": {
       "ok": true,
       "source": "ipowatch",
       "count": 105,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "news": {
       "ok": true,
       "source": "rss",
       "count": 60,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     },
     "calendar": {
       "ok": true,
       "source": "derived",
       "count": 174,
-      "updatedAt": "2026-09-24T17:46:55.498Z"
+      "updatedAt": "2026-09-24T21:16:53.897Z"
     }
   }
 }

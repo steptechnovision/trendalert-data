@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-09-26T16:31:15.458Z",
+  "updatedAt": "2026-09-26T19:22:14.048Z",
   "source": "nse",
   "count": 9,
   "items": [
+    {
+      "name": "Runwal Enterprises Limited",
+      "symbol": "RUNWALENTR",
+      "total": "0.42",
+      "qib": "0.96",
+      "shni": "0.19",
+      "bhni": "0.33",
+      "nii": "0.28",
+      "rii": "0.18",
+      "ipoSize": "1,21,11,294 shares",
+      "price": "₹290 to ₹302",
+      "closeDate": "29 Sep",
+      "type": "Mainboard",
+      "url": ""
+    },
     {
       "name": "Orient Cables (India) Limited",
       "symbol": "ORIENTCABL",
@@ -34,21 +49,6 @@
       "url": ""
     },
     {
-      "name": "Runwal Enterprises Limited",
-      "symbol": "RUNWALENTR",
-      "total": "0.42",
-      "qib": "0.96",
-      "shni": "0.19",
-      "bhni": "0.33",
-      "nii": "0.28",
-      "rii": "0.18",
-      "ipoSize": "1,21,11,294 shares",
-      "price": "₹290 to ₹302",
-      "closeDate": "29 Sep",
-      "type": "Mainboard",
-      "url": ""
-    },
-    {
       "name": "AceVector Limited",
       "symbol": "ACEVECTOR",
       "total": "0.23",
@@ -64,21 +64,6 @@
       "url": ""
     },
     {
-      "name": "Moneyview Limited",
-      "symbol": "MONEYVIEW",
-      "total": "6.01",
-      "qib": "0.25",
-      "shni": "17.56",
-      "bhni": "14.33",
-      "nii": "15.41",
-      "rii": "5.18",
-      "ipoSize": "23,25,24,175 shares",
-      "price": "₹32 to ₹34",
-      "closeDate": "28 Sep",
-      "type": "Mainboard",
-      "url": ""
-    },
-    {
       "name": "A-One Steels India Limited",
       "symbol": "AONESTEELS",
       "total": "1.35",
@@ -89,6 +74,21 @@
       "rii": "1.76",
       "ipoSize": "73,84,934 shares",
       "price": "₹385 to ₹405",
+      "closeDate": "28 Sep",
+      "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "Moneyview Limited",
+      "symbol": "MONEYVIEW",
+      "total": "6.01",
+      "qib": "0.25",
+      "shni": "17.56",
+      "bhni": "14.33",
+      "nii": "15.41",
+      "rii": "5.18",
+      "ipoSize": "23,25,24,175 shares",
+      "price": "₹32 to ₹34",
       "closeDate": "28 Sep",
       "type": "Mainboard",
       "url": ""

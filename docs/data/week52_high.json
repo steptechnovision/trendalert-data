@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T12:16:51.401Z",
+  "updatedAt": "2026-09-26T16:31:15.458Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -409,33 +409,6 @@
       "volume": "644,953"
     },
     {
-      "name": "Sedemac Mechatro",
-      "week52": "3545",
-      "ltp": "3444.90",
-      "gainPct": "4.0 %",
-      "dayLow": "3271.40",
-      "dayHigh": "3480.35",
-      "volume": "801,056"
-    },
-    {
-      "name": "Fonebox Retail",
-      "week52": "167.65",
-      "ltp": "167.65",
-      "gainPct": "5.0 %",
-      "dayLow": "167.60",
-      "dayHigh": "0.00",
-      "volume": "36,000"
-    },
-    {
-      "name": "Aimtron",
-      "week52": "1900",
-      "ltp": "1890.25",
-      "gainPct": "5.2 %",
-      "dayLow": "1784.00",
-      "dayHigh": "0.00",
-      "volume": "108,400"
-    },
-    {
       "name": "Engineers India",
       "week52": "318.9",
       "ltp": "315.65",
@@ -452,6 +425,33 @@
       "dayLow": "3310.00",
       "dayHigh": "3479.80",
       "volume": "2,386,852"
+    },
+    {
+      "name": "Pearl Global Ind",
+      "week52": "1355",
+      "ltp": "1329.10",
+      "gainPct": "4.4 %",
+      "dayLow": "1274.80",
+      "dayHigh": "1353.00",
+      "volume": "477,150"
+    },
+    {
+      "name": "Indegene",
+      "week52": "621.95",
+      "ltp": "608.95",
+      "gainPct": "2.5 %",
+      "dayLow": "597.35",
+      "dayHigh": "621.90",
+      "volume": "2,095,862"
+    },
+    {
+      "name": "Sedemac Mechatro",
+      "week52": "3545",
+      "ltp": "3444.90",
+      "gainPct": "4.0 %",
+      "dayLow": "3271.40",
+      "dayHigh": "3480.35",
+      "volume": "801,056"
     }
   ]
 }

@@ -1,63 +1,39 @@
 {
-  "updatedAt": "2026-09-28T08:23:54.595Z",
+  "updatedAt": "2026-09-28T16:59:40.954Z",
   "source": "5paisa",
-  "count": 7,
+  "count": 4,
   "items": [
     {
       "name": "Dr Reddys Labs",
-      "ltp": "1223.80",
-      "gainPct": "1.9 %",
+      "ltp": "1221.00",
+      "gainPct": "1.7 %",
       "dayLow": "1204.00",
       "dayHigh": "1229.80",
-      "volume": "2512686"
+      "volume": "3401676"
     },
     {
-      "name": "HCL Technologies",
-      "ltp": "1258.10",
-      "gainPct": "0.0 %",
-      "dayLow": "1241.80",
-      "dayHigh": "1263.00",
-      "volume": "1444542"
-    },
-    {
-      "name": "Infosys",
-      "ltp": "1006.90",
-      "gainPct": "0.7 %",
-      "dayLow": "986.60",
-      "dayHigh": "1009.00",
-      "volume": "5463597"
-    },
-    {
-      "name": "TCS",
-      "ltp": "2082.80",
-      "gainPct": "0.0 %",
-      "dayLow": "2051.00",
-      "dayHigh": "2100.00",
-      "volume": "1876868"
-    },
-    {
-      "name": "Tech Mahindra",
-      "ltp": "1551.20",
-      "gainPct": "0.2 %",
-      "dayLow": "1526.80",
-      "dayHigh": "1557.00",
-      "volume": "741785"
+      "name": "HDFC Life Insur.",
+      "ltp": "531.60",
+      "gainPct": "0.1 %",
+      "dayLow": "525.90",
+      "dayHigh": "534.50",
+      "volume": "2307139"
     },
     {
       "name": "Infosys",
-      "ltp": "1007.25",
-      "gainPct": "0.6 %",
-      "dayLow": "986.80",
-      "dayHigh": "1008.90",
-      "volume": "464687"
-    },
-    {
-      "name": "Tech Mahindra",
-      "ltp": "1551.00",
+      "ltp": "1003.20",
       "gainPct": "0.3 %",
-      "dayLow": "1527.20",
-      "dayHigh": "1556.10",
-      "volume": "13709"
+      "dayLow": "986.60",
+      "dayHigh": "1009.50",
+      "volume": "8567672"
+    },
+    {
+      "name": "Infosys",
+      "ltp": "1003.00",
+      "gainPct": "0.2 %",
+      "dayLow": "986.80",
+      "dayHigh": "1009.55",
+      "volume": "629451"
     }
   ]
 }

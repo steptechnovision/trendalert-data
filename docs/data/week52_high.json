@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T17:25:27.482Z",
+  "updatedAt": "2026-10-03T20:11:07.400Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -20,42 +20,6 @@
       "dayLow": "235.98",
       "dayHigh": "259.80",
       "volume": "2,262,604"
-    },
-    {
-      "name": "Grover Jewells",
-      "week52": "470.2",
-      "ltp": "464.00",
-      "gainPct": "3.6 %",
-      "dayLow": "464.00",
-      "dayHigh": "0.00",
-      "volume": "4,800"
-    },
-    {
-      "name": "Infinium Pharma",
-      "week52": "317.4",
-      "ltp": "313.50",
-      "gainPct": "7.6 %",
-      "dayLow": "289.00",
-      "dayHigh": "0.00",
-      "volume": "39,000"
-    },
-    {
-      "name": "Karamtara Engg.",
-      "week52": "429.35",
-      "ltp": "410.95",
-      "gainPct": "3.9 %",
-      "dayLow": "387.00",
-      "dayHigh": "429.35",
-      "volume": "11,786,236"
-    },
-    {
-      "name": "Onemi Technology",
-      "week52": "386.25",
-      "ltp": "371.15",
-      "gainPct": "0.4 %",
-      "dayLow": "354.90",
-      "dayHigh": "385.95",
-      "volume": "3,578,605"
     },
     {
       "name": "KMC Speciality",
@@ -94,15 +58,6 @@
       "volume": "247,467"
     },
     {
-      "name": "Supreme Engg.",
-      "week52": "4.24",
-      "ltp": "4.24",
-      "gainPct": "1.9 %",
-      "dayLow": "4.24",
-      "dayHigh": "0.00",
-      "volume": "245,495"
-    },
-    {
       "name": "Bhadora Indust.",
       "week52": "147.25",
       "ltp": "147.25",
@@ -139,15 +94,6 @@
       "volume": "53"
     },
     {
-      "name": "Dynamatic Tech.",
-      "week52": "13996",
-      "ltp": "13756.00",
-      "gainPct": "1.1 %",
-      "dayLow": "13300.00",
-      "dayHigh": "13990.00",
-      "volume": "42,592"
-    },
-    {
       "name": "Hero Motors",
       "week52": "167.8",
       "ltp": "167.80",
@@ -164,24 +110,6 @@
       "dayLow": "39.50",
       "dayHigh": "42.40",
       "volume": "179,179"
-    },
-    {
-      "name": "One Point One",
-      "week52": "74.5",
-      "ltp": "74.37",
-      "gainPct": "1.3 %",
-      "dayLow": "72.99",
-      "dayHigh": "74.50",
-      "volume": "6,251,994"
-    },
-    {
-      "name": "Swaraj Suiting",
-      "week52": "395",
-      "ltp": "375.00",
-      "gainPct": "-3.5 %",
-      "dayLow": "374.00",
-      "dayHigh": "399.95",
-      "volume": "38,233"
     },
     {
       "name": "Inv.& Prec.Cast.",
@@ -229,15 +157,6 @@
       "volume": "414,760"
     },
     {
-      "name": "Grand Foundry",
-      "week52": "38.3",
-      "ltp": "38.29",
-      "gainPct": "2.0 %",
-      "dayLow": "36.80",
-      "dayHigh": "33.99",
-      "volume": "381,853"
-    },
-    {
       "name": "Global Pet Indus",
       "week52": "179",
       "ltp": "179.00",
@@ -283,15 +202,6 @@
       "volume": "1,005,993"
     },
     {
-      "name": "Lalithaa Jewel",
-      "week52": "395",
-      "ltp": "387.85",
-      "gainPct": "1.6 %",
-      "dayLow": "367.30",
-      "dayHigh": "395.00",
-      "volume": "7,022,551"
-    },
-    {
       "name": "Forcas Studio",
       "week52": "249.95",
       "ltp": "235.10",
@@ -328,31 +238,13 @@
       "volume": "482,400"
     },
     {
-      "name": "Lokesh Mach.",
-      "week52": "411.45",
-      "ltp": "400.80",
-      "gainPct": "9.5 %",
-      "dayLow": "360.15",
-      "dayHigh": "411.00",
-      "volume": "991,506"
-    },
-    {
-      "name": "S.A.L Steel",
-      "week52": "102.4",
-      "ltp": "98.92",
-      "gainPct": "-0.1 %",
-      "dayLow": "94.11",
-      "dayHigh": "102.00",
-      "volume": "1,173,063"
-    },
-    {
-      "name": "Shiv Aum Steels",
-      "week52": "559.5",
-      "ltp": "551.50",
-      "gainPct": "-1.0 %",
-      "dayLow": "551.50",
-      "dayHigh": "0.00",
-      "volume": "2,431"
+      "name": "Lalithaa Jewel",
+      "week52": "395",
+      "ltp": "387.85",
+      "gainPct": "1.6 %",
+      "dayLow": "367.30",
+      "dayHigh": "395.00",
+      "volume": "7,022,551"
     },
     {
       "name": "Harsha Engg Intl",
@@ -418,6 +310,33 @@
       "volume": "52,000"
     },
     {
+      "name": "Lokesh Mach.",
+      "week52": "411.45",
+      "ltp": "400.80",
+      "gainPct": "9.5 %",
+      "dayLow": "360.15",
+      "dayHigh": "411.00",
+      "volume": "991,506"
+    },
+    {
+      "name": "S.A.L Steel",
+      "week52": "102.4",
+      "ltp": "98.92",
+      "gainPct": "-0.1 %",
+      "dayLow": "94.11",
+      "dayHigh": "102.00",
+      "volume": "1,173,063"
+    },
+    {
+      "name": "Shiv Aum Steels",
+      "week52": "559.5",
+      "ltp": "551.50",
+      "gainPct": "-1.0 %",
+      "dayLow": "551.50",
+      "dayHigh": "0.00",
+      "volume": "2,431"
+    },
+    {
       "name": "Bosch Home Comfort",
       "week52": "1985",
       "ltp": "1967.20",
@@ -436,6 +355,87 @@
       "volume": "2,631"
     },
     {
+      "name": "Dynamatic Tech.",
+      "week52": "13996",
+      "ltp": "13756.00",
+      "gainPct": "1.1 %",
+      "dayLow": "13300.00",
+      "dayHigh": "13990.00",
+      "volume": "42,592"
+    },
+    {
+      "name": "Grand Foundry",
+      "week52": "38.3",
+      "ltp": "38.29",
+      "gainPct": "2.0 %",
+      "dayLow": "36.80",
+      "dayHigh": "33.99",
+      "volume": "381,853"
+    },
+    {
+      "name": "Swaraj Suiting",
+      "week52": "395",
+      "ltp": "375.00",
+      "gainPct": "-3.5 %",
+      "dayLow": "374.00",
+      "dayHigh": "399.95",
+      "volume": "38,233"
+    },
+    {
+      "name": "Infinium Pharma",
+      "week52": "317.4",
+      "ltp": "313.50",
+      "gainPct": "7.6 %",
+      "dayLow": "289.00",
+      "dayHigh": "0.00",
+      "volume": "39,000"
+    },
+    {
+      "name": "Onemi Technology",
+      "week52": "386.25",
+      "ltp": "371.15",
+      "gainPct": "0.4 %",
+      "dayLow": "354.90",
+      "dayHigh": "385.95",
+      "volume": "3,578,605"
+    },
+    {
+      "name": "Grover Jewells",
+      "week52": "470.2",
+      "ltp": "464.00",
+      "gainPct": "3.6 %",
+      "dayLow": "464.00",
+      "dayHigh": "0.00",
+      "volume": "4,800"
+    },
+    {
+      "name": "Supreme Engg.",
+      "week52": "4.24",
+      "ltp": "4.24",
+      "gainPct": "1.9 %",
+      "dayLow": "4.24",
+      "dayHigh": "0.00",
+      "volume": "245,495"
+    },
+    {
+      "name": "Karamtara Engg.",
+      "week52": "429.35",
+      "ltp": "410.95",
+      "gainPct": "3.9 %",
+      "dayLow": "387.00",
+      "dayHigh": "429.35",
+      "volume": "11,786,236"
+    },
+    {
+      "name": "One Point One",
+      "week52": "74.5",
+      "ltp": "74.37",
+      "gainPct": "1.3 %",
+      "dayLow": "72.99",
+      "dayHigh": "74.50",
+      "volume": "6,251,994"
+    },
+    {
       "name": "Gujarat Kidney",
       "week52": "209.8",
       "ltp": "194.27",
@@ -445,13 +445,13 @@
       "volume": "34,935,174"
     },
     {
-      "name": "Valiant Organics",
-      "week52": "480.6",
-      "ltp": "477.15",
-      "gainPct": "4.8 %",
-      "dayLow": "440.00",
-      "dayHigh": "482.00",
-      "volume": "551,682"
+      "name": "D.P. Abhushan",
+      "week52": "1924.4",
+      "ltp": "1880.00",
+      "gainPct": "5.1 %",
+      "dayLow": "1752.10",
+      "dayHigh": "1928.80",
+      "volume": "784,999"
     }
   ]
 }

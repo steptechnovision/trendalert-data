@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T13:08:29.725Z",
+  "updatedAt": "2026-10-03T17:25:27.482Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -283,6 +283,15 @@
       "volume": "1,005,993"
     },
     {
+      "name": "Lalithaa Jewel",
+      "week52": "395",
+      "ltp": "387.85",
+      "gainPct": "1.6 %",
+      "dayLow": "367.30",
+      "dayHigh": "395.00",
+      "volume": "7,022,551"
+    },
+    {
       "name": "Forcas Studio",
       "week52": "249.95",
       "ltp": "235.10",
@@ -319,33 +328,6 @@
       "volume": "482,400"
     },
     {
-      "name": "Lalithaa Jewel",
-      "week52": "395",
-      "ltp": "387.85",
-      "gainPct": "1.6 %",
-      "dayLow": "367.30",
-      "dayHigh": "395.00",
-      "volume": "7,022,551"
-    },
-    {
-      "name": "Bosch Home Comfort",
-      "week52": "1985",
-      "ltp": "1967.20",
-      "gainPct": "4.8 %",
-      "dayLow": "1846.90",
-      "dayHigh": "1985.85",
-      "volume": "127,667"
-    },
-    {
-      "name": "Veljan Denison",
-      "week52": "2296.1",
-      "ltp": "2296.10",
-      "gainPct": "5.0 %",
-      "dayLow": "2235.00",
-      "dayHigh": "2251.85",
-      "volume": "2,631"
-    },
-    {
       "name": "Lokesh Mach.",
       "week52": "411.45",
       "ltp": "400.80",
@@ -371,15 +353,6 @@
       "dayLow": "551.50",
       "dayHigh": "0.00",
       "volume": "2,431"
-    },
-    {
-      "name": "Teamtech Formwork",
-      "week52": "146.45",
-      "ltp": "146.00",
-      "gainPct": "1.5 %",
-      "dayLow": "142.00",
-      "dayHigh": "0.00",
-      "volume": "52,000"
     },
     {
       "name": "Harsha Engg Intl",
@@ -436,22 +409,49 @@
       "volume": "2,043,335"
     },
     {
-      "name": "D.P. Abhushan",
-      "week52": "1924.4",
-      "ltp": "1880.00",
-      "gainPct": "5.1 %",
-      "dayLow": "1752.10",
-      "dayHigh": "1928.80",
-      "volume": "784,999"
+      "name": "Teamtech Formwork",
+      "week52": "146.45",
+      "ltp": "146.00",
+      "gainPct": "1.5 %",
+      "dayLow": "142.00",
+      "dayHigh": "0.00",
+      "volume": "52,000"
     },
     {
-      "name": "Macpower CNC",
-      "week52": "2234.7",
-      "ltp": "2130.50",
-      "gainPct": "1.6 %",
-      "dayLow": "2060.10",
-      "dayHigh": "0.00",
-      "volume": "97,223"
+      "name": "Bosch Home Comfort",
+      "week52": "1985",
+      "ltp": "1967.20",
+      "gainPct": "4.8 %",
+      "dayLow": "1846.90",
+      "dayHigh": "1985.85",
+      "volume": "127,667"
+    },
+    {
+      "name": "Veljan Denison",
+      "week52": "2296.1",
+      "ltp": "2296.10",
+      "gainPct": "5.0 %",
+      "dayLow": "2235.00",
+      "dayHigh": "2251.85",
+      "volume": "2,631"
+    },
+    {
+      "name": "Gujarat Kidney",
+      "week52": "209.8",
+      "ltp": "194.27",
+      "gainPct": "8.5 %",
+      "dayLow": "180.00",
+      "dayHigh": "210.20",
+      "volume": "34,935,174"
+    },
+    {
+      "name": "Valiant Organics",
+      "week52": "480.6",
+      "ltp": "477.15",
+      "gainPct": "4.8 %",
+      "dayLow": "440.00",
+      "dayHigh": "482.00",
+      "volume": "551,682"
     }
   ]
 }

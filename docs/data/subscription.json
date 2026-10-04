@@ -1,8 +1,23 @@
 {
-  "updatedAt": "2026-10-04T18:01:54.882Z",
+  "updatedAt": "2026-10-04T21:37:38.287Z",
   "source": "nse",
-  "count": 3,
+  "count": 5,
   "items": [
+    {
+      "name": "SMC Global Securities Limited",
+      "symbol": "SMCG04",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "7,50,000 shares",
+      "price": "₹1000",
+      "closeDate": "16 Oct",
+      "type": "Mainboard",
+      "url": ""
+    },
     {
       "name": "Vishal Nirmiti Limited",
       "symbol": "VNL",
@@ -31,6 +46,21 @@
       "price": "₹70 to ₹75",
       "closeDate": "05 Oct",
       "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "R.K. Fashion Accessories Limited",
+      "symbol": "RKFAL",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "",
+      "price": "",
+      "closeDate": "07 Oct",
+      "type": "SME",
       "url": ""
     },
     {

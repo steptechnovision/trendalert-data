@@ -1,8 +1,53 @@
 {
-  "updatedAt": "2026-10-06T20:49:59.729Z",
+  "updatedAt": "2026-10-07T08:17:21.339Z",
   "source": "nse",
   "count": 80,
   "items": [
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1563627",
+      "price": "228.86",
+      "date": "06-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "IRAGE BROKING SERVICES LLP",
+      "buySell": "SELL",
+      "qty": "586900",
+      "price": "228.07",
+      "date": "06-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "1727744",
+      "price": "228.69",
+      "date": "06-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "MATHISYS QUANTCAP LLP",
+      "buySell": "SELL",
+      "qty": "424413",
+      "price": "227.4",
+      "date": "06-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "810823",
+      "price": "227.48",
+      "date": "06-Oct-2026"
+    },
     {
       "symbol": "MOBIKWIK",
       "name": "One Mobikwik Systems Ltd",
@@ -676,51 +721,6 @@
       "buySell": "BUY",
       "qty": "749066",
       "price": "983.95",
-      "date": "06-Oct-2026"
-    },
-    {
-      "symbol": "KANOHAR",
-      "name": "Kanohar Electricals Ltd",
-      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
-      "buySell": "BUY",
-      "qty": "513765",
-      "price": "991.31",
-      "date": "06-Oct-2026"
-    },
-    {
-      "symbol": "KANOHAR",
-      "name": "Kanohar Electricals Ltd",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "446476",
-      "price": "971.42",
-      "date": "06-Oct-2026"
-    },
-    {
-      "symbol": "KANOHAR",
-      "name": "Kanohar Electricals Ltd",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "398739",
-      "price": "987.33",
-      "date": "06-Oct-2026"
-    },
-    {
-      "symbol": "KRISHNADEF",
-      "name": "Krishna Def and Ald Ind L",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "85141",
-      "price": "1270.35",
-      "date": "06-Oct-2026"
-    },
-    {
-      "symbol": "KRISHNADEF",
-      "name": "Krishna Def and Ald Ind L",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "75310",
-      "price": "1273.59",
       "date": "06-Oct-2026"
     }
   ]

@@ -1,103 +1,55 @@
 {
-  "updatedAt": "2026-10-08T08:33:32.115Z",
+  "updatedAt": "2026-10-08T15:50:48.524Z",
   "source": "5paisa",
-  "count": 12,
+  "count": 6,
   "items": [
     {
-      "name": "HCL Technologies",
-      "ltp": "1189.40",
-      "gainPct": "0.4 %",
-      "dayLow": "1185.00",
-      "dayHigh": "1211.80",
-      "volume": "1636813"
-    },
-    {
-      "name": "Infosys",
-      "ltp": "999.70",
-      "gainPct": "0.8 %",
-      "dayLow": "996.15",
-      "dayHigh": "1012.65",
-      "volume": "11682224"
-    },
-    {
-      "name": "TCS",
-      "ltp": "2104.90",
-      "gainPct": "1.2 %",
-      "dayLow": "2098.40",
-      "dayHigh": "2141.50",
-      "volume": "2775512"
-    },
-    {
-      "name": "Tech Mahindra",
-      "ltp": "1501.70",
-      "gainPct": "0.7 %",
-      "dayLow": "1495.00",
-      "dayHigh": "1525.00",
-      "volume": "1101970"
-    },
-    {
-      "name": "Titan Company",
-      "ltp": "4385.40",
+      "name": "Axis Bank",
+      "ltp": "1245.00",
       "gainPct": "0.2 %",
-      "dayLow": "4367.80",
-      "dayHigh": "4467.00",
-      "volume": "1141215"
-    },
-    {
-      "name": "Trent",
-      "ltp": "2890.70",
-      "gainPct": "0.0 %",
-      "dayLow": "2868.20",
-      "dayHigh": "2936.00",
-      "volume": "1051152"
-    },
-    {
-      "name": "HCL Technologies",
-      "ltp": "1189.75",
-      "gainPct": "0.5 %",
-      "dayLow": "1185.00",
-      "dayHigh": "1211.60",
-      "volume": "130652"
+      "dayLow": "1232.60",
+      "dayHigh": "1257.00",
+      "volume": "7360960"
     },
     {
       "name": "Infosys",
-      "ltp": "999.75",
-      "gainPct": "0.8 %",
-      "dayLow": "996.50",
-      "dayHigh": "1012.00",
-      "volume": "594165"
-    },
-    {
-      "name": "TCS",
-      "ltp": "2105.10",
-      "gainPct": "1.0 %",
-      "dayLow": "2098.00",
-      "dayHigh": "2142.00",
-      "volume": "416599"
+      "ltp": "997.00",
+      "gainPct": "0.5 %",
+      "dayLow": "992.90",
+      "dayHigh": "1012.65",
+      "volume": "14847874"
     },
     {
       "name": "Tech Mahindra",
-      "ltp": "1502.15",
-      "gainPct": "0.9 %",
-      "dayLow": "1493.45",
+      "ltp": "1496.20",
+      "gainPct": "0.3 %",
+      "dayLow": "1490.00",
+      "dayHigh": "1525.00",
+      "volume": "1633921"
+    },
+    {
+      "name": "Axis Bank",
+      "ltp": "1247.00",
+      "gainPct": "0.3 %",
+      "dayLow": "1233.00",
+      "dayHigh": "1257.00",
+      "volume": "1932743"
+    },
+    {
+      "name": "Infosys",
+      "ltp": "994.15",
+      "gainPct": "0.2 %",
+      "dayLow": "992.55",
+      "dayHigh": "1012.00",
+      "volume": "1048041"
+    },
+    {
+      "name": "Tech Mahindra",
+      "ltp": "1495.70",
+      "gainPct": "0.4 %",
+      "dayLow": "1489.60",
       "dayHigh": "1524.50",
-      "volume": "78001"
-    },
-    {
-      "name": "Titan Company",
-      "ltp": "4383.75",
-      "gainPct": "0.1 %",
-      "dayLow": "4367.65",
-      "dayHigh": "4467.00",
-      "volume": "277695"
-    },
-    {
-      "name": "Trent",
-      "ltp": "2889.05",
-      "gainPct": "0.0 %",
-      "dayLow": "2868.85",
-      "dayHigh": "2935.95",
-      "volume": "93340"
+      "volume": "133169"
     }
   ]
 }

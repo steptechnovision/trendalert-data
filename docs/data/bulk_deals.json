@@ -1,638 +1,8 @@
 {
-  "updatedAt": "2026-10-07T20:46:39.930Z",
+  "updatedAt": "2026-10-08T08:33:32.115Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "MOBIKWIK",
-      "name": "One Mobikwik Systems Ltd",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1995311",
-      "price": "257.09",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MOBIKWIK",
-      "name": "One Mobikwik Systems Ltd",
-      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
-      "buySell": "SELL",
-      "qty": "1936897",
-      "price": "257.87",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MOBIKWIK",
-      "name": "One Mobikwik Systems Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1382407",
-      "price": "257.47",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MOBIKWIK",
-      "name": "One Mobikwik Systems Ltd",
-      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "904847",
-      "price": "257.06",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MOBIKWIK",
-      "name": "One Mobikwik Systems Ltd",
-      "clientName": "MARWADI CHANDARANA INTERMEDIARIES BROKERS PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "607410",
-      "price": "258.96",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MOBIKWIK",
-      "name": "One Mobikwik Systems Ltd",
-      "clientName": "KRUSHNA PRASAD SATAPATHY",
-      "buySell": "SELL",
-      "qty": "564742",
-      "price": "254.93",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MOBIKWIK",
-      "name": "One Mobikwik Systems Ltd",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1614354",
-      "price": "256.97",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MOBIKWIK",
-      "name": "One Mobikwik Systems Ltd",
-      "clientName": "MATHISYS QUANTCAP LLP",
-      "buySell": "SELL",
-      "qty": "414820",
-      "price": "257.26",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MOBIKWIK",
-      "name": "One Mobikwik Systems Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "3040055",
-      "price": "257.68",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MOBIKWIK",
-      "name": "One Mobikwik Systems Ltd",
-      "clientName": "IRAGE BROKING SERVICES LLP",
-      "buySell": "SELL",
-      "qty": "812097",
-      "price": "257.46",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MOBIKWIK",
-      "name": "One Mobikwik Systems Ltd",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1638763",
-      "price": "258.42",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MOBIKWIK",
-      "name": "One Mobikwik Systems Ltd",
-      "clientName": "IMC INDIA SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "676969",
-      "price": "257.2",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MONEYVIEW",
-      "name": "Moneyview Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "12381209",
-      "price": "55.62",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MONEYVIEW",
-      "name": "Moneyview Limited",
-      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "12181434",
-      "price": "54.54",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MONEYVIEW",
-      "name": "Moneyview Limited",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "13994299",
-      "price": "55.58",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MONEYVIEW",
-      "name": "Moneyview Limited",
-      "clientName": "YUGA STOCKS AND COMMODITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "8694554",
-      "price": "56.51",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MONEYVIEW",
-      "name": "Moneyview Limited",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "8943843",
-      "price": "56.14",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MONEYVIEW",
-      "name": "Moneyview Limited",
-      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
-      "buySell": "SELL",
-      "qty": "19328196",
-      "price": "55.64",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MPEL",
-      "name": "Manas Polymer N Energie L",
-      "clientName": "SHRUTI RAMAN SHAH",
-      "buySell": "SELL",
-      "qty": "260800",
-      "price": "22.55",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MPEL",
-      "name": "Manas Polymer N Energie L",
-      "clientName": "KARAN BALKRISHNA SHAH",
-      "buySell": "SELL",
-      "qty": "361600",
-      "price": "22.9",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MPEL",
-      "name": "Manas Polymer N Energie L",
-      "clientName": "RAMAN SHAMJIBHAI SHAH (HUF)",
-      "buySell": "SELL",
-      "qty": "337600",
-      "price": "22.94",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MPEL",
-      "name": "Manas Polymer N Energie L",
-      "clientName": "CUMULATIVE CAPITAL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "289600",
-      "price": "22.55",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MPEL",
-      "name": "Manas Polymer N Energie L",
-      "clientName": "CHANDRIKA RAMAN SHAH",
-      "buySell": "SELL",
-      "qty": "260800",
-      "price": "22.58",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "MPEL",
-      "name": "Manas Polymer N Energie L",
-      "clientName": "VRUDEV COMMODITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "8000",
-      "price": "23.27",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "ORIENTTECH",
-      "name": "Orient Technologies Ltd",
-      "clientName": "VINSUL MAKARDI LTD",
-      "buySell": "SELL",
-      "qty": "236114",
-      "price": "249.26",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "ORIENTTECH",
-      "name": "Orient Technologies Ltd",
-      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
-      "buySell": "SELL",
-      "qty": "365721",
-      "price": "249.66",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "ORIENTTECH",
-      "name": "Orient Technologies Ltd",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "394521",
-      "price": "250.76",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "ORIENTTECH",
-      "name": "Orient Technologies Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "586587",
-      "price": "250.29",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "ORIENTTECH",
-      "name": "Orient Technologies Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "463848",
-      "price": "249.27",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "ORIENTTECH",
-      "name": "Orient Technologies Ltd",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "398168",
-      "price": "249.37",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "PARTY-RE",
-      "name": "Party Cruisers Ltd",
-      "clientName": "DEENA RAM CHAUDHARY HUF",
-      "buySell": "SELL",
-      "qty": "60092",
-      "price": "0.35",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "PARTY-RE",
-      "name": "Party Cruisers Ltd",
-      "clientName": "N J SHARES & SECURITIES PVT.LTD.",
-      "buySell": "SELL",
-      "qty": "55610",
-      "price": "0.35",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "PARTY-RE",
-      "name": "Party Cruisers Ltd",
-      "clientName": "ADNAN ALI",
-      "buySell": "SELL",
-      "qty": "35856",
-      "price": "0.3",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "PARTY-RE",
-      "name": "Party Cruisers Ltd",
-      "clientName": "KAILASH R KABRA HUF",
-      "buySell": "SELL",
-      "qty": "49800",
-      "price": "0.35",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "PARTY-RE",
-      "name": "Party Cruisers Ltd",
-      "clientName": "THANGAVEL VANJINATHAN",
-      "buySell": "SELL",
-      "qty": "35856",
-      "price": "0.35",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "PARTY-RE",
-      "name": "Party Cruisers Ltd",
-      "clientName": "KRISHNA KUMAR",
-      "buySell": "SELL",
-      "qty": "49800",
-      "price": "0.3",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "PARTY-RE",
-      "name": "Party Cruisers Ltd",
-      "clientName": "PARTHIBAN RAMAMOORTHY",
-      "buySell": "SELL",
-      "qty": "25564",
-      "price": "0.35",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "PNGSREVA",
-      "name": "PNGS Reva Diamond Jewel L",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "204134",
-      "price": "617.19",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "PNGSREVA",
-      "name": "PNGS Reva Diamond Jewel L",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "164454",
-      "price": "620.78",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "PRIORITY",
-      "name": "Priority Jewels Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "119406",
-      "price": "327.57",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "SELL",
-      "qty": "1156571",
-      "price": "342.05",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "RATNAVEER",
-      "name": "Ratnaveer Precision Eng L",
-      "clientName": "THAKKAR NILESHKUMAR FARSHURAM HUF",
-      "buySell": "SELL",
-      "qty": "800000",
-      "price": "340.76",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "RENTOMOJO",
-      "name": "Rentomojo Limited",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "745310",
-      "price": "610.08",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "RENTOMOJO",
-      "name": "Rentomojo Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "938531",
-      "price": "610.39",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "SHAHINVEST",
-      "name": "Shah Investors Home Ltd",
-      "clientName": "SHINE STAR BUILD CAP PVT LTD",
-      "buySell": "SELL",
-      "qty": "165000",
-      "price": "167.06",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "SHREEJISPG",
-      "name": "Shreeji Shipping Global L",
-      "clientName": "MOHAMED IRFAN MOHAMED LATIF SHAIKH",
-      "buySell": "SELL",
-      "qty": "1227000",
-      "price": "802.5",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "SUNSHINE",
-      "name": "Sunshine Pictures Limited",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "SELL",
-      "qty": "157888",
-      "price": "452.64",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "VALUE360",
-      "name": "Value 360 Communication L",
-      "clientName": "SETU SECURITIES PVT LTD",
-      "buySell": "SELL",
-      "qty": "91200",
-      "price": "73.85",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "VEEGALAND",
-      "name": "Veegaland Developers Ltd",
-      "clientName": "SAROJDEVI S KABRA",
-      "buySell": "SELL",
-      "qty": "410226",
-      "price": "147",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "WALCHANNAG",
-      "name": "Walchandnagar Ind. Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "393388",
-      "price": "223.45",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "AAREYDRUGS",
-      "name": "Aarey Drugs & Pharm Ltd",
-      "clientName": "VAYUMIND INNOVATIONS PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "181007",
-      "price": "109",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "ACEVECTOR",
-      "name": "AceVector Limited",
-      "clientName": "MATHISYS QUANTCAP LLP",
-      "buySell": "BUY",
-      "qty": "3045592",
-      "price": "28.83",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "ACEVECTOR",
-      "name": "AceVector Limited",
-      "clientName": "YUGA STOCKS AND COMMODITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "6163603",
-      "price": "30.07",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "DEEPA",
-      "name": "Deepa Jewellers Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "1203243",
-      "price": "231.87",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "DEEPA",
-      "name": "Deepa Jewellers Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "638942",
-      "price": "233.04",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "DEEPA",
-      "name": "Deepa Jewellers Limited",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "608096",
-      "price": "232.46",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "DEEPA",
-      "name": "Deepa Jewellers Limited",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1091527",
-      "price": "232.73",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "DEEPA",
-      "name": "Deepa Jewellers Limited",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "560493",
-      "price": "231.17",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "DHABRIYA",
-      "name": "Dhabriya Polywood Ltd.",
-      "clientName": "MAHALAXMI BROKRAGE INDIA PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "78815",
-      "price": "477.05",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "DHANBANK",
-      "name": "Dhanlaxmi Bank Limited",
-      "clientName": "OAKENDALE PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "2417001",
-      "price": "32.23",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "DHTL",
-      "name": "Docmode Health Tech Ltd",
-      "clientName": "RAMESH JAIN HUF",
-      "buySell": "BUY",
-      "qty": "16000",
-      "price": "23.5",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "FASCINATE",
-      "name": "Fascinate Textiles Ltd",
-      "clientName": "VIVEK LAHOTI",
-      "buySell": "BUY",
-      "qty": "100000",
-      "price": "85.5",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "GANESHBE",
-      "name": "Ganesh Benzoplast Limited",
-      "clientName": "YELLOWSTONE INVESTMENTS",
-      "buySell": "BUY",
-      "qty": "424950",
-      "price": "115.12",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "GKSL",
-      "name": "Gujarat Kidney N Sup Sp L",
-      "clientName": "NATVARSINH T CHAVDA",
-      "buySell": "BUY",
-      "qty": "471148",
-      "price": "188.97",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "GLASSWALL",
-      "name": "Glass Wall System (I) Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "535191",
-      "price": "260.42",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "GLASSWALL",
-      "name": "Glass Wall System (I) Ltd",
-      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "581573",
-      "price": "262.52",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "GREENASIA",
-      "name": "Green Asia Impex Limited",
-      "clientName": "NOVA GLOBAL OPPORTUNITIES FUND PCC - TOUCHSTONE",
-      "buySell": "BUY",
-      "qty": "656000",
-      "price": "89",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "GREENASIA",
-      "name": "Green Asia Impex Limited",
-      "clientName": "M7 GLOBAL FUND PCC - AERION",
-      "buySell": "BUY",
-      "qty": "480000",
-      "price": "89",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "GSMFOILS",
-      "name": "GSM Foils Limited",
-      "clientName": "HI GROWTH CORPORATE SERVICES PVT LTD",
-      "buySell": "BUY",
-      "qty": "139500",
-      "price": "66.85",
-      "date": "07-Oct-2026"
-    },
-    {
-      "symbol": "GSMFOILS",
-      "name": "GSM Foils Limited",
-      "clientName": "MULTIPLIER SHARE & STOCK ADVISORS PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "109000",
-      "price": "66.82",
-      "date": "07-Oct-2026"
-    },
     {
       "symbol": "HEROMOTORS",
       "name": "Hero Motors Limited",
@@ -721,6 +91,636 @@
       "buySell": "BUY",
       "qty": "435541",
       "price": "1081.2",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "KANOHAR",
+      "name": "Kanohar Electricals Ltd",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "637676",
+      "price": "1080.86",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "KANOHAR",
+      "name": "Kanohar Electricals Ltd",
+      "clientName": "IRAGE BROKING SERVICES LLP",
+      "buySell": "BUY",
+      "qty": "791336",
+      "price": "1068.08",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "KANOHAR",
+      "name": "Kanohar Electricals Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "877507",
+      "price": "1074.47",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "KANOHAR",
+      "name": "Kanohar Electricals Ltd",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "459659",
+      "price": "1072.84",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "KSHITIJPOL",
+      "name": "Kshitij Polyline Limited",
+      "clientName": "BHAVISHYA ECOMMERCE PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "367424",
+      "price": "3.82",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "KSHITIJPOL",
+      "name": "Kshitij Polyline Limited",
+      "clientName": "SATISH MEJIYATAR",
+      "buySell": "BUY",
+      "qty": "2201000",
+      "price": "3.81",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MANIKA",
+      "name": "Manika Plastech Limited",
+      "clientName": "SAROJDEVI S KABRA",
+      "buySell": "BUY",
+      "qty": "3147703",
+      "price": "56.09",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MANIKA",
+      "name": "Manika Plastech Limited",
+      "clientName": "MATHISYS QUANTCAP LLP",
+      "buySell": "BUY",
+      "qty": "1003321",
+      "price": "54.13",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MANIKA",
+      "name": "Manika Plastech Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "942829",
+      "price": "54.61",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MARSONS",
+      "name": "Marsons Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "903113",
+      "price": "131.87",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MARSONS",
+      "name": "Marsons Limited",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "BUY",
+      "qty": "2749033",
+      "price": "130.52",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MBEL",
+      "name": "M and B Engineering Ltd",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "362337",
+      "price": "289.79",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MBEL",
+      "name": "M and B Engineering Ltd",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "385937",
+      "price": "287.95",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "3121266",
+      "price": "257.19",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "MATHISYS QUANTCAP LLP",
+      "buySell": "BUY",
+      "qty": "401978",
+      "price": "256.66",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1861632",
+      "price": "257.27",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "KRUSHNA PRASAD SATAPATHY",
+      "buySell": "BUY",
+      "qty": "564742",
+      "price": "255.17",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "MARWADI CHANDARANA INTERMEDIARIES BROKERS PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "627410",
+      "price": "260.9",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "904847",
+      "price": "256.98",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1403260",
+      "price": "257.3",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
+      "buySell": "BUY",
+      "qty": "1936897",
+      "price": "257.69",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1995311",
+      "price": "256.83",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "BLITZQUANT RESEARCH LLP",
+      "buySell": "BUY",
+      "qty": "537594",
+      "price": "259.18",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "IMC INDIA SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "476529",
+      "price": "256.59",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "820523",
+      "price": "258.4",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "ELIXIR EQUITIES PRIVATE LTD",
+      "buySell": "BUY",
+      "qty": "702043",
+      "price": "258.01",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "ELIXIR WEALTH MANAGEMENT PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1598288",
+      "price": "257.4",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "VINSUL MAKARDI LTD",
+      "buySell": "BUY",
+      "qty": "427491",
+      "price": "256.99",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "PUMA SECURITIES",
+      "buySell": "BUY",
+      "qty": "901097",
+      "price": "257.51",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "CLT RESEARCH TECH PRIVATE LTD",
+      "buySell": "BUY",
+      "qty": "705053",
+      "price": "257.22",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
+      "buySell": "BUY",
+      "qty": "477438",
+      "price": "257.13",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "YUGA STOCKS AND COMMODITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "391050",
+      "price": "259.4",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "HARA GLOBAL CAPITAL MASTER FUND I LTD",
+      "buySell": "BUY",
+      "qty": "700000",
+      "price": "260.01",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1638763",
+      "price": "258.29",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "2724624",
+      "price": "257.3",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MOBIKWIK",
+      "name": "One Mobikwik Systems Ltd",
+      "clientName": "IRAGE BROKING SERVICES LLP",
+      "buySell": "BUY",
+      "qty": "2112210",
+      "price": "259.25",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MONEYVIEW",
+      "name": "Moneyview Limited",
+      "clientName": "YUGA STOCKS AND COMMODITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "10870323",
+      "price": "56.54",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MONEYVIEW",
+      "name": "Moneyview Limited",
+      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "11601051",
+      "price": "55.71",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MONEYVIEW",
+      "name": "Moneyview Limited",
+      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
+      "buySell": "BUY",
+      "qty": "19328196",
+      "price": "55.61",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MONEYVIEW",
+      "name": "Moneyview Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "13994299",
+      "price": "55.49",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MONEYVIEW",
+      "name": "Moneyview Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "11288188",
+      "price": "55.82",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MONEYVIEW",
+      "name": "Moneyview Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "8937278",
+      "price": "56.11",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MPEL",
+      "name": "Manas Polymer N Energie L",
+      "clientName": "SONAL KAMAL GUPTA",
+      "buySell": "BUY",
+      "qty": "260800",
+      "price": "22.55",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MPEL",
+      "name": "Manas Polymer N Energie L",
+      "clientName": "SEEMA AMRIT GANDHI",
+      "buySell": "BUY",
+      "qty": "201600",
+      "price": "22.55",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MPEL",
+      "name": "Manas Polymer N Energie L",
+      "clientName": "AMRIT LAXMICHAND GANDHI",
+      "buySell": "BUY",
+      "qty": "168000",
+      "price": "23.33",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MPEL",
+      "name": "Manas Polymer N Energie L",
+      "clientName": "VRUDEV COMMODITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "118400",
+      "price": "22.58",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MPEL",
+      "name": "Manas Polymer N Energie L",
+      "clientName": "CHHEDA ASHOK BHAWANJI",
+      "buySell": "BUY",
+      "qty": "320000",
+      "price": "22.56",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MPEL",
+      "name": "Manas Polymer N Energie L",
+      "clientName": "KAMAL JAGDISH GUPTA",
+      "buySell": "BUY",
+      "qty": "260800",
+      "price": "22.55",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "MYMUDRA",
+      "name": "My Mudra Fincorp Limited",
+      "clientName": "ROOPESH TALWAR",
+      "buySell": "BUY",
+      "qty": "90000",
+      "price": "90.93",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "ORIENTTECH",
+      "name": "Orient Technologies Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "583976",
+      "price": "250.02",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "ORIENTTECH",
+      "name": "Orient Technologies Ltd",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "463350",
+      "price": "249.09",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "ORIENTTECH",
+      "name": "Orient Technologies Ltd",
+      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
+      "buySell": "BUY",
+      "qty": "365721",
+      "price": "249.4",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "ORIENTTECH",
+      "name": "Orient Technologies Ltd",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "394521",
+      "price": "250.48",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "ORIENTTECH",
+      "name": "Orient Technologies Ltd",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "398168",
+      "price": "249.24",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "ORIENTTECH",
+      "name": "Orient Technologies Ltd",
+      "clientName": "VINSUL MAKARDI LTD",
+      "buySell": "BUY",
+      "qty": "236114",
+      "price": "248.91",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PAPADMALJI",
+      "name": "Papadmalji Agro Foods Ltd",
+      "clientName": "SHAGUN TIEUP PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "48000",
+      "price": "69.12",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PAPADMALJI",
+      "name": "Papadmalji Agro Foods Ltd",
+      "clientName": "TRADE PULSE BROKING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1027200",
+      "price": "72.3",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PAPADMALJI",
+      "name": "Papadmalji Agro Foods Ltd",
+      "clientName": "MULTIPLIER SHARE & STOCK ADVISORS PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "56000",
+      "price": "68.7",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PAPADMALJI",
+      "name": "Papadmalji Agro Foods Ltd",
+      "clientName": "PROGNOSIS SECURITIES PVT. LTD",
+      "buySell": "BUY",
+      "qty": "304000",
+      "price": "72.3",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PARTY-RE",
+      "name": "Party Cruisers Ltd",
+      "clientName": "N J SHARES & SECURITIES PVT.LTD.",
+      "buySell": "BUY",
+      "qty": "20086",
+      "price": "0.3",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PARTY-RE",
+      "name": "Party Cruisers Ltd",
+      "clientName": "NISHANT RAKESHBHAI PRAJAPATI",
+      "buySell": "BUY",
+      "qty": "10458",
+      "price": "0.35",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PARTY-RE",
+      "name": "Party Cruisers Ltd",
+      "clientName": "MALLAPPA GADDI",
+      "buySell": "BUY",
+      "qty": "68060",
+      "price": "0.33",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PARTY-RE",
+      "name": "Party Cruisers Ltd",
+      "clientName": "KRISHNA KUMAR",
+      "buySell": "BUY",
+      "qty": "33200",
+      "price": "0.35",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PARTY-RE",
+      "name": "Party Cruisers Ltd",
+      "clientName": "SOWJANYA LATHA SANDA",
+      "buySell": "BUY",
+      "qty": "27556",
+      "price": "0.3",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PARTY-RE",
+      "name": "Party Cruisers Ltd",
+      "clientName": "PARTHIBAN RAMAMOORTHY",
+      "buySell": "BUY",
+      "qty": "4150",
+      "price": "0.35",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PARTY-RE",
+      "name": "Party Cruisers Ltd",
+      "clientName": "MAMTA",
+      "buySell": "BUY",
+      "qty": "33200",
+      "price": "0.35",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PARTY-RE",
+      "name": "Party Cruisers Ltd",
+      "clientName": "KHANDE NAGNATH GANESH",
+      "buySell": "BUY",
+      "qty": "17762",
+      "price": "0.33",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PARTY-RE",
+      "name": "Party Cruisers Ltd",
+      "clientName": "INDRA BHUSHAN SHUKLA",
+      "buySell": "BUY",
+      "qty": "20086",
+      "price": "0.35",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PARTY-RE",
+      "name": "Party Cruisers Ltd",
+      "clientName": "HARSHAL PRALHAD SAPKALE",
+      "buySell": "BUY",
+      "qty": "28220",
+      "price": "0.35",
+      "date": "07-Oct-2026"
+    },
+    {
+      "symbol": "PNGSREVA",
+      "name": "PNGS Reva Diamond Jewel L",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "200940",
+      "price": "612.56",
       "date": "07-Oct-2026"
     }
   ]

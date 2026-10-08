@@ -1,68 +1,8 @@
 {
-  "updatedAt": "2026-10-07T20:46:39.930Z",
+  "updatedAt": "2026-10-08T08:33:32.115Z",
   "source": "derived",
   "count": 163,
   "items": [
-    {
-      "name": "R.K.Fashion",
-      "type": "NSE SME",
-      "open": "2026-10-05",
-      "close": "2026-10-07",
-      "allotment": "2026-10-08",
-      "listing": "2026-10-12",
-      "priceBand": "₹77 to ₹82",
-      "size": "₹34.99 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "Cameo",
-      "listingGain": "",
-      "status": "open"
-    },
-    {
-      "name": "Shree TNB Polymers",
-      "type": "BSE SME",
-      "open": "2026-09-28",
-      "close": "2026-10-05",
-      "allotment": "2026-10-06",
-      "listing": "2026-10-08",
-      "priceBand": "₹47 to ₹52",
-      "size": "₹31.20 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "MUFG Intime",
-      "listingGain": "",
-      "status": "allotment"
-    },
-    {
-      "name": "EverestIMS Technologies",
-      "type": "BSE SME",
-      "open": "2026-09-29",
-      "close": "2026-10-05",
-      "allotment": "2026-10-06",
-      "listing": "2026-10-08",
-      "priceBand": "₹80 to ₹85",
-      "size": "₹48.46 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "Maashitla",
-      "listingGain": "",
-      "status": "allotment"
-    },
-    {
-      "name": "Nityas Gems",
-      "type": "Mainboard",
-      "open": "2026-09-30",
-      "close": "2026-10-05",
-      "allotment": "2026-10-06",
-      "listing": "2026-10-08",
-      "priceBand": "₹70 to ₹75",
-      "size": "₹108.35 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "Bigshare",
-      "listingGain": "",
-      "status": "allotment"
-    },
     {
       "name": "Paramount Syntex",
       "type": "BSE SME",
@@ -109,6 +49,81 @@
       "status": "allotment"
     },
     {
+      "name": "R.K.Fashion",
+      "type": "NSE SME",
+      "open": "2026-10-05",
+      "close": "2026-10-07",
+      "allotment": "2026-10-08",
+      "listing": "2026-10-12",
+      "priceBand": "₹77 to ₹82",
+      "size": "₹34.99 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Cameo",
+      "listingGain": "",
+      "status": "allotment"
+    },
+    {
+      "name": "Shree TNB Polymers",
+      "type": "BSE SME",
+      "open": "2026-09-28",
+      "close": "2026-10-05",
+      "allotment": "2026-10-06",
+      "listing": "2026-10-08",
+      "priceBand": "₹47 to ₹52",
+      "size": "₹31.20 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "MUFG Intime",
+      "listingGain": "",
+      "status": "listing"
+    },
+    {
+      "name": "EverestIMS Technologies",
+      "type": "BSE SME",
+      "open": "2026-09-29",
+      "close": "2026-10-05",
+      "allotment": "2026-10-06",
+      "listing": "2026-10-08",
+      "priceBand": "₹80 to ₹85",
+      "size": "₹48.46 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Maashitla",
+      "listingGain": "",
+      "status": "listing"
+    },
+    {
+      "name": "Vishal Nirmiti",
+      "type": "Mainboard",
+      "open": "2026-09-30",
+      "close": "2026-10-05",
+      "allotment": "2026-10-06",
+      "listing": "2026-10-08",
+      "priceBand": "₹208 to ₹220",
+      "size": "₹178 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "MUFG Intime",
+      "listingGain": "",
+      "status": "listing"
+    },
+    {
+      "name": "Nityas Gems",
+      "type": "Mainboard",
+      "open": "2026-09-30",
+      "close": "2026-10-05",
+      "allotment": "2026-10-06",
+      "listing": "2026-10-08",
+      "priceBand": "₹70 to ₹75",
+      "size": "₹108.35 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Bigshare",
+      "listingGain": "",
+      "status": "listing"
+    },
+    {
       "name": "Sollfege Smart Electronics",
       "type": "BSE SME",
       "open": "2026-09-30",
@@ -121,7 +136,7 @@
       "gain": "",
       "registrar": "KfinTech",
       "listingGain": "",
-      "status": "allotment"
+      "status": "listing"
     },
     {
       "name": "SJP Ultrasonic",
@@ -136,7 +151,7 @@
       "gain": "",
       "registrar": "Maashitla",
       "listingGain": "",
-      "status": "allotment"
+      "status": "listing"
     },
     {
       "name": "Eventions",
@@ -151,7 +166,7 @@
       "gain": "",
       "registrar": "Mudra RTA",
       "listingGain": "",
-      "status": "allotment"
+      "status": "listing"
     },
     {
       "name": "Dove Soft",
@@ -166,7 +181,7 @@
       "gain": "",
       "registrar": "Purva Shares",
       "listingGain": "",
-      "status": "allotment"
+      "status": "listing"
     },
     {
       "name": "Omara Ventures",
@@ -181,7 +196,7 @@
       "gain": "",
       "registrar": "Bigshare",
       "listingGain": "",
-      "status": "allotment"
+      "status": "listing"
     },
     {
       "name": "HD Fire Protect Upcoming",
@@ -192,8 +207,8 @@
       "listing": "2026-10-20",
       "priceBand": "₹271",
       "size": "",
-      "gmp": "₹60",
-      "gain": "₹331 (22.14%)",
+      "gmp": "₹90",
+      "gain": "₹361 (33.21%)",
       "registrar": "",
       "listingGain": "",
       "status": "upcoming"
@@ -222,7 +237,7 @@
       "listing": "2026-10-28",
       "priceBand": "₹-",
       "size": "",
-      "gmp": "₹185",
+      "gmp": "₹165",
       "gain": "₹- (0.00%)",
       "registrar": "",
       "listingGain": "",
@@ -233,25 +248,10 @@
       "type": "Mainboard",
       "open": "2026-10-21",
       "close": "2026-10-23",
-      "allotment": "2026-10-27",
+      "allotment": "2026-10-26",
       "listing": "2026-10-28",
       "priceBand": "₹[.]",
       "size": "₹[.] Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "",
-      "listingGain": "",
-      "status": "upcoming"
-    },
-    {
-      "name": "Vishal Nirmiti",
-      "type": "Mainboard",
-      "open": "2026-10-21",
-      "close": "2026-10-23",
-      "allotment": "2026-10-26",
-      "listing": "2026-10-28",
-      "priceBand": "₹208 to ₹220",
-      "size": "₹178 Cr.",
       "gmp": "",
       "gain": "",
       "registrar": "Kfintech",

@@ -1,44 +1,8 @@
 {
-  "updatedAt": "2026-10-10T08:12:54.543Z",
+  "updatedAt": "2026-10-10T14:31:15.849Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "ACEVECTOR",
-      "name": "AceVector Limited",
-      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "2362529",
-      "price": "30.45",
-      "date": "09-Oct-2026"
-    },
-    {
-      "symbol": "ACEVECTOR",
-      "name": "AceVector Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "2527849",
-      "price": "30.28",
-      "date": "09-Oct-2026"
-    },
-    {
-      "symbol": "ACEVECTOR",
-      "name": "AceVector Limited",
-      "clientName": "MATHISYS QUANTCAP LLP",
-      "buySell": "BUY",
-      "qty": "3418489",
-      "price": "30.42",
-      "date": "09-Oct-2026"
-    },
-    {
-      "symbol": "ADROITIND",
-      "name": "Adroit Industries (I) Ltd",
-      "clientName": "PRIJAL TRADEFIN LLP",
-      "buySell": "BUY",
-      "qty": "268700",
-      "price": "201.95",
-      "date": "09-Oct-2026"
-    },
     {
       "symbol": "AQYLON",
       "name": "Aqylon Nexus Limited",
@@ -721,6 +685,42 @@
       "buySell": "SELL",
       "qty": "3445093",
       "price": "30.35",
+      "date": "09-Oct-2026"
+    },
+    {
+      "symbol": "ADROITIND",
+      "name": "Adroit Industries (I) Ltd",
+      "clientName": "PRIJAL TRADEFIN LLP",
+      "buySell": "SELL",
+      "qty": "143852",
+      "price": "205.61",
+      "date": "09-Oct-2026"
+    },
+    {
+      "symbol": "AQYLON",
+      "name": "Aqylon Nexus Limited",
+      "clientName": "SERA INVESTMENTS & FINANCE INDIA LIMITED",
+      "buySell": "SELL",
+      "qty": "2500000",
+      "price": "15.75",
+      "date": "09-Oct-2026"
+    },
+    {
+      "symbol": "ARFIN",
+      "name": "Arfin India Limited",
+      "clientName": "BHOLA MOTOR FINANCE PRIVATE LIMITED .",
+      "buySell": "SELL",
+      "qty": "995071",
+      "price": "112.5",
+      "date": "09-Oct-2026"
+    },
+    {
+      "symbol": "ARFIN",
+      "name": "Arfin India Limited",
+      "clientName": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "934253",
+      "price": "106.68",
       "date": "09-Oct-2026"
     }
   ]

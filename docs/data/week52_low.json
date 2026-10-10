@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T20:19:04.385Z",
+  "updatedAt": "2026-10-10T08:12:54.543Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -436,15 +436,6 @@
       "volume": "431,104"
     },
     {
-      "name": "Eureka Forbes",
-      "week52": "668.3",
-      "ltp": "339.00",
-      "gainPct": "-0.2 %",
-      "dayLow": "335.00",
-      "dayHigh": "668.50",
-      "volume": "138,704"
-    },
-    {
       "name": "Groww Nifty PSE",
       "week52": "109.85",
       "ltp": "91.99",
@@ -452,6 +443,15 @@
       "dayLow": "89.30",
       "dayHigh": "0.00",
       "volume": "3,282"
+    },
+    {
+      "name": "G M D C",
+      "week52": "771.9",
+      "ltp": "462.15",
+      "gainPct": "-0.3 %",
+      "dayLow": "458.05",
+      "dayHigh": "771.50",
+      "volume": "694,388"
     }
   ]
 }

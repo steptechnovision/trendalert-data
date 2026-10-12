@@ -1,21 +1,36 @@
 {
-  "updatedAt": "2026-10-09T15:33:49.655Z",
+  "updatedAt": "2026-10-12T18:43:49.438Z",
   "source": "nse",
-  "count": 1,
+  "count": 2,
   "items": [
     {
-      "name": "SMC Global Securities Limited",
-      "symbol": "SMCG04",
+      "name": "HD Fire Protect Limited",
+      "symbol": "HDFIRE",
       "total": "0.00",
       "qib": "",
       "shni": "",
       "bhni": "",
       "nii": "",
       "rii": "",
-      "ipoSize": "7,50,000 shares",
-      "price": "₹1000",
-      "closeDate": "09 Oct",
+      "ipoSize": "1,84,20,492 shares",
+      "price": "₹258 to ₹271",
+      "closeDate": "15 Oct",
       "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "name": "Vaibhav Vyapaar Limited",
+      "symbol": "LOANFRONT",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "",
+      "price": "",
+      "closeDate": "15 Oct",
+      "type": "SME",
       "url": ""
     }
   ]

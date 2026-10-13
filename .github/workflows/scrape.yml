@@ -24,17 +24,22 @@ concurrency:
 
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    # Pinned, not `ubuntu-latest`: that label migrates to Ubuntu 26 from
+    # 2026-10-19, and an unattended cron job shouldn't move OS underfoot. Bump
+    # this deliberately (to ubuntu-26.04) once that image is GA and tested.
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
+      # checkout/setup-node on @v7 run on the Node 24 action runtime — the v4
+      # pair ran on Node 20, which GitHub has deprecated.
+      - uses: actions/checkout@v7
         with:
           # Full history so the push step below can rebase onto origin/main.
           # (A shallow clone can't rebase, which made re-runs fail.)
           fetch-depth: 0
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Install deps
         run: npm install

@@ -367,9 +367,16 @@ async function nseCategories(symbol, series) {
 
 async function nseSubscription() {
   const active = await nseGet('ipo-current-issue');
-  if (!Array.isArray(active) || !active.length) {
-    throw new Error('nse: no active issues');
+  if (!Array.isArray(active)) {
+    throw new Error('nse: unexpected ipo-current-issue response');
   }
+  // No IPO open for bidding right now is a normal quiet window between issues,
+  // not a scraper failure. Return an empty (but fresh) feed so the pipeline
+  // publishes count:0 instead of keeping the last-good file — which, after 48h
+  // of no open IPOs, makes the health check hard-fail the whole job and email a
+  // false alarm. A real NSE outage still throws from nseGet() above, and a
+  // response shape change is caught by the Array check.
+  if (!active.length) return [];
 
   // One row per symbol (the endpoint repeats a symbol per category).
   const bySymbol = new Map();
@@ -1007,6 +1014,10 @@ const FEATURES = [
   },
   {
     name: 'subscription',
+    // An empty result is valid for this feed: it means no IPO is open for
+    // bidding right now (a routine gap between issues), not a broken source.
+    // See nseSubscription() and runFeature().
+    allowEmpty: true,
     sources: [{ name: 'nse', run: () => nseSubscription() }],
   },
   {
@@ -1075,7 +1086,10 @@ async function runFeature(feature) {
   for (const source of feature.sources) {
     try {
       const items = await source.run();
-      if (Array.isArray(items) && items.length) {
+      // A feature may opt in (allowEmpty) to publishing a legitimately empty
+      // result — e.g. subscription when no IPO is currently open — so an empty
+      // array counts as a fresh success instead of falling through to "0 rows".
+      if (Array.isArray(items) && (items.length || feature.allowEmpty)) {
         return { items, source: source.name, errors };
       }
       errors.push(`${source.name}: 0 rows`);

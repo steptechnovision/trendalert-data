@@ -1,70 +1,133 @@
 {
-  "updatedAt": "2026-10-14T07:15:32.662Z",
+  "updatedAt": "2026-10-14T12:55:20.016Z",
   "source": "5paisa",
   "count": 20,
   "items": [
     {
       "stock": "PC Jeweller Ltd",
-      "volume": "194,194,218",
-      "cmp": "14.16",
+      "volume": "413,069,436",
+      "cmp": "14.47",
       "dayLow": "13.85",
-      "dayHigh": "14.25"
+      "dayHigh": "14.56"
     },
     {
       "stock": "Vedanta Power Ltd",
-      "volume": "154,804,961",
-      "cmp": "33.79",
+      "volume": "256,841,908",
+      "cmp": "34.13",
       "dayLow": "30.13",
-      "dayHigh": "34.27"
+      "dayHigh": "34.69"
     },
     {
       "stock": "Vodafone Idea Ltd",
-      "volume": "123,522,483",
-      "cmp": "12.80",
+      "volume": "199,192,948",
+      "cmp": "12.67",
       "dayLow": "12.64",
       "dayHigh": "12.84"
     },
     {
       "stock": "IDBI Bank Ltd",
-      "volume": "109,710,269",
-      "cmp": "89.72",
+      "volume": "148,602,851",
+      "cmp": "90.39",
       "dayLow": "84.33",
       "dayHigh": "93.60"
     },
     {
       "stock": "Moneyview Ltd",
-      "volume": "94,052,296",
-      "cmp": "62.85",
+      "volume": "140,024,014",
+      "cmp": "62.45",
       "dayLow": "61.41",
       "dayHigh": "63.46"
     },
     {
-      "stock": "Meesho Ltd",
-      "volume": "72,910,735",
-      "cmp": "231.10",
-      "dayLow": "228.60",
-      "dayHigh": "234.75"
-    },
-    {
       "stock": "Yes Bank Ltd",
-      "volume": "64,683,642",
-      "cmp": "21.31",
+      "volume": "96,624,732",
+      "cmp": "21.20",
       "dayLow": "20.75",
       "dayHigh": "21.40"
     },
     {
+      "stock": "Meesho Ltd",
+      "volume": "87,219,086",
+      "cmp": "228.35",
+      "dayLow": "226.01",
+      "dayHigh": "234.75"
+    },
+    {
       "stock": "Transformers & Rectifiers India Ltd",
-      "volume": "52,479,021",
-      "cmp": "347.00",
+      "volume": "69,007,422",
+      "cmp": "349.50",
       "dayLow": "332.95",
       "dayHigh": "360.80"
     },
     {
+      "stock": "Suzlon Energy Ltd",
+      "volume": "67,454,290",
+      "cmp": "40.80",
+      "dayLow": "39.80",
+      "dayHigh": "40.80"
+    },
+    {
       "stock": "Hero Motors Ltd",
-      "volume": "44,057,285",
-      "cmp": "160.43",
-      "dayLow": "159.50",
+      "volume": "58,638,576",
+      "cmp": "159.29",
+      "dayLow": "157.15",
       "dayHigh": "167.39"
+    },
+    {
+      "stock": "Billionbrains Garage Ventures Ltd",
+      "volume": "52,797,684",
+      "cmp": "192.52",
+      "dayLow": "190.66",
+      "dayHigh": "197.49"
+    },
+    {
+      "stock": "Tata Gold Exchange Traded Fund",
+      "volume": "52,737,999",
+      "cmp": "14.09",
+      "dayLow": "14.06",
+      "dayHigh": "14.16"
+    },
+    {
+      "stock": "Canara Bank",
+      "volume": "52,534,910",
+      "cmp": "124.76",
+      "dayLow": "119.62",
+      "dayHigh": "126.47"
+    },
+    {
+      "stock": "Vedanta Oil and Gas Ltd",
+      "volume": "50,910,790",
+      "cmp": "32.73",
+      "dayLow": "30.18",
+      "dayHigh": "33.10"
+    },
+    {
+      "stock": "Jaiprakash Power Ventures Ltd",
+      "volume": "49,278,820",
+      "cmp": "15.43",
+      "dayLow": "14.91",
+      "dayHigh": "15.56"
+    },
+    {
+      "stock": "Ola Electric Mobility Ltd",
+      "volume": "48,328,738",
+      "cmp": "35.81",
+      "dayLow": "34.85",
+      "dayHigh": "36.40"
+    },
+    {
+      "stock": "Fineotex Chemical Ltd",
+      "volume": "48,050,516",
+      "cmp": "59.86",
+      "dayLow": "56.54",
+      "dayHigh": "61.10"
+    },
+    {
+      "stock": "PNC Infratech Ltd",
+      "volume": "47,587,648",
+      "cmp": "148.62",
+      "dayLow": "145.05",
+      "dayHigh": "172.00"
     },
     {
       "stock": "AvenuesAI Ltd",
@@ -74,74 +137,11 @@
       "dayHigh": "15.03"
     },
     {
-      "stock": "Tata Gold Exchange Traded Fund",
-      "volume": "38,357,901",
-      "cmp": "14.09",
-      "dayLow": "14.06",
-      "dayHigh": "14.16"
-    },
-    {
-      "stock": "Empower India Ltd",
-      "volume": "38,165,127",
-      "cmp": "1.90",
-      "dayLow": "1.90",
-      "dayHigh": "2.05"
-    },
-    {
-      "stock": "Vedanta Oil and Gas Ltd",
-      "volume": "38,138,588",
-      "cmp": "32.56",
-      "dayLow": "30.18",
-      "dayHigh": "33.10"
-    },
-    {
-      "stock": "Canara Bank",
-      "volume": "37,410,395",
-      "cmp": "124.70",
-      "dayLow": "119.62",
-      "dayHigh": "126.47"
-    },
-    {
-      "stock": "Suzlon Energy Ltd",
-      "volume": "37,383,583",
-      "cmp": "40.48",
-      "dayLow": "39.80",
-      "dayHigh": "40.58"
-    },
-    {
-      "stock": "Ola Electric Mobility Ltd",
-      "volume": "35,529,193",
-      "cmp": "35.84",
-      "dayLow": "34.85",
-      "dayHigh": "36.40"
-    },
-    {
       "stock": "Bharat Coking Coal Ltd",
-      "volume": "33,125,431",
-      "cmp": "32.95",
+      "volume": "41,713,576",
+      "cmp": "32.75",
       "dayLow": "31.55",
       "dayHigh": "33.48"
-    },
-    {
-      "stock": "PNC Infratech Ltd",
-      "volume": "29,816,713",
-      "cmp": "158.79",
-      "dayLow": "147.22",
-      "dayHigh": "172.00"
-    },
-    {
-      "stock": "HDFC BSE 500 ETF",
-      "volume": "29,352,819",
-      "cmp": "35.59",
-      "dayLow": "35.41",
-      "dayHigh": "35.63"
-    },
-    {
-      "stock": "Tata Silver Exchange Traded Fund",
-      "volume": "28,079,024",
-      "cmp": "20.61",
-      "dayLow": "20.57",
-      "dayHigh": "20.86"
     }
   ]
 }

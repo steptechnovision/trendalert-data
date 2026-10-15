@@ -1,63 +1,98 @@
 {
-  "updatedAt": "2026-10-15T07:06:58.718Z",
+  "updatedAt": "2026-10-15T12:42:26.685Z",
   "source": "5paisa",
   "count": 20,
   "items": [
     {
+      "stock": "Yes Bank Ltd",
+      "volume": "667,974,054",
+      "cmp": "18.12",
+      "dayLow": "16.96",
+      "dayHigh": "21.38"
+    },
+    {
       "stock": "PC Jeweller Ltd",
-      "volume": "307,041,123",
-      "cmp": "14.53",
+      "volume": "481,661,644",
+      "cmp": "14.45",
       "dayLow": "14.13",
-      "dayHigh": "14.72"
+      "dayHigh": "14.73"
     },
     {
       "stock": "Vodafone Idea Ltd",
-      "volume": "164,271,931",
-      "cmp": "12.78",
-      "dayLow": "12.63",
-      "dayHigh": "12.88"
+      "volume": "294,006,034",
+      "cmp": "12.52",
+      "dayLow": "12.52",
+      "dayHigh": "12.90"
     },
     {
-      "stock": "Tata Silver Exchange Traded Fund",
-      "volume": "56,789,473",
-      "cmp": "19.92",
-      "dayLow": "19.83",
-      "dayHigh": "20.13"
-    },
-    {
-      "stock": "IDBI Bank Ltd",
-      "volume": "55,665,084",
-      "cmp": "83.82",
-      "dayLow": "83.30",
-      "dayHigh": "89.86"
+      "stock": "Jai Corp Ltd",
+      "volume": "97,902,013",
+      "cmp": "95.34",
+      "dayLow": "85.10",
+      "dayHigh": "99.50"
     },
     {
       "stock": "Suzlon Energy Ltd",
-      "volume": "55,254,245",
-      "cmp": "41.09",
+      "volume": "89,844,209",
+      "cmp": "40.95",
       "dayLow": "40.42",
       "dayHigh": "41.38"
     },
     {
+      "stock": "Moneyview Ltd",
+      "volume": "89,341,149",
+      "cmp": "59.11",
+      "dayLow": "58.00",
+      "dayHigh": "62.22"
+    },
+    {
+      "stock": "Tata Silver Exchange Traded Fund",
+      "volume": "80,967,707",
+      "cmp": "20.08",
+      "dayLow": "19.83",
+      "dayHigh": "20.13"
+    },
+    {
+      "stock": "South Indian Bank Ltd",
+      "volume": "76,826,122",
+      "cmp": "51.48",
+      "dayLow": "47.69",
+      "dayHigh": "52.08"
+    },
+    {
+      "stock": "IDBI Bank Ltd",
+      "volume": "72,696,329",
+      "cmp": "83.45",
+      "dayLow": "82.50",
+      "dayHigh": "89.86"
+    },
+    {
       "stock": "Canara Bank",
-      "volume": "50,205,611",
-      "cmp": "118.12",
+      "volume": "70,111,332",
+      "cmp": "117.12",
       "dayLow": "116.71",
       "dayHigh": "123.84"
     },
     {
-      "stock": "Moneyview Ltd",
-      "volume": "45,831,198",
-      "cmp": "60.43",
-      "dayLow": "60.00",
-      "dayHigh": "62.22"
-    },
-    {
       "stock": "Mangalore Refinery And Petrochemicals Ltd",
-      "volume": "45,405,431",
-      "cmp": "175.81",
+      "volume": "56,646,756",
+      "cmp": "174.79",
       "dayLow": "171.20",
       "dayHigh": "191.49"
+    },
+    {
+      "stock": "Billionbrains Garage Ventures Ltd",
+      "volume": "56,153,051",
+      "cmp": "197.98",
+      "dayLow": "190.80",
+      "dayHigh": "200.80"
+    },
+    {
+      "stock": "Jaiprakash Power Ventures Ltd",
+      "volume": "44,818,572",
+      "cmp": "14.90",
+      "dayLow": "14.42",
+      "dayHigh": "15.45"
     },
     {
       "stock": "AvenuesAI Ltd",
@@ -67,81 +102,46 @@
       "dayHigh": "15.03"
     },
     {
-      "stock": "Yes Bank Ltd",
-      "volume": "40,192,763",
-      "cmp": "21.26",
-      "dayLow": "20.91",
-      "dayHigh": "21.35"
-    },
-    {
-      "stock": "Jai Corp Ltd",
-      "volume": "36,857,314",
-      "cmp": "97.17",
-      "dayLow": "85.10",
-      "dayHigh": "99.50"
-    },
-    {
-      "stock": "Billionbrains Garage Ventures Ltd",
-      "volume": "33,227,922",
-      "cmp": "195.40",
-      "dayLow": "190.80",
-      "dayHigh": "198.60"
+      "stock": "Tata Gold Exchange Traded Fund",
+      "volume": "41,917,483",
+      "cmp": "14.08",
+      "dayLow": "14.02",
+      "dayHigh": "14.10"
     },
     {
       "stock": "Nippon India Silver ETF",
-      "volume": "30,841,517",
-      "cmp": "195.92",
+      "volume": "41,219,881",
+      "cmp": "197.57",
       "dayLow": "195.17",
-      "dayHigh": "197.10"
-    },
-    {
-      "stock": "Tata Gold Exchange Traded Fund",
-      "volume": "27,102,642",
-      "cmp": "14.04",
-      "dayLow": "14.02",
-      "dayHigh": "14.08"
+      "dayHigh": "197.78"
     },
     {
       "stock": "Reliance Power Ltd",
-      "volume": "26,371,209",
-      "cmp": "18.82",
-      "dayLow": "18.69",
+      "volume": "39,181,408",
+      "cmp": "18.71",
+      "dayLow": "18.60",
       "dayHigh": "19.79"
     },
     {
-      "stock": "Jaiprakash Power Ventures Ltd",
-      "volume": "23,576,230",
-      "cmp": "15.34",
-      "dayLow": "15.12",
-      "dayHigh": "15.45"
+      "stock": "HDFC Bank Ltd",
+      "volume": "37,365,177",
+      "cmp": "726.85",
+      "dayLow": "710.70",
+      "dayHigh": "728.00"
     },
     {
       "stock": "Vedanta Power Ltd",
-      "volume": "23,173,845",
-      "cmp": "32.77",
-      "dayLow": "32.60",
+      "volume": "33,561,246",
+      "cmp": "32.53",
+      "dayLow": "32.31",
       "dayHigh": "33.49"
     },
     {
-      "stock": "HDFC Bank Ltd",
-      "volume": "21,106,424",
-      "cmp": "724.85",
-      "dayLow": "710.70",
-      "dayHigh": "725.75"
-    },
-    {
-      "stock": "Nippon India ETF Nifty IT",
-      "volume": "18,983,229",
-      "cmp": "34.32",
-      "dayLow": "33.55",
-      "dayHigh": "34.49"
-    },
-    {
-      "stock": "NMDC Steel Ltd",
-      "volume": "17,777,761",
-      "cmp": "40.26",
-      "dayLow": "39.97",
-      "dayHigh": "42.20"
+      "stock": "Kotak Mahindra Bank Ltd",
+      "volume": "32,710,771",
+      "cmp": "447.95",
+      "dayLow": "437.60",
+      "dayHigh": "447.95"
     }
   ]
 }

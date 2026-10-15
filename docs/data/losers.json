@@ -1,79 +1,95 @@
 {
-  "updatedAt": "2026-10-15T07:06:58.718Z",
+  "updatedAt": "2026-10-15T12:42:26.685Z",
   "source": "5paisa",
-  "count": 9,
+  "count": 11,
   "items": [
     {
       "name": "Adani Enterp.",
-      "ltp": "2702.10",
+      "ltp": "2700.00",
       "gainPct": "-0.8 %",
       "dayLow": "2670.00",
       "dayHigh": "2717.50",
-      "volume": "520737"
+      "volume": "835205"
+    },
+    {
+      "name": "Adani Ports",
+      "ltp": "1743.20",
+      "gainPct": "-0.3 %",
+      "dayLow": "1725.50",
+      "dayHigh": "1761.90",
+      "volume": "2248348"
     },
     {
       "name": "Bharat Electron",
-      "ltp": "381.40",
-      "gainPct": "-0.3 %",
+      "ltp": "380.40",
+      "gainPct": "-0.5 %",
       "dayLow": "377.30",
       "dayHigh": "382.50",
-      "volume": "5124147"
+      "volume": "9100694"
     },
     {
-      "name": "Hind. Unilever",
-      "ltp": "1894.70",
-      "gainPct": "0.0 %",
-      "dayLow": "1886.50",
-      "dayHigh": "1926.80",
-      "volume": "819757"
+      "name": "Larsen & Toubro",
+      "ltp": "3632.00",
+      "gainPct": "-0.3 %",
+      "dayLow": "3605.70",
+      "dayHigh": "3681.90",
+      "volume": "2452067"
     },
     {
       "name": "Nestle India",
-      "ltp": "1315.10",
-      "gainPct": "-4.9 %",
+      "ltp": "1275.80",
+      "gainPct": "-7.8 %",
       "dayLow": "1260.50",
       "dayHigh": "1385.90",
-      "volume": "4241942"
+      "volume": "7766212"
     },
     {
       "name": "O N G C",
-      "ltp": "224.92",
-      "gainPct": "-0.3 %",
+      "ltp": "224.64",
+      "gainPct": "-0.4 %",
       "dayLow": "222.85",
-      "dayHigh": "225.50",
-      "volume": "3154583"
+      "dayHigh": "227.16",
+      "volume": "6458211"
+    },
+    {
+      "name": "Shriram Finance",
+      "ltp": "943.80",
+      "gainPct": "-0.7 %",
+      "dayLow": "936.40",
+      "dayHigh": "956.85",
+      "volume": "2332139"
     },
     {
       "name": "Trent",
-      "ltp": "2925.30",
-      "gainPct": "-1.5 %",
-      "dayLow": "2917.00",
+      "ltp": "2949.70",
+      "gainPct": "-0.7 %",
+      "dayLow": "2915.30",
       "dayHigh": "2968.00",
-      "volume": "441850"
+      "volume": "830106"
     },
     {
       "name": "Bharat Electron",
-      "ltp": "381.55",
-      "gainPct": "-0.1 %",
+      "ltp": "379.80",
+      "gainPct": "-0.6 %",
       "dayLow": "377.55",
       "dayHigh": "382.50",
-      "volume": "846832"
+      "volume": "1095837"
     },
     {
       "name": "Hind. Unilever",
-      "ltp": "1895.30",
-      "gainPct": "-0.1 %",
+      "ltp": "1894.20",
+      "gainPct": "-0.2 %",
       "dayLow": "1887.00",
       "dayHigh": "1926.50",
-      "volume": "46157"
+      "volume": "90766"
     },
     {
       "name": "Trent",
-      "ltp": "2925.00",
-      "gainPct": "-1.4 %",
-      "dayLow": "2919.00",
+      "ltp": "2948.35",
+      "gainPct": "-0.6 %",
+      "dayLow": "2917.00",
       "dayHigh": "2965.50",
-      "volume": "18075"
+      "volume": "25600"
     }
   ]
 }

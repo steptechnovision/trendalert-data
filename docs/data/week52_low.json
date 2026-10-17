@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T19:49:36.012Z",
+  "updatedAt": "2026-10-17T06:42:54.891Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -76,6 +76,15 @@
       "volume": "15,750"
     },
     {
+      "name": "Indrapr.Medical",
+      "week52": "640.85",
+      "ltp": "320.05",
+      "gainPct": "-0.4 %",
+      "dayLow": "317.05",
+      "dayHigh": "640.05",
+      "volume": "84,086"
+    },
+    {
       "name": "Kokuyo Camlin",
       "week52": "107.19",
       "ltp": "71.18",
@@ -92,15 +101,6 @@
       "dayLow": "224.96",
       "dayHigh": "284.78",
       "volume": "1,099,137"
-    },
-    {
-      "name": "Oswal Pumps",
-      "week52": "779",
-      "ltp": "248.40",
-      "gainPct": "-3.7 %",
-      "dayLow": "247.50",
-      "dayHigh": "778.75",
-      "volume": "812,692"
     },
     {
       "name": "Semac Construct",
@@ -128,6 +128,15 @@
       "dayLow": "27.50",
       "dayHigh": "0.00",
       "volume": "32,400"
+    },
+    {
+      "name": "Voith Paper",
+      "week52": "1696",
+      "ltp": "1365.00",
+      "gainPct": "-2.5 %",
+      "dayLow": "1299.00",
+      "dayHigh": "2065.00",
+      "volume": "886"
     },
     {
       "name": "Alkem Lab",
@@ -166,13 +175,13 @@
       "volume": "79,300"
     },
     {
-      "name": "Indrapr.Medical",
-      "week52": "640.85",
-      "ltp": "320.05",
-      "gainPct": "-0.4 %",
-      "dayLow": "317.05",
-      "dayHigh": "640.05",
-      "volume": "84,086"
+      "name": "Oswal Pumps",
+      "week52": "779",
+      "ltp": "248.40",
+      "gainPct": "-3.7 %",
+      "dayLow": "247.50",
+      "dayHigh": "778.75",
+      "volume": "812,692"
     },
     {
       "name": "K.P. Energy",
@@ -247,6 +256,15 @@
       "volume": "21,225"
     },
     {
+      "name": "Mirae ANP Bank",
+      "week52": "99.52",
+      "ltp": "84.00",
+      "gainPct": "3.4 %",
+      "dayLow": "73.15",
+      "dayHigh": "99.40",
+      "volume": "385,379"
+    },
+    {
       "name": "Runwal Enterpri.",
       "week52": "307.75",
       "ltp": "259.90",
@@ -265,15 +283,6 @@
       "volume": "91,152"
     },
     {
-      "name": "Mirae ANP Bank",
-      "week52": "99.52",
-      "ltp": "84.00",
-      "gainPct": "3.4 %",
-      "dayLow": "73.15",
-      "dayHigh": "99.40",
-      "volume": "385,379"
-    },
-    {
       "name": "Future Lifestyle",
       "week52": "1.92",
       "ltp": "0.86",
@@ -283,22 +292,13 @@
       "volume": "56,732"
     },
     {
-      "name": "Skyways Air Ser.",
-      "week52": "137.38",
-      "ltp": "109.24",
-      "gainPct": "3.5 %",
-      "dayLow": "104.11",
-      "dayHigh": "137.25",
-      "volume": "2,760,395"
-    },
-    {
-      "name": "Voith Paper",
-      "week52": "1696",
-      "ltp": "1365.00",
-      "gainPct": "-2.5 %",
-      "dayLow": "1299.00",
-      "dayHigh": "2065.00",
-      "volume": "886"
+      "name": "Bikaji Foods",
+      "week52": "768.5",
+      "ltp": "475.70",
+      "gainPct": "2.3 %",
+      "dayLow": "460.15",
+      "dayHigh": "768.30",
+      "volume": "146,611"
     },
     {
       "name": "ICICI Pru Life",
@@ -310,6 +310,15 @@
       "volume": "3,914,526"
     },
     {
+      "name": "Skyways Air Ser.",
+      "week52": "137.38",
+      "ltp": "109.24",
+      "gainPct": "3.5 %",
+      "dayLow": "104.11",
+      "dayHigh": "137.25",
+      "volume": "2,760,395"
+    },
+    {
       "name": "Generic Engineer",
       "week52": "59.96",
       "ltp": "33.05",
@@ -317,15 +326,6 @@
       "dayLow": "32.71",
       "dayHigh": "59.99",
       "volume": "264,658"
-    },
-    {
-      "name": "Bikaji Foods",
-      "week52": "768.5",
-      "ltp": "475.70",
-      "gainPct": "2.3 %",
-      "dayLow": "460.15",
-      "dayHigh": "768.30",
-      "volume": "146,611"
     },
     {
       "name": "Pioneer Invest",
@@ -355,24 +355,6 @@
       "volume": "8,000"
     },
     {
-      "name": "Papadmalji Agro",
-      "week52": "72.3",
-      "ltp": "48.10",
-      "gainPct": "-4.9 %",
-      "dayLow": "48.10",
-      "dayHigh": "0.00",
-      "volume": "6,400"
-    },
-    {
-      "name": "Eventions",
-      "week52": "111",
-      "ltp": "77.65",
-      "gainPct": "-5.0 %",
-      "dayLow": "77.65",
-      "dayHigh": "0.00",
-      "volume": "1,200"
-    },
-    {
       "name": "Hubtown",
       "week52": "339",
       "ltp": "160.10",
@@ -398,6 +380,24 @@
       "dayLow": "50.05",
       "dayHigh": "127.10",
       "volume": "13,566"
+    },
+    {
+      "name": "Papadmalji Agro",
+      "week52": "72.3",
+      "ltp": "48.10",
+      "gainPct": "-4.9 %",
+      "dayLow": "48.10",
+      "dayHigh": "0.00",
+      "volume": "6,400"
+    },
+    {
+      "name": "Eventions",
+      "week52": "111",
+      "ltp": "77.65",
+      "gainPct": "-5.0 %",
+      "dayLow": "77.65",
+      "dayHigh": "0.00",
+      "volume": "1,200"
     },
     {
       "name": "Vibhor Steel",
@@ -436,22 +436,22 @@
       "volume": "30,000"
     },
     {
-      "name": "The Ramco Cement",
-      "week52": "1214.5",
-      "ltp": "807.50",
-      "gainPct": "2.6 %",
-      "dayLow": "779.50",
-      "dayHigh": "1214.00",
-      "volume": "311,117"
+      "name": "Orchasp Ltd",
+      "week52": "4.16",
+      "ltp": "1.13",
+      "gainPct": "-8.9 %",
+      "dayLow": "1.00",
+      "dayHigh": "4.19",
+      "volume": "2,092,260"
     },
     {
-      "name": "Honda India",
-      "week52": "2704",
-      "ltp": "1840.00",
-      "gainPct": "0.7 %",
-      "dayLow": "1806.20",
-      "dayHigh": "2824.00",
-      "volume": "3,392"
+      "name": "Wardwizard Inno.",
+      "week52": "6.99",
+      "ltp": "4.27",
+      "gainPct": "-4.9 %",
+      "dayLow": "4.27",
+      "dayHigh": "12.39",
+      "volume": "703,959"
     }
   ]
 }

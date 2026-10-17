@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T19:49:36.012Z",
+  "updatedAt": "2026-10-17T06:42:54.891Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -20,15 +20,6 @@
       "dayLow": "67.19",
       "dayHigh": "73.40",
       "volume": "619,564"
-    },
-    {
-      "name": "Indian Hotels Co",
-      "week52": "776.15",
-      "ltp": "772.10",
-      "gainPct": "4.1 %",
-      "dayLow": "744.35",
-      "dayHigh": "776.25",
-      "volume": "9,335,235"
     },
     {
       "name": "Karur Vysya Bank",
@@ -76,6 +67,15 @@
       "volume": "1,006,476"
     },
     {
+      "name": "Utssav CZ Gold",
+      "week52": "1027.8",
+      "ltp": "1002.00",
+      "gainPct": "1.0 %",
+      "dayLow": "990.00",
+      "dayHigh": "0.00",
+      "volume": "120,000"
+    },
+    {
       "name": "Bench Mark Infotech Services",
       "week52": "177.5",
       "ltp": "177.50",
@@ -92,6 +92,15 @@
       "dayLow": "31.74",
       "dayHigh": "9.21",
       "volume": "100"
+    },
+    {
+      "name": "Indian Hotels Co",
+      "week52": "776.15",
+      "ltp": "772.10",
+      "gainPct": "4.1 %",
+      "dayLow": "744.35",
+      "dayHigh": "776.25",
+      "volume": "9,335,235"
     },
     {
       "name": "Panache Digilife",
@@ -193,24 +202,6 @@
       "volume": "84,800"
     },
     {
-      "name": "AVT Natural Prod",
-      "week52": "108.32",
-      "ltp": "101.00",
-      "gainPct": "1.3 %",
-      "dayLow": "99.10",
-      "dayHigh": "108.20",
-      "volume": "2,324,339"
-    },
-    {
-      "name": "Utssav CZ Gold",
-      "week52": "1027.8",
-      "ltp": "1002.00",
-      "gainPct": "1.0 %",
-      "dayLow": "990.00",
-      "dayHigh": "0.00",
-      "volume": "120,000"
-    },
-    {
       "name": "Jinkushal Indus.",
       "week52": "135.96",
       "ltp": "126.00",
@@ -218,6 +209,15 @@
       "dayLow": "120.02",
       "dayHigh": "132.80",
       "volume": "209,077"
+    },
+    {
+      "name": "AVT Natural Prod",
+      "week52": "108.32",
+      "ltp": "101.00",
+      "gainPct": "1.3 %",
+      "dayLow": "99.10",
+      "dayHigh": "108.20",
+      "volume": "2,324,339"
     },
     {
       "name": "Tikona Communication",
@@ -272,6 +272,51 @@
       "dayLow": "400.10",
       "dayHigh": "425.00",
       "volume": "19,612"
+    },
+    {
+      "name": "Cyient",
+      "week52": "1224.4",
+      "ltp": "1194.50",
+      "gainPct": "0.4 %",
+      "dayLow": "1175.90",
+      "dayHigh": "1226.25",
+      "volume": "583,099"
+    },
+    {
+      "name": "Quintegra Soln.",
+      "week52": "2.13",
+      "ltp": "2.13",
+      "gainPct": "4.9 %",
+      "dayLow": "2.13",
+      "dayHigh": "2.27",
+      "volume": "5,297"
+    },
+    {
+      "name": "A C J K Exports",
+      "week52": "241.8",
+      "ltp": "234.78",
+      "gainPct": "1.1 %",
+      "dayLow": "230.65",
+      "dayHigh": "242.00",
+      "volume": "1,295,088"
+    },
+    {
+      "name": "Supreme Engg.",
+      "week52": "5.11",
+      "ltp": "5.11",
+      "gainPct": "2.0 %",
+      "dayLow": "5.11",
+      "dayHigh": "0.00",
+      "volume": "234,761"
+    },
+    {
+      "name": "Shyam Metalics",
+      "week52": "1223",
+      "ltp": "1198.50",
+      "gainPct": "3.6 %",
+      "dayLow": "1146.10",
+      "dayHigh": "1223.50",
+      "volume": "963,477"
     },
     {
       "name": "Ambani Orgochem",
@@ -335,51 +380,6 @@
       "dayLow": "157.00",
       "dayHigh": "164.65",
       "volume": "1,496,517"
-    },
-    {
-      "name": "Cyient",
-      "week52": "1224.4",
-      "ltp": "1194.50",
-      "gainPct": "0.4 %",
-      "dayLow": "1175.90",
-      "dayHigh": "1226.25",
-      "volume": "583,099"
-    },
-    {
-      "name": "Quintegra Soln.",
-      "week52": "2.13",
-      "ltp": "2.13",
-      "gainPct": "4.9 %",
-      "dayLow": "2.13",
-      "dayHigh": "2.27",
-      "volume": "5,297"
-    },
-    {
-      "name": "A C J K Exports",
-      "week52": "241.8",
-      "ltp": "234.78",
-      "gainPct": "1.1 %",
-      "dayLow": "230.65",
-      "dayHigh": "242.00",
-      "volume": "1,295,088"
-    },
-    {
-      "name": "Supreme Engg.",
-      "week52": "5.11",
-      "ltp": "5.11",
-      "gainPct": "2.0 %",
-      "dayLow": "5.11",
-      "dayHigh": "0.00",
-      "volume": "234,761"
-    },
-    {
-      "name": "Shyam Metalics",
-      "week52": "1223",
-      "ltp": "1198.50",
-      "gainPct": "3.6 %",
-      "dayLow": "1146.10",
-      "dayHigh": "1223.50",
-      "volume": "963,477"
     },
     {
       "name": "Flywings Simula.",

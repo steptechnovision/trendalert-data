@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T19:42:27.871Z",
+  "updatedAt": "2026-10-18T07:02:57.056Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -139,6 +139,15 @@
       "volume": "1,452"
     },
     {
+      "name": "Sagar Cements",
+      "week52": "252.02",
+      "ltp": "136.00",
+      "gainPct": "-1.3 %",
+      "dayLow": "135.32",
+      "dayHigh": "252.35",
+      "volume": "91,152"
+    },
+    {
       "name": "Semac Construct",
       "week52": "484.4",
       "ltp": "215.00",
@@ -202,15 +211,6 @@
       "volume": "160,798"
     },
     {
-      "name": "Digicontent",
-      "week52": "39.57",
-      "ltp": "22.50",
-      "gainPct": "-3.4 %",
-      "dayLow": "21.22",
-      "dayHigh": "39.59",
-      "volume": "163,845"
-    },
-    {
       "name": "Elitecon Inter.",
       "week52": "46.4",
       "ltp": "6.94",
@@ -218,15 +218,6 @@
       "dayLow": "6.88",
       "dayHigh": "179.40",
       "volume": "6,062,441"
-    },
-    {
-      "name": "Eventions",
-      "week52": "111",
-      "ltp": "77.65",
-      "gainPct": "-5.0 %",
-      "dayLow": "77.65",
-      "dayHigh": "0.00",
-      "volume": "1,200"
     },
     {
       "name": "G R Infraproject",
@@ -238,15 +229,6 @@
       "volume": "10,225"
     },
     {
-      "name": "Hubtown",
-      "week52": "339",
-      "ltp": "160.10",
-      "gainPct": "2.2 %",
-      "dayLow": "152.90",
-      "dayHigh": "338.95",
-      "volume": "543,239"
-    },
-    {
       "name": "INDIA SHELTE FIN",
       "week52": "924",
       "ltp": "620.60",
@@ -254,69 +236,6 @@
       "dayLow": "617.65",
       "dayHigh": "923.95",
       "volume": "79,300"
-    },
-    {
-      "name": "Oswal Pumps",
-      "week52": "779",
-      "ltp": "248.40",
-      "gainPct": "-3.7 %",
-      "dayLow": "247.50",
-      "dayHigh": "778.75",
-      "volume": "812,692"
-    },
-    {
-      "name": "Papadmalji Agro",
-      "week52": "72.3",
-      "ltp": "48.10",
-      "gainPct": "-4.9 %",
-      "dayLow": "48.10",
-      "dayHigh": "0.00",
-      "volume": "6,400"
-    },
-    {
-      "name": "K.P. Energy",
-      "week52": "463.25",
-      "ltp": "196.87",
-      "gainPct": "-2.5 %",
-      "dayLow": "196.32",
-      "dayHigh": "465.00",
-      "volume": "395,656"
-    },
-    {
-      "name": "Mirae LV 30 ETF",
-      "week52": "219.1",
-      "ltp": "194.08",
-      "gainPct": "-0.1 %",
-      "dayLow": "174.78",
-      "dayHigh": "216.65",
-      "volume": "215,353"
-    },
-    {
-      "name": "Shrenik",
-      "week52": "0.65",
-      "ltp": "0.22",
-      "gainPct": "0.0 %",
-      "dayLow": "0.21",
-      "dayHigh": "0.00",
-      "volume": "614,953"
-    },
-    {
-      "name": "TCC Concept",
-      "week52": "105.28",
-      "ltp": "39.85",
-      "gainPct": "-5.2 %",
-      "dayLow": "38.52",
-      "dayHigh": "126.21",
-      "volume": "712,685"
-    },
-    {
-      "name": "Triveni Power Transmission",
-      "week52": "720",
-      "ltp": "557.20",
-      "gainPct": "-5.0 %",
-      "dayLow": "557.20",
-      "dayHigh": "720.00",
-      "volume": "56,989"
     },
     {
       "name": "SJVN",
@@ -328,6 +247,33 @@
       "volume": "19,023,385"
     },
     {
+      "name": "TCC Concept",
+      "week52": "105.28",
+      "ltp": "39.85",
+      "gainPct": "-5.2 %",
+      "dayLow": "38.52",
+      "dayHigh": "126.21",
+      "volume": "712,685"
+    },
+    {
+      "name": "Mirae LV 30 ETF",
+      "week52": "219.1",
+      "ltp": "194.08",
+      "gainPct": "-0.1 %",
+      "dayLow": "174.78",
+      "dayHigh": "216.65",
+      "volume": "215,353"
+    },
+    {
+      "name": "Oswal Pumps",
+      "week52": "779",
+      "ltp": "248.40",
+      "gainPct": "-3.7 %",
+      "dayLow": "247.50",
+      "dayHigh": "778.75",
+      "volume": "812,692"
+    },
+    {
       "name": "RPP Infra Proj.",
       "week52": "127.95",
       "ltp": "50.65",
@@ -335,6 +281,15 @@
       "dayLow": "50.05",
       "dayHigh": "127.10",
       "volume": "13,566"
+    },
+    {
+      "name": "Shrenik",
+      "week52": "0.65",
+      "ltp": "0.22",
+      "gainPct": "0.0 %",
+      "dayLow": "0.21",
+      "dayHigh": "0.00",
+      "volume": "614,953"
     },
     {
       "name": "Jupiter Wagons",
@@ -346,13 +301,31 @@
       "volume": "1,294,923"
     },
     {
-      "name": "Zodiac Energy",
-      "week52": "415",
-      "ltp": "200.00",
+      "name": "Digicontent",
+      "week52": "39.57",
+      "ltp": "22.50",
+      "gainPct": "-3.4 %",
+      "dayLow": "21.22",
+      "dayHigh": "39.59",
+      "volume": "163,845"
+    },
+    {
+      "name": "Hubtown",
+      "week52": "339",
+      "ltp": "160.10",
+      "gainPct": "2.2 %",
+      "dayLow": "152.90",
+      "dayHigh": "338.95",
+      "volume": "543,239"
+    },
+    {
+      "name": "K.P. Energy",
+      "week52": "463.25",
+      "ltp": "196.87",
       "gainPct": "-2.5 %",
-      "dayLow": "198.00",
-      "dayHigh": "415.05",
-      "volume": "21,225"
+      "dayLow": "196.32",
+      "dayHigh": "465.00",
+      "volume": "395,656"
     },
     {
       "name": "Mirae ANP Bank",
@@ -364,6 +337,33 @@
       "volume": "385,379"
     },
     {
+      "name": "Triveni Power Transmission",
+      "week52": "720",
+      "ltp": "557.20",
+      "gainPct": "-5.0 %",
+      "dayLow": "557.20",
+      "dayHigh": "720.00",
+      "volume": "56,989"
+    },
+    {
+      "name": "Zodiac Energy",
+      "week52": "415",
+      "ltp": "200.00",
+      "gainPct": "-2.5 %",
+      "dayLow": "198.00",
+      "dayHigh": "415.05",
+      "volume": "21,225"
+    },
+    {
+      "name": "Papadmalji Agro",
+      "week52": "72.3",
+      "ltp": "48.10",
+      "gainPct": "-4.9 %",
+      "dayLow": "48.10",
+      "dayHigh": "0.00",
+      "volume": "6,400"
+    },
+    {
       "name": "Runwal Enterpri.",
       "week52": "307.75",
       "ltp": "259.90",
@@ -371,24 +371,6 @@
       "dayLow": "246.05",
       "dayHigh": "307.35",
       "volume": "341,164"
-    },
-    {
-      "name": "Sagar Cements",
-      "week52": "252.02",
-      "ltp": "136.00",
-      "gainPct": "-1.3 %",
-      "dayLow": "135.32",
-      "dayHigh": "252.35",
-      "volume": "91,152"
-    },
-    {
-      "name": "Future Lifestyle",
-      "week52": "1.92",
-      "ltp": "0.86",
-      "gainPct": "-3.4 %",
-      "dayLow": "0.85",
-      "dayHigh": "1.93",
-      "volume": "56,732"
     },
     {
       "name": "Bikaji Foods",
@@ -400,15 +382,6 @@
       "volume": "146,611"
     },
     {
-      "name": "Aprameya Enginee",
-      "week52": "360",
-      "ltp": "89.95",
-      "gainPct": "-1.5 %",
-      "dayLow": "84.00",
-      "dayHigh": "0.00",
-      "volume": "30,000"
-    },
-    {
       "name": "ICICI Pru Life",
       "week52": "706.8",
       "ltp": "445.00",
@@ -416,6 +389,33 @@
       "dayLow": "435.20",
       "dayHigh": "706.50",
       "volume": "3,914,526"
+    },
+    {
+      "name": "Eventions",
+      "week52": "111",
+      "ltp": "77.65",
+      "gainPct": "-5.0 %",
+      "dayLow": "77.65",
+      "dayHigh": "0.00",
+      "volume": "1,200"
+    },
+    {
+      "name": "Future Lifestyle",
+      "week52": "1.92",
+      "ltp": "0.86",
+      "gainPct": "-3.4 %",
+      "dayLow": "0.85",
+      "dayHigh": "1.93",
+      "volume": "56,732"
+    },
+    {
+      "name": "Aprameya Enginee",
+      "week52": "360",
+      "ltp": "89.95",
+      "gainPct": "-1.5 %",
+      "dayLow": "84.00",
+      "dayHigh": "0.00",
+      "volume": "30,000"
     },
     {
       "name": "Skyways Air Ser.",

@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-18T21:00:58.954Z",
+  "updatedAt": "2026-10-19T07:27:23.895Z",
   "source": "derived",
-  "count": 12,
+  "count": 13,
   "items": [
     {
       "name": "Bonfiglioli Transmissions Limited",
@@ -12,8 +12,8 @@
       "listing": "2026-10-22",
       "priceBand": "₹558-586",
       "size": "3,02,82,330 shares",
-      "gmp": "₹130",
-      "gain": "22%",
+      "gmp": "₹108",
+      "gain": "18%",
       "registrar": "",
       "listingGain": "",
       "status": "open"
@@ -27,8 +27,8 @@
       "listing": "2026-10-22",
       "priceBand": "₹327-344",
       "size": "97,50,482 shares",
-      "gmp": "₹24",
-      "gain": "7%",
+      "gmp": "₹16",
+      "gain": "5%",
       "registrar": "",
       "listingGain": "",
       "status": "open"
@@ -42,8 +42,8 @@
       "listing": "2026-10-22",
       "priceBand": "₹665-700",
       "size": "85,26,033 shares",
-      "gmp": "₹510",
-      "gain": "73%",
+      "gmp": "₹500",
+      "gain": "71%",
       "registrar": "",
       "listingGain": "",
       "status": "open"
@@ -57,8 +57,8 @@
       "listing": "2026-10-22",
       "priceBand": "₹143-151",
       "size": "",
-      "gmp": "₹7",
-      "gain": "5%",
+      "gmp": "₹3",
+      "gain": "2%",
       "registrar": "",
       "listingGain": "",
       "status": "open"
@@ -94,36 +94,6 @@
       "status": "open"
     },
     {
-      "name": "Jio Platforms Limited",
-      "type": "Mainboard",
-      "open": "2026-10-21",
-      "close": "2026-10-23",
-      "allotment": "2026-10-27",
-      "listing": "2026-10-28",
-      "priceBand": "₹1065-1119",
-      "size": "27,00,00,000 shares",
-      "gmp": "₹249",
-      "gain": "22%",
-      "registrar": "",
-      "listingGain": "",
-      "status": "upcoming"
-    },
-    {
-      "name": "Paras Healthcare Limited",
-      "type": "Mainboard",
-      "open": "2026-10-21",
-      "close": "2026-10-23",
-      "allotment": "2026-10-27",
-      "listing": "2026-10-28",
-      "priceBand": "₹660-693",
-      "size": "2,19,69,695 shares",
-      "gmp": "₹92",
-      "gain": "13%",
-      "registrar": "",
-      "listingGain": "",
-      "status": "upcoming"
-    },
-    {
       "name": "HD Fire Protect",
       "type": "Mainboard",
       "open": "2026-10-13",
@@ -132,11 +102,11 @@
       "listing": "2026-10-20",
       "priceBand": "₹258-271",
       "size": "",
-      "gmp": "₹68",
-      "gain": "25%",
+      "gmp": "₹65",
+      "gain": "24%",
       "registrar": "",
       "listingGain": "",
-      "status": "closed"
+      "status": "allotment"
     },
     {
       "name": "Vaibhav Vyapaar",
@@ -151,7 +121,52 @@
       "gain": "",
       "registrar": "",
       "listingGain": "",
-      "status": "closed"
+      "status": "allotment"
+    },
+    {
+      "name": "Jio Platforms Limited",
+      "type": "Mainboard",
+      "open": "2026-10-21",
+      "close": "2026-10-23",
+      "allotment": "2026-10-27",
+      "listing": "2026-10-28",
+      "priceBand": "₹1065-1119",
+      "size": "27,00,00,000 shares",
+      "gmp": "₹251",
+      "gain": "22%",
+      "registrar": "",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Paras Healthcare Limited",
+      "type": "Mainboard",
+      "open": "2026-10-21",
+      "close": "2026-10-23",
+      "allotment": "2026-10-27",
+      "listing": "2026-10-28",
+      "priceBand": "₹660-693",
+      "size": "2,19,69,695 shares",
+      "gmp": "₹87",
+      "gain": "13%",
+      "registrar": "",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "BLS Polymers",
+      "type": "Mainboard",
+      "open": "2026-10-27",
+      "close": "2026-10-29",
+      "allotment": "2026-11-02",
+      "listing": "2026-11-03",
+      "priceBand": "₹142-150",
+      "size": "",
+      "gmp": "₹20",
+      "gain": "13%",
+      "registrar": "",
+      "listingGain": "",
+      "status": "upcoming"
     },
     {
       "name": "Fusion CX",

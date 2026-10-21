@@ -1,143 +1,8 @@
 {
-  "updatedAt": "2026-10-20T21:22:12.552Z",
+  "updatedAt": "2026-10-21T07:14:54.159Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "KROSS",
-      "name": "Kross Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "355821",
-      "price": "308.08",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "KROSS",
-      "name": "Kross Limited",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "526601",
-      "price": "307.41",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "KSHITIJPOL",
-      "name": "Kshitij Polyline Limited",
-      "clientName": "INDIA FAST FORWARD ADVISORY SERVICES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "2500000",
-      "price": "3.4",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "KSHITIJPOL",
-      "name": "Kshitij Polyline Limited",
-      "clientName": "SATISH MEJIYATAR",
-      "buySell": "SELL",
-      "qty": "2500000",
-      "price": "3.4",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "MARKOLINES",
-      "name": "Markolines Pavement Tec L",
-      "clientName": "VISTAAR TRADING SERVICE PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "122318",
-      "price": "178.68",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "MOMSBELIEF",
-      "name": "Rays of Belief Limited",
-      "clientName": "QICAP MARKETS LLP",
-      "buySell": "SELL",
-      "qty": "145108",
-      "price": "283.16",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "MOMSBELIEF",
-      "name": "Rays of Belief Limited",
-      "clientName": "PROGNOSIS SECURITIES PVT. LTD",
-      "buySell": "SELL",
-      "qty": "205424",
-      "price": "291.17",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "MOMSBELIEF",
-      "name": "Rays of Belief Limited",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "179847",
-      "price": "286.02",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "MOMSBELIEF",
-      "name": "Rays of Belief Limited",
-      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
-      "buySell": "SELL",
-      "qty": "216272",
-      "price": "286.46",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "MOMSBELIEF",
-      "name": "Rays of Belief Limited",
-      "clientName": "DEALMONEY COMMODITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "216166",
-      "price": "269.51",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "MOMSBELIEF",
-      "name": "Rays of Belief Limited",
-      "clientName": "STACKIN PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "154135",
-      "price": "282.92",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "MOMSBELIEF",
-      "name": "Rays of Belief Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "397871",
-      "price": "284.26",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "MOMSBELIEF",
-      "name": "Rays of Belief Limited",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "258460",
-      "price": "286.3",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "MOMSBELIEF",
-      "name": "Rays of Belief Limited",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "324557",
-      "price": "281.9",
-      "date": "19-Oct-2026"
-    },
-    {
-      "symbol": "ONWARDTEC",
-      "name": "Onward Technologies Ltd",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "134025",
-      "price": "474.95",
-      "date": "19-Oct-2026"
-    },
     {
       "symbol": "PCJEWELLER",
       "name": "PC Jeweller Ltd",
@@ -721,6 +586,141 @@
       "buySell": "BUY",
       "qty": "204026916",
       "price": "18.04",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "PLATIND",
+      "name": "Platinum Industries Ltd",
+      "clientName": "BLITZQUANT RESEARCH LLP",
+      "buySell": "BUY",
+      "qty": "515178",
+      "price": "228.29",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "PLATIND",
+      "name": "Platinum Industries Ltd",
+      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
+      "buySell": "BUY",
+      "qty": "324186",
+      "price": "228.56",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "PLATIND",
+      "name": "Platinum Industries Ltd",
+      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
+      "buySell": "BUY",
+      "qty": "448710",
+      "price": "228.17",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "THAKKAR NILESHKUMAR FARSHURAM HUF",
+      "buySell": "BUY",
+      "qty": "700000",
+      "price": "353.98",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "BUY",
+      "qty": "937762",
+      "price": "351.79",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "RICHA",
+      "name": "Richa Info Systems Ltd",
+      "clientName": "PERVASIVE COMMODITIES LIMITED",
+      "buySell": "BUY",
+      "qty": "249000",
+      "price": "83.61",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "RITCO",
+      "name": "Ritco Logistics Limited",
+      "clientName": "MEHTA RUSHIT KANAKBHAI (HUF)",
+      "buySell": "BUY",
+      "qty": "185000",
+      "price": "275.61",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "SAWALIYA",
+      "name": "Sawaliya Food Products L",
+      "clientName": "UNITED SHIPPERS LTD",
+      "buySell": "BUY",
+      "qty": "57600",
+      "price": "185.15",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "SHANTI",
+      "name": "Shanti Overseas (Ind) Ltd",
+      "clientName": "PUNEET BAWEJA",
+      "buySell": "BUY",
+      "qty": "87678",
+      "price": "5.26",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "SKYTECH",
+      "name": "Skytech Infinite Platfm L",
+      "clientName": "VINAYAK HIREMATH",
+      "buySell": "BUY",
+      "qty": "92800",
+      "price": "34.99",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "SMARTLINK",
+      "name": "Smartlink Holdings Ltd",
+      "clientName": "GAURAV AGARWAL",
+      "buySell": "BUY",
+      "qty": "1637",
+      "price": "248.66",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "SWARAJ",
+      "name": "Swaraj Suiting Limited",
+      "clientName": "RISHI KAJARIA",
+      "buySell": "BUY",
+      "qty": "194514",
+      "price": "323.38",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "SWASTIKAIN",
+      "name": "Swastika Infra Limited",
+      "clientName": "WEALTH 4 U HOSPITALITY CONSULTANCY PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "412664",
+      "price": "246.06",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "SWASTIKAIN",
+      "name": "Swastika Infra Limited",
+      "clientName": "VAIBHAV RAJENDRA DOSHI",
+      "buySell": "BUY",
+      "qty": "233168",
+      "price": "244.85",
+      "date": "19-Oct-2026"
+    },
+    {
+      "symbol": "TECHNOCRAF",
+      "name": "Technocraft Ventures Ltd",
+      "clientName": "ACME CAPITAL MARKET LIMITED",
+      "buySell": "BUY",
+      "qty": "215791",
+      "price": "500.17",
       "date": "19-Oct-2026"
     }
   ]

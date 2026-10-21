@@ -537,6 +537,117 @@ async function ipowatchListings() {
   return out;
 }
 
+// Recently listed IPOs from ipoji's listed pages (mainboard + SME).
+//
+// The listing feed's source now. ipowatch's /ipo-listing/ redirects to a 2025
+// archive (so it served last year's IPOs even when reachable), and its
+// Cloudflare rejects GitHub's runners with 403. ipoji is self-hosted (nginx),
+// reachable from the runners, and current. Each card carries a line like
+// "Listing Price: ₹335.0 at a Premium of 23.62%" (or "Discount of 2.27%").
+async function ipojiListed() {
+  const out = [];
+  for (const url of [
+    'https://ipoji.com/ipo/listed-ipo',
+    'https://ipoji.com/sme-ipo/listed-ipo',
+  ]) {
+    const $ = await getHtml(url);
+    $('article.ipo-card').each((_, card) => {
+      const c = $(card);
+      const name = norm(c.find('.ipo-card-name').first().text());
+      const lp = norm(c.text()).match(
+        /Listing Price\s*:\s*₹?\s*([\d,.]+)\s*at a (Premium|Discount|Par)(?: of\s*([\d.]+)\s*%)?/i,
+      );
+      if (!name || !lp) return; // not listed yet — no listing price to report
+      const stat = (label) => {
+        let v = '';
+        c.find('.ipo-card-body-stat').each((_, s) => {
+          if (norm($(s).find('.ipo-card-secondary-label').text()).toLowerCase() === label) {
+            v = norm($(s).find('.ipo-card-body-value').text());
+          }
+        });
+        return v;
+      };
+      const dates = c.find('.ipo-card-date time').toArray().map((t) => norm($(t).text()));
+      // "₹258-271" -> "₹258 to ₹271", the shape the app and calendar expect.
+      const band = stat('offer price').replace(/^₹?\s*([\d,.]+)\s*[-–]\s*([\d,.]+)$/, '₹$1 to ₹$2');
+      const pct = lp[3] ? `${/discount/i.test(lp[2]) ? '-' : ''}${lp[3]}%` : '0%';
+      out.push({
+        name,
+        openDate: dates[0] || '',
+        closeDate: dates[1] || '',
+        size: stat('issue size'),
+        priceBand: band,
+        gmp: '',
+        listingPrice: `₹${Number(lp[1].replace(/,/g, ''))}`,
+        listingGain: pct,
+      });
+    });
+  }
+  if (!out.length) throw new Error('ipoji listed: no rows');
+  return out;
+}
+
+// Broker/analyst IPO reviews from chittorgarh's report API (mainboard + SME).
+//
+// Backup for ipo_reviews while ipowatch blocks the runners. Each IPO lists
+// named reviewers with a verdict ("Capital Market - May apply"); we publish
+// the majority verdict, Capital Market's own call (the app's "CM Rating"), and
+// who reviewed it — always credited to the reviewers, never presented as ours.
+const VERDICT = [
+  [/^(avoid|do not|don't|not)/i, 'Avoid'],
+  [/^may/i, 'May Apply'],
+  [/neutral|hold/i, 'Neutral'],
+  [/^(apply|subscribe|must)/i, 'Apply'],
+];
+
+async function chittorgarhReviews() {
+  const now = new Date();
+  const y = now.getFullYear();
+  // Indian financial year: Apr 2026–Mar 2027 is "2026-27".
+  const fyStart = now.getMonth() >= 3 ? y : y - 1;
+  const fy = `${fyStart}-${String((fyStart + 1) % 100).padStart(2, '0')}`;
+  const out = [];
+  for (const board of ['mainboard', 'sme']) {
+    const data = await getJson(
+      `https://webnodejs.chittorgarh.com/cloud/report/data-read/73/1/10/${y}/${fy}/0/${board}/0?search=`,
+      { Referer: 'https://www.chittorgarh.com/' },
+    );
+    for (const r of (data && data.reportTableData) || []) {
+      const $ = load(r.Reviews || '');
+      const reviews = $('li')
+        .toArray()
+        .map((li) => {
+          const [by, call] = norm($(li).text()).split(/\s+-\s+(?=[^-]*$)/);
+          return { by: norm(by), call: norm(call) };
+        })
+        .filter((v) => v.by && v.call);
+      if (!reviews.length) continue; // no analyst has reviewed it yet
+
+      const tally = {};
+      for (const v of reviews) {
+        const label = (VERDICT.find(([re]) => re.test(v.call)) || [null, 'Neutral'])[1];
+        tally[label] = (tally[label] || 0) + 1;
+      }
+      const [top] = Object.entries(tally).sort((a, b) => b[1] - a[1]);
+      const cm = reviews.find((v) => /capital market/i.test(v.by));
+      const slug = norm(r['~URLRewrite_Folder_Name']);
+      out.push({
+        title: norm(r.Company).replace(/\s+(Ltd\.?|Limited)$/i, ''),
+        date: '',
+        applyOrNot: `${top[0]} (${top[1]}/${reviews.length} reviewers)`,
+        rating: '',
+        cmRating: cm ? cm.call : '',
+        reviewBy: reviews.map((v) => v.by).join(', '),
+        type: norm(r['Issue Type']) || (board === 'sme' ? 'SME' : 'Mainboard'),
+        url: slug ? `https://www.chittorgarh.com/ipo/${slug}/${r['~id']}/` : '',
+      });
+    }
+    await sleep(400);
+  }
+  if (!out.length) throw new Error('chittorgarh reviews: no rows');
+  return out;
+}
+
 // ---------------------------------------------------------------------------
 // IPO calendar (derived feed)
 // ---------------------------------------------------------------------------
@@ -935,6 +1046,9 @@ const FEATURES = [
           return rows.map((r) => ({ ...r, url: absIpowatch(r.url) }));
         },
       },
+      // ipowatch's Cloudflare rejects GitHub's runners (HTTP 403); this keeps
+      // the feed alive with credited broker verdicts until it lets them back.
+      { name: 'chittorgarh', run: () => chittorgarhReviews() },
     ],
   },
   {
@@ -1026,7 +1140,9 @@ const FEATURES = [
   },
   {
     name: 'listing',
-    sources: [{ name: 'ipowatch', run: () => ipowatchListings() }],
+    // ipoji only: ipowatch's /ipo-listing/ now redirects to a 2025 archive, so
+    // even when reachable it would publish last year's listings as fresh.
+    sources: [{ name: 'ipoji', run: () => ipojiListed() }],
   },
   {
     name: 'news',

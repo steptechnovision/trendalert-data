@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T21:32:59.291Z",
+  "updatedAt": "2026-10-22T07:16:22.294Z",
   "source": "derived",
   "count": 13,
   "items": [
@@ -12,8 +12,8 @@
       "listing": "2026-10-28",
       "priceBand": "₹1065-1119",
       "size": "19,75,25,934 shares",
-      "gmp": "₹246",
-      "gain": "22%",
+      "gmp": "₹240",
+      "gain": "21%",
       "registrar": "",
       "listingGain": "",
       "status": "open"
@@ -27,8 +27,8 @@
       "listing": "2026-10-28",
       "priceBand": "₹660-693",
       "size": "1,20,83,331 shares",
-      "gmp": "₹30",
-      "gain": "4%",
+      "gmp": "₹15",
+      "gain": "2%",
       "registrar": "",
       "listingGain": "",
       "status": "open"
@@ -42,11 +42,11 @@
       "listing": "2026-10-22",
       "priceBand": "₹558-586",
       "size": "",
-      "gmp": "₹125",
-      "gain": "21%",
+      "gmp": "₹90",
+      "gain": "15%",
       "registrar": "",
       "listingGain": "",
-      "status": "allotment"
+      "status": "listing"
     },
     {
       "name": "Sahajanand Medical Technologies",
@@ -57,11 +57,11 @@
       "listing": "2026-10-22",
       "priceBand": "₹327-344",
       "size": "",
-      "gmp": "₹21",
-      "gain": "6%",
+      "gmp": "₹17",
+      "gain": "5%",
       "registrar": "",
       "listingGain": "",
-      "status": "allotment"
+      "status": "listing"
     },
     {
       "name": "Shellz India",
@@ -76,7 +76,7 @@
       "gain": "",
       "registrar": "",
       "listingGain": "",
-      "status": "allotment"
+      "status": "listing"
     },
     {
       "name": "Tonbo Imaging India",
@@ -87,11 +87,11 @@
       "listing": "2026-10-22",
       "priceBand": "₹665-700",
       "size": "",
-      "gmp": "₹500",
-      "gain": "71%",
+      "gmp": "₹460",
+      "gain": "66%",
       "registrar": "",
       "listingGain": "",
-      "status": "allotment"
+      "status": "listing"
     },
     {
       "name": "Zetwerk Manufacturing Business",
@@ -104,36 +104,6 @@
       "size": "",
       "gmp": "",
       "gain": "0%",
-      "registrar": "",
-      "listingGain": "",
-      "status": "allotment"
-    },
-    {
-      "name": "Fusion CX",
-      "type": "Mainboard",
-      "open": "2026-10-14",
-      "close": "2026-10-16",
-      "allotment": "2026-10-20",
-      "listing": "2026-10-21",
-      "priceBand": "₹275-289",
-      "size": "",
-      "gmp": "₹14",
-      "gain": "5%",
-      "registrar": "",
-      "listingGain": "",
-      "status": "listing"
-    },
-    {
-      "name": "Ravita Engineering Services",
-      "type": "NSE SME",
-      "open": "2026-10-14",
-      "close": "2026-10-16",
-      "allotment": "2026-10-20",
-      "listing": "2026-10-21",
-      "priceBand": "₹105-112",
-      "size": "",
-      "gmp": "",
-      "gain": "",
       "registrar": "",
       "listingGain": "",
       "status": "listing"
@@ -194,6 +164,36 @@
       "size": "",
       "gmp": "₹30",
       "gain": "9%",
+      "registrar": "",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Wiscon Industries",
+      "type": "BSE SME",
+      "open": "2026-10-27",
+      "close": "2026-10-29",
+      "allotment": "2026-11-02",
+      "listing": "2026-11-03",
+      "priceBand": "₹194-204",
+      "size": "",
+      "gmp": "",
+      "gain": "",
+      "registrar": "",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Bombay Coated Special Steels",
+      "type": "Mainboard",
+      "open": "2026-10-29",
+      "close": "2026-11-02",
+      "allotment": "2026-11-04",
+      "listing": "2026-11-05",
+      "priceBand": "—",
+      "size": "",
+      "gmp": "",
+      "gain": "",
       "registrar": "",
       "listingGain": "",
       "status": "upcoming"

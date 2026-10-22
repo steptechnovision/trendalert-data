@@ -1,296 +1,8 @@
 {
-  "updatedAt": "2026-10-22T18:02:08.836Z",
+  "updatedAt": "2026-10-22T21:44:13.611Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "RAVITA",
-      "name": "Ravita Engineering Ser L",
-      "clientName": "YASH HITESH PATEL",
-      "buySell": "BUY",
-      "qty": "529200",
-      "price": "112",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "RAVITA",
-      "name": "Ravita Engineering Ser L",
-      "clientName": "YASHVI HITESH PATEL",
-      "buySell": "BUY",
-      "qty": "718800",
-      "price": "111.96",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "SONA",
-      "name": "Sonaselection India Ltd",
-      "clientName": "AMRAPALI CAPITAL AND FINANCE SERVICES LTD",
-      "buySell": "BUY",
-      "qty": "300000",
-      "price": "94.01",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "SUNTECK",
-      "name": "Sunteck Realty Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "821741",
-      "price": "283.69",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "SUPREMEENG",
-      "name": "Supreme Engineering Ltd",
-      "clientName": "NEO APEX SHARE BROKING SERVICES LLP",
-      "buySell": "BUY",
-      "qty": "2500000",
-      "price": "5.21",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "TECHNOCRAF",
-      "name": "Technocraft Ventures Ltd",
-      "clientName": "ACME CAPITAL MARKET LIMITED",
-      "buySell": "BUY",
-      "qty": "199889",
-      "price": "493.36",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "TTML",
-      "name": "Tata Teleservices (Mahara",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "9912546",
-      "price": "35.91",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "AISL",
-      "name": "ANI Integrated Serv Ltd.",
-      "clientName": "KAILASHBEN ASHOKKUMAR PATEL",
-      "buySell": "SELL",
-      "qty": "166800",
-      "price": "29",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "CAPINVIT",
-      "name": "Capital Infra Trust",
-      "clientName": "A.K. CAPITAL FINANCE LIMITED",
-      "buySell": "SELL",
-      "qty": "6644519",
-      "price": "75.59",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "COMFINTE",
-      "name": "Comfort Intech Ltd.",
-      "clientName": "HJS SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "2323414",
-      "price": "11.01",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "COMFINTE",
-      "name": "Comfort Intech Ltd.",
-      "clientName": "NIKUNJ JAGADISHCHANDRA PUROHIT",
-      "buySell": "SELL",
-      "qty": "20000",
-      "price": "11.02",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "COMFINTE",
-      "name": "Comfort Intech Ltd.",
-      "clientName": "MULTIPLIER SHARE & STOCK ADVISORS PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "2009828",
-      "price": "11.14",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "CLT RESEARCH TECH PRIVATE LTD",
-      "buySell": "SELL",
-      "qty": "559876",
-      "price": "50.54",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
-      "buySell": "SELL",
-      "qty": "603503",
-      "price": "52.28",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1139725",
-      "price": "50.44",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "IMC INDIA SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "723981",
-      "price": "50.9",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "2434910",
-      "price": "50.98",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "1076990",
-      "price": "51.7",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "766561",
-      "price": "51.85",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1146580",
-      "price": "51.17",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "868714",
-      "price": "51.28",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "IRAGE BROKING SERVICES LLP",
-      "buySell": "SELL",
-      "qty": "823459",
-      "price": "51.55",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "QICAP MARKETS LLP",
-      "buySell": "SELL",
-      "qty": "582361",
-      "price": "50.37",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "MARWADI SHARES AND FINANCE LTD.",
-      "buySell": "SELL",
-      "qty": "456837",
-      "price": "50.74",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "EMUDHRA",
-      "name": "eMudhra Limited",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "480173",
-      "price": "374.65",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "FUSIONCX",
-      "name": "Fusion CX Limited",
-      "clientName": "BNP PARIBAS FINANCIAL MARKETS",
-      "buySell": "SELL",
-      "qty": "738670",
-      "price": "303.91",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "FUSIONCX",
-      "name": "Fusion CX Limited",
-      "clientName": "BNP PARIBAS FINANCIAL MARKETS",
-      "buySell": "SELL",
-      "qty": "1268541",
-      "price": "304.81",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "GALLANTT",
-      "name": "Gallantt Ispat Limited",
-      "clientName": "GALLANTT INDUSTRY PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "2651975",
-      "price": "565",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "HEROMOTORS",
-      "name": "Hero Motors Limited",
-      "clientName": "MANSI SHARE AND STOCK BROKING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "2413254",
-      "price": "116.66",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "INDIACEM",
-      "name": "The India Cements Limited",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1964092",
-      "price": "341.7",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "INDIACEM",
-      "name": "The India Cements Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "2417444",
-      "price": "341.01",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "INDIACEM",
-      "name": "The India Cements Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "2095589",
-      "price": "343.49",
-      "date": "22-Oct-2026"
-    },
     {
       "symbol": "KHERIAAUTO",
       "name": "Kheria Autocomp Limited",
@@ -553,141 +265,6 @@
       "date": "22-Oct-2026"
     },
     {
-      "symbol": "AISL",
-      "name": "ANI Integrated Serv Ltd.",
-      "clientName": "DIPAKKUMAR BABALBHAI PATEL",
-      "buySell": "BUY",
-      "qty": "166800",
-      "price": "29",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "CAPINVIT",
-      "name": "Capital Infra Trust",
-      "clientName": "LARSEN & TOUBRO LIMITED",
-      "buySell": "BUY",
-      "qty": "6644519",
-      "price": "75.59",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "COMFINTE",
-      "name": "Comfort Intech Ltd.",
-      "clientName": "NIKUNJ JAGADISHCHANDRA PUROHIT",
-      "buySell": "BUY",
-      "qty": "2734570",
-      "price": "11.01",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "COMFINTE",
-      "name": "Comfort Intech Ltd.",
-      "clientName": "MULTIPLIER SHARE & STOCK ADVISORS PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1459828",
-      "price": "11.11",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "COMFINTE",
-      "name": "Comfort Intech Ltd.",
-      "clientName": "HJS SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "3304867",
-      "price": "11",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "SILVERLEAF CAPITAL SERVICES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "868714",
-      "price": "51.28",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "QICAP MARKETS LLP",
-      "buySell": "BUY",
-      "qty": "574550",
-      "price": "50.36",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "MARWADI SHARES AND FINANCE LTD.",
-      "buySell": "BUY",
-      "qty": "456837",
-      "price": "50.52",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "IMC INDIA SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "745636",
-      "price": "50.82",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "CLT RESEARCH TECH PRIVATE LTD",
-      "buySell": "BUY",
-      "qty": "559876",
-      "price": "50.52",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "2434910",
-      "price": "50.89",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "766561",
-      "price": "51.82",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "IRAGE BROKING SERVICES LLP",
-      "buySell": "BUY",
-      "qty": "591749",
-      "price": "51.84",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "1075889",
-      "price": "51.02",
-      "date": "22-Oct-2026"
-    },
-    {
-      "symbol": "DCMSRIND",
-      "name": "DCM Shriram Ind Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1131778",
-      "price": "50.46",
-      "date": "22-Oct-2026"
-    },
-    {
       "symbol": "DCMSRIND",
       "name": "DCM Shriram Ind Ltd",
       "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
@@ -721,6 +298,429 @@
       "buySell": "BUY",
       "qty": "2651975",
       "price": "565",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "HEROMOTORS",
+      "name": "Hero Motors Limited",
+      "clientName": "MANSI SHARE AND STOCK BROKING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "2653130",
+      "price": "116.91",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "INDIACEM",
+      "name": "The India Cements Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "2141447",
+      "price": "342.44",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "INDIACEM",
+      "name": "The India Cements Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1964092",
+      "price": "341.59",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "INDIACEM",
+      "name": "The India Cements Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "2417444",
+      "price": "340.85",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "KHERIAAUTO",
+      "name": "Kheria Autocomp Limited",
+      "clientName": "SMC GLOBAL SECURITIES LIMITED",
+      "buySell": "BUY",
+      "qty": "82800",
+      "price": "100.99",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "KROSS",
+      "name": "Kross Limited",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "247784",
+      "price": "287.93",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "KROSS",
+      "name": "Kross Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "350296",
+      "price": "290.33",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "KROSS",
+      "name": "Kross Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "334073",
+      "price": "290.21",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "MANOMAY",
+      "name": "Manomay Tex India Ltd",
+      "clientName": "PAWAN KUMAR MITTAL",
+      "buySell": "BUY",
+      "qty": "133028",
+      "price": "240.73",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "MARSONS",
+      "name": "Marsons Limited",
+      "clientName": "PROGNOSIS SECURITIES PVT. LTD",
+      "buySell": "BUY",
+      "qty": "263812",
+      "price": "122.24",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "MOMSBELIEF",
+      "name": "Rays of Belief Limited",
+      "clientName": "PROGNOSIS SECURITIES PVT. LTD",
+      "buySell": "BUY",
+      "qty": "10427",
+      "price": "273.62",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "MOMSBELIEF",
+      "name": "Rays of Belief Limited",
+      "clientName": "MKJ ENTERPRISES LTD.",
+      "buySell": "BUY",
+      "qty": "165000",
+      "price": "264.77",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "MVELECTRO",
+      "name": "MV Electrosystems Limited",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "161692",
+      "price": "846.32",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "NKIND",
+      "name": "Nk Industries Ltd",
+      "clientName": "PUNEET MITTAL HUF",
+      "buySell": "BUY",
+      "qty": "52527",
+      "price": "66.82",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "OMNI",
+      "name": "Omnitech Engineering Ltd",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "831820",
+      "price": "661.7",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "OMNI",
+      "name": "Omnitech Engineering Ltd",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "724456",
+      "price": "663.92",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "OPTIFIN",
+      "name": "Optimus Finance Ltd.",
+      "clientName": "NIKUNJ SHAH",
+      "buySell": "BUY",
+      "qty": "502000",
+      "price": "16.88",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "OPTIFIN",
+      "name": "Optimus Finance Ltd.",
+      "clientName": "YASH DASHARATH GOTARANE",
+      "buySell": "BUY",
+      "qty": "3300000",
+      "price": "16.61",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "OPTIFIN",
+      "name": "Optimus Finance Ltd.",
+      "clientName": "D3 STOCK VISION LLP",
+      "buySell": "BUY",
+      "qty": "397079",
+      "price": "16.73",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "OPTIFIN",
+      "name": "Optimus Finance Ltd.",
+      "clientName": "NEO APEX SHARE BROKING SERVICES LLP",
+      "buySell": "BUY",
+      "qty": "1590609",
+      "price": "16.9",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "PAPADMALJI",
+      "name": "Papadmalji Agro Foods Ltd",
+      "clientName": "NEETU NAHAR",
+      "buySell": "BUY",
+      "qty": "99200",
+      "price": "46.33",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "PASHUPATI",
+      "name": "Pashupati Cotspin Limited",
+      "clientName": "PATEL PRATIK SANJAYKUMAR",
+      "buySell": "BUY",
+      "qty": "866252",
+      "price": "94.87",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "PCJEWELLER",
+      "name": "PC Jeweller Ltd",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "99078736",
+      "price": "18.51",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "PCJEWELLER",
+      "name": "PC Jeweller Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "64743911",
+      "price": "18.84",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "PCJEWELLER",
+      "name": "PC Jeweller Ltd",
+      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "219803877",
+      "price": "18.82",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "PRANAV",
+      "name": "Pranav Constructions Ltd",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "523609",
+      "price": "91.67",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "PRANAV",
+      "name": "Pranav Constructions Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "702112",
+      "price": "91.97",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "PRANAV",
+      "name": "Pranav Constructions Ltd",
+      "clientName": "MATHISYS QUANTCAP LLP",
+      "buySell": "BUY",
+      "qty": "592975",
+      "price": "92.32",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "PRANAV",
+      "name": "Pranav Constructions Ltd",
+      "clientName": "KAILASH KABRA",
+      "buySell": "BUY",
+      "qty": "1914235",
+      "price": "92.35",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "RAVITA",
+      "name": "Ravita Engineering Ser L",
+      "clientName": "FINAVENUE GROWTH FUND",
+      "buySell": "BUY",
+      "qty": "366000",
+      "price": "112.58",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "RAVITA",
+      "name": "Ravita Engineering Ser L",
+      "clientName": "BHAVNA HITESH PATEL",
+      "buySell": "BUY",
+      "qty": "469200",
+      "price": "112",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "RAVITA",
+      "name": "Ravita Engineering Ser L",
+      "clientName": "YASH HITESH PATEL",
+      "buySell": "BUY",
+      "qty": "529200",
+      "price": "112",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "RAVITA",
+      "name": "Ravita Engineering Ser L",
+      "clientName": "YASHVI HITESH PATEL",
+      "buySell": "BUY",
+      "qty": "718800",
+      "price": "111.96",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "SONA",
+      "name": "Sonaselection India Ltd",
+      "clientName": "AMRAPALI CAPITAL AND FINANCE SERVICES LTD",
+      "buySell": "BUY",
+      "qty": "300000",
+      "price": "94.01",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "SUNTECK",
+      "name": "Sunteck Realty Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "821741",
+      "price": "283.69",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "SUPREMEENG",
+      "name": "Supreme Engineering Ltd",
+      "clientName": "NEO APEX SHARE BROKING SERVICES LLP",
+      "buySell": "BUY",
+      "qty": "2500000",
+      "price": "5.21",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "TECHNOCRAF",
+      "name": "Technocraft Ventures Ltd",
+      "clientName": "ACME CAPITAL MARKET LIMITED",
+      "buySell": "BUY",
+      "qty": "199889",
+      "price": "493.36",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "TTML",
+      "name": "Tata Teleservices (Mahara",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "9912546",
+      "price": "35.91",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "AISL",
+      "name": "ANI Integrated Serv Ltd.",
+      "clientName": "KAILASHBEN ASHOKKUMAR PATEL",
+      "buySell": "SELL",
+      "qty": "166800",
+      "price": "29",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "CAPINVIT",
+      "name": "Capital Infra Trust",
+      "clientName": "A.K. CAPITAL FINANCE LIMITED",
+      "buySell": "SELL",
+      "qty": "6644519",
+      "price": "75.59",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "COMFINTE",
+      "name": "Comfort Intech Ltd.",
+      "clientName": "HJS SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "2323414",
+      "price": "11.01",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "COMFINTE",
+      "name": "Comfort Intech Ltd.",
+      "clientName": "NIKUNJ JAGADISHCHANDRA PUROHIT",
+      "buySell": "SELL",
+      "qty": "20000",
+      "price": "11.02",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "COMFINTE",
+      "name": "Comfort Intech Ltd.",
+      "clientName": "MULTIPLIER SHARE & STOCK ADVISORS PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "2009828",
+      "price": "11.14",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "DCMSRIND",
+      "name": "DCM Shriram Ind Ltd",
+      "clientName": "CLT RESEARCH TECH PRIVATE LTD",
+      "buySell": "SELL",
+      "qty": "559876",
+      "price": "50.54",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "DCMSRIND",
+      "name": "DCM Shriram Ind Ltd",
+      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
+      "buySell": "SELL",
+      "qty": "603503",
+      "price": "52.28",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "DCMSRIND",
+      "name": "DCM Shriram Ind Ltd",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1139725",
+      "price": "50.44",
+      "date": "22-Oct-2026"
+    },
+    {
+      "symbol": "DCMSRIND",
+      "name": "DCM Shriram Ind Ltd",
+      "clientName": "IMC INDIA SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "723981",
+      "price": "50.9",
       "date": "22-Oct-2026"
     }
   ]

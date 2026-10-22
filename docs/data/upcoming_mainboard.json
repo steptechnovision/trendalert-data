@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-22T07:16:22.294Z",
+  "updatedAt": "2026-10-22T13:01:56.821Z",
   "source": "nse",
-  "count": 2,
+  "count": 5,
   "items": [
     {
       "title": "Paras Healthcare Limited",
@@ -18,6 +18,33 @@
       "closeDate": "23 Oct",
       "size": "19,75,25,934 shares",
       "priceBand": "₹1065 to ₹1119",
+      "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "title": "BLS Polymers Limited",
+      "openDate": "27 Oct",
+      "closeDate": "29 Oct",
+      "size": "1,70,00,000 shares",
+      "priceBand": "₹142 to ₹150",
+      "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "title": "SFC Environmental Technologies Limited",
+      "openDate": "27 Oct",
+      "closeDate": "29 Oct",
+      "size": "2,04,75,082 shares",
+      "priceBand": "₹313 to ₹330",
+      "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "title": "EAAA India Alternatives Limited",
+      "openDate": "26 Oct",
+      "closeDate": "28 Oct",
+      "size": "75,70,977 shares",
+      "priceBand": "₹1585 to ₹1665",
       "type": "Mainboard",
       "url": ""
     }

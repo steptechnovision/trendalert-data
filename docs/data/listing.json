@@ -1,8 +1,38 @@
 {
-  "updatedAt": "2026-10-22T21:44:13.611Z",
+  "updatedAt": "2026-10-23T07:08:53.241Z",
   "source": "ipoji",
-  "count": 35,
+  "count": 33,
   "items": [
+    {
+      "name": "Sahajanand Medical Technologies",
+      "openDate": "Oct 15, 2026",
+      "closeDate": "Oct 19, 2026",
+      "size": "₹475.48 Cr",
+      "priceBand": "₹327 to ₹344",
+      "gmp": "",
+      "listingPrice": "₹371.15",
+      "listingGain": "7.89%"
+    },
+    {
+      "name": "Tonbo Imaging India",
+      "openDate": "Oct 15, 2026",
+      "closeDate": "Oct 19, 2026",
+      "size": "₹852.18 Cr",
+      "priceBand": "₹665 to ₹700",
+      "gmp": "",
+      "listingPrice": "₹1160",
+      "listingGain": "65.71%"
+    },
+    {
+      "name": "Zetwerk Manufacturing Business",
+      "openDate": "Oct 15, 2026",
+      "closeDate": "Oct 19, 2026",
+      "size": "₹5012.33 Cr",
+      "priceBand": "₹143 to ₹151",
+      "gmp": "",
+      "listingPrice": "₹159.25",
+      "listingGain": "5.46%"
+    },
     {
       "name": "Fusion CX",
       "openDate": "Oct 14, 2026",
@@ -142,46 +172,6 @@
       "gmp": "",
       "listingPrice": "₹355.1",
       "listingGain": "-1.91%"
-    },
-    {
-      "name": "Varmora Granito",
-      "openDate": "Sep 22, 2026",
-      "closeDate": "Sep 24, 2026",
-      "size": "₹708.02 Cr",
-      "priceBand": "₹140 to ₹148",
-      "gmp": "",
-      "listingPrice": "₹155",
-      "listingGain": "4.73%"
-    },
-    {
-      "name": "Sonaselection India",
-      "openDate": "Sep 17, 2026",
-      "closeDate": "Sep 21, 2026",
-      "size": "₹141.57 Cr",
-      "priceBand": "₹94 to ₹99",
-      "gmp": "",
-      "listingPrice": "₹102.31",
-      "listingGain": "3.34%"
-    },
-    {
-      "name": "NSE",
-      "openDate": "Sep 17, 2026",
-      "closeDate": "Sep 21, 2026",
-      "size": "₹22561.57 Cr",
-      "priceBand": "₹1700 to ₹1785",
-      "gmp": "",
-      "listingPrice": "₹1800",
-      "listingGain": "0.84%"
-    },
-    {
-      "name": "Hero Motors",
-      "openDate": "Sep 16, 2026",
-      "closeDate": "Sep 18, 2026",
-      "size": "₹1000 Cr",
-      "priceBand": "₹79 to ₹84",
-      "gmp": "",
-      "listingPrice": "₹82",
-      "listingGain": "-2.38%"
     },
     {
       "name": "Vaibhav Vyapaar",
@@ -342,16 +332,6 @@
       "gmp": "",
       "listingPrice": "₹79.2",
       "listingGain": "-20%"
-    },
-    {
-      "name": "Acme Universal Safezone 9",
-      "openDate": "Sep 28, 2026",
-      "closeDate": "Sep 30, 2026",
-      "size": "₹35.93 Cr",
-      "priceBand": "₹65 to ₹71",
-      "gmp": "",
-      "listingPrice": "₹101",
-      "listingGain": "42.25%"
     }
   ]
 }

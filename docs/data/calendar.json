@@ -1,38 +1,8 @@
 {
-  "updatedAt": "2026-10-23T21:08:35.640Z",
+  "updatedAt": "2026-10-24T06:58:31.918Z",
   "source": "derived",
   "count": 10,
   "items": [
-    {
-      "name": "Jio Platforms Limited",
-      "type": "Mainboard",
-      "open": "2026-10-21",
-      "close": "2026-10-23",
-      "allotment": "2026-10-27",
-      "listing": "2026-10-28",
-      "priceBand": "₹1065-1119",
-      "size": "19,75,25,934 shares",
-      "gmp": "₹245",
-      "gain": "22%",
-      "registrar": "",
-      "listingGain": "",
-      "status": "open"
-    },
-    {
-      "name": "Paras Healthcare Limited",
-      "type": "Mainboard",
-      "open": "2026-10-21",
-      "close": "2026-10-23",
-      "allotment": "2026-10-27",
-      "listing": "2026-10-28",
-      "priceBand": "₹660-693",
-      "size": "1,20,83,331 shares",
-      "gmp": "₹8",
-      "gain": "1%",
-      "registrar": "",
-      "listingGain": "",
-      "status": "open"
-    },
     {
       "name": "Core4 Engineers",
       "type": "BSE SME",
@@ -57,8 +27,8 @@
       "listing": "2026-11-02",
       "priceBand": "₹1585-1665",
       "size": "52,99,684 shares",
-      "gmp": "",
-      "gain": "",
+      "gmp": "₹120",
+      "gain": "7%",
       "registrar": "",
       "listingGain": "",
       "status": "upcoming"
@@ -152,6 +122,36 @@
       "registrar": "",
       "listingGain": "",
       "status": "upcoming"
+    },
+    {
+      "name": "Jio Platforms Limited",
+      "type": "Mainboard",
+      "open": "2026-10-21",
+      "close": "2026-10-23",
+      "allotment": "2026-10-27",
+      "listing": "2026-10-28",
+      "priceBand": "₹1065-1119",
+      "size": "19,75,25,934 shares",
+      "gmp": "₹246",
+      "gain": "22%",
+      "registrar": "",
+      "listingGain": "",
+      "status": "closed"
+    },
+    {
+      "name": "Paras Healthcare Limited",
+      "type": "Mainboard",
+      "open": "2026-10-21",
+      "close": "2026-10-23",
+      "allotment": "2026-10-27",
+      "listing": "2026-10-28",
+      "priceBand": "₹660-693",
+      "size": "1,20,83,331 shares",
+      "gmp": "₹10",
+      "gain": "1%",
+      "registrar": "",
+      "listingGain": "",
+      "status": "closed"
     }
   ]
 }

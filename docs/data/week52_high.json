@@ -1,115 +1,16 @@
 {
-  "updatedAt": "2026-10-26T14:32:54.124Z",
+  "updatedAt": "2026-10-26T20:07:49.792Z",
   "source": "5paisa",
   "count": 50,
   "items": [
-    {
-      "name": "Sahajanand Medi",
-      "week52": "446.6",
-      "ltp": "410.60",
-      "gainPct": "8.7 %",
-      "dayLow": "381.45",
-      "dayHigh": "409.95",
-      "volume": "3,752,978"
-    },
-    {
-      "name": "Tonbo Imaging",
-      "week52": "1330.5",
-      "ltp": "1212.85",
-      "gainPct": "7.0 %",
-      "dayLow": "1174.00",
-      "dayHigh": "1209.85",
-      "volume": "9,242,035"
-    },
-    {
-      "name": "Cyient",
-      "week52": "1277",
-      "ltp": "1242.90",
-      "gainPct": "0.8 %",
-      "dayLow": "1201.40",
-      "dayHigh": "1268.00",
-      "volume": "1,780,621"
-    },
-    {
-      "name": "Bonfiglioli Tran",
-      "week52": "622",
-      "ltp": "614.40",
-      "gainPct": "6.9 %",
-      "dayLow": "563.55",
-      "dayHigh": "607.00",
-      "volume": "9,276,746"
-    },
-    {
-      "name": "Steel Str. Wheel",
-      "week52": "558.7",
-      "ltp": "532.25",
-      "gainPct": "13.5 %",
-      "dayLow": "455.05",
-      "dayHigh": "469.70",
-      "volume": "36,618,655"
-    },
-    {
-      "name": "Indian Hotels Co",
-      "week52": "795.65",
-      "ltp": "795.50",
-      "gainPct": "1.8 %",
-      "dayLow": "764.45",
-      "dayHigh": "794.75",
-      "volume": "6,214,738"
-    },
-    {
-      "name": "International Gemological Instit",
-      "week52": "391.5",
-      "ltp": "385.30",
-      "gainPct": "1.1 %",
-      "dayLow": "368.40",
-      "dayHigh": "388.00",
-      "volume": "4,080,375"
-    },
-    {
-      "name": "Steamhouse India",
-      "week52": "139.4",
-      "ltp": "132.94",
-      "gainPct": "0.8 %",
-      "dayLow": "131.00",
-      "dayHigh": "136.00",
-      "volume": "3,096,214"
-    },
-    {
-      "name": "Milkfood",
-      "week52": "96",
-      "ltp": "90.86",
-      "gainPct": "8.1 %",
-      "dayLow": "83.00",
-      "dayHigh": "96.00",
-      "volume": "44,925"
-    },
     {
       "name": "Mangalam Global",
       "week52": "19.35",
       "ltp": "18.22",
       "gainPct": "7.1 %",
       "dayLow": "16.75",
-      "dayHigh": "17.59",
+      "dayHigh": "19.00",
       "volume": "1,898,866"
-    },
-    {
-      "name": "Permanent Magnet",
-      "week52": "1028.25",
-      "ltp": "1028.25",
-      "gainPct": "20.0 %",
-      "dayLow": "966.20",
-      "dayHigh": "1014.90",
-      "volume": "175,480"
-    },
-    {
-      "name": "Mahamaya Steel",
-      "week52": "1535.2",
-      "ltp": "1512.10",
-      "gainPct": "2.6 %",
-      "dayLow": "1421.00",
-      "dayHigh": "1489.00",
-      "volume": "6,450"
     },
     {
       "name": "Optimus Finance",
@@ -130,13 +31,103 @@
       "volume": "5,000"
     },
     {
+      "name": "Tonbo Imaging",
+      "week52": "1330.5",
+      "ltp": "1212.85",
+      "gainPct": "7.0 %",
+      "dayLow": "1174.00",
+      "dayHigh": "1331.45",
+      "volume": "9,242,035"
+    },
+    {
+      "name": "Bonfiglioli Tran",
+      "week52": "622",
+      "ltp": "614.40",
+      "gainPct": "6.9 %",
+      "dayLow": "563.55",
+      "dayHigh": "621.00",
+      "volume": "9,276,746"
+    },
+    {
+      "name": "Cyient",
+      "week52": "1277",
+      "ltp": "1242.90",
+      "gainPct": "0.8 %",
+      "dayLow": "1201.40",
+      "dayHigh": "1268.00",
+      "volume": "1,780,621"
+    },
+    {
+      "name": "Steamhouse India",
+      "week52": "139.4",
+      "ltp": "132.94",
+      "gainPct": "0.8 %",
+      "dayLow": "131.00",
+      "dayHigh": "139.35",
+      "volume": "3,096,214"
+    },
+    {
+      "name": "Permanent Magnet",
+      "week52": "1028.25",
+      "ltp": "1028.25",
+      "gainPct": "20.0 %",
+      "dayLow": "966.20",
+      "dayHigh": "1037.45",
+      "volume": "175,480"
+    },
+    {
       "name": "Quintegra Soln.",
       "week52": "2.69",
       "ltp": "2.69",
       "gainPct": "4.7 %",
       "dayLow": "2.69",
-      "dayHigh": "2.74",
+      "dayHigh": "2.87",
       "volume": "368"
+    },
+    {
+      "name": "Mahamaya Steel",
+      "week52": "1535.2",
+      "ltp": "1512.10",
+      "gainPct": "2.6 %",
+      "dayLow": "1421.00",
+      "dayHigh": "1524.00",
+      "volume": "6,450"
+    },
+    {
+      "name": "International Gemological Instit",
+      "week52": "391.5",
+      "ltp": "385.30",
+      "gainPct": "1.1 %",
+      "dayLow": "368.40",
+      "dayHigh": "391.05",
+      "volume": "4,080,375"
+    },
+    {
+      "name": "Indian Hotels Co",
+      "week52": "795.65",
+      "ltp": "795.50",
+      "gainPct": "1.8 %",
+      "dayLow": "764.45",
+      "dayHigh": "795.65",
+      "volume": "6,214,738"
+    },
+    {
+      "name": "Steel Str. Wheel",
+      "week52": "558.7",
+      "ltp": "532.25",
+      "gainPct": "13.5 %",
+      "dayLow": "455.05",
+      "dayHigh": "559.35",
+      "volume": "36,618,655"
+    },
+    {
+      "name": "Bhagyanagar Ind",
+      "week52": "70.45",
+      "ltp": "70.45",
+      "gainPct": "5.0 %",
+      "dayLow": "70.45",
+      "dayHigh": "70.45",
+      "volume": "16,489"
     },
     {
       "name": "Simca Advertis.",
@@ -148,13 +139,22 @@
       "volume": "16,200"
     },
     {
-      "name": "Bhagyanagar Ind",
-      "week52": "70.45",
-      "ltp": "70.45",
-      "gainPct": "5.0 %",
-      "dayLow": "70.45",
-      "dayHigh": "67.10",
-      "volume": "16,489"
+      "name": "Sahajanand Medi",
+      "week52": "446.6",
+      "ltp": "410.60",
+      "gainPct": "8.7 %",
+      "dayLow": "381.45",
+      "dayHigh": "446.20",
+      "volume": "3,752,978"
+    },
+    {
+      "name": "Milkfood",
+      "week52": "96",
+      "ltp": "90.86",
+      "gainPct": "8.1 %",
+      "dayLow": "83.00",
+      "dayHigh": "96.00",
+      "volume": "44,925"
     },
     {
       "name": "Oriental Hotels",
@@ -220,15 +220,6 @@
       "volume": "1,320,974"
     },
     {
-      "name": "C K K Retail",
-      "week52": "329.25",
-      "ltp": "283.10",
-      "gainPct": "-5.0 %",
-      "dayLow": "283.10",
-      "dayHigh": "0.00",
-      "volume": "35,200"
-    },
-    {
       "name": "Shiv Aum Steels",
       "week52": "584",
       "ltp": "542.15",
@@ -236,6 +227,15 @@
       "dayLow": "542.00",
       "dayHigh": "566.30",
       "volume": "2,522"
+    },
+    {
+      "name": "C K K Retail",
+      "week52": "329.25",
+      "ltp": "283.10",
+      "gainPct": "-5.0 %",
+      "dayLow": "283.10",
+      "dayHigh": "0.00",
+      "volume": "35,200"
     },
     {
       "name": "Ravita Engineering",
@@ -292,15 +292,6 @@
       "volume": "490,699"
     },
     {
-      "name": "Sabar Flex India",
-      "week52": "9.6",
-      "ltp": "9.35",
-      "gainPct": "-0.5 %",
-      "dayLow": "9.35",
-      "dayHigh": "0.00",
-      "volume": "10,000"
-    },
-    {
       "name": "Comfort Intech",
       "week52": "11.19",
       "ltp": "8.29",
@@ -317,6 +308,15 @@
       "dayLow": "16.25",
       "dayHigh": "20.17",
       "volume": "1,136,943,056"
+    },
+    {
+      "name": "Sabar Flex India",
+      "week52": "9.6",
+      "ltp": "9.35",
+      "gainPct": "-0.5 %",
+      "dayLow": "9.35",
+      "dayHigh": "0.00",
+      "volume": "10,000"
     },
     {
       "name": "IIRM Holdings",
@@ -364,6 +364,24 @@
       "volume": "3,509,757"
     },
     {
+      "name": "Mufin Green",
+      "week52": "143.9",
+      "ltp": "128.25",
+      "gainPct": "-0.3 %",
+      "dayLow": "126.50",
+      "dayHigh": "143.90",
+      "volume": "283,545"
+    },
+    {
+      "name": "SwarnsaritaJewel",
+      "week52": "55.62",
+      "ltp": "41.72",
+      "gainPct": "-5.0 %",
+      "dayLow": "41.72",
+      "dayHigh": "56.74",
+      "volume": "16,186"
+    },
+    {
       "name": "Swastika Infra",
       "week52": "254.7",
       "ltp": "198.00",
@@ -380,6 +398,15 @@
       "dayLow": "275.00",
       "dayHigh": "0.00",
       "volume": "36,000"
+    },
+    {
+      "name": "Ambani Orgochem",
+      "week52": "184",
+      "ltp": "157.50",
+      "gainPct": "-4.7 %",
+      "dayLow": "157.05",
+      "dayHigh": "0.00",
+      "volume": "16,000"
     },
     {
       "name": "Bench Mark Infotech Services",
@@ -418,40 +445,13 @@
       "volume": "3,325,392"
     },
     {
-      "name": "Krishana Phosch.",
-      "week52": "216",
-      "ltp": "204.98",
-      "gainPct": "2.7 %",
-      "dayLow": "197.10",
-      "dayHigh": "0.00",
-      "volume": "591,892"
-    },
-    {
-      "name": "Deepa Jewellers",
-      "week52": "277",
-      "ltp": "207.81",
-      "gainPct": "-9.7 %",
-      "dayLow": "204.00",
-      "dayHigh": "276.85",
-      "volume": "6,803,512"
-    },
-    {
-      "name": "Tikona Communication",
-      "week52": "48.26",
-      "ltp": "43.67",
-      "gainPct": "-2.0 %",
-      "dayLow": "43.67",
-      "dayHigh": "43.05",
-      "volume": "572"
-    },
-    {
-      "name": "Mufin Green",
-      "week52": "143.9",
-      "ltp": "128.25",
-      "gainPct": "-0.3 %",
-      "dayLow": "126.50",
-      "dayHigh": "143.90",
-      "volume": "283,545"
+      "name": "Cubex Tubings",
+      "week52": "244.14",
+      "ltp": "214.00",
+      "gainPct": "0.9 %",
+      "dayLow": "214.00",
+      "dayHigh": "242.70",
+      "volume": "164,636"
     }
   ]
 }

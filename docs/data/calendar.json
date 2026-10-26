@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T19:31:01.192Z",
+  "updatedAt": "2026-10-26T07:31:59.481Z",
   "source": "derived",
   "count": 156,
   "items": [
@@ -19,7 +19,7 @@
       "status": "open"
     },
     {
-      "name": "EAAA India Alternatives Upcoming",
+      "name": "EAAA India Alternatives Open",
       "type": "Mainboard",
       "open": "2026-10-26",
       "close": "2026-10-28",
@@ -27,11 +27,11 @@
       "listing": "2026-11-02",
       "priceBand": "₹1,665",
       "size": "",
-      "gmp": "₹80",
-      "gain": "₹1745 (4.80%)",
+      "gmp": "₹50",
+      "gain": "₹1715 (3.00%)",
       "registrar": "",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
     },
     {
       "name": "EAAA India Alternatives",
@@ -46,7 +46,37 @@
       "gain": "",
       "registrar": "MUFG Intime",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
+    },
+    {
+      "name": "Jio Platforms",
+      "type": "Mainboard",
+      "open": "2026-10-21",
+      "close": "2026-10-23",
+      "allotment": "2026-10-26",
+      "listing": "2026-10-28",
+      "priceBand": "₹1065 to ₹1119",
+      "size": "₹30,187.7 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Kfintech",
+      "listingGain": "",
+      "status": "allotment"
+    },
+    {
+      "name": "Paras Healthcare",
+      "type": "Mainboard",
+      "open": "2026-10-21",
+      "close": "2026-10-23",
+      "allotment": "2026-10-26",
+      "listing": "2026-10-28",
+      "priceBand": "₹660 to ₹ 693",
+      "size": "₹1450 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Kfintech",
+      "listingGain": "",
+      "status": "allotment"
     },
     {
       "name": "SFC Environmental Technologies Upcoming",
@@ -57,8 +87,8 @@
       "listing": "2026-11-03",
       "priceBand": "₹330",
       "size": "",
-      "gmp": "₹30",
-      "gain": "₹360 (9.09%)",
+      "gmp": "₹32",
+      "gain": "₹362 (9.70%)",
       "registrar": "",
       "listingGain": "",
       "status": "upcoming"
@@ -72,8 +102,8 @@
       "listing": "2026-11-03",
       "priceBand": "₹150",
       "size": "",
-      "gmp": "₹35",
-      "gain": "₹185 (23.33%)",
+      "gmp": "₹38",
+      "gain": "₹188 (25.33%)",
       "registrar": "",
       "listingGain": "",
       "status": "upcoming"
@@ -1189,36 +1219,6 @@
       "status": "closed"
     },
     {
-      "name": "Jio Platforms",
-      "type": "Mainboard",
-      "open": "2026-10-21",
-      "close": "2026-10-23",
-      "allotment": "2026-10-26",
-      "listing": "2026-10-28",
-      "priceBand": "₹1065 to ₹1119",
-      "size": "₹30,187.7 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "Kfintech",
-      "listingGain": "",
-      "status": "closed"
-    },
-    {
-      "name": "Paras Healthcare",
-      "type": "Mainboard",
-      "open": "2026-10-21",
-      "close": "2026-10-23",
-      "allotment": "2026-10-26",
-      "listing": "2026-10-28",
-      "priceBand": "₹660 to ₹ 693",
-      "size": "₹1450 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "Kfintech",
-      "listingGain": "",
-      "status": "closed"
-    },
-    {
       "name": "Qualiance International",
       "type": "NSE SME",
       "open": "2026-09-04",
@@ -2279,7 +2279,7 @@
       "size": "₹2,533.7 Cr.",
       "gmp": "",
       "gain": "",
-      "registrar": "MUFG Intime",
+      "registrar": "",
       "listingGain": "",
       "status": "listed"
     },
@@ -2294,7 +2294,7 @@
       "size": "₹852.2 Cr.",
       "gmp": "",
       "gain": "",
-      "registrar": "Kfintech",
+      "registrar": "",
       "listingGain": "65.71%",
       "status": "listed"
     },
@@ -2309,7 +2309,7 @@
       "size": "₹5,012.3 Cr.",
       "gmp": "",
       "gain": "",
-      "registrar": "Kfintech",
+      "registrar": "",
       "listingGain": "",
       "status": "listed"
     },
@@ -2324,7 +2324,7 @@
       "size": "₹475.5 Cr.",
       "gmp": "",
       "gain": "",
-      "registrar": "MUFG Intime",
+      "registrar": "",
       "listingGain": "",
       "status": "listed"
     },

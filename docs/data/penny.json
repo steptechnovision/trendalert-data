@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-10-27T07:28:21.152Z",
+  "updatedAt": "2026-10-27T13:33:03.140Z",
   "source": "5paisa",
   "count": 5,
   "items": [
     {
+      "companyName": "Dharan Infra-EPC Ltd",
+      "ltp": "₹0.12",
+      "change": "0",
+      "volume": "9,062,296",
+      "marketCap": "₹62.75"
+    },
+    {
       "companyName": "GACM Technologies Ltd",
-      "ltp": "₹0.54",
-      "change": "3.85",
-      "volume": "5,297,596",
+      "ltp": "₹0.53",
+      "change": "1.92",
+      "volume": "8,502,711",
       "marketCap": "₹83.07"
     },
     {
-      "companyName": "Dharan Infra-EPC Ltd",
-      "ltp": "₹0.13",
-      "change": "8.33",
-      "volume": "5,228,893",
-      "marketCap": "₹62.75"
+      "companyName": "Siti Networks Ltd",
+      "ltp": "₹0.25",
+      "change": "4.17",
+      "volume": "1,442,833",
+      "marketCap": "₹20.93"
+    },
+    {
+      "companyName": "Advik Capital Ltd",
+      "ltp": "₹0.82",
+      "change": "-4.65",
+      "volume": "1,118,645",
+      "marketCap": "₹52.33"
     },
     {
       "companyName": "Gradiente Infotainment Ltd",
       "ltp": "₹1.88",
       "change": "-4.08",
-      "volume": "948,432",
+      "volume": "1,068,579",
       "marketCap": "₹4.41"
-    },
-    {
-      "companyName": "Advik Capital Ltd",
-      "ltp": "₹0.83",
-      "change": "-3.49",
-      "volume": "808,670",
-      "marketCap": "₹52.33"
-    },
-    {
-      "companyName": "Navkar Urbanstructure Ltd",
-      "ltp": "₹0.81",
-      "change": "2.53",
-      "volume": "793,439",
-      "marketCap": "₹88.65"
     }
   ]
 }

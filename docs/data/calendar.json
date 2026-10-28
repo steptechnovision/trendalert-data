@@ -1,23 +1,8 @@
 {
-  "updatedAt": "2026-10-27T18:57:13.453Z",
+  "updatedAt": "2026-10-28T08:01:27.823Z",
   "source": "derived",
-  "count": 160,
+  "count": 161,
   "items": [
-    {
-      "name": "Core4 Engineers",
-      "type": "BSE SME",
-      "open": "2026-10-23",
-      "close": "2026-10-27",
-      "allotment": "2026-10-28",
-      "listing": "2026-10-30",
-      "priceBand": "₹88 to ₹93",
-      "size": "₹54.82 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "Purva Shares",
-      "listingGain": "",
-      "status": "open"
-    },
     {
       "name": "EAAA India Alternatives Open",
       "type": "Mainboard",
@@ -27,8 +12,8 @@
       "listing": "2026-11-02",
       "priceBand": "₹1,665",
       "size": "",
-      "gmp": "₹20",
-      "gain": "₹1685 (1.20%)",
+      "gmp": "₹12",
+      "gain": "₹1677 (0.72%)",
       "registrar": "",
       "listingGain": "",
       "status": "open"
@@ -57,8 +42,8 @@
       "listing": "2026-11-03",
       "priceBand": "₹330",
       "size": "",
-      "gmp": "₹22",
-      "gain": "₹352 (6.67%)",
+      "gmp": "₹18",
+      "gain": "₹348 (5.45%)",
       "registrar": "",
       "listingGain": "",
       "status": "open"
@@ -72,8 +57,8 @@
       "listing": "2026-11-03",
       "priceBand": "₹150",
       "size": "",
-      "gmp": "₹40",
-      "gain": "₹190 (26.67%)",
+      "gmp": "₹44",
+      "gain": "₹194 (29.33%)",
       "registrar": "",
       "listingGain": "",
       "status": "open"
@@ -124,67 +109,7 @@
       "status": "open"
     },
     {
-      "name": "Jio Platforms Closed",
-      "type": "Mainboard",
-      "open": "2026-10-21",
-      "close": "2026-10-23",
-      "allotment": "2026-10-27",
-      "listing": "2026-10-28",
-      "priceBand": "₹1,119",
-      "size": "",
-      "gmp": "₹260",
-      "gain": "₹1379 (23.23%)",
-      "registrar": "",
-      "listingGain": "",
-      "status": "allotment"
-    },
-    {
-      "name": "Paras HealthcareClosed",
-      "type": "Mainboard",
-      "open": "2026-10-21",
-      "close": "2026-10-23",
-      "allotment": "2026-10-27",
-      "listing": "2026-10-28",
-      "priceBand": "₹693",
-      "size": "",
-      "gmp": "₹11",
-      "gain": "₹704 (1.59%)",
-      "registrar": "",
-      "listingGain": "",
-      "status": "allotment"
-    },
-    {
-      "name": "Jio Platforms",
-      "type": "Mainboard",
-      "open": "2026-10-21",
-      "close": "2026-10-23",
-      "allotment": "2026-10-26",
-      "listing": "2026-10-28",
-      "priceBand": "₹1065 to ₹1119",
-      "size": "₹30,187.7 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "Kfintech",
-      "listingGain": "",
-      "status": "allotment"
-    },
-    {
-      "name": "Paras Healthcare",
-      "type": "Mainboard",
-      "open": "2026-10-21",
-      "close": "2026-10-23",
-      "allotment": "2026-10-26",
-      "listing": "2026-10-28",
-      "priceBand": "₹660 to ₹ 693",
-      "size": "₹1450 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "MUFG Intime",
-      "listingGain": "",
-      "status": "allotment"
-    },
-    {
-      "name": "M.K.Sons Fine Jewels Upcoming",
+      "name": "M.K.Sons Fine Jewels Open",
       "type": "Mainboard",
       "open": "2026-10-28",
       "close": "2026-10-30",
@@ -192,11 +117,11 @@
       "listing": "2026-11-04",
       "priceBand": "₹162",
       "size": "",
-      "gmp": "₹8",
-      "gain": "₹170 (4.94%)",
+      "gmp": "₹10",
+      "gain": "₹172 (6.17%)",
       "registrar": "",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
     },
     {
       "name": "M.K.Sons Fine Jewels",
@@ -211,7 +136,7 @@
       "gain": "",
       "registrar": "Bigshare",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
     },
     {
       "name": "Ajwa Projects",
@@ -226,7 +151,7 @@
       "gain": "",
       "registrar": "Kfintech",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
     },
     {
       "name": "Carver Roboweld",
@@ -241,7 +166,52 @@
       "gain": "",
       "registrar": "Bigshare",
       "listingGain": "",
-      "status": "upcoming"
+      "status": "open"
+    },
+    {
+      "name": "Core4 Engineers",
+      "type": "BSE SME",
+      "open": "2026-10-23",
+      "close": "2026-10-27",
+      "allotment": "2026-10-28",
+      "listing": "2026-10-30",
+      "priceBand": "₹88 to ₹93",
+      "size": "₹54.82 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Purva Shares",
+      "listingGain": "",
+      "status": "allotment"
+    },
+    {
+      "name": "Jio Platforms Closed",
+      "type": "Mainboard",
+      "open": "2026-10-21",
+      "close": "2026-10-23",
+      "allotment": "2026-10-27",
+      "listing": "2026-10-28",
+      "priceBand": "₹1,119",
+      "size": "",
+      "gmp": "₹247",
+      "gain": "₹1366 (22.07%)",
+      "registrar": "",
+      "listingGain": "",
+      "status": "listing"
+    },
+    {
+      "name": "Paras HealthcareClosed",
+      "type": "Mainboard",
+      "open": "2026-10-21",
+      "close": "2026-10-23",
+      "allotment": "2026-10-27",
+      "listing": "2026-10-28",
+      "priceBand": "₹693",
+      "size": "",
+      "gmp": "₹13",
+      "gain": "₹706 (1.88%)",
+      "registrar": "",
+      "listingGain": "",
+      "status": "listing"
     },
     {
       "name": "Bombay Coated and Special Steels",
@@ -330,6 +300,21 @@
       "gmp": "",
       "gain": "",
       "registrar": "MUFG Intime",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Vedant Poly Fabs",
+      "type": "NSE SME",
+      "open": "2026-11-02",
+      "close": "2026-11-04",
+      "allotment": "2026-11-05",
+      "listing": "2026-11-09",
+      "priceBand": "₹88 to ₹94",
+      "size": "₹56.68 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Cameo India",
       "listingGain": "",
       "status": "upcoming"
     },
@@ -1890,7 +1875,7 @@
       "gmp": "",
       "gain": "",
       "registrar": "",
-      "listingGain": "8.11%",
+      "listingGain": "",
       "status": "listed"
     },
     {
@@ -1905,7 +1890,7 @@
       "gmp": "",
       "gain": "",
       "registrar": "",
-      "listingGain": "-1.91%",
+      "listingGain": "",
       "status": "listed"
     },
     {
@@ -2401,6 +2386,36 @@
       "gain": "",
       "registrar": "",
       "listingGain": "",
+      "status": "listed"
+    },
+    {
+      "name": "Jio Platforms",
+      "type": "Mainboard",
+      "open": "2026-10-21",
+      "close": "2026-10-23",
+      "allotment": "2026-10-27",
+      "listing": "2026-10-28",
+      "priceBand": "₹1065 to ₹1119",
+      "size": "₹30,187.7 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "",
+      "listingGain": "21.36%",
+      "status": "listed"
+    },
+    {
+      "name": "Paras Healthcare",
+      "type": "Mainboard",
+      "open": "2026-10-21",
+      "close": "2026-10-23",
+      "allotment": "2026-10-27",
+      "listing": "2026-10-28",
+      "priceBand": "₹660 to ₹ 693",
+      "size": "₹1450 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "",
+      "listingGain": "3.90%",
       "status": "listed"
     }
   ]

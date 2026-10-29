@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-10-29T15:17:18.755Z",
+  "updatedAt": "2026-10-29T20:21:43.638Z",
   "source": "nse",
-  "count": 5,
+  "count": 6,
   "items": [
     {
       "name": "Bombay Coated and Special Steels Limited",
@@ -64,18 +64,33 @@
       "url": ""
     },
     {
-      "name": "EAAA India Alternatives Limited",
-      "symbol": "EDELALTS",
-      "total": "5.25",
-      "qib": "13.13",
-      "shni": "1.90",
-      "bhni": "5.91",
-      "nii": "4.58",
-      "rii": "1.03",
-      "ipoSize": "52,99,684 shares",
-      "price": "₹1585 to ₹1665",
-      "closeDate": "28 Oct",
-      "type": "Mainboard",
+      "name": "Maxwell Engineering Solutions Limited",
+      "symbol": "MAXENGS",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "",
+      "price": "",
+      "closeDate": "03 Nov",
+      "type": "SME",
+      "url": ""
+    },
+    {
+      "name": "HGS (India) Limited",
+      "symbol": "HGSINDIALT",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "",
+      "price": "",
+      "closeDate": "03 Nov",
+      "type": "SME",
       "url": ""
     }
   ]

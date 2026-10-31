@@ -1,8 +1,71 @@
 {
-  "updatedAt": "2026-10-30T19:56:41.169Z",
+  "updatedAt": "2026-10-31T08:07:38.297Z",
   "source": "5paisa",
   "count": 50,
   "items": [
+    {
+      "name": "Vinsys IT Serv.",
+      "week52": "620.95",
+      "ltp": "610.10",
+      "gainPct": "-1.4 %",
+      "dayLow": "610.10",
+      "dayHigh": "0.00",
+      "volume": "18,000"
+    },
+    {
+      "name": "Bhagyanagar Ind",
+      "week52": "85.5",
+      "ltp": "85.50",
+      "gainPct": "5.0 %",
+      "dayLow": "85.50",
+      "dayHigh": "85.50",
+      "volume": "15,845"
+    },
+    {
+      "name": "Nakoda Group",
+      "week52": "46.9",
+      "ltp": "43.95",
+      "gainPct": "3.4 %",
+      "dayLow": "39.50",
+      "dayHigh": "49.00",
+      "volume": "205,848"
+    },
+    {
+      "name": "Quintegra Soln.",
+      "week52": "3.16",
+      "ltp": "3.16",
+      "gainPct": "1.9 %",
+      "dayLow": "3.16",
+      "dayHigh": "3.37",
+      "volume": "5,102"
+    },
+    {
+      "name": "Rama Telecom",
+      "week52": "105",
+      "ltp": "103.90",
+      "gainPct": "9.9 %",
+      "dayLow": "86.05",
+      "dayHigh": "0.00",
+      "volume": "46,000"
+    },
+    {
+      "name": "Ratnaveer Precis",
+      "week52": "365.8",
+      "ltp": "360.25",
+      "gainPct": "2.1 %",
+      "dayLow": "342.05",
+      "dayHigh": "365.75",
+      "volume": "6,256,212"
+    },
+    {
+      "name": "Bharat Parenter.",
+      "week52": "2295.1",
+      "ltp": "2029.90",
+      "gainPct": "6.1 %",
+      "dayLow": "1955.00",
+      "dayHigh": "2292.15",
+      "volume": "161,739"
+    },
     {
       "name": "21st Cent. Mgmt.",
       "week52": "57.82",
@@ -85,15 +148,6 @@
       "volume": "114,765"
     },
     {
-      "name": "Bharat Parenter.",
-      "week52": "2295.1",
-      "ltp": "2029.90",
-      "gainPct": "6.1 %",
-      "dayLow": "1955.00",
-      "dayHigh": "2292.15",
-      "volume": "161,739"
-    },
-    {
       "name": "Chemcrux Enterp.",
       "week52": "92.91",
       "ltp": "80.03",
@@ -148,96 +202,6 @@
       "volume": "190,768"
     },
     {
-      "name": "Vinsys IT Serv.",
-      "week52": "620.95",
-      "ltp": "610.10",
-      "gainPct": "-1.4 %",
-      "dayLow": "610.10",
-      "dayHigh": "0.00",
-      "volume": "18,000"
-    },
-    {
-      "name": "Bhagyanagar Ind",
-      "week52": "85.5",
-      "ltp": "85.50",
-      "gainPct": "5.0 %",
-      "dayLow": "85.50",
-      "dayHigh": "85.50",
-      "volume": "15,845"
-    },
-    {
-      "name": "Nakoda Group",
-      "week52": "46.9",
-      "ltp": "43.95",
-      "gainPct": "3.4 %",
-      "dayLow": "39.50",
-      "dayHigh": "49.00",
-      "volume": "205,848"
-    },
-    {
-      "name": "Quintegra Soln.",
-      "week52": "3.16",
-      "ltp": "3.16",
-      "gainPct": "1.9 %",
-      "dayLow": "3.16",
-      "dayHigh": "3.37",
-      "volume": "5,102"
-    },
-    {
-      "name": "Rama Telecom",
-      "week52": "105",
-      "ltp": "103.90",
-      "gainPct": "9.9 %",
-      "dayLow": "86.05",
-      "dayHigh": "0.00",
-      "volume": "46,000"
-    },
-    {
-      "name": "Ratnaveer Precis",
-      "week52": "365.8",
-      "ltp": "360.25",
-      "gainPct": "2.1 %",
-      "dayLow": "342.05",
-      "dayHigh": "365.75",
-      "volume": "6,256,212"
-    },
-    {
-      "name": "Indian Toners",
-      "week52": "48.5",
-      "ltp": "45.79",
-      "gainPct": "-3.4 %",
-      "dayLow": "44.10",
-      "dayHigh": "62.00",
-      "volume": "19,863"
-    },
-    {
-      "name": "63 Moons Tech.",
-      "week52": "968.75",
-      "ltp": "948.85",
-      "gainPct": "1.3 %",
-      "dayLow": "922.65",
-      "dayHigh": "967.55",
-      "volume": "505,809"
-    },
-    {
-      "name": "Teamtech Formwork",
-      "week52": "170",
-      "ltp": "161.55",
-      "gainPct": "3.4 %",
-      "dayLow": "156.60",
-      "dayHigh": "0.00",
-      "volume": "140,000"
-    },
-    {
-      "name": "ICICI Prudential Nifty Pharma",
-      "week52": "29.5",
-      "ltp": "26.71",
-      "gainPct": "0.2 %",
-      "dayLow": "26.51",
-      "dayHigh": "28.28",
-      "volume": "63,091"
-    },
-    {
       "name": "Coforge",
       "week52": "2061.8",
       "ltp": "2045.00",
@@ -272,6 +236,24 @@
       "dayLow": "2206.10",
       "dayHigh": "2392.00",
       "volume": "7,913,297"
+    },
+    {
+      "name": "63 Moons Tech.",
+      "week52": "968.75",
+      "ltp": "948.85",
+      "gainPct": "1.3 %",
+      "dayLow": "922.65",
+      "dayHigh": "967.55",
+      "volume": "505,809"
+    },
+    {
+      "name": "Teamtech Formwork",
+      "week52": "170",
+      "ltp": "161.55",
+      "gainPct": "3.4 %",
+      "dayLow": "156.60",
+      "dayHigh": "0.00",
+      "volume": "140,000"
     },
     {
       "name": "NINtec Systems",
@@ -317,24 +299,6 @@
       "dayLow": "352.35",
       "dayHigh": "426.00",
       "volume": "3,607,659"
-    },
-    {
-      "name": "Zydus Lifesci.",
-      "week52": "1248.9",
-      "ltp": "1245.50",
-      "gainPct": "5.2 %",
-      "dayLow": "1182.00",
-      "dayHigh": "1249.00",
-      "volume": "3,660,709"
-    },
-    {
-      "name": "Eternal",
-      "week52": "346.5",
-      "ltp": "343.65",
-      "gainPct": "1.7 %",
-      "dayLow": "335.20",
-      "dayHigh": "346.40",
-      "volume": "38,678,400"
     },
     {
       "name": "Spectrum Electr.",
@@ -391,31 +355,22 @@
       "volume": "13,200"
     },
     {
-      "name": "SBC Exports",
-      "week52": "67.25",
-      "ltp": "66.15",
-      "gainPct": "-0.6 %",
-      "dayLow": "65.80",
-      "dayHigh": "67.50",
-      "volume": "11,180,481"
+      "name": "Zydus Lifesci.",
+      "week52": "1248.9",
+      "ltp": "1245.50",
+      "gainPct": "5.2 %",
+      "dayLow": "1182.00",
+      "dayHigh": "1249.00",
+      "volume": "3,660,709"
     },
     {
-      "name": "Vaibhav Vyapaar",
-      "week52": "56.7",
-      "ltp": "56.50",
-      "gainPct": "4.6 %",
-      "dayLow": "54.00",
-      "dayHigh": "0.00",
-      "volume": "490,000"
-    },
-    {
-      "name": "ABSL BSE Total Market ETF",
-      "week52": "10.3",
-      "ltp": "10.14",
-      "gainPct": "1.8 %",
-      "dayLow": "10.00",
-      "dayHigh": "10.50",
-      "volume": "535,356"
+      "name": "Eternal",
+      "week52": "346.5",
+      "ltp": "343.65",
+      "gainPct": "1.7 %",
+      "dayLow": "335.20",
+      "dayHigh": "346.40",
+      "volume": "38,678,400"
     },
     {
       "name": "PVR Inox",
@@ -452,6 +407,51 @@
       "dayLow": "99.15",
       "dayHigh": "0.00",
       "volume": "65,000"
+    },
+    {
+      "name": "United Polyfab",
+      "week52": "58",
+      "ltp": "54.27",
+      "gainPct": "-2.1 %",
+      "dayLow": "53.55",
+      "dayHigh": "59.30",
+      "volume": "2,376,418"
+    },
+    {
+      "name": "SBC Exports",
+      "week52": "67.25",
+      "ltp": "66.15",
+      "gainPct": "-0.6 %",
+      "dayLow": "65.80",
+      "dayHigh": "67.50",
+      "volume": "11,180,481"
+    },
+    {
+      "name": "Vaibhav Vyapaar",
+      "week52": "56.7",
+      "ltp": "56.50",
+      "gainPct": "4.6 %",
+      "dayLow": "54.00",
+      "dayHigh": "0.00",
+      "volume": "490,000"
+    },
+    {
+      "name": "Kotak Mah. Bank",
+      "week52": "462.9",
+      "ltp": "461.60",
+      "gainPct": "0.6 %",
+      "dayLow": "457.05",
+      "dayHigh": "462.80",
+      "volume": "20,731,942"
+    },
+    {
+      "name": "Alivus Life",
+      "week52": "1499",
+      "ltp": "1415.30",
+      "gainPct": "1.3 %",
+      "dayLow": "1380.00",
+      "dayHigh": "1497.00",
+      "volume": "1,147,213"
     }
   ]
 }

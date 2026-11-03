@@ -1,23 +1,8 @@
 {
-  "updatedAt": "2026-11-03T17:09:05.387Z",
+  "updatedAt": "2026-11-03T22:21:45.191Z",
   "source": "nse",
-  "count": 4,
+  "count": 2,
   "items": [
-    {
-      "name": "Bombay Coated and Special Steels Limited",
-      "symbol": "BCSSL",
-      "total": "60.77",
-      "qib": "35.50",
-      "shni": "107.91",
-      "bhni": "183.52",
-      "nii": "158.32",
-      "rii": "33.73",
-      "ipoSize": "1,65,33,012 shares",
-      "price": "₹78 to ₹82",
-      "closeDate": "02 Nov",
-      "type": "Mainboard",
-      "url": ""
-    },
     {
       "name": "Vedant Poly Fabs Limited",
       "symbol": "VPFL",
@@ -30,21 +15,6 @@
       "ipoSize": "",
       "price": "",
       "closeDate": "04 Nov",
-      "type": "SME",
-      "url": ""
-    },
-    {
-      "name": "Maxwell Engineering Solutions Limited",
-      "symbol": "MAXENGS",
-      "total": "0.00",
-      "qib": "0.00",
-      "shni": "0.00",
-      "bhni": "0.00",
-      "nii": "0.00",
-      "rii": "",
-      "ipoSize": "",
-      "price": "",
-      "closeDate": "03 Nov",
       "type": "SME",
       "url": ""
     },

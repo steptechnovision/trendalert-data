@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-04T22:29:09.634Z",
+  "updatedAt": "2026-11-05T09:08:18.532Z",
   "source": "derived",
-  "count": 141,
+  "count": 139,
   "items": [
     {
       "name": "Antala Industries",
@@ -17,36 +17,6 @@
       "registrar": "Bigshare",
       "listingGain": "",
       "status": "open"
-    },
-    {
-      "name": "Vedant Poly Fabs",
-      "type": "NSE SME",
-      "open": "2026-11-02",
-      "close": "2026-11-04",
-      "allotment": "2026-11-05",
-      "listing": "2026-11-09",
-      "priceBand": "₹88 to ₹94",
-      "size": "₹56.68 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "Cameo India",
-      "listingGain": "",
-      "status": "open"
-    },
-    {
-      "name": "Bombay Coated and Special Steels",
-      "type": "Mainboard",
-      "open": "2026-10-29",
-      "close": "2026-11-02",
-      "allotment": "2026-11-03",
-      "listing": "2026-11-05",
-      "priceBand": "₹78 to ₹82",
-      "size": "₹183.06 Cr.",
-      "gmp": "",
-      "gain": "",
-      "registrar": "Kfintech",
-      "listingGain": "",
-      "status": "allotment"
     },
     {
       "name": "Johnsoncab Electricals",
@@ -109,29 +79,29 @@
       "status": "allotment"
     },
     {
-      "name": "M.K.Sons Fine Jewels Closed",
-      "type": "Mainboard",
-      "open": "2026-10-28",
-      "close": "2026-10-30",
-      "allotment": "2026-11-03",
-      "listing": "2026-11-04",
-      "priceBand": "₹162",
-      "size": "",
-      "gmp": "₹10",
-      "gain": "₹172 (6.17%)",
-      "registrar": "",
+      "name": "Vedant Poly Fabs",
+      "type": "NSE SME",
+      "open": "2026-11-02",
+      "close": "2026-11-04",
+      "allotment": "2026-11-05",
+      "listing": "2026-11-09",
+      "priceBand": "₹88 to ₹94",
+      "size": "₹56.68 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Cameo India",
       "listingGain": "",
-      "status": "listing"
+      "status": "allotment"
     },
     {
-      "name": "Ajwa Projects",
-      "type": "BSE SME",
-      "open": "2026-10-28",
-      "close": "2026-10-30",
-      "allotment": "2026-11-02",
-      "listing": "2026-11-04",
-      "priceBand": "₹203",
-      "size": "₹38.05 Cr.",
+      "name": "Bombay Coated and Special Steels",
+      "type": "Mainboard",
+      "open": "2026-10-29",
+      "close": "2026-11-02",
+      "allotment": "2026-11-03",
+      "listing": "2026-11-05",
+      "priceBand": "₹78 to ₹82",
+      "size": "₹183.06 Cr.",
       "gmp": "",
       "gain": "",
       "registrar": "Kfintech",
@@ -1635,7 +1605,7 @@
       "gmp": "",
       "gain": "",
       "registrar": "",
-      "listingGain": "-11.50%",
+      "listingGain": "",
       "status": "listed"
     },
     {
@@ -2029,21 +1999,6 @@
       "status": "listed"
     },
     {
-      "name": "SFC Environmental Technologies Closed",
-      "type": "Mainboard",
-      "open": "2026-10-27",
-      "close": "2026-10-29",
-      "allotment": "2026-11-02",
-      "listing": "2026-11-03",
-      "priceBand": "₹330",
-      "size": "",
-      "gmp": "₹15",
-      "gain": "₹345 (4.55%)",
-      "registrar": "",
-      "listingGain": "",
-      "status": "listed"
-    },
-    {
       "name": "SFC Environmental",
       "type": "Mainboard",
       "open": "2026-10-27",
@@ -2101,6 +2056,21 @@
       "gain": "",
       "registrar": "Bigshare",
       "listingGain": "5.56%",
+      "status": "listed"
+    },
+    {
+      "name": "Ajwa Projects",
+      "type": "BSE SME",
+      "open": "2026-10-28",
+      "close": "2026-10-30",
+      "allotment": "2026-11-02",
+      "listing": "2026-11-04",
+      "priceBand": "₹203",
+      "size": "₹38.05 Cr.",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Kfintech",
+      "listingGain": "",
       "status": "listed"
     },
     {

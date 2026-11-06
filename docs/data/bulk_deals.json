@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T16:49:24.666Z",
+  "updatedAt": "2026-11-06T21:57:55.942Z",
   "source": "nse",
   "count": 80,
   "items": [
@@ -580,6 +580,42 @@
       "date": "06-Nov-2026"
     },
     {
+      "symbol": "IKIO",
+      "name": "IKIO Technologies Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "511992",
+      "price": "199.33",
+      "date": "06-Nov-2026"
+    },
+    {
+      "symbol": "IKIO",
+      "name": "IKIO Technologies Limited",
+      "clientName": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "395871",
+      "price": "199.75",
+      "date": "06-Nov-2026"
+    },
+    {
+      "symbol": "IKIO",
+      "name": "IKIO Technologies Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "658355",
+      "price": "198.44",
+      "date": "06-Nov-2026"
+    },
+    {
+      "symbol": "IVALUE",
+      "name": "Ivalue Infosolutions Ltd",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "297565",
+      "price": "220.58",
+      "date": "06-Nov-2026"
+    },
+    {
       "symbol": "JSWCEMENT",
       "name": "JSW Cement Limited",
       "clientName": "SYNERGY METALS INVESTMENTS HOLDING LIMITED",
@@ -685,42 +721,6 @@
       "buySell": "SELL",
       "qty": "4444462",
       "price": "27.06",
-      "date": "06-Nov-2026"
-    },
-    {
-      "symbol": "MTNL",
-      "name": "Maha Tel Nigam Ltd.",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1876632",
-      "price": "27.36",
-      "date": "06-Nov-2026"
-    },
-    {
-      "symbol": "RAPPID",
-      "name": "Rappid Valves (India) Ltd",
-      "clientName": "ASHOK KUMAR DHARIWAL",
-      "buySell": "SELL",
-      "qty": "34200",
-      "price": "385",
-      "date": "06-Nov-2026"
-    },
-    {
-      "symbol": "SHIVAUM",
-      "name": "Shiv Aum Steels Limited",
-      "clientName": "MOKSH TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "75000",
-      "price": "544",
-      "date": "06-Nov-2026"
-    },
-    {
-      "symbol": "STYLEBAAZA",
-      "name": "Baazar Style Retail Ltd",
-      "clientName": "COLUMBIA BIO FUELS PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1098",
-      "price": "383.23",
       "date": "06-Nov-2026"
     }
   ]

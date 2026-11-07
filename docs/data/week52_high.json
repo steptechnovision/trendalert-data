@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T08:29:23.984Z",
+  "updatedAt": "2026-11-07T15:06:54.813Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -355,6 +355,42 @@
       "volume": "32,400"
     },
     {
+      "name": "Lorenzini Appar.",
+      "week52": "11.65",
+      "ltp": "11.47",
+      "gainPct": "18.1 %",
+      "dayLow": "9.43",
+      "dayHigh": "11.67",
+      "volume": "421,349"
+    },
+    {
+      "name": "Viaz Tyres",
+      "week52": "94.5",
+      "ltp": "94.50",
+      "gainPct": "5.0 %",
+      "dayLow": "90.00",
+      "dayHigh": "0.00",
+      "volume": "18,000"
+    },
+    {
+      "name": "Entero Healthcar",
+      "week52": "1936.6",
+      "ltp": "1900.40",
+      "gainPct": "8.3 %",
+      "dayLow": "1761.30",
+      "dayHigh": "1936.40",
+      "volume": "1,206,807"
+    },
+    {
+      "name": "Tankup Engi.",
+      "week52": "1826.95",
+      "ltp": "1797.00",
+      "gainPct": "3.3 %",
+      "dayLow": "1797.00",
+      "dayHigh": "0.00",
+      "volume": "625"
+    },
+    {
       "name": "TVS Motor Co.",
       "week52": "4495.6",
       "ltp": "4491.70",
@@ -416,42 +452,6 @@
       "dayLow": "55.47",
       "dayHigh": "57.90",
       "volume": "15,365,353"
-    },
-    {
-      "name": "Lorenzini Appar.",
-      "week52": "11.65",
-      "ltp": "11.47",
-      "gainPct": "18.1 %",
-      "dayLow": "9.43",
-      "dayHigh": "11.67",
-      "volume": "421,349"
-    },
-    {
-      "name": "Viaz Tyres",
-      "week52": "94.5",
-      "ltp": "94.50",
-      "gainPct": "5.0 %",
-      "dayLow": "90.00",
-      "dayHigh": "0.00",
-      "volume": "18,000"
-    },
-    {
-      "name": "Entero Healthcar",
-      "week52": "1936.6",
-      "ltp": "1900.40",
-      "gainPct": "8.3 %",
-      "dayLow": "1761.30",
-      "dayHigh": "1936.40",
-      "volume": "1,206,807"
-    },
-    {
-      "name": "Tankup Engi.",
-      "week52": "1826.95",
-      "ltp": "1797.00",
-      "gainPct": "3.3 %",
-      "dayLow": "1797.00",
-      "dayHigh": "0.00",
-      "volume": "625"
     }
   ]
 }

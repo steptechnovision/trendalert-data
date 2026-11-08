@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-08T08:43:08.534Z",
+  "updatedAt": "2026-11-08T15:50:36.203Z",
   "source": "5paisa",
   "count": 5,
   "items": [
     {
+      "companyName": "GACM Technologies Ltd",
+      "ltp": "₹0.56",
+      "change": "9.8",
+      "volume": "7,907,170",
+      "marketCap": "₹89.47"
+    },
+    {
       "companyName": "Dharan Infra-EPC Ltd",
       "ltp": "₹0.14",
       "change": "7.69",
-      "volume": "7,168,125",
+      "volume": "3,055,596",
       "marketCap": "₹67.97"
-    },
-    {
-      "companyName": "GACM Technologies Ltd",
-      "ltp": "₹0.53",
-      "change": "3.92",
-      "volume": "5,845,009",
-      "marketCap": "₹81.48"
-    },
-    {
-      "companyName": "Landsmill Green Limited",
-      "ltp": "₹0.68",
-      "change": "-4.23",
-      "volume": "2,264,080",
-      "marketCap": "₹95.93"
     },
     {
       "companyName": "Ganga Forging Ltd",
       "ltp": "₹1.33",
-      "change": "-1.48",
-      "volume": "1,876,836",
+      "change": "0",
+      "volume": "830,263",
       "marketCap": "₹44.82"
     },
     {
-      "companyName": "Advik Capital Ltd",
-      "ltp": "₹0.97",
-      "change": "18.29",
-      "volume": "975,320",
-      "marketCap": "₹57.81"
+      "companyName": "Landsmill Green Limited",
+      "ltp": "₹0.69",
+      "change": "1.47",
+      "volume": "517,369",
+      "marketCap": "₹97.34"
+    },
+    {
+      "companyName": "Praxis Home Retail Ltd",
+      "ltp": "₹4.66",
+      "change": "-4.9",
+      "volume": "478,847",
+      "marketCap": "₹86.59"
     }
   ]
 }

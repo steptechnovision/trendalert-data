@@ -1,34 +1,691 @@
 {
-  "updatedAt": "2026-11-09T09:21:59.536Z",
+  "updatedAt": "2026-11-09T20:03:10.953Z",
   "source": "nse",
-  "count": 3,
+  "count": 76,
   "items": [
     {
-      "symbol": "MOBILISE",
-      "name": "Mobilise App Lab Limited",
-      "clientName": "KULBHUSHAN PARASHAR",
+      "symbol": "AAATECH",
+      "name": "AAA Technologies Limited",
+      "clientName": "VAIBHAV RAJENDRA DOSHI",
       "buySell": "BUY",
-      "qty": "150400",
-      "price": "120.99",
-      "date": "08-Nov-2026"
+      "qty": "101084",
+      "price": "94.27",
+      "date": "09-Nov-2026"
     },
     {
-      "symbol": "MOBILISE",
-      "name": "Mobilise App Lab Limited",
-      "clientName": "PRAMOD TRADERS",
-      "buySell": "SELL",
-      "qty": "96000",
-      "price": "121",
-      "date": "08-Nov-2026"
+      "symbol": "AARTIDRUGS",
+      "name": "Aarti Drugs Ltd.",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "868877",
+      "price": "499.83",
+      "date": "09-Nov-2026"
     },
     {
-      "symbol": "MOBILISE",
-      "name": "Mobilise App Lab Limited",
-      "clientName": "MAAHIR CONSULTANTS",
+      "symbol": "AARTIDRUGS",
+      "name": "Aarti Drugs Ltd.",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1352619",
+      "price": "500.23",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "AARTIDRUGS",
+      "name": "Aarti Drugs Ltd.",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "885686",
+      "price": "497.86",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "AARTIDRUGS",
+      "name": "Aarti Drugs Ltd.",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "744831",
+      "price": "500.07",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "AARTIDRUGS",
+      "name": "Aarti Drugs Ltd.",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "472405",
+      "price": "495.08",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "ALEMBICLTD",
+      "name": "Alembic Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1547974",
+      "price": "110.75",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
+      "buySell": "BUY",
+      "qty": "366269",
+      "price": "238.15",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "CHEMPLASTS",
+      "name": "Chemplast Sanmar Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "841733",
+      "price": "238.84",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "COHANCE",
+      "name": "Cohance Lifesciences Ltd",
+      "clientName": "JASUB PROPERTY HOLDINGS LLP",
+      "buySell": "BUY",
+      "qty": "3000000",
+      "price": "430",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "DATAPATTNS",
+      "name": "Data Patterns India Ltd",
+      "clientName": "GRAVITON RESEARCH CAPITAL LLP",
+      "buySell": "BUY",
+      "qty": "400454",
+      "price": "3943.9",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "GSMFOILS",
+      "name": "GSM Foils Limited",
+      "clientName": "HI GROWTH CORPORATE SERVICES PVT LTD",
+      "buySell": "BUY",
+      "qty": "99000",
+      "price": "57.27",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "HUBTOWN",
+      "name": "Ackruti City Limited",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "BUY",
+      "qty": "1202881",
+      "price": "189.92",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "IRMENERGY",
+      "name": "IRM Energy Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "277103",
+      "price": "273.96",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "JAIPURKURT",
+      "name": "Nandani Creation Limited",
+      "clientName": "L7 HITECH PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "62800",
+      "price": "31.69",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "JAIPURKURT",
+      "name": "Nandani Creation Limited",
+      "clientName": "MERU INVESTMENT FUND PCC- CELL 1",
+      "buySell": "BUY",
+      "qty": "100000",
+      "price": "29.75",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPEL",
+      "name": "K.P. Energy Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "501085",
+      "price": "194.44",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPEL",
+      "name": "K.P. Energy Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "371039",
+      "price": "196.05",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPEL",
+      "name": "K.P. Energy Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "518466",
+      "price": "194.71",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPEL",
+      "name": "K.P. Energy Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "384755",
+      "price": "195.05",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPIGREEN",
+      "name": "KPI Green Energy Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1019692",
+      "price": "344.75",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPIGREEN",
+      "name": "KPI Green Energy Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1534815",
+      "price": "343.54",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPIGREEN",
+      "name": "KPI Green Energy Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "1385520",
+      "price": "342.7",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPIGREEN",
+      "name": "KPI Green Energy Limited",
+      "clientName": "IMC INDIA SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1036165",
+      "price": "345.22",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPIGREEN",
+      "name": "KPI Green Energy Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "2225186",
+      "price": "345.77",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "REPCOHOME",
+      "name": "Repco Home Finance Ltd",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "331957",
+      "price": "392.55",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "SAJHOTELS",
+      "name": "Saj Hotels Limited",
+      "clientName": "VICCO TRADING CORPORATION",
+      "buySell": "BUY",
+      "qty": "124000",
+      "price": "25.5",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "SALZERELEC",
+      "name": "Salzer Electronics Ltd.",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "112256",
+      "price": "549.58",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "SUNSHINE",
+      "name": "Sunshine Pictures Limited",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "BUY",
+      "qty": "147763",
+      "price": "416.92",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "TECHNOCRAF",
+      "name": "Technocraft Ventures Ltd",
+      "clientName": "ACME CAPITAL MARKET LIMITED",
+      "buySell": "BUY",
+      "qty": "360245",
+      "price": "512.22",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "TECHNOCRAF",
+      "name": "Technocraft Ventures Ltd",
+      "clientName": "RICHA GUPTA",
+      "buySell": "BUY",
+      "qty": "211640",
+      "price": "513.05",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "TONBO",
+      "name": "Tonbo Imaging India Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "BUY",
+      "qty": "316487",
+      "price": "1501.12",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "TONBO",
+      "name": "Tonbo Imaging India Ltd",
+      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
+      "buySell": "BUY",
+      "qty": "323145",
+      "price": "1502.11",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "V2RETAIL",
+      "name": "V2 Retail Limited",
+      "clientName": "MANSI SHARE AND STOCK BROKING PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "1466570",
+      "price": "170.73",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "VINEETLAB",
+      "name": "Vineet Laboratories Ltd",
+      "clientName": "KISHOR KHIMCHAND KALVANI",
+      "buySell": "BUY",
+      "qty": "130818",
+      "price": "37.93",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "VISHNUINFR",
+      "name": "Vishnusurya Proj N Infr L",
+      "clientName": "NIRMALKUMAR PAREEK",
+      "buySell": "BUY",
+      "qty": "200500",
+      "price": "139",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "VPFL",
+      "name": "Vedant Poly Fabs Limited",
+      "clientName": "MAVERICK COMMODITY BROKERS PRIAVTE LIMITED",
+      "buySell": "BUY",
+      "qty": "360000",
+      "price": "94",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "VPFL",
+      "name": "Vedant Poly Fabs Limited",
+      "clientName": "MAVERICK FINANCIAL SERVICES PRIVATE LIMITED",
+      "buySell": "BUY",
+      "qty": "360000",
+      "price": "94",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "AAATECH",
+      "name": "AAA Technologies Limited",
+      "clientName": "VAIBHAV RAJENDRA DOSHI",
       "buySell": "SELL",
-      "qty": "62400",
-      "price": "121",
-      "date": "08-Nov-2026"
+      "qty": "101084",
+      "price": "94.61",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "AAATECH",
+      "name": "AAA Technologies Limited",
+      "clientName": "NOVA GLOBAL OPPORTUNITIES FUND PCC - TOUCHSTONE",
+      "buySell": "SELL",
+      "qty": "135000",
+      "price": "91.94",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "AARTIDRUGS",
+      "name": "Aarti Drugs Ltd.",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "868877",
+      "price": "500.6",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "AARTIDRUGS",
+      "name": "Aarti Drugs Ltd.",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1352619",
+      "price": "500.65",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "AARTIDRUGS",
+      "name": "Aarti Drugs Ltd.",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "742922",
+      "price": "500.38",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "AARTIDRUGS",
+      "name": "Aarti Drugs Ltd.",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "431812",
+      "price": "499.01",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "AARTIDRUGS",
+      "name": "Aarti Drugs Ltd.",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "900829",
+      "price": "502.28",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "ALEMBICLTD",
+      "name": "Alembic Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1547974",
+      "price": "110.86",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
+      "buySell": "SELL",
+      "qty": "366269",
+      "price": "238.25",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "CHEMPLASTS",
+      "name": "Chemplast Sanmar Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "841733",
+      "price": "238.72",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "COHANCE",
+      "name": "Cohance Lifesciences Ltd",
+      "clientName": "JASTI FAMILY TRUST",
+      "buySell": "SELL",
+      "qty": "3000000",
+      "price": "430",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "DATAPATTNS",
+      "name": "Data Patterns India Ltd",
+      "clientName": "GRAVITON RESEARCH CAPITAL LLP",
+      "buySell": "SELL",
+      "qty": "403762",
+      "price": "3942.71",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "GSMFOILS",
+      "name": "GSM Foils Limited",
+      "clientName": "JAYESH MANNAR",
+      "buySell": "SELL",
+      "qty": "73500",
+      "price": "57.1",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "GSMFOILS",
+      "name": "GSM Foils Limited",
+      "clientName": "HI GROWTH CORPORATE SERVICES PVT LTD",
+      "buySell": "SELL",
+      "qty": "48000",
+      "price": "57.23",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "HUBTOWN",
+      "name": "Ackruti City Limited",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "SELL",
+      "qty": "1009481",
+      "price": "189.56",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "IRMENERGY",
+      "name": "IRM Energy Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "277103",
+      "price": "274.15",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "JAIPURKURT",
+      "name": "Nandani Creation Limited",
+      "clientName": "L7 HITECH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "108131",
+      "price": "29.75",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "JALAN",
+      "name": "Jalan Transolu. India Ltd",
+      "clientName": "SHASHANK BAHAD",
+      "buySell": "SELL",
+      "qty": "75000",
+      "price": "1.4",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPEL",
+      "name": "K.P. Energy Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "501085",
+      "price": "194.88",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPEL",
+      "name": "K.P. Energy Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "371039",
+      "price": "196.54",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPEL",
+      "name": "K.P. Energy Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "517826",
+      "price": "194.91",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPEL",
+      "name": "K.P. Energy Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "394306",
+      "price": "196.87",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPIGREEN",
+      "name": "KPI Green Energy Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "2225186",
+      "price": "345.94",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPIGREEN",
+      "name": "KPI Green Energy Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "1380834",
+      "price": "342.61",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPIGREEN",
+      "name": "KPI Green Energy Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1534815",
+      "price": "343.25",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPIGREEN",
+      "name": "KPI Green Energy Limited",
+      "clientName": "IMC INDIA SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "850419",
+      "price": "345.07",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "KPIGREEN",
+      "name": "KPI Green Energy Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1019595",
+      "price": "344.94",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "MKJEWELS",
+      "name": "MK Sons Fine Jewels Ltd",
+      "clientName": "GOLDMAN SACHS BANK EUROPE SE",
+      "buySell": "SELL",
+      "qty": "304300",
+      "price": "153.51",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "RATNAVEER",
+      "name": "Ratnaveer Precision Eng L",
+      "clientName": "UNITY ASSOCIATES",
+      "buySell": "SELL",
+      "qty": "500000",
+      "price": "364.15",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "REPCOHOME",
+      "name": "Repco Home Finance Ltd",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "331957",
+      "price": "392.9",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "SALZERELEC",
+      "name": "Salzer Electronics Ltd.",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "112256",
+      "price": "549.34",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "SOUTHWEST",
+      "name": "South West Pinnacle Ltd",
+      "clientName": "AJAY KUMAR AGGARWAL",
+      "buySell": "SELL",
+      "qty": "220000",
+      "price": "162.56",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "SUNSHINE",
+      "name": "Sunshine Pictures Limited",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "SELL",
+      "qty": "181853",
+      "price": "415.91",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "TECHNOCRAF",
+      "name": "Technocraft Ventures Ltd",
+      "clientName": "ACME CAPITAL MARKET LIMITED",
+      "buySell": "SELL",
+      "qty": "360245",
+      "price": "513.84",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "TONBO",
+      "name": "Tonbo Imaging India Ltd",
+      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
+      "buySell": "SELL",
+      "qty": "323145",
+      "price": "1502.86",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "TONBO",
+      "name": "Tonbo Imaging India Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "313325",
+      "price": "1503.84",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "V2RETAIL",
+      "name": "V2 Retail Limited",
+      "clientName": "MANSI SHARE AND STOCK BROKING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "3060305",
+      "price": "169.65",
+      "date": "09-Nov-2026"
+    },
+    {
+      "symbol": "WOMANCART",
+      "name": "Womancart Limited",
+      "clientName": "KHANDHAR JAYESH MANILAL",
+      "buySell": "SELL",
+      "qty": "49200",
+      "price": "74.06",
+      "date": "09-Nov-2026"
     }
   ]
 }

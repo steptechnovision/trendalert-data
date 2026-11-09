@@ -1,23 +1,8 @@
 {
-  "updatedAt": "2026-11-08T20:15:53.593Z",
+  "updatedAt": "2026-11-09T09:21:59.536Z",
   "source": "derived",
-  "count": 2,
+  "count": 1,
   "items": [
-    {
-      "name": "Vedant Poly Fabs",
-      "type": "NSE SME",
-      "open": "2026-11-02",
-      "close": "2026-11-04",
-      "allotment": "2026-11-06",
-      "listing": "2026-11-09",
-      "priceBand": "₹88-94",
-      "size": "",
-      "gmp": "",
-      "gain": "",
-      "registrar": "",
-      "listingGain": "",
-      "status": "allotment"
-    },
     {
       "name": "Antala Industries",
       "type": "BSE SME",
@@ -31,7 +16,7 @@
       "gain": "",
       "registrar": "",
       "listingGain": "",
-      "status": "closed"
+      "status": "allotment"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T17:16:06.501Z",
+  "updatedAt": "2026-11-10T22:25:32.989Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -310,33 +310,6 @@
       "volume": "25,733,290"
     },
     {
-      "name": "Mankind Pharma",
-      "week52": "2705",
-      "ltp": "2668.30",
-      "gainPct": "3.3 %",
-      "dayLow": "2585.20",
-      "dayHigh": "2705.00",
-      "volume": "1,515,775"
-    },
-    {
-      "name": "Manaksia Steels",
-      "week52": "126.6",
-      "ltp": "125.50",
-      "gainPct": "2.8 %",
-      "dayLow": "118.55",
-      "dayHigh": "127.00",
-      "volume": "62,897"
-    },
-    {
-      "name": "Sai Life",
-      "week52": "1897.3",
-      "ltp": "1836.80",
-      "gainPct": "5.3 %",
-      "dayLow": "1699.00",
-      "dayHigh": "1897.55",
-      "volume": "10,122,189"
-    },
-    {
       "name": "Spectrum Electr.",
       "week52": "4695.2",
       "ltp": "4558.90",
@@ -373,49 +346,31 @@
       "volume": "2,127,894"
     },
     {
-      "name": "Innomet Advanced",
-      "week52": "358.1",
-      "ltp": "358.10",
-      "gainPct": "5.0 %",
-      "dayLow": "330.90",
-      "dayHigh": "0.00",
-      "volume": "82,200"
+      "name": "Mankind Pharma",
+      "week52": "2705",
+      "ltp": "2668.30",
+      "gainPct": "3.3 %",
+      "dayLow": "2585.20",
+      "dayHigh": "2705.00",
+      "volume": "1,515,775"
     },
     {
-      "name": "Gland Pharma",
-      "week52": "3374",
-      "ltp": "3302.40",
-      "gainPct": "5.4 %",
-      "dayLow": "3140.80",
-      "dayHigh": "3372.00",
-      "volume": "2,436,973"
+      "name": "Manaksia Steels",
+      "week52": "126.6",
+      "ltp": "125.50",
+      "gainPct": "2.8 %",
+      "dayLow": "118.55",
+      "dayHigh": "127.00",
+      "volume": "62,897"
     },
     {
-      "name": "Sona BLW Precis.",
-      "week52": "924",
-      "ltp": "924.00",
-      "gainPct": "1.7 %",
-      "dayLow": "903.90",
-      "dayHigh": "924.00",
-      "volume": "1,340,519"
-    },
-    {
-      "name": "Pearl Global Ind",
-      "week52": "1413.3",
-      "ltp": "1343.60",
-      "gainPct": "1.7 %",
-      "dayLow": "1316.80",
-      "dayHigh": "1413.50",
-      "volume": "504,571"
-    },
-    {
-      "name": "M B Agro Prod.",
-      "week52": "202.63",
-      "ltp": "197.69",
-      "gainPct": "-0.6 %",
-      "dayLow": "195.46",
-      "dayHigh": "0.00",
-      "volume": "1,004,577"
+      "name": "Sai Life",
+      "week52": "1897.3",
+      "ltp": "1836.80",
+      "gainPct": "5.3 %",
+      "dayLow": "1699.00",
+      "dayHigh": "1897.55",
+      "volume": "10,122,189"
     },
     {
       "name": "Garware Hi Tech",
@@ -452,6 +407,51 @@
       "dayLow": "165.91",
       "dayHigh": "172.00",
       "volume": "10,062,366"
+    },
+    {
+      "name": "Aryaman Fin.Serv",
+      "week52": "724",
+      "ltp": "700.00",
+      "gainPct": "-0.3 %",
+      "dayLow": "699.00",
+      "dayHigh": "790.00",
+      "volume": "117"
+    },
+    {
+      "name": "Uno Minda",
+      "week52": "1368",
+      "ltp": "1353.80",
+      "gainPct": "2.8 %",
+      "dayLow": "1292.00",
+      "dayHigh": "1367.50",
+      "volume": "1,500,842"
+    },
+    {
+      "name": "Innomet Advanced",
+      "week52": "358.1",
+      "ltp": "358.10",
+      "gainPct": "5.0 %",
+      "dayLow": "330.90",
+      "dayHigh": "0.00",
+      "volume": "82,200"
+    },
+    {
+      "name": "Gland Pharma",
+      "week52": "3374",
+      "ltp": "3302.40",
+      "gainPct": "5.4 %",
+      "dayLow": "3140.80",
+      "dayHigh": "3372.00",
+      "volume": "2,436,973"
+    },
+    {
+      "name": "Sona BLW Precis.",
+      "week52": "924",
+      "ltp": "924.00",
+      "gainPct": "1.7 %",
+      "dayLow": "903.90",
+      "dayHigh": "924.00",
+      "volume": "1,340,519"
     }
   ]
 }

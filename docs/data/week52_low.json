@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T17:16:06.501Z",
+  "updatedAt": "2026-11-10T22:25:32.989Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -184,6 +184,15 @@
       "volume": "20,000"
     },
     {
+      "name": "BASF India",
+      "week52": "4560",
+      "ltp": "2935.40",
+      "gainPct": "-2.8 %",
+      "dayLow": "2919.90",
+      "dayHigh": "4555.00",
+      "volume": "36,657"
+    },
+    {
       "name": "Beekay Steel Ind",
       "week52": "480",
       "ltp": "398.00",
@@ -218,33 +227,6 @@
       "dayLow": "6.05",
       "dayHigh": "12.45",
       "volume": "49,058"
-    },
-    {
-      "name": "BASF India",
-      "week52": "4560",
-      "ltp": "2935.40",
-      "gainPct": "-2.8 %",
-      "dayLow": "2919.90",
-      "dayHigh": "4555.00",
-      "volume": "36,657"
-    },
-    {
-      "name": "AIA Engineering",
-      "week52": "5180",
-      "ltp": "3136.40",
-      "gainPct": "-1.6 %",
-      "dayLow": "3082.70",
-      "dayHigh": "5175.00",
-      "volume": "187,765"
-    },
-    {
-      "name": "Lasa Supergeneri",
-      "week52": "12.48",
-      "ltp": "4.22",
-      "gainPct": "-5.0 %",
-      "dayLow": "4.22",
-      "dayHigh": "12.46",
-      "volume": "71,016"
     },
     {
       "name": "P I Industries",
@@ -290,6 +272,24 @@
       "dayLow": "12.37",
       "dayHigh": "226.00",
       "volume": "328,336"
+    },
+    {
+      "name": "AIA Engineering",
+      "week52": "5180",
+      "ltp": "3136.40",
+      "gainPct": "-1.6 %",
+      "dayLow": "3082.70",
+      "dayHigh": "5175.00",
+      "volume": "187,765"
+    },
+    {
+      "name": "Lasa Supergeneri",
+      "week52": "12.48",
+      "ltp": "4.22",
+      "gainPct": "-5.0 %",
+      "dayLow": "4.22",
+      "dayHigh": "12.46",
+      "volume": "71,016"
     },
     {
       "name": "Brand Concepts",
@@ -400,15 +400,6 @@
       "volume": "55,168"
     },
     {
-      "name": "Gradiente Info.",
-      "week52": "9.4",
-      "ltp": "1.60",
-      "gainPct": "0.0 %",
-      "dayLow": "1.53",
-      "dayHigh": "0.00",
-      "volume": "756,871"
-    },
-    {
       "name": "Hariyana Ship",
       "week52": "108",
       "ltp": "90.91",
@@ -416,6 +407,15 @@
       "dayLow": "88.01",
       "dayHigh": "125.00",
       "volume": "2,126"
+    },
+    {
+      "name": "Gradiente Info.",
+      "week52": "9.4",
+      "ltp": "1.60",
+      "gainPct": "0.0 %",
+      "dayLow": "1.53",
+      "dayHigh": "0.00",
+      "volume": "756,871"
     },
     {
       "name": "Gensol Engineer.",

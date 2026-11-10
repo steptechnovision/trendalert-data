@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-11-09T20:03:10.953Z",
+  "updatedAt": "2026-11-10T09:25:52.872Z",
   "source": "5paisa",
   "count": 50,
   "items": [
     {
-      "name": "Grill Splendour",
-      "week52": "142.6",
-      "ltp": "65.90",
-      "gainPct": "-0.9 %",
-      "dayLow": "65.90",
-      "dayHigh": "0.00",
-      "volume": "1,200"
+      "name": "Bombay Coated",
+      "week52": "95.55",
+      "ltp": "81.30",
+      "gainPct": "-5.0 %",
+      "dayLow": "81.30",
+      "dayHigh": "96.62",
+      "volume": "198,115"
     },
     {
       "name": "Bright Outdoor",
@@ -20,6 +20,15 @@
       "dayLow": "315.00",
       "dayHigh": "450.00",
       "volume": "12,275"
+    },
+    {
+      "name": "Cerebra Integr.",
+      "week52": "9.14",
+      "ltp": "2.14",
+      "gainPct": "-4.9 %",
+      "dayLow": "2.14",
+      "dayHigh": "9.19",
+      "volume": "55,335"
     },
     {
       "name": "CMI",
@@ -58,22 +67,13 @@
       "volume": "100,000"
     },
     {
-      "name": "Phantom Digital",
-      "week52": "311",
-      "ltp": "70.65",
-      "gainPct": "-4.7 %",
-      "dayLow": "67.35",
-      "dayHigh": "0.00",
-      "volume": "55,200"
-    },
-    {
-      "name": "Spel Semiconduct",
-      "week52": "157",
-      "ltp": "91.83",
-      "gainPct": "-5.0 %",
-      "dayLow": "91.83",
-      "dayHigh": "196.95",
-      "volume": "4,891"
+      "name": "South West Pinn.",
+      "week52": "275",
+      "ltp": "160.58",
+      "gainPct": "-9.8 %",
+      "dayLow": "159.51",
+      "dayHigh": "287.95",
+      "volume": "1,132,437"
     },
     {
       "name": "Arvind Fashions.",
@@ -83,24 +83,6 @@
       "dayLow": "340.60",
       "dayHigh": "530.00",
       "volume": "457,426"
-    },
-    {
-      "name": "Bannari Amm.Sug.",
-      "week52": "4338",
-      "ltp": "3095.20",
-      "gainPct": "-2.3 %",
-      "dayLow": "3061.30",
-      "dayHigh": "4345.00",
-      "volume": "755"
-    },
-    {
-      "name": "Readymix Cons.",
-      "week52": "147",
-      "ltp": "48.60",
-      "gainPct": "-6.4 %",
-      "dayLow": "48.00",
-      "dayHigh": "0.00",
-      "volume": "20,000"
     },
     {
       "name": "BEW Engg",
@@ -121,15 +103,6 @@
       "volume": "312,656"
     },
     {
-      "name": "V I P Inds.",
-      "week52": "435",
-      "ltp": "239.40",
-      "gainPct": "-2.2 %",
-      "dayLow": "238.80",
-      "dayHigh": "436.40",
-      "volume": "889,785"
-    },
-    {
       "name": "Elitecon Inter.",
       "week52": "46.4",
       "ltp": "6.03",
@@ -137,6 +110,24 @@
       "dayLow": "5.96",
       "dayHigh": "164.00",
       "volume": "3,090,759"
+    },
+    {
+      "name": "Basilic Fly Stud",
+      "week52": "394.85",
+      "ltp": "157.50",
+      "gainPct": "-2.4 %",
+      "dayLow": "157.45",
+      "dayHigh": "0.00",
+      "volume": "19,500"
+    },
+    {
+      "name": "Spel Semiconduct",
+      "week52": "157",
+      "ltp": "91.83",
+      "gainPct": "-5.0 %",
+      "dayLow": "91.83",
+      "dayHigh": "196.95",
+      "volume": "4,891"
     },
     {
       "name": "M. K. Sons Fine",
@@ -148,13 +139,49 @@
       "volume": "1,512,144"
     },
     {
-      "name": "Basilic Fly Stud",
-      "week52": "394.85",
-      "ltp": "157.50",
-      "gainPct": "-2.4 %",
-      "dayLow": "157.45",
+      "name": "Bannari Amm.Sug.",
+      "week52": "4338",
+      "ltp": "3095.20",
+      "gainPct": "-2.3 %",
+      "dayLow": "3061.30",
+      "dayHigh": "4345.00",
+      "volume": "755"
+    },
+    {
+      "name": "V I P Inds.",
+      "week52": "435",
+      "ltp": "239.40",
+      "gainPct": "-2.2 %",
+      "dayLow": "238.80",
+      "dayHigh": "436.40",
+      "volume": "889,785"
+    },
+    {
+      "name": "Phantom Digital",
+      "week52": "311",
+      "ltp": "70.65",
+      "gainPct": "-4.7 %",
+      "dayLow": "67.35",
       "dayHigh": "0.00",
-      "volume": "19,500"
+      "volume": "55,200"
+    },
+    {
+      "name": "Grill Splendour",
+      "week52": "142.6",
+      "ltp": "65.90",
+      "gainPct": "-0.9 %",
+      "dayLow": "65.90",
+      "dayHigh": "0.00",
+      "volume": "1,200"
+    },
+    {
+      "name": "Readymix Cons.",
+      "week52": "147",
+      "ltp": "48.60",
+      "gainPct": "-6.4 %",
+      "dayLow": "48.00",
+      "dayHigh": "0.00",
+      "volume": "20,000"
     },
     {
       "name": "Beekay Steel Ind",
@@ -202,51 +229,6 @@
       "volume": "36,657"
     },
     {
-      "name": "Cerebra Integr.",
-      "week52": "9.14",
-      "ltp": "2.14",
-      "gainPct": "-4.9 %",
-      "dayLow": "2.14",
-      "dayHigh": "9.19",
-      "volume": "55,335"
-    },
-    {
-      "name": "Bombay Coated",
-      "week52": "95.55",
-      "ltp": "81.30",
-      "gainPct": "-5.0 %",
-      "dayLow": "81.30",
-      "dayHigh": "96.62",
-      "volume": "198,115"
-    },
-    {
-      "name": "South West Pinn.",
-      "week52": "275",
-      "ltp": "160.58",
-      "gainPct": "-9.8 %",
-      "dayLow": "159.51",
-      "dayHigh": "287.95",
-      "volume": "1,132,437"
-    },
-    {
-      "name": "AIA Engineering",
-      "week52": "5180",
-      "ltp": "3136.40",
-      "gainPct": "-1.6 %",
-      "dayLow": "3082.70",
-      "dayHigh": "5175.00",
-      "volume": "187,765"
-    },
-    {
-      "name": "Lasa Supergeneri",
-      "week52": "12.48",
-      "ltp": "4.22",
-      "gainPct": "-5.0 %",
-      "dayLow": "4.22",
-      "dayHigh": "12.46",
-      "volume": "71,016"
-    },
-    {
       "name": "P I Industries",
       "week52": "3832.9",
       "ltp": "1712.90",
@@ -292,6 +274,24 @@
       "volume": "328,336"
     },
     {
+      "name": "AIA Engineering",
+      "week52": "5180",
+      "ltp": "3136.40",
+      "gainPct": "-1.6 %",
+      "dayLow": "3082.70",
+      "dayHigh": "5175.00",
+      "volume": "187,765"
+    },
+    {
+      "name": "Lasa Supergeneri",
+      "week52": "12.48",
+      "ltp": "4.22",
+      "gainPct": "-5.0 %",
+      "dayLow": "4.22",
+      "dayHigh": "12.46",
+      "volume": "71,016"
+    },
+    {
       "name": "Brand Concepts",
       "week52": "380",
       "ltp": "132.00",
@@ -308,33 +308,6 @@
       "dayLow": "56.45",
       "dayHigh": "0.00",
       "volume": "205,000"
-    },
-    {
-      "name": "Vedant Poly Fabs",
-      "week52": "94",
-      "ltp": "89.30",
-      "gainPct": "-5.0 %",
-      "dayLow": "89.30",
-      "dayHigh": "0.00",
-      "volume": "784,800"
-    },
-    {
-      "name": "Blue Cloud Soft.",
-      "week52": "24.5",
-      "ltp": "18.00",
-      "gainPct": "1.1 %",
-      "dayLow": "17.61",
-      "dayHigh": "33.00",
-      "volume": "3,401,196"
-    },
-    {
-      "name": "Ganesh Green",
-      "week52": "475",
-      "ltp": "171.60",
-      "gainPct": "-0.8 %",
-      "dayLow": "166.35",
-      "dayHigh": "0.00",
-      "volume": "60,600"
     },
     {
       "name": "Keynote Finan.",
@@ -364,13 +337,13 @@
       "volume": "119,104"
     },
     {
-      "name": "Canara HSBC",
-      "week52": "166.69",
-      "ltp": "119.63",
-      "gainPct": "-0.7 %",
-      "dayLow": "119.16",
-      "dayHigh": "166.50",
-      "volume": "579,958"
+      "name": "Tridhya Tech",
+      "week52": "19.95",
+      "ltp": "5.90",
+      "gainPct": "-1.7 %",
+      "dayLow": "5.90",
+      "dayHigh": "0.00",
+      "volume": "27,000"
     },
     {
       "name": "Sellowrap Indus.",
@@ -391,6 +364,33 @@
       "volume": "1,779"
     },
     {
+      "name": "Blue Cloud Soft.",
+      "week52": "24.5",
+      "ltp": "18.00",
+      "gainPct": "1.1 %",
+      "dayLow": "17.61",
+      "dayHigh": "33.00",
+      "volume": "3,401,196"
+    },
+    {
+      "name": "Canara HSBC",
+      "week52": "166.69",
+      "ltp": "119.63",
+      "gainPct": "-0.7 %",
+      "dayLow": "119.16",
+      "dayHigh": "166.50",
+      "volume": "579,958"
+    },
+    {
+      "name": "Ganesh Green",
+      "week52": "475",
+      "ltp": "171.60",
+      "gainPct": "-0.8 %",
+      "dayLow": "166.35",
+      "dayHigh": "0.00",
+      "volume": "60,600"
+    },
+    {
       "name": "BIGBLOC Const.",
       "week52": "80",
       "ltp": "34.25",
@@ -400,13 +400,13 @@
       "volume": "55,168"
     },
     {
-      "name": "Tridhya Tech",
-      "week52": "19.95",
-      "ltp": "5.90",
-      "gainPct": "-1.7 %",
-      "dayLow": "5.90",
-      "dayHigh": "0.00",
-      "volume": "27,000"
+      "name": "Hariyana Ship",
+      "week52": "108",
+      "ltp": "90.91",
+      "gainPct": "-1.6 %",
+      "dayLow": "88.01",
+      "dayHigh": "125.00",
+      "volume": "2,126"
     },
     {
       "name": "Gradiente Info.",
@@ -416,15 +416,6 @@
       "dayLow": "1.53",
       "dayHigh": "0.00",
       "volume": "756,871"
-    },
-    {
-      "name": "Hariyana Ship",
-      "week52": "108",
-      "ltp": "90.91",
-      "gainPct": "-1.6 %",
-      "dayLow": "88.01",
-      "dayHigh": "125.00",
-      "volume": "2,126"
     },
     {
       "name": "Gensol Engineer.",
@@ -452,6 +443,15 @@
       "dayLow": "13.69",
       "dayHigh": "39.75",
       "volume": "213,337"
+    },
+    {
+      "name": "Global Surfaces",
+      "week52": "139.67",
+      "ltp": "23.24",
+      "gainPct": "-1.3 %",
+      "dayLow": "22.71",
+      "dayHigh": "139.90",
+      "volume": "15,787"
     }
   ]
 }

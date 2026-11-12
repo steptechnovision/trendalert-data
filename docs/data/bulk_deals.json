@@ -1,296 +1,8 @@
 {
-  "updatedAt": "2026-11-11T23:30:06.648Z",
+  "updatedAt": "2026-11-12T09:27:18.425Z",
   "source": "nse",
   "count": 71,
   "items": [
-    {
-      "symbol": "AONESTEELS",
-      "name": "A-One Steels India Ltd",
-      "clientName": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "500000",
-      "price": "425.43",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "ASHOKA",
-      "name": "Ashoka Buildcon Ltd",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1808190",
-      "price": "114.18",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "ASHOKA",
-      "name": "Ashoka Buildcon Ltd",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1778668",
-      "price": "113.97",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "ASHOKA",
-      "name": "Ashoka Buildcon Ltd",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "2199664",
-      "price": "114.2",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "ASHOKA",
-      "name": "Ashoka Buildcon Ltd",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "2074353",
-      "price": "113.89",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "BALMLAWRIE",
-      "name": "Balmer Lawrie & Co. Ltd",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "934797",
-      "price": "186.13",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "COHANCE",
-      "name": "Cohance Lifesciences Ltd",
-      "clientName": "JASTI FAMILY TRUST",
-      "buySell": "SELL",
-      "qty": "2100000",
-      "price": "449.5",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "COMSYN",
-      "name": "Commercial Syn Bags Ltd",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "SELL",
-      "qty": "254941",
-      "price": "246",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "COREIN",
-      "name": "Coreintegra Consult Ser L",
-      "clientName": "PJS SECURITIES LLP",
-      "buySell": "SELL",
-      "qty": "56000",
-      "price": "118.37",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "CPPLUS",
-      "name": "Aditya Infotech Limited",
-      "clientName": "DIXON TECHNOLOGIES (INDIA) LIMITED",
-      "buySell": "SELL",
-      "qty": "702481",
-      "price": "4140",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "CPPLUS",
-      "name": "Aditya Infotech Limited",
-      "clientName": "DIXON TECHNOLOGIES (INDIA) LIMITED",
-      "buySell": "SELL",
-      "qty": "702481",
-      "price": "4140",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "GATECH",
-      "name": "GACM Technologies Limited",
-      "clientName": "JAGID VANITABEN RAJENDRAPRASAD",
-      "buySell": "SELL",
-      "qty": "4243228",
-      "price": "0.62",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "GAUDIUMIVF",
-      "name": "Gaudium IVF N Women H L",
-      "clientName": "KISHAN GOPAL MOHTA",
-      "buySell": "SELL",
-      "qty": "423447",
-      "price": "109.02",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "KALYANKJIL",
-      "name": "Kalyan Jewellers Ind Ltd",
-      "clientName": "GRAVITON RESEARCH CAPITAL LLP",
-      "buySell": "SELL",
-      "qty": "6273018",
-      "price": "671.44",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "KKJEWELS",
-      "name": "Kabra Jewels Limited",
-      "clientName": "SMITAL SURESH THAKKAR",
-      "buySell": "SELL",
-      "qty": "38000",
-      "price": "167.84",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "KPEL",
-      "name": "K.P. Energy Limited",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "342063",
-      "price": "208.15",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "MARKOLINES",
-      "name": "Markolines Pavement Tec L",
-      "clientName": "VISTAAR TRADING SERVICE PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "112126",
-      "price": "162.67",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "MARUSHIKA",
-      "name": "Marushika Technology Ltd",
-      "clientName": "NIKUNJ STOCK BROKERS LTD",
-      "buySell": "SELL",
-      "qty": "72000",
-      "price": "125",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "MAXENGS",
-      "name": "Maxwell Engineering Sol L",
-      "clientName": "NEO APEX SHARE BROKING SERVICES LLP",
-      "buySell": "SELL",
-      "qty": "30400",
-      "price": "300.21",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "MOTISONS",
-      "name": "Motisons Jewellers Ltd",
-      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
-      "buySell": "SELL",
-      "qty": "7876181",
-      "price": "14.32",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "NECCLTD",
-      "name": "North East Carry Corp Ltd",
-      "clientName": "ANKITA VISHAL SHAH",
-      "buySell": "SELL",
-      "qty": "482329",
-      "price": "22.8",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "NECCLTD",
-      "name": "North East Carry Corp Ltd",
-      "clientName": "RATHOD MANOJ CHHAGANLAL HUF",
-      "buySell": "SELL",
-      "qty": "382237",
-      "price": "22.92",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "NECCLTD",
-      "name": "North East Carry Corp Ltd",
-      "clientName": "PRAJAL BHANDARI",
-      "buySell": "SELL",
-      "qty": "1098034",
-      "price": "22.06",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "SAHANA",
-      "name": "Sahana System Limited",
-      "clientName": "MANSI SHARE AND STOCK BROKING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "53400",
-      "price": "1171.2",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "SOLARA",
-      "name": "Solara Active Pha Sci Ltd",
-      "clientName": "THE SCOTTISH ORIENTAL SMALLER COMPANIES TRUST PLC",
-      "buySell": "SELL",
-      "qty": "551618",
-      "price": "663.78",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "TALBROAUTO",
-      "name": "Talbros Automotive Compon",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "470469",
-      "price": "436.11",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "TALBROAUTO",
-      "name": "Talbros Automotive Compon",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "389898",
-      "price": "438.73",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "TALBROAUTO",
-      "name": "Talbros Automotive Compon",
-      "clientName": "IRAGE BROKING SERVICES LLP",
-      "buySell": "SELL",
-      "qty": "436261",
-      "price": "439.78",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "TALBROAUTO",
-      "name": "Talbros Automotive Compon",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "442034",
-      "price": "438.12",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "TALBROAUTO",
-      "name": "Talbros Automotive Compon",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "456872",
-      "price": "436.46",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "V2RETAIL",
-      "name": "V2 Retail Limited",
-      "clientName": "MANSI SHARE AND STOCK BROKING PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1890588",
-      "price": "174.63",
-      "date": "11-Nov-2026"
-    },
-    {
-      "symbol": "V2RETAIL",
-      "name": "V2 Retail Limited",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "1135001",
-      "price": "178.96",
-      "date": "11-Nov-2026"
-    },
     {
       "symbol": "AAATECH",
       "name": "AAA Technologies Limited",
@@ -640,6 +352,294 @@
       "buySell": "SELL",
       "qty": "761303",
       "price": "427.39",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "AONESTEELS",
+      "name": "A-One Steels India Ltd",
+      "clientName": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "500000",
+      "price": "425.43",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "ASHOKA",
+      "name": "Ashoka Buildcon Ltd",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1808190",
+      "price": "114.18",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "ASHOKA",
+      "name": "Ashoka Buildcon Ltd",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1778668",
+      "price": "113.97",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "ASHOKA",
+      "name": "Ashoka Buildcon Ltd",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "2199664",
+      "price": "114.2",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "ASHOKA",
+      "name": "Ashoka Buildcon Ltd",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "2074353",
+      "price": "113.89",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "BALMLAWRIE",
+      "name": "Balmer Lawrie & Co. Ltd",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "934797",
+      "price": "186.13",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "COHANCE",
+      "name": "Cohance Lifesciences Ltd",
+      "clientName": "JASTI FAMILY TRUST",
+      "buySell": "SELL",
+      "qty": "2100000",
+      "price": "449.5",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "COMSYN",
+      "name": "Commercial Syn Bags Ltd",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "SELL",
+      "qty": "254941",
+      "price": "246",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "COREIN",
+      "name": "Coreintegra Consult Ser L",
+      "clientName": "PJS SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "56000",
+      "price": "118.37",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "CPPLUS",
+      "name": "Aditya Infotech Limited",
+      "clientName": "DIXON TECHNOLOGIES (INDIA) LIMITED",
+      "buySell": "SELL",
+      "qty": "702481",
+      "price": "4140",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "CPPLUS",
+      "name": "Aditya Infotech Limited",
+      "clientName": "DIXON TECHNOLOGIES (INDIA) LIMITED",
+      "buySell": "SELL",
+      "qty": "702481",
+      "price": "4140",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "GATECH",
+      "name": "GACM Technologies Limited",
+      "clientName": "JAGID VANITABEN RAJENDRAPRASAD",
+      "buySell": "SELL",
+      "qty": "4243228",
+      "price": "0.62",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "GAUDIUMIVF",
+      "name": "Gaudium IVF N Women H L",
+      "clientName": "KISHAN GOPAL MOHTA",
+      "buySell": "SELL",
+      "qty": "423447",
+      "price": "109.02",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "KALYANKJIL",
+      "name": "Kalyan Jewellers Ind Ltd",
+      "clientName": "GRAVITON RESEARCH CAPITAL LLP",
+      "buySell": "SELL",
+      "qty": "6273018",
+      "price": "671.44",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "KKJEWELS",
+      "name": "Kabra Jewels Limited",
+      "clientName": "SMITAL SURESH THAKKAR",
+      "buySell": "SELL",
+      "qty": "38000",
+      "price": "167.84",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "KPEL",
+      "name": "K.P. Energy Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "342063",
+      "price": "208.15",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "MARKOLINES",
+      "name": "Markolines Pavement Tec L",
+      "clientName": "VISTAAR TRADING SERVICE PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "112126",
+      "price": "162.67",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "MARUSHIKA",
+      "name": "Marushika Technology Ltd",
+      "clientName": "NIKUNJ STOCK BROKERS LTD",
+      "buySell": "SELL",
+      "qty": "72000",
+      "price": "125",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "MAXENGS",
+      "name": "Maxwell Engineering Sol L",
+      "clientName": "NEO APEX SHARE BROKING SERVICES LLP",
+      "buySell": "SELL",
+      "qty": "30400",
+      "price": "300.21",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "MOTISONS",
+      "name": "Motisons Jewellers Ltd",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "SELL",
+      "qty": "7876181",
+      "price": "14.32",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "NECCLTD",
+      "name": "North East Carry Corp Ltd",
+      "clientName": "ANKITA VISHAL SHAH",
+      "buySell": "SELL",
+      "qty": "482329",
+      "price": "22.8",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "NECCLTD",
+      "name": "North East Carry Corp Ltd",
+      "clientName": "RATHOD MANOJ CHHAGANLAL HUF",
+      "buySell": "SELL",
+      "qty": "382237",
+      "price": "22.92",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "NECCLTD",
+      "name": "North East Carry Corp Ltd",
+      "clientName": "PRAJAL BHANDARI",
+      "buySell": "SELL",
+      "qty": "1098034",
+      "price": "22.06",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "SAHANA",
+      "name": "Sahana System Limited",
+      "clientName": "MANSI SHARE AND STOCK BROKING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "53400",
+      "price": "1171.2",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "SOLARA",
+      "name": "Solara Active Pha Sci Ltd",
+      "clientName": "THE SCOTTISH ORIENTAL SMALLER COMPANIES TRUST PLC",
+      "buySell": "SELL",
+      "qty": "551618",
+      "price": "663.78",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "TALBROAUTO",
+      "name": "Talbros Automotive Compon",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "470469",
+      "price": "436.11",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "TALBROAUTO",
+      "name": "Talbros Automotive Compon",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "389898",
+      "price": "438.73",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "TALBROAUTO",
+      "name": "Talbros Automotive Compon",
+      "clientName": "IRAGE BROKING SERVICES LLP",
+      "buySell": "SELL",
+      "qty": "436261",
+      "price": "439.78",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "TALBROAUTO",
+      "name": "Talbros Automotive Compon",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "442034",
+      "price": "438.12",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "TALBROAUTO",
+      "name": "Talbros Automotive Compon",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "456872",
+      "price": "436.46",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "V2RETAIL",
+      "name": "V2 Retail Limited",
+      "clientName": "MANSI SHARE AND STOCK BROKING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1890588",
+      "price": "174.63",
+      "date": "11-Nov-2026"
+    },
+    {
+      "symbol": "V2RETAIL",
+      "name": "V2 Retail Limited",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1135001",
+      "price": "178.96",
       "date": "11-Nov-2026"
     }
   ]

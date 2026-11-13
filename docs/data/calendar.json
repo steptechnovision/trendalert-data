@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-13T17:15:51.428Z",
+  "updatedAt": "2026-11-13T22:42:22.236Z",
   "source": "derived",
-  "count": 2,
+  "count": 3,
   "items": [
     {
       "name": "Crystal Crop Protection",
@@ -12,8 +12,23 @@
       "listing": "2026-11-25",
       "priceBand": "₹259-272",
       "size": "",
-      "gmp": "₹45",
-      "gain": "17%",
+      "gmp": "₹40",
+      "gain": "15%",
+      "registrar": "",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
+      "name": "Mahanadi Coalfields",
+      "type": "Mainboard",
+      "open": "2026-11-19",
+      "close": "2026-11-23",
+      "allotment": "2026-11-25",
+      "listing": "2026-11-26",
+      "priceBand": "—",
+      "size": "",
+      "gmp": "",
+      "gain": "",
       "registrar": "",
       "listingGain": "",
       "status": "upcoming"

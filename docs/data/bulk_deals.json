@@ -1,377 +1,8 @@
 {
-  "updatedAt": "2026-11-13T17:15:51.428Z",
+  "updatedAt": "2026-11-13T22:42:22.236Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "AAATECH",
-      "name": "AAA Technologies Limited",
-      "clientName": "VAIBHAV RAJENDRA DOSHI",
-      "buySell": "BUY",
-      "qty": "80083",
-      "price": "90.63",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "ALICON",
-      "name": "Alicon Castalloy Limited",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "95589",
-      "price": "941.01",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "ALICON",
-      "name": "Alicon Castalloy Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "109747",
-      "price": "950.14",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "ALICON",
-      "name": "Alicon Castalloy Limited",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "123544",
-      "price": "937.65",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "ALICON",
-      "name": "Alicon Castalloy Limited",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "102709",
-      "price": "943.46",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "AMBER",
-      "name": "Amber Enterprises (I) Ltd",
-      "clientName": "GRAVITON RESEARCH CAPITAL LLP",
-      "buySell": "BUY",
-      "qty": "295139",
-      "price": "6620.16",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BCSSL",
-      "name": "Bombay Coated N Specl S L",
-      "clientName": "PINKAL SHAILESHKUMAR JOGANI",
-      "buySell": "BUY",
-      "qty": "325000",
-      "price": "81.25",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BFUTILITIE",
-      "name": "BF Utilities Limited",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "465484",
-      "price": "504.63",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BFUTILITIE",
-      "name": "BF Utilities Limited",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "374531",
-      "price": "504.17",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BFUTILITIE",
-      "name": "BF Utilities Limited",
-      "clientName": "IRAGE BROKING SERVICES LLP",
-      "buySell": "BUY",
-      "qty": "268393",
-      "price": "504.16",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BFUTILITIE",
-      "name": "BF Utilities Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "514165",
-      "price": "504.26",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BFUTILITIE",
-      "name": "BF Utilities Limited",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "348480",
-      "price": "505.19",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "MATHISYS QUANTCAP LLP",
-      "buySell": "BUY",
-      "qty": "972049",
-      "price": "260.59",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "HRTI PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1252333",
-      "price": "262.11",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "825482",
-      "price": "262.01",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "BLITZQUANT RESEARCH LLP",
-      "buySell": "BUY",
-      "qty": "575572",
-      "price": "262.5",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "1763975",
-      "price": "262.86",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "IRAGE BROKING SERVICES LLP",
-      "buySell": "BUY",
-      "qty": "758783",
-      "price": "266.85",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "IMC INDIA SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "880204",
-      "price": "263.49",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "2553662",
-      "price": "262.93",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "MAHAVEER COMSTOCK TRADIND LLP",
-      "buySell": "BUY",
-      "qty": "328912",
-      "price": "264.96",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "618010",
-      "price": "263.85",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
-      "buySell": "BUY",
-      "qty": "382738",
-      "price": "263.86",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "CLT RESEARCH TECH PRIVATE LTD",
-      "buySell": "BUY",
-      "qty": "443080",
-      "price": "268.86",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
-      "buySell": "BUY",
-      "qty": "401038",
-      "price": "264.29",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "MARWADI SHARES AND FINANCE LTD.",
-      "buySell": "BUY",
-      "qty": "318559",
-      "price": "262.05",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "614418",
-      "price": "263.14",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "2441818",
-      "price": "264.06",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "1829458",
-      "price": "263.26",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "BLSPOLY",
-      "name": "BLS Polymers Limited",
-      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
-      "buySell": "BUY",
-      "qty": "3883186",
-      "price": "265.12",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "DCI",
-      "name": "DC Infotech and Comun Ltd",
-      "clientName": "SETU SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "138910",
-      "price": "333.43",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "DHANBANK",
-      "name": "Dhanlaxmi Bank Limited",
-      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "4404674",
-      "price": "39.5",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "DHANBANK",
-      "name": "Dhanlaxmi Bank Limited",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "4661724",
-      "price": "39.3",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "DHANBANK",
-      "name": "Dhanlaxmi Bank Limited",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "2834766",
-      "price": "38.92",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "DHANBANK",
-      "name": "Dhanlaxmi Bank Limited",
-      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "3184192",
-      "price": "39.43",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "DHANBANK",
-      "name": "Dhanlaxmi Bank Limited",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "5431286",
-      "price": "39.25",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "GCSL",
-      "name": "Gretex Corporate Services",
-      "clientName": "MANSUKH SECURITIES & FINANCE LIMITED",
-      "buySell": "BUY",
-      "qty": "27744",
-      "price": "812.47",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "HGSINDIALT",
-      "name": "HGS (India) Limited",
-      "clientName": "NEO APEX SHARE BROKING SERVICES LLP",
-      "buySell": "BUY",
-      "qty": "57600",
-      "price": "214.35",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "JARO",
-      "name": "Jaro Ins of Tec Mg N Re L",
-      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "139238",
-      "price": "411.68",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "JARO",
-      "name": "Jaro Ins of Tec Mg N Re L",
-      "clientName": "QE SECURITIES LLP",
-      "buySell": "BUY",
-      "qty": "143916",
-      "price": "409.57",
-      "date": "13-Nov-2026"
-    },
-    {
-      "symbol": "JARO",
-      "name": "Jaro Ins of Tec Mg N Re L",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "BUY",
-      "qty": "195815",
-      "price": "412.66",
-      "date": "13-Nov-2026"
-    },
     {
       "symbol": "JARO",
       "name": "Jaro Ins of Tec Mg N Re L",
@@ -721,6 +352,375 @@
       "buySell": "SELL",
       "qty": "308912",
       "price": "264.63",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "618010",
+      "price": "264.02",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "2441818",
+      "price": "264.4",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
+      "buySell": "SELL",
+      "qty": "382738",
+      "price": "264.01",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "CLT RESEARCH TECH PRIVATE LTD",
+      "buySell": "SELL",
+      "qty": "443080",
+      "price": "268.96",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "BLITZQUANT RESEARCH LLP",
+      "buySell": "SELL",
+      "qty": "575572",
+      "price": "262.61",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "J4S FINANCIAL SOLUTIONS LLP",
+      "buySell": "SELL",
+      "qty": "401038",
+      "price": "264.36",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "DIPAN MEHTA COMMODITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "606418",
+      "price": "263.17",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "MARWADI SHARES AND FINANCE LTD.",
+      "buySell": "SELL",
+      "qty": "300257",
+      "price": "263.6",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
+      "buySell": "SELL",
+      "qty": "3883186",
+      "price": "265.23",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "IMC INDIA SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "766014",
+      "price": "265.66",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "1833792",
+      "price": "263.39",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "JUMP TRADING FINANCIAL INDIA PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "825482",
+      "price": "259.51",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "899688",
+      "price": "259.71",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "MATHISYS QUANTCAP LLP",
+      "buySell": "SELL",
+      "qty": "961950",
+      "price": "260.5",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "IRAGE BROKING SERVICES LLP",
+      "buySell": "SELL",
+      "qty": "547258",
+      "price": "265.25",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "BLSPOLY",
+      "name": "BLS Polymers Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "1818564",
+      "price": "261.87",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "DHANBANK",
+      "name": "Dhanlaxmi Bank Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "4653122",
+      "price": "39.33",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "DHANBANK",
+      "name": "Dhanlaxmi Bank Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "2831929",
+      "price": "38.95",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "DHANBANK",
+      "name": "Dhanlaxmi Bank Limited",
+      "clientName": "NK SECURITIES RESEARCH PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "3184192",
+      "price": "39.46",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "DHANBANK",
+      "name": "Dhanlaxmi Bank Limited",
+      "clientName": "MICROCURVES TRADING PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "4404674",
+      "price": "39.52",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "DHANBANK",
+      "name": "Dhanlaxmi Bank Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "5431286",
+      "price": "39.28",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "GCSL",
+      "name": "Gretex Corporate Services",
+      "clientName": "MANSUKH SECURITIES & FINANCE LIMITED",
+      "buySell": "SELL",
+      "qty": "135488",
+      "price": "819.55",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "IIFLCAPS",
+      "name": "IIFL CAPITAL SERVICES LTD",
+      "clientName": "ALPHA ALTERNATIVES FINANCIAL SERVICES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "2369139",
+      "price": "354.74",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "IIFLCAPS",
+      "name": "IIFL CAPITAL SERVICES LTD",
+      "clientName": "NEO TREASURY PLUS FUND",
+      "buySell": "SELL",
+      "qty": "1865000",
+      "price": "355.78",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "IIFLCAPS",
+      "name": "IIFL CAPITAL SERVICES LTD",
+      "clientName": "ARVESTA FINANCIAL SERVICES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "2081589",
+      "price": "354.22",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "JARO",
+      "name": "Jaro Ins of Tec Mg N Re L",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "139641",
+      "price": "412.3",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "JARO",
+      "name": "Jaro Ins of Tec Mg N Re L",
+      "clientName": "PLUTUS WEALTH MANAGEMENT LLP",
+      "buySell": "SELL",
+      "qty": "120015",
+      "price": "412.32",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "JARO",
+      "name": "Jaro Ins of Tec Mg N Re L",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "195815",
+      "price": "413.14",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "JARO",
+      "name": "Jaro Ins of Tec Mg N Re L",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "148117",
+      "price": "412.33",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "LAMOSAIC",
+      "name": "Lamosaic India Limited",
+      "clientName": "BHAVIN S KAMANI",
+      "buySell": "SELL",
+      "qty": "70200",
+      "price": "47",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "MANAKCOAT",
+      "name": "Man Coat Metal & Ind Ltd",
+      "clientName": "ARIHANT CAPITAL MARKETS LIMITED",
+      "buySell": "SELL",
+      "qty": "920999",
+      "price": "177.21",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "MANAKCOAT",
+      "name": "Man Coat Metal & Ind Ltd",
+      "clientName": "TIGER STRATEGIES FUND -I",
+      "buySell": "SELL",
+      "qty": "600000",
+      "price": "175.04",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "MARKOLINES",
+      "name": "Markolines Pavement Tec L",
+      "clientName": "VISTAAR TRADING SERVICE PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "111524",
+      "price": "162.91",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "MAXENGS",
+      "name": "Maxwell Engineering Sol L",
+      "clientName": "NEO APEX SHARE BROKING SERVICES LLP",
+      "buySell": "SELL",
+      "qty": "85600",
+      "price": "276.06",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "MEESHO",
+      "name": "Meesho Limited",
+      "clientName": "SVF II MEERKAT (DE) LLC",
+      "buySell": "SELL",
+      "qty": "76400000",
+      "price": "246.75",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "MVELECTRO",
+      "name": "MV Electrosystems Limited",
+      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "261733",
+      "price": "787.13",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "MVELECTRO",
+      "name": "MV Electrosystems Limited",
+      "clientName": "JUNOMONETA FINSOL PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "196892",
+      "price": "785.13",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "MVELECTRO",
+      "name": "MV Electrosystems Limited",
+      "clientName": "HRTI PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "176515",
+      "price": "781.27",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "MVELECTRO",
+      "name": "MV Electrosystems Limited",
+      "clientName": "QE SECURITIES LLP",
+      "buySell": "SELL",
+      "qty": "277518",
+      "price": "783.64",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "MWL",
+      "name": "Mangalam Worldwide Ltd",
+      "clientName": "BULLPULSE MARKETEDGE PRIVATE LIMITED",
+      "buySell": "SELL",
+      "qty": "2244269",
+      "price": "40.27",
+      "date": "13-Nov-2026"
+    },
+    {
+      "symbol": "NECCLTD",
+      "name": "North East Carry Corp Ltd",
+      "clientName": "PRAJAL BHANDARI",
+      "buySell": "SELL",
+      "qty": "232233",
+      "price": "22.5",
       "date": "13-Nov-2026"
     }
   ]

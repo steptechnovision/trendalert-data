@@ -115,18 +115,6 @@ async function scrapeTable(url, keywords, colSpecs, urlField) {
   return out;
 }
 
-// Splits an ipowatch-style combined date ("12-16 June", "12 Jun to 16 Jun").
-function splitDate(raw) {
-  raw = norm(raw);
-  if (!raw || raw === 'N/A') return { open: '', close: '' };
-  if (/^\d{4}$/.test(raw)) return { open: 'Coming Soon', close: 'Coming Soon' };
-  let m = raw.match(/^(\d{1,2})\s*[-–]\s*(\d{1,2})\s+([A-Za-z]+)/);
-  if (m) return { open: `${m[1]} ${m[3]}`, close: `${m[2]} ${m[3]}` };
-  const parts = raw.split(/\s*(?:-|–|to)\s*/i).map((s) => s.trim()).filter(Boolean);
-  if (parts.length >= 2) return { open: parts[0], close: parts[1] };
-  return { open: raw, close: raw };
-}
-
 const absIpowatch = (u) =>
   !u ? '' : u.startsWith('http') ? u : `https://ipowatch.in${u}`;
 
@@ -488,55 +476,6 @@ async function nseIndices() {
     }
   }
   return INDEX_ORDER.filter((n) => found[n]).map((n) => found[n]);
-}
-
-// ---------------------------------------------------------------------------
-// Recently listed IPOs with listing price & gain (ipowatch)
-// ---------------------------------------------------------------------------
-async function ipowatchListings() {
-  const $ = await getHtml('https://ipowatch.in/ipo-listing/');
-  const table = findTable($, ['listing']);
-  if (!table) throw new Error('listings: no table');
-  const rows = $(table).find('tr').toArray();
-  const headers = $(rows[0])
-    .find('td, th')
-    .toArray()
-    .map((e) => $(e).text().trim().toLowerCase());
-  const col = (keys) => {
-    for (let i = 0; i < headers.length; i++)
-      for (const k of keys) if (headers[i].includes(k)) return i;
-    return -1;
-  };
-  const ci = {
-    name: col(['company', 'name']),
-    openDate: col(['open']),
-    closeDate: col(['close']),
-    size: col(['size']),
-    priceBand: col(['price band', 'band']),
-    gmp: col(['gmp']),
-    listingPrice: col(['listing price']),
-    listingGain: col(['listing gain', 'gain']),
-  };
-  const out = [];
-  for (const row of rows.slice(1)) {
-    const cells = $(row).find('td').toArray();
-    if (!cells.length) continue;
-    const cell = (c) => (c >= 0 && c < cells.length ? norm($(cells[c]).text()) : '');
-    const name = cell(ci.name);
-    if (!name || name.toLowerCase() === 'company name') continue;
-    out.push({
-      name,
-      openDate: cell(ci.openDate),
-      closeDate: cell(ci.closeDate),
-      size: cell(ci.size),
-      priceBand: cell(ci.priceBand),
-      gmp: cell(ci.gmp),
-      listingPrice: cell(ci.listingPrice),
-      listingGain: cell(ci.listingGain),
-    });
-  }
-  if (!out.length) throw new Error('listings: no rows');
-  return out;
 }
 
 // Recently listed IPOs from ipoji's listed pages (mainboard + SME).
@@ -972,37 +911,7 @@ const FEATURES = [
   {
     name: 'gmp',
     sources: [
-      {
-        name: 'ipowatch',
-        run: async () => {
-          const rows = await scrapeTable(
-            'https://ipowatch.in/ipo-grey-market-premium-latest-ipo-gmp/',
-            ['gmp'],
-            {
-              title: ['ipo name', 'company', 'stock', 'ipo'],
-              gmp: ['gmp', 'grey market'],
-              price: ['price'],
-              gain: ['gain'],
-              date: ['date'],
-              type: ['type'],
-            },
-            'title',
-          );
-          return rows.map((r) => {
-            const d = splitDate(r.date);
-            return {
-              title: r.title,
-              gmp: r.gmp,
-              gain: r.gain,
-              price: r.price,
-              openDate: d.open,
-              closeDate: d.close,
-              type: r.type,
-              url: absIpowatch(r.url),
-            };
-          });
-        },
-      },
+      { name: 'ipowatch', run: () => ipowatchApiGmp() },
       { name: 'ipoji', run: () => ipojiGmp() },
     ],
   },
@@ -1013,10 +922,7 @@ const FEATURES = [
     // genuinely broken source is still reported.
     allowEmpty: true,
     sources: [
-      {
-        name: 'ipowatch',
-        run: () => ipowatchUpcoming('https://ipowatch.in/upcoming-ipo-list/', 'Mainboard'),
-      },
+      { name: 'ipowatch', run: () => ipowatchApiUpcoming(false) },
       { name: 'nse', run: () => nseUpcoming('ipo') },
       { name: 'ipoji', run: () => ipojiUpcoming(false) },
     ],
@@ -1028,10 +934,7 @@ const FEATURES = [
     // parse, so a broken source is still reported.
     allowEmpty: true,
     sources: [
-      {
-        name: 'ipowatch',
-        run: () => ipowatchUpcoming('https://ipowatch.in/upcoming-sme-ipo-list/', null),
-      },
+      { name: 'ipowatch', run: () => ipowatchApiUpcoming(true) },
       { name: 'ipoji', run: () => ipojiUpcoming(true) },
     ],
   },
@@ -1150,9 +1053,13 @@ const FEATURES = [
   },
   {
     name: 'listing',
-    // ipoji only: ipowatch's /ipo-listing/ now redirects to a 2025 archive, so
-    // even when reachable it would publish last year's listings as fresh.
-    sources: [{ name: 'ipoji', run: () => ipojiListed() }],
+    // ipoji first: it has open/close dates. ipowatch's API backs it up (its
+    // listing history has prices but no dates). ipowatch's old /ipo-listing/
+    // HTML page redirects to a 2025 archive, so it is not used at all.
+    sources: [
+      { name: 'ipoji', run: () => ipojiListed() },
+      { name: 'ipowatch', run: () => ipowatchApiListed() },
+    ],
   },
   {
     name: 'news',
@@ -1162,31 +1069,108 @@ const FEATURES = [
 
 // Helper source builders -----------------------------------------------------
 
-async function ipowatchUpcoming(url, forcedType) {
-  const rows = await scrapeTable(
-    url,
-    ['price band'],
-    {
-      title: ['company', 'ipo name', 'ipo', 'name'],
-      date: ['ipo date', 'date'],
-      size: ['ipo size', 'size'],
-      priceBand: ['ipo price band', 'price band', 'price'],
-      type: ['platform', 'exchange'],
-    },
-    'title',
-  );
-  return rows.map((r) => {
-    const d = splitDate(r.date);
-    return {
-      title: r.title,
-      openDate: d.open,
-      closeDate: d.close,
-      size: r.size,
-      priceBand: r.priceBand,
-      type: forcedType || r.type || 'SME',
-      url: absIpowatch(r.url),
-    };
+// ipowatch's JSON API ------------------------------------------------------
+//
+// ipowatch rebuilt its site (Next.js) in Nov 2026: the GMP and upcoming pages
+// now render their tables in the browser, so the static HTML has no <table>
+// ("no table"). These are the same endpoints the site's own components call.
+// The trailing slash matters — without it the API answers 308.
+async function ipowatchApi(name) {
+  const j = await getJson(`https://ipowatch.in/api/ipo/${name}/`, {
+    Referer: 'https://ipowatch.in/',
   });
+  const rows =
+    j && (Array.isArray(j.data) ? j.data : Array.isArray(j.result) ? j.result : null);
+  if (!j || j.status !== 1 || !rows) {
+    throw new Error(`ipowatch api ${name}: unexpected response`);
+  }
+  return rows;
+}
+
+// "NSE Emerge" -> "NSE SME": the app spots SME issues by "sme" in the type.
+const ipwType = (t) => (/emerge/i.test(norm(t)) ? 'NSE SME' : norm(t) || 'Mainboard');
+// "18 Nov 2026" -> "18 Nov" (the short form every other feed uses).
+const ipwDay = (s) => {
+  const m = norm(s).match(/^(\d{1,2})\s+([A-Za-z]{3})/);
+  return m ? `${m[1]} ${m[2]}` : norm(s);
+};
+// "₹259.00 - ₹272.00" -> "₹259-272". Not announced yet ("₹0", "TBA") -> ''
+// so the app shows "—" instead of doing GMP maths against a zero price.
+const ipwBand = (s) => {
+  const v = norm(s);
+  if (!/[1-9]/.test(v)) return '';
+  return v
+    .replace(/\.00\b/g, '')
+    .replace(/^₹?\s*([\d,.]+)\s*[-–]\s*₹?\s*([\d,.]+)$/, '₹$1-$2');
+};
+// 4557162528 (rupees) -> "₹455.72 Cr"
+const ipwCrore = (rupees) => {
+  const n = Number(rupees);
+  return isFinite(n) && n > 0 ? `₹${(n / 1e7).toFixed(2).replace(/\.?0+$/, '')} Cr` : '';
+};
+const ipwUrl = (slug) => (norm(slug) ? `https://ipowatch.in/${norm(slug)}/` : '');
+const ipwNum = (s) => Number(norm(s).replace(/[^\d.-]/g, ''));
+
+// Upcoming / open issues for one board. An empty list is a valid answer
+// (no issue scheduled this week) — see allowEmpty on the upcoming feeds.
+async function ipowatchApiUpcoming(sme) {
+  return (await ipowatchApi('GetIpoListingByStatus'))
+    .filter((r) => /sme|emerge/i.test(norm(r.type)) === !!sme)
+    .filter((r) => !/closed|listed/i.test(norm(r.issueStatus)))
+    .map((r) => ({
+      title: norm(r.name),
+      openDate: ipwDay(r.openDate),
+      closeDate: ipwDay(r.closeDate),
+      size: ipwCrore(r.issueSize),
+      priceBand: ipwBand(r.priceBand),
+      type: ipwType(r.type),
+      url: ipwUrl(r.slug),
+    }))
+    .filter((r) => r.title);
+}
+
+// The live GMP board.
+async function ipowatchApiGmp() {
+  return (await ipowatchApi('GetIpoGMPHistory'))
+    .map((r) => {
+      const [open = '', close = ''] = norm(r.IPODate).split(/\s*[-–]\s*/);
+      // "₹299 (9.93%)" -> "9.93%"
+      const pct = (norm(r.estListing).match(/\((-?[\d.]+)\s*%\)/) || [])[1];
+      return {
+        title: norm(r.ipoName),
+        gmp: norm(r.ipoGmp),
+        gain: pct ? `${pct}%` : '',
+        price: ipwBand(r.priceBand),
+        openDate: ipwDay(open),
+        closeDate: ipwDay(close),
+        type: ipwType(r.Type),
+        url: ipwUrl(r.ipo_slug),
+      };
+    })
+    .filter((r) => r.title);
+}
+
+// Listed IPOs with listing price (newest first). No dates in this endpoint,
+// so it is the backup to ipoji for the listing feed, not the primary.
+async function ipowatchApiListed() {
+  return (await ipowatchApi('GetIpoListingHistory'))
+    .slice(0, 120)
+    .map((r) => {
+      const issue = ipwNum(r.issuePrice);
+      const listed = ipwNum(r.listingPrice);
+      return {
+        name: norm(r.ipoName),
+        openDate: '',
+        closeDate: '',
+        size: '',
+        priceBand: norm(r.issuePrice),
+        gmp: norm(r.ipoGmp),
+        listingPrice: norm(r.listingPrice),
+        listingGain:
+          issue > 0 && listed > 0 ? `${(((listed - issue) / issue) * 100).toFixed(2)}%` : '',
+      };
+    })
+    .filter((r) => r.name && r.listingPrice);
 }
 
 const paisa5 = (url, kw, cols) => scrapeTable(url, kw, cols);

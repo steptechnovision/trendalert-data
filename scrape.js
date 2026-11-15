@@ -426,7 +426,9 @@ const sharesLabel = (v) => {
 // Upcoming mainboard/SME issues (backup for the ipowatch upcoming feeds).
 async function nseUpcoming(category) {
   const arr = await nseGet(`all-upcoming-issues?category=${category}`);
-  if (!Array.isArray(arr) || !arr.length) throw new Error('nse: no upcoming issues');
+  if (!Array.isArray(arr)) throw new Error('nse: unexpected all-upcoming-issues response');
+  // Empty = nothing scheduled right now (see allowEmpty on the upcoming feeds).
+  if (!arr.length) return [];
   return arr.map((r) => ({
     title: norm(r.companyName) || norm(r.symbol),
     openDate: nseDate(r.issueStartDate),
@@ -1006,6 +1008,10 @@ const FEATURES = [
   },
   {
     name: 'upcoming_mainboard',
+    // Empty is valid: some weeks have no upcoming mainboard IPO. ipoji's table
+    // must still parse (scrapeTable throws on a missing or empty table), so a
+    // genuinely broken source is still reported.
+    allowEmpty: true,
     sources: [
       {
         name: 'ipowatch',
@@ -1017,6 +1023,10 @@ const FEATURES = [
   },
   {
     name: 'upcoming_sme',
+    // Empty is valid: some weeks have no upcoming SME IPO at all — Nov 8-12
+    // 2026 failed 13 runs for exactly that reason. ipoji's table must still
+    // parse, so a broken source is still reported.
+    allowEmpty: true,
     sources: [
       {
         name: 'ipowatch',
@@ -1199,15 +1209,19 @@ async function paisaMovers(url) {
 
 async function runFeature(feature) {
   const errors = [];
+  // First source that answered successfully but with nothing in it.
+  let empty = null;
   for (const source of feature.sources) {
     try {
       const items = await source.run();
-      // A feature may opt in (allowEmpty) to publishing a legitimately empty
-      // result — e.g. subscription when no IPO is currently open — so an empty
-      // array counts as a fresh success instead of falling through to "0 rows".
-      if (Array.isArray(items) && (items.length || feature.allowEmpty)) {
+      if (Array.isArray(items) && items.length) {
         return { items, source: source.name, errors };
       }
+      // A feature may opt in (allowEmpty) to publishing a legitimately empty
+      // result — no IPO open for bidding, no upcoming SME issue this week. It
+      // is only used once every source has been tried, so a later source that
+      // does have data always beats an earlier, empty one.
+      if (Array.isArray(items) && !empty) empty = source.name;
       errors.push(`${source.name}: 0 rows`);
       console.log(`   · ${feature.name}/${source.name}: 0 rows`);
     } catch (e) {
@@ -1215,6 +1229,7 @@ async function runFeature(feature) {
       console.log(`   · ${feature.name}/${source.name}: ${e.message}`);
     }
   }
+  if (feature.allowEmpty && empty) return { items: [], source: empty, errors };
   return { items: null, source: null, errors };
 }
 

@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-18T18:43:05.449Z",
+  "updatedAt": "2026-11-19T09:59:09.148Z",
   "source": "ipoji",
-  "count": 3,
+  "count": 4,
   "items": [
     {
       "title": "Crystal Crop Protection",
-      "gmp": "₹18",
-      "gain": "7%",
+      "gmp": "₹17",
+      "gain": "6%",
       "price": "₹259-272",
       "openDate": "18 Nov",
       "closeDate": "20 Nov",
@@ -15,8 +15,8 @@
     },
     {
       "title": "Mahanadi Coalfields",
-      "gmp": "₹3",
-      "gain": "2%",
+      "gmp": "₹2",
+      "gain": "1%",
       "price": "₹129-136",
       "openDate": "19 Nov",
       "closeDate": "23 Nov",
@@ -25,11 +25,21 @@
     },
     {
       "title": "Watrana Rentals",
-      "gmp": "₹32",
-      "gain": "13%",
+      "gmp": "₹36",
+      "gain": "15%",
       "price": "₹232-245",
       "openDate": "19 Nov",
       "closeDate": "23 Nov",
+      "type": "NSE SME",
+      "url": "https://ipoji.com/ipo-gmp"
+    },
+    {
+      "title": "Shree Siddhivinayak Greentech Industries",
+      "gmp": "",
+      "gain": "",
+      "price": "₹130-142",
+      "openDate": "25 Nov",
+      "closeDate": "27 Nov",
       "type": "NSE SME",
       "url": "https://ipoji.com/ipo-gmp"
     }

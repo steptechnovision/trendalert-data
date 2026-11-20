@@ -1,16 +1,88 @@
 {
-  "updatedAt": "2026-11-20T09:48:09.379Z",
+  "updatedAt": "2026-11-20T18:23:38.363Z",
   "source": "5paisa",
   "count": 50,
   "items": [
     {
-      "name": "Medi Assist Ser.",
-      "week52": "500",
-      "ltp": "269.00",
+      "name": "HDFC Silver",
+      "week52": "359",
+      "ltp": "145.35",
+      "gainPct": "-4.8 %",
+      "dayLow": "140.00",
+      "dayHigh": "392.00",
+      "volume": "18,933,177"
+    },
+    {
+      "name": "Nippon I Silver",
+      "week52": "360",
+      "ltp": "146.78",
       "gainPct": "-3.9 %",
-      "dayLow": "262.00",
-      "dayHigh": "500.05",
-      "volume": "1,671,567"
+      "dayLow": "140.25",
+      "dayHigh": "355.00",
+      "volume": "190,008,164"
+    },
+    {
+      "name": "P I Industries",
+      "week52": "3483.8",
+      "ltp": "1597.40",
+      "gainPct": "-2.0 %",
+      "dayLow": "1595.00",
+      "dayHigh": "3481.50",
+      "volume": "505,448"
+    },
+    {
+      "name": "Bondada Engineer",
+      "week52": "308",
+      "ltp": "255.85",
+      "gainPct": "-2.6 %",
+      "dayLow": "253.10",
+      "dayHigh": "427.00",
+      "volume": "172,645"
+    },
+    {
+      "name": "Inox Wind",
+      "week52": "142.37",
+      "ltp": "55.46",
+      "gainPct": "-2.7 %",
+      "dayLow": "55.04",
+      "dayHigh": "142.40",
+      "volume": "25,135,460"
+    },
+    {
+      "name": "Zerodha ETF",
+      "week52": "38.01",
+      "ltp": "15.35",
+      "gainPct": "-4.8 %",
+      "dayLow": "14.83",
+      "dayHigh": "38.05",
+      "volume": "35,399,697"
+    },
+    {
+      "name": "Dishman Carbogen",
+      "week52": "274.3",
+      "ltp": "115.57",
+      "gainPct": "-2.5 %",
+      "dayLow": "115.00",
+      "dayHigh": "274.20",
+      "volume": "802,269"
+    },
+    {
+      "name": "ICICI Gold ETF",
+      "week52": "158",
+      "ltp": "105.10",
+      "gainPct": "-4.6 %",
+      "dayLow": "103.62",
+      "dayHigh": "157.00",
+      "volume": "54,491,931"
+    },
+    {
+      "name": "Praj Industries",
+      "week52": "427.65",
+      "ltp": "233.90",
+      "gainPct": "-1.9 %",
+      "dayLow": "232.55",
+      "dayHigh": "427.75",
+      "volume": "1,005,791"
     },
     {
       "name": "Tata Silver ETF",
@@ -19,439 +91,367 @@
       "gainPct": "-4.7 %",
       "dayLow": "14.32",
       "dayHigh": "26.62",
-      "volume": "143,260,128"
-    },
-    {
-      "name": "Groww Silver ETF",
-      "week52": "36.3",
-      "ltp": "15.12",
-      "gainPct": "-3.6 %",
-      "dayLow": "14.40",
-      "dayHigh": "26.49",
-      "volume": "9,772,806"
-    },
-    {
-      "name": "Nippon I Silver",
-      "week52": "360",
-      "ltp": "148.00",
-      "gainPct": "-3.1 %",
-      "dayLow": "140.25",
-      "dayHigh": "355.00",
-      "volume": "183,396,192"
-    },
-    {
-      "name": "DSP Silver ETF",
-      "week52": "39",
-      "ltp": "14.68",
-      "gainPct": "-4.2 %",
-      "dayLow": "14.04",
-      "dayHigh": "37.07",
-      "volume": "34,832,709"
-    },
-    {
-      "name": "Bondada Engineer",
-      "week52": "308",
-      "ltp": "255.90",
-      "gainPct": "-2.5 %",
-      "dayLow": "255.55",
-      "dayHigh": "427.00",
-      "volume": "156,169"
-    },
-    {
-      "name": "Vilas Transcore",
-      "week52": "495",
-      "ltp": "303.05",
-      "gainPct": "-3.8 %",
-      "dayLow": "301.00",
-      "dayHigh": "0.00",
-      "volume": "26,500"
-    },
-    {
-      "name": "Angel One Silver ETF",
-      "week52": "12",
-      "ltp": "5.90",
-      "gainPct": "-4.2 %",
-      "dayLow": "5.73",
-      "dayHigh": "0.00",
-      "volume": "4,048,468"
-    },
-    {
-      "name": "Western Carriers",
-      "week52": "126.07",
-      "ltp": "80.58",
-      "gainPct": "0.5 %",
-      "dayLow": "76.08",
-      "dayHigh": "125.85",
-      "volume": "433,297"
-    },
-    {
-      "name": "Groww Gold ETF",
-      "week52": "18",
-      "ltp": "12.01",
-      "gainPct": "-4.5 %",
-      "dayLow": "11.84",
-      "dayHigh": "16.45",
-      "volume": "14,566,075"
-    },
-    {
-      "name": "Elitecon Inter.",
-      "week52": "46.4",
-      "ltp": "4.46",
-      "gainPct": "3.7 %",
-      "dayLow": "4.09",
-      "dayHigh": "128.00",
-      "volume": "15,128,846"
-    },
-    {
-      "name": "Lohia Corp",
-      "week52": "680.7",
-      "ltp": "461.35",
-      "gainPct": "-3.6 %",
-      "dayLow": "454.00",
-      "dayHigh": "679.90",
-      "volume": "447,791"
-    },
-    {
-      "name": "Aadhar Hsg. Fin.",
-      "week52": "563",
-      "ltp": "415.90",
-      "gainPct": "0.2 %",
-      "dayLow": "411.20",
-      "dayHigh": "563.00",
-      "volume": "1,431,846"
-    },
-    {
-      "name": "Edelwe. Gold ETF",
-      "week52": "184.95",
-      "ltp": "123.70",
-      "gainPct": "-3.8 %",
-      "dayLow": "121.00",
-      "dayHigh": "0.00",
-      "volume": "154,614"
-    },
-    {
-      "name": "Laser Power",
-      "week52": "343.5",
-      "ltp": "189.92",
-      "gainPct": "-2.3 %",
-      "dayLow": "183.01",
-      "dayHigh": "343.70",
-      "volume": "911,548"
-    },
-    {
-      "name": "SBI Gold ETF",
-      "week52": "153.95",
-      "ltp": "104.65",
-      "gainPct": "-4.5 %",
-      "dayLow": "103.20",
-      "dayHigh": "152.50",
-      "volume": "17,716,386"
+      "volume": "146,827,839"
     },
     {
       "name": "Aditya Bir. Fas.",
       "week52": "79.46",
-      "ltp": "37.83",
-      "gainPct": "3.3 %",
+      "ltp": "37.75",
+      "gainPct": "3.1 %",
       "dayLow": "35.80",
       "dayHigh": "79.47",
-      "volume": "9,179,489"
+      "volume": "11,404,029"
     },
     {
-      "name": "Kusumgar",
-      "week52": "659.5",
-      "ltp": "527.55",
-      "gainPct": "0.0 %",
-      "dayLow": "505.40",
-      "dayHigh": "659.60",
-      "volume": "335,724"
-    },
-    {
-      "name": "Shankesh Jewellers",
-      "week52": "115.9",
-      "ltp": "79.10",
-      "gainPct": "-0.8 %",
-      "dayLow": "78.00",
-      "dayHigh": "116.00",
-      "volume": "3,098,601"
-    },
-    {
-      "name": "HDFC Silver",
-      "week52": "359",
-      "ltp": "145.50",
-      "gainPct": "-4.7 %",
-      "dayLow": "140.00",
-      "dayHigh": "392.00",
-      "volume": "18,133,838"
-    },
-    {
-      "name": "ICICI Gold ETF",
-      "week52": "158",
-      "ltp": "105.11",
-      "gainPct": "-4.6 %",
-      "dayLow": "103.62",
-      "dayHigh": "157.00",
-      "volume": "52,758,799"
-    },
-    {
-      "name": "Kotak Gold ETF",
-      "week52": "158",
-      "ltp": "102.73",
-      "gainPct": "-4.2 %",
-      "dayLow": "101.01",
-      "dayHigh": "154.39",
-      "volume": "10,872,098"
-    },
-    {
-      "name": "SBI Silver ETF",
-      "week52": "362",
-      "ltp": "149.59",
-      "gainPct": "-4.6 %",
-      "dayLow": "142.64",
-      "dayHigh": "362.08",
-      "volume": "4,669,084"
-    },
-    {
-      "name": "Transport Corp.",
-      "week52": "1139.9",
-      "ltp": "800.10",
-      "gainPct": "-1.4 %",
-      "dayLow": "792.50",
-      "dayHigh": "1140.00",
-      "volume": "80,567"
-    },
-    {
-      "name": "Khazanchi Jewell",
-      "week52": "852.8",
-      "ltp": "712.25",
-      "gainPct": "-1.0 %",
-      "dayLow": "690.20",
-      "dayHigh": "849.00",
-      "volume": "42,461"
-    },
-    {
-      "name": "Quantum Gold ETF",
-      "week52": "149.69",
-      "ltp": "101.55",
-      "gainPct": "-4.7 %",
-      "dayLow": "100.24",
-      "dayHigh": "147.09",
-      "volume": "280,995"
-    },
-    {
-      "name": "Praveg",
-      "week52": "325",
-      "ltp": "185.94",
-      "gainPct": "-2.4 %",
-      "dayLow": "185.00",
-      "dayHigh": "361.80",
-      "volume": "43,175"
-    },
-    {
-      "name": "Behari Lal Engg.",
-      "week52": "548",
-      "ltp": "408.10",
-      "gainPct": "-1.8 %",
-      "dayLow": "406.55",
-      "dayHigh": "547.90",
-      "volume": "145,716"
-    },
-    {
-      "name": "DSP Gold ETF",
-      "week52": "18.1",
-      "ltp": "11.94",
-      "gainPct": "-4.6 %",
-      "dayLow": "11.78",
-      "dayHigh": "18.20",
-      "volume": "60,759,428"
+      "name": "Western Carriers",
+      "week52": "126.07",
+      "ltp": "79.59",
+      "gainPct": "-0.7 %",
+      "dayLow": "76.08",
+      "dayHigh": "125.85",
+      "volume": "507,464"
     },
     {
       "name": "Mah. Seamless",
       "week52": "768",
-      "ltp": "492.15",
-      "gainPct": "-1.5 %",
+      "ltp": "491.65",
+      "gainPct": "-1.6 %",
       "dayLow": "488.00",
       "dayHigh": "768.00",
-      "volume": "291,377"
+      "volume": "315,069"
     },
     {
-      "name": "Zerodha ETF",
-      "week52": "38.01",
-      "ltp": "15.38",
-      "gainPct": "-4.6 %",
-      "dayLow": "14.83",
-      "dayHigh": "38.05",
-      "volume": "34,205,968"
+      "name": "Borosil Renew.",
+      "week52": "669.9",
+      "ltp": "370.65",
+      "gainPct": "-2.5 %",
+      "dayLow": "368.55",
+      "dayHigh": "669.70",
+      "volume": "614,057"
     },
     {
-      "name": "Praj Industries",
-      "week52": "427.65",
-      "ltp": "233.96",
-      "gainPct": "-1.9 %",
-      "dayLow": "232.55",
-      "dayHigh": "427.75",
-      "volume": "918,121"
+      "name": "Kotak Gold ETF",
+      "week52": "158",
+      "ltp": "102.44",
+      "gainPct": "-4.5 %",
+      "dayLow": "101.01",
+      "dayHigh": "154.39",
+      "volume": "11,226,520"
     },
     {
-      "name": "Quant Silver ETF",
-      "week52": "28",
-      "ltp": "15.53",
-      "gainPct": "-4.4 %",
-      "dayLow": "14.96",
-      "dayHigh": "19.50",
-      "volume": "14,298,540"
-    },
-    {
-      "name": "VST Till. Tract.",
-      "week52": "6374",
-      "ltp": "3546.80",
-      "gainPct": "-0.6 %",
-      "dayLow": "3525.00",
-      "dayHigh": "6371.15",
-      "volume": "7,995"
-    },
-    {
-      "name": "Shiprocket",
-      "week52": "156.9",
-      "ltp": "109.79",
-      "gainPct": "-3.2 %",
-      "dayLow": "109.10",
-      "dayHigh": "156.81",
-      "volume": "5,772,837"
+      "name": "Laser Power",
+      "week52": "343.5",
+      "ltp": "189.99",
+      "gainPct": "-2.3 %",
+      "dayLow": "183.01",
+      "dayHigh": "343.70",
+      "volume": "961,217"
     },
     {
       "name": "Happiest Minds",
       "week52": "519.9",
-      "ltp": "296.55",
+      "ltp": "296.60",
       "gainPct": "-0.8 %",
       "dayLow": "294.60",
       "dayHigh": "519.70",
-      "volume": "537,593"
+      "volume": "565,724"
     },
     {
-      "name": "Sudarshan Pharma",
-      "week52": "39.3",
-      "ltp": "30.49",
-      "gainPct": "-1.5 %",
-      "dayLow": "29.91",
-      "dayHigh": "42.79",
-      "volume": "28,834"
-    },
-    {
-      "name": "MO Silver ETF",
-      "week52": "385",
-      "ltp": "152.27",
-      "gainPct": "-4.3 %",
-      "dayLow": "146.00",
-      "dayHigh": "384.49",
-      "volume": "138,257"
-    },
-    {
-      "name": "TV Vision",
-      "week52": "12.4",
-      "ltp": "2.31",
-      "gainPct": "-4.9 %",
-      "dayLow": "2.31",
-      "dayHigh": "12.20",
-      "volume": "99,290"
-    },
-    {
-      "name": "Asian Granito",
-      "week52": "79.06",
-      "ltp": "42.75",
-      "gainPct": "0.0 %",
-      "dayLow": "42.40",
-      "dayHigh": "79.08",
-      "volume": "428,017"
-    },
-    {
-      "name": "Atul",
-      "week52": "7180",
-      "ltp": "5060.00",
-      "gainPct": "-0.1 %",
-      "dayLow": "4960.00",
-      "dayHigh": "7198.20",
-      "volume": "45,477"
-    },
-    {
-      "name": "Rajesh Exports",
-      "week52": "237.88",
-      "ltp": "47.97",
-      "gainPct": "-2.2 %",
-      "dayLow": "47.50",
-      "dayHigh": "239.00",
-      "volume": "138,259"
-    },
-    {
-      "name": "Invesco Ind.Gold",
-      "week52": "156",
-      "ltp": "106.40",
-      "gainPct": "-4.7 %",
-      "dayLow": "104.40",
-      "dayHigh": "157.05",
-      "volume": "383,610"
-    },
-    {
-      "name": "Ennature Bio Pharma",
-      "week52": "264.9",
-      "ltp": "168.70",
-      "gainPct": "-5.4 %",
-      "dayLow": "165.30",
-      "dayHigh": "275.00",
-      "volume": "59,273"
-    },
-    {
-      "name": "Pranav Construc.",
-      "week52": "165.1",
-      "ltp": "80.84",
-      "gainPct": "-1.5 %",
-      "dayLow": "80.75",
-      "dayHigh": "164.50",
-      "volume": "205,693"
-    },
-    {
-      "name": "360 ONE Silver",
-      "week52": "358",
-      "ltp": "150.40",
+      "name": "ICICI Pr. Silver",
+      "week52": "373.5",
+      "ltp": "152.41",
       "gainPct": "-4.2 %",
-      "dayLow": "144.05",
-      "dayHigh": "359.45",
-      "volume": "119,100"
+      "dayLow": "146.34",
+      "dayHigh": "374.51",
+      "volume": "18,724,210"
     },
     {
-      "name": "Solarworld Ene.",
-      "week52": "307.5",
-      "ltp": "96.03",
-      "gainPct": "-3.7 %",
-      "dayLow": "95.01",
-      "dayHigh": "307.00",
-      "volume": "850,670"
-    },
-    {
-      "name": "Elelw. Silv. ETF",
-      "week52": "375",
-      "ltp": "152.80",
-      "gainPct": "-4.6 %",
-      "dayLow": "148.00",
-      "dayHigh": "0.00",
-      "volume": "190,374"
-    },
-    {
-      "name": "Camlin Fine",
-      "week52": "192",
-      "ltp": "70.44",
-      "gainPct": "-0.9 %",
-      "dayLow": "69.52",
-      "dayHigh": "192.00",
-      "volume": "494,678"
+      "name": "Empower India",
+      "week52": "2.82",
+      "ltp": "0.96",
+      "gainPct": "-5.0 %",
+      "dayLow": "0.96",
+      "dayHigh": "2.83",
+      "volume": "16,019,264"
     },
     {
       "name": "CreditAcc. Gram.",
       "week52": "1634",
-      "ltp": "981.30",
+      "ltp": "981.70",
       "gainPct": "1.1 %",
       "dayLow": "963.10",
       "dayHigh": "1634.40",
-      "volume": "871,090"
+      "volume": "894,730"
+    },
+    {
+      "name": "DSP Gold ETF",
+      "week52": "18.1",
+      "ltp": "11.91",
+      "gainPct": "-4.8 %",
+      "dayLow": "11.78",
+      "dayHigh": "18.20",
+      "volume": "61,567,249"
+    },
+    {
+      "name": "Atul",
+      "week52": "7180",
+      "ltp": "5057.00",
+      "gainPct": "-0.1 %",
+      "dayLow": "4960.00",
+      "dayHigh": "7198.20",
+      "volume": "48,154"
+    },
+    {
+      "name": "C2C Advanced",
+      "week52": "679.65",
+      "ltp": "125.50",
+      "gainPct": "-2.7 %",
+      "dayLow": "124.85",
+      "dayHigh": "0.00",
+      "volume": "85,800"
+    },
+    {
+      "name": "Shiprocket",
+      "week52": "156.9",
+      "ltp": "109.78",
+      "gainPct": "-3.2 %",
+      "dayLow": "109.10",
+      "dayHigh": "156.81",
+      "volume": "6,037,034"
+    },
+    {
+      "name": "Mirae AS ETF",
+      "week52": "380",
+      "ltp": "149.41",
+      "gainPct": "-4.3 %",
+      "dayLow": "143.13",
+      "dayHigh": "372.00",
+      "volume": "2,901,573"
+    },
+    {
+      "name": "Bharat Rasayan",
+      "week52": "2853",
+      "ltp": "916.40",
+      "gainPct": "-1.2 %",
+      "dayLow": "913.65",
+      "dayHigh": "2844.00",
+      "volume": "13,704"
+    },
+    {
+      "name": "Edelwe. Gold ETF",
+      "week52": "184.95",
+      "ltp": "123.60",
+      "gainPct": "-3.9 %",
+      "dayLow": "121.00",
+      "dayHigh": "0.00",
+      "volume": "160,570"
+    },
+    {
+      "name": "Ishan Dyes",
+      "week52": "71.99",
+      "ltp": "38.80",
+      "gainPct": "-0.9 %",
+      "dayLow": "38.00",
+      "dayHigh": "71.90",
+      "volume": "21,968"
+    },
+    {
+      "name": "Owais Metal",
+      "week52": "415",
+      "ltp": "57.95",
+      "gainPct": "-3.1 %",
+      "dayLow": "56.90",
+      "dayHigh": "0.00",
+      "volume": "7,600"
+    },
+    {
+      "name": "EFC (I)",
+      "week52": "307.19",
+      "ltp": "154.68",
+      "gainPct": "-2.3 %",
+      "dayLow": "152.00",
+      "dayHigh": "307.12",
+      "volume": "259,214"
+    },
+    {
+      "name": "KSE",
+      "week52": "205",
+      "ltp": "162.48",
+      "gainPct": "-4.2 %",
+      "dayLow": "159.00",
+      "dayHigh": "261.00",
+      "volume": "32,582"
+    },
+    {
+      "name": "Digikore Studios",
+      "week52": "92",
+      "ltp": "27.40",
+      "gainPct": "-4.2 %",
+      "dayLow": "26.65",
+      "dayHigh": "0.00",
+      "volume": "88,000"
+    },
+    {
+      "name": "Lohia Corp",
+      "week52": "680.7",
+      "ltp": "460.70",
+      "gainPct": "-3.8 %",
+      "dayLow": "454.00",
+      "dayHigh": "679.90",
+      "volume": "506,522"
+    },
+    {
+      "name": "MO Silver ETF",
+      "week52": "385",
+      "ltp": "151.25",
+      "gainPct": "-5.0 %",
+      "dayLow": "146.00",
+      "dayHigh": "384.49",
+      "volume": "154,664"
+    },
+    {
+      "name": "Aadhar Hsg. Fin.",
+      "week52": "563",
+      "ltp": "416.90",
+      "gainPct": "0.5 %",
+      "dayLow": "411.20",
+      "dayHigh": "563.00",
+      "volume": "1,453,079"
+    },
+    {
+      "name": "South West Pinn.",
+      "week52": "275",
+      "ltp": "159.67",
+      "gainPct": "-0.4 %",
+      "dayLow": "158.45",
+      "dayHigh": "287.95",
+      "volume": "44,407"
+    },
+    {
+      "name": "NILE",
+      "week52": "2018.9",
+      "ltp": "1193.20",
+      "gainPct": "-0.7 %",
+      "dayLow": "1189.00",
+      "dayHigh": "2064.95",
+      "volume": "1,362"
+    },
+    {
+      "name": "Elitecon Inter.",
+      "week52": "46.4",
+      "ltp": "4.50",
+      "gainPct": "4.7 %",
+      "dayLow": "4.09",
+      "dayHigh": "128.00",
+      "volume": "16,367,959"
+    },
+    {
+      "name": "Rajesh Exports",
+      "week52": "237.88",
+      "ltp": "47.84",
+      "gainPct": "-2.4 %",
+      "dayLow": "47.50",
+      "dayHigh": "239.00",
+      "volume": "142,636"
+    },
+    {
+      "name": "Kotak Silver ETF",
+      "week52": "38.8",
+      "ltp": "14.75",
+      "gainPct": "-4.8 %",
+      "dayLow": "14.23",
+      "dayHigh": "0.00",
+      "volume": "33,801,555"
+    },
+    {
+      "name": "SBI Gold ETF",
+      "week52": "153.95",
+      "ltp": "104.44",
+      "gainPct": "-4.7 %",
+      "dayLow": "103.20",
+      "dayHigh": "152.50",
+      "volume": "19,694,945"
+    },
+    {
+      "name": "DSP Silver ETF",
+      "week52": "39",
+      "ltp": "14.63",
+      "gainPct": "-4.6 %",
+      "dayLow": "14.04",
+      "dayHigh": "37.07",
+      "volume": "35,915,245"
+    },
+    {
+      "name": "Camlin Fine",
+      "week52": "192",
+      "ltp": "70.39",
+      "gainPct": "-1.0 %",
+      "dayLow": "69.52",
+      "dayHigh": "192.00",
+      "volume": "524,374"
+    },
+    {
+      "name": "SBI Silver ETF",
+      "week52": "362",
+      "ltp": "149.16",
+      "gainPct": "-4.8 %",
+      "dayLow": "142.64",
+      "dayHigh": "362.08",
+      "volume": "5,167,374"
+    },
+    {
+      "name": "Prakash Steelage",
+      "week52": "6.57",
+      "ltp": "3.22",
+      "gainPct": "-9.6 %",
+      "dayLow": "2.96",
+      "dayHigh": "6.55",
+      "volume": "891,352"
+    },
+    {
+      "name": "Urja Global",
+      "week52": "13.38",
+      "ltp": "7.32",
+      "gainPct": "-2.7 %",
+      "dayLow": "7.20",
+      "dayHigh": "13.52",
+      "volume": "2,054,648"
+    },
+    {
+      "name": "Shankesh Jewellers",
+      "week52": "115.9",
+      "ltp": "79.19",
+      "gainPct": "-0.7 %",
+      "dayLow": "78.00",
+      "dayHigh": "116.00",
+      "volume": "3,219,709"
+    },
+    {
+      "name": "Indian Toners",
+      "week52": "48.79",
+      "ltp": "43.65",
+      "gainPct": "-2.2 %",
+      "dayLow": "42.81",
+      "dayHigh": "62.00",
+      "volume": "4,380"
+    },
+    {
+      "name": "Axis Silver ETF",
+      "week52": "390.01",
+      "ltp": "151.89",
+      "gainPct": "-4.6 %",
+      "dayLow": "146.37",
+      "dayHigh": "217.00",
+      "volume": "1,665,147"
+    },
+    {
+      "name": "Pranav Construc.",
+      "week52": "165.1",
+      "ltp": "80.82",
+      "gainPct": "-1.5 %",
+      "dayLow": "80.50",
+      "dayHigh": "164.50",
+      "volume": "235,895"
     }
   ]
 }

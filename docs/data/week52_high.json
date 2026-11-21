@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T00:11:36.355Z",
+  "updatedAt": "2026-11-21T09:21:23.624Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -211,24 +211,6 @@
       "volume": "10,688"
     },
     {
-      "name": "Axis Bank",
-      "week52": "1450",
-      "ltp": "1446.00",
-      "gainPct": "4.7 %",
-      "dayLow": "1368.80",
-      "dayHigh": "1448.00",
-      "volume": "21,477,017"
-    },
-    {
-      "name": "SG Finserve",
-      "week52": "842.8",
-      "ltp": "821.05",
-      "gainPct": "1.0 %",
-      "dayLow": "801.75",
-      "dayHigh": "842.60",
-      "volume": "525,664"
-    },
-    {
       "name": "Apollo Hospitals",
       "week52": "9282.5",
       "ltp": "9200.00",
@@ -236,15 +218,6 @@
       "dayLow": "8800.00",
       "dayHigh": "9326.80",
       "volume": "1,412,562"
-    },
-    {
-      "name": "Quintegra Soln.",
-      "week52": "4.17",
-      "ltp": "4.17",
-      "gainPct": "2.0 %",
-      "dayLow": "4.17",
-      "dayHigh": "4.44",
-      "volume": "14,901"
     },
     {
       "name": "Bank of Maha",
@@ -265,22 +238,31 @@
       "volume": "19,500"
     },
     {
-      "name": "Gujarat Fluoroch",
-      "week52": "5018.9",
-      "ltp": "4932.70",
-      "gainPct": "-0.9 %",
-      "dayLow": "4877.00",
-      "dayHigh": "5009.80",
-      "volume": "109,946"
+      "name": "Axis Bank",
+      "week52": "1450",
+      "ltp": "1446.00",
+      "gainPct": "4.7 %",
+      "dayLow": "1368.80",
+      "dayHigh": "1448.00",
+      "volume": "21,477,017"
     },
     {
-      "name": "HDFC Nifty Bank.",
-      "week52": "66.67",
-      "ltp": "66.43",
-      "gainPct": "2.5 %",
-      "dayLow": "64.57",
-      "dayHigh": "66.59",
-      "volume": "446,297"
+      "name": "SG Finserve",
+      "week52": "842.8",
+      "ltp": "821.05",
+      "gainPct": "1.0 %",
+      "dayLow": "801.75",
+      "dayHigh": "842.60",
+      "volume": "525,664"
+    },
+    {
+      "name": "Quintegra Soln.",
+      "week52": "4.17",
+      "ltp": "4.17",
+      "gainPct": "2.0 %",
+      "dayLow": "4.17",
+      "dayHigh": "4.44",
+      "volume": "14,901"
     },
     {
       "name": "Greaves Cotton",
@@ -308,6 +290,24 @@
       "dayLow": "14.62",
       "dayHigh": "15.94",
       "volume": "374,426"
+    },
+    {
+      "name": "Gujarat Fluoroch",
+      "week52": "5018.9",
+      "ltp": "4932.70",
+      "gainPct": "-0.9 %",
+      "dayLow": "4877.00",
+      "dayHigh": "5009.80",
+      "volume": "109,946"
+    },
+    {
+      "name": "HDFC Nifty Bank.",
+      "week52": "66.67",
+      "ltp": "66.43",
+      "gainPct": "2.5 %",
+      "dayLow": "64.57",
+      "dayHigh": "66.59",
+      "volume": "446,297"
     },
     {
       "name": "Nitin Spinners",
@@ -409,31 +409,13 @@
       "volume": "349,555"
     },
     {
-      "name": "Federal Bank",
-      "week52": "374.3",
-      "ltp": "373.50",
-      "gainPct": "2.5 %",
-      "dayLow": "360.55",
-      "dayHigh": "374.25",
-      "volume": "8,701,089"
-    },
-    {
-      "name": "SG Mart",
-      "week52": "1107.6",
-      "ltp": "1097.05",
-      "gainPct": "8.6 %",
-      "dayLow": "1008.55",
-      "dayHigh": "1104.20",
-      "volume": "1,874,090"
-    },
-    {
-      "name": "DLF",
-      "week52": "792",
-      "ltp": "785.00",
+      "name": "DSP BSE Top 10 Banks",
+      "week52": "19.4",
+      "ltp": "19.29",
       "gainPct": "2.2 %",
-      "dayLow": "761.00",
-      "dayHigh": "791.85",
-      "volume": "4,590,590"
+      "dayLow": "18.80",
+      "dayHigh": "19.59",
+      "volume": "350,250"
     },
     {
       "name": "Aristo Bio-Tech",
@@ -452,6 +434,24 @@
       "dayLow": "97.75",
       "dayHigh": "100.30",
       "volume": "518,209"
+    },
+    {
+      "name": "Arisinfra Solu.",
+      "week52": "166.23",
+      "ltp": "164.97",
+      "gainPct": "4.4 %",
+      "dayLow": "157.06",
+      "dayHigh": "166.15",
+      "volume": "5,192,310"
+    },
+    {
+      "name": "Federal Bank",
+      "week52": "374.3",
+      "ltp": "373.50",
+      "gainPct": "2.5 %",
+      "dayLow": "360.55",
+      "dayHigh": "374.25",
+      "volume": "8,701,089"
     }
   ]
 }

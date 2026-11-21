@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T16:56:11.748Z",
+  "updatedAt": "2026-11-21T22:05:09.426Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -346,6 +346,15 @@
       "volume": "446,297"
     },
     {
+      "name": "Meesho",
+      "week52": "263.38",
+      "ltp": "259.92",
+      "gainPct": "0.4 %",
+      "dayLow": "255.00",
+      "dayHigh": "263.35",
+      "volume": "30,394,148"
+    },
+    {
       "name": "Coforge",
       "week52": "2177.8",
       "ltp": "2086.70",
@@ -362,15 +371,6 @@
       "dayLow": "1382.80",
       "dayHigh": "1469.00",
       "volume": "349,555"
-    },
-    {
-      "name": "Meesho",
-      "week52": "263.38",
-      "ltp": "259.92",
-      "gainPct": "0.4 %",
-      "dayLow": "255.00",
-      "dayHigh": "263.35",
-      "volume": "30,394,148"
     },
     {
       "name": "RFBL Flexi Pack",
@@ -409,33 +409,6 @@
       "volume": "882,638"
     },
     {
-      "name": "Federal Bank",
-      "week52": "374.3",
-      "ltp": "373.50",
-      "gainPct": "2.5 %",
-      "dayLow": "360.55",
-      "dayHigh": "374.25",
-      "volume": "8,701,089"
-    },
-    {
-      "name": "SG Mart",
-      "week52": "1107.6",
-      "ltp": "1097.05",
-      "gainPct": "8.6 %",
-      "dayLow": "1008.55",
-      "dayHigh": "1104.20",
-      "volume": "1,874,090"
-    },
-    {
-      "name": "DLF",
-      "week52": "792",
-      "ltp": "785.00",
-      "gainPct": "2.2 %",
-      "dayLow": "761.00",
-      "dayHigh": "791.85",
-      "volume": "4,590,590"
-    },
-    {
       "name": "DSP BSE Top 10 Banks",
       "week52": "19.4",
       "ltp": "19.29",
@@ -452,6 +425,33 @@
       "dayLow": "128.50",
       "dayHigh": "0.00",
       "volume": "800"
+    },
+    {
+      "name": "DSP Nifty PSUETF",
+      "week52": "100.41",
+      "ltp": "100.01",
+      "gainPct": "1.2 %",
+      "dayLow": "97.75",
+      "dayHigh": "100.30",
+      "volume": "518,209"
+    },
+    {
+      "name": "Arisinfra Solu.",
+      "week52": "166.23",
+      "ltp": "164.97",
+      "gainPct": "4.4 %",
+      "dayLow": "157.06",
+      "dayHigh": "166.15",
+      "volume": "5,192,310"
+    },
+    {
+      "name": "Federal Bank",
+      "week52": "374.3",
+      "ltp": "373.50",
+      "gainPct": "2.5 %",
+      "dayLow": "360.55",
+      "dayHigh": "374.25",
+      "volume": "8,701,089"
     }
   ]
 }

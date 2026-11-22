@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T22:05:09.426Z",
+  "updatedAt": "2026-11-22T09:28:50.793Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -211,6 +211,15 @@
       "volume": "10,688"
     },
     {
+      "name": "Axis Bank",
+      "week52": "1450",
+      "ltp": "1446.00",
+      "gainPct": "4.7 %",
+      "dayLow": "1368.80",
+      "dayHigh": "1448.00",
+      "volume": "21,477,017"
+    },
+    {
       "name": "Apollo Hospitals",
       "week52": "9282.5",
       "ltp": "9200.00",
@@ -218,6 +227,15 @@
       "dayLow": "8800.00",
       "dayHigh": "9326.80",
       "volume": "1,412,562"
+    },
+    {
+      "name": "Quintegra Soln.",
+      "week52": "4.17",
+      "ltp": "4.17",
+      "gainPct": "2.0 %",
+      "dayLow": "4.17",
+      "dayHigh": "4.44",
+      "volume": "14,901"
     },
     {
       "name": "Bank of Maha",
@@ -238,15 +256,6 @@
       "volume": "19,500"
     },
     {
-      "name": "Axis Bank",
-      "week52": "1450",
-      "ltp": "1446.00",
-      "gainPct": "4.7 %",
-      "dayLow": "1368.80",
-      "dayHigh": "1448.00",
-      "volume": "21,477,017"
-    },
-    {
       "name": "SG Finserve",
       "week52": "842.8",
       "ltp": "821.05",
@@ -254,15 +263,6 @@
       "dayLow": "801.75",
       "dayHigh": "842.60",
       "volume": "525,664"
-    },
-    {
-      "name": "Quintegra Soln.",
-      "week52": "4.17",
-      "ltp": "4.17",
-      "gainPct": "2.0 %",
-      "dayLow": "4.17",
-      "dayHigh": "4.44",
-      "volume": "14,901"
     },
     {
       "name": "Greaves Cotton",
@@ -290,6 +290,24 @@
       "dayLow": "14.62",
       "dayHigh": "15.94",
       "volume": "374,426"
+    },
+    {
+      "name": "Gujarat Fluoroch",
+      "week52": "5018.9",
+      "ltp": "4932.70",
+      "gainPct": "-0.9 %",
+      "dayLow": "4877.00",
+      "dayHigh": "5009.80",
+      "volume": "109,946"
+    },
+    {
+      "name": "HDFC Nifty Bank.",
+      "week52": "66.67",
+      "ltp": "66.43",
+      "gainPct": "2.5 %",
+      "dayLow": "64.57",
+      "dayHigh": "66.59",
+      "volume": "446,297"
     },
     {
       "name": "Nitin Spinners",
@@ -328,33 +346,6 @@
       "volume": "310,918"
     },
     {
-      "name": "Gujarat Fluoroch",
-      "week52": "5018.9",
-      "ltp": "4932.70",
-      "gainPct": "-0.9 %",
-      "dayLow": "4877.00",
-      "dayHigh": "5009.80",
-      "volume": "109,946"
-    },
-    {
-      "name": "HDFC Nifty Bank.",
-      "week52": "66.67",
-      "ltp": "66.43",
-      "gainPct": "2.5 %",
-      "dayLow": "64.57",
-      "dayHigh": "66.59",
-      "volume": "446,297"
-    },
-    {
-      "name": "Meesho",
-      "week52": "263.38",
-      "ltp": "259.92",
-      "gainPct": "0.4 %",
-      "dayLow": "255.00",
-      "dayHigh": "263.35",
-      "volume": "30,394,148"
-    },
-    {
       "name": "Coforge",
       "week52": "2177.8",
       "ltp": "2086.70",
@@ -371,6 +362,15 @@
       "dayLow": "1382.80",
       "dayHigh": "1469.00",
       "volume": "349,555"
+    },
+    {
+      "name": "Meesho",
+      "week52": "263.38",
+      "ltp": "259.92",
+      "gainPct": "0.4 %",
+      "dayLow": "255.00",
+      "dayHigh": "263.35",
+      "volume": "30,394,148"
     },
     {
       "name": "RFBL Flexi Pack",

@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-11-23T22:12:57.732Z",
+  "updatedAt": "2026-11-24T12:08:16.871Z",
   "source": "5paisa",
   "count": 50,
   "items": [
-    {
-      "name": "Adroit Info.",
-      "week52": "16.7",
-      "ltp": "16.38",
-      "gainPct": "1.8 %",
-      "dayLow": "15.90",
-      "dayHigh": "16.64",
-      "volume": "177,194"
-    },
     {
       "name": "DCB Bank",
       "week52": "240.86",
@@ -20,6 +11,15 @@
       "dayLow": "232.67",
       "dayHigh": "240.30",
       "volume": "1,759,597"
+    },
+    {
+      "name": "Eicher Motors",
+      "week52": "8275",
+      "ltp": "8172.50",
+      "gainPct": "0.7 %",
+      "dayLow": "8126.00",
+      "dayHigh": "8265.90",
+      "volume": "760,976"
     },
     {
       "name": "Groww NR ETF",
@@ -31,15 +31,6 @@
       "volume": "1,130,828"
     },
     {
-      "name": "HDFC Nifty Bank.",
-      "week52": "68.14",
-      "ltp": "64.54",
-      "gainPct": "-2.9 %",
-      "dayLow": "64.43",
-      "dayHigh": "67.57",
-      "volume": "419,315"
-    },
-    {
       "name": "HDFC Nifty PSU",
       "week52": "102.41",
       "ltp": "96.09",
@@ -47,15 +38,6 @@
       "dayLow": "96.01",
       "dayHigh": "100.56",
       "volume": "94,955"
-    },
-    {
-      "name": "Meesho",
-      "week52": "265",
-      "ltp": "253.11",
-      "gainPct": "-2.6 %",
-      "dayLow": "252.00",
-      "dayHigh": "265.00",
-      "volume": "18,539,095"
     },
     {
       "name": "OneClick Logisti",
@@ -94,15 +76,6 @@
       "volume": "766,138"
     },
     {
-      "name": "Poonawalla Fin",
-      "week52": "525.15",
-      "ltp": "517.40",
-      "gainPct": "-0.2 %",
-      "dayLow": "507.30",
-      "dayHigh": "524.70",
-      "volume": "1,814,902"
-    },
-    {
       "name": "RFBL Flexi Pack",
       "week52": "122.6",
       "ltp": "122.60",
@@ -110,15 +83,6 @@
       "dayLow": "122.55",
       "dayHigh": "0.00",
       "volume": "73,500"
-    },
-    {
-      "name": "Sambhv Steel",
-      "week52": "179.8",
-      "ltp": "176.90",
-      "gainPct": "11.9 %",
-      "dayLow": "162.00",
-      "dayHigh": "179.80",
-      "volume": "22,707,197"
     },
     {
       "name": "Sheetal Cool",
@@ -130,6 +94,24 @@
       "volume": "178,084"
     },
     {
+      "name": "Shalimar Paints",
+      "week52": "116.8",
+      "ltp": "103.97",
+      "gainPct": "6.7 %",
+      "dayLow": "102.94",
+      "dayHigh": "116.80",
+      "volume": "8,956,197"
+    },
+    {
+      "name": "Shukra Medtech",
+      "week52": "90.5",
+      "ltp": "87.91",
+      "gainPct": "4.5 %",
+      "dayLow": "84.58",
+      "dayHigh": "90.37",
+      "volume": "9,259,381"
+    },
+    {
       "name": "Sportking India",
       "week52": "244.38",
       "ltp": "235.00",
@@ -137,6 +119,15 @@
       "dayLow": "217.01",
       "dayHigh": "243.65",
       "volume": "2,322,631"
+    },
+    {
+      "name": "Veefin Solutions",
+      "week52": "325",
+      "ltp": "315.83",
+      "gainPct": "4.7 %",
+      "dayLow": "302.10",
+      "dayHigh": "403.00",
+      "volume": "411,455"
     },
     {
       "name": "Viaz Tyres",
@@ -157,13 +148,22 @@
       "volume": "12,634,673"
     },
     {
-      "name": "DSP Nif.Bank ETF",
-      "week52": "66.6",
-      "ltp": "64.05",
-      "gainPct": "-3.3 %",
-      "dayLow": "64.05",
-      "dayHigh": "66.39",
-      "volume": "46,087"
+      "name": "Windsor Machines",
+      "week52": "375.95",
+      "ltp": "354.00",
+      "gainPct": "10.2 %",
+      "dayLow": "344.05",
+      "dayHigh": "374.65",
+      "volume": "3,059,953"
+    },
+    {
+      "name": "Axis NIFTY Bank ETF",
+      "week52": "668.91",
+      "ltp": "647.24",
+      "gainPct": "-2.8 %",
+      "dayLow": "647.04",
+      "dayHigh": "668.52",
+      "volume": "9,611"
     },
     {
       "name": "Gretex Corporate",
@@ -184,13 +184,13 @@
       "volume": "3,601,512"
     },
     {
-      "name": "Innomet Advanced",
-      "week52": "420",
-      "ltp": "411.15",
-      "gainPct": "-2.0 %",
-      "dayLow": "411.15",
-      "dayHigh": "0.00",
-      "volume": "63,600"
+      "name": "City Union Bank",
+      "week52": "253.99",
+      "ltp": "245.54",
+      "gainPct": "-1.3 %",
+      "dayLow": "241.00",
+      "dayHigh": "253.85",
+      "volume": "7,273,382"
     },
     {
       "name": "Ratnaveer Precis",
@@ -202,40 +202,22 @@
       "volume": "9,724,997"
     },
     {
-      "name": "Sunshine Picture",
-      "week52": "541.85",
-      "ltp": "536.50",
-      "gainPct": "4.7 %",
-      "dayLow": "501.00",
-      "dayHigh": "542.15",
-      "volume": "828,630"
+      "name": "Shreeji Ship. Gl",
+      "week52": "937.95",
+      "ltp": "910.00",
+      "gainPct": "-0.4 %",
+      "dayLow": "905.25",
+      "dayHigh": "938.30",
+      "volume": "542,821"
     },
     {
-      "name": "Vijaya Diagnost.",
-      "week52": "1637",
-      "ltp": "1572.60",
-      "gainPct": "0.0 %",
-      "dayLow": "1546.00",
-      "dayHigh": "1635.90",
-      "volume": "431,614"
-    },
-    {
-      "name": "Karnika Industri",
-      "week52": "153.4",
-      "ltp": "149.00",
-      "gainPct": "2.0 %",
-      "dayLow": "143.70",
+      "name": "Supreme Engg.",
+      "week52": "6.55",
+      "ltp": "6.55",
+      "gainPct": "1.9 %",
+      "dayLow": "6.55",
       "dayHigh": "0.00",
-      "volume": "81,000"
-    },
-    {
-      "name": "Lakshmi Mills",
-      "week52": "9299",
-      "ltp": "9000.00",
-      "gainPct": "0.5 %",
-      "dayLow": "9000.00",
-      "dayHigh": "9205.00",
-      "volume": "24"
+      "volume": "198,969"
     },
     {
       "name": "SAB Industries",
@@ -245,15 +227,6 @@
       "dayLow": "188.28",
       "dayHigh": "221.50",
       "volume": "547"
-    },
-    {
-      "name": "Union Bank (I)",
-      "week52": "219.72",
-      "ltp": "208.20",
-      "gainPct": "-4.9 %",
-      "dayLow": "207.70",
-      "dayHigh": "220.50",
-      "volume": "19,956,793"
     },
     {
       "name": "Highway Infra",
@@ -274,40 +247,13 @@
       "volume": "4,800"
     },
     {
-      "name": "Tour. Fin. Corp.",
-      "week52": "173.8",
-      "ltp": "173.51",
-      "gainPct": "1.0 %",
-      "dayLow": "172.06",
-      "dayHigh": "173.75",
-      "volume": "3,233,814"
-    },
-    {
-      "name": "Bank of Maha",
-      "week52": "100.7",
-      "ltp": "97.56",
-      "gainPct": "-1.9 %",
-      "dayLow": "96.93",
-      "dayHigh": "100.67",
-      "volume": "31,924,885"
-    },
-    {
-      "name": "Bharti Airtel",
-      "week52": "2172.9",
-      "ltp": "2128.50",
-      "gainPct": "-1.5 %",
-      "dayLow": "2124.50",
-      "dayHigh": "2172.95",
-      "volume": "5,700,272"
-    },
-    {
-      "name": "ICICI PN Bank",
-      "week52": "67.45",
-      "ltp": "64.69",
-      "gainPct": "-2.6 %",
-      "dayLow": "64.25",
-      "dayHigh": "67.07",
-      "volume": "1,077,450"
+      "name": "Apollo Hospitals",
+      "week52": "9410",
+      "ltp": "9257.00",
+      "gainPct": "0.6 %",
+      "dayLow": "9240.00",
+      "dayHigh": "9409.50",
+      "volume": "790,698"
     },
     {
       "name": "Kotak Nifty Bank",
@@ -319,13 +265,31 @@
       "volume": "723,854"
     },
     {
-      "name": "SBI Nifty Bank",
-      "week52": "669.02",
-      "ltp": "646.94",
-      "gainPct": "-2.5 %",
-      "dayLow": "641.54",
-      "dayHigh": "680.13",
-      "volume": "111,193"
+      "name": "A.K.Capital Serv",
+      "week52": "2110.8",
+      "ltp": "2085.40",
+      "gainPct": "4.1 %",
+      "dayLow": "1995.00",
+      "dayHigh": "2100.00",
+      "volume": "6,287"
+    },
+    {
+      "name": "Bank of Maha",
+      "week52": "100.7",
+      "ltp": "97.56",
+      "gainPct": "-1.9 %",
+      "dayLow": "96.93",
+      "dayHigh": "100.67",
+      "volume": "31,924,885"
+    },
+    {
+      "name": "Value 360 Commu.",
+      "week52": "95",
+      "ltp": "91.90",
+      "gainPct": "0.8 %",
+      "dayLow": "91.00",
+      "dayHigh": "0.00",
+      "volume": "106,800"
     },
     {
       "name": "Arisinfra Solu.",
@@ -346,13 +310,13 @@
       "volume": "400"
     },
     {
-      "name": "SG Finserve",
-      "week52": "875",
-      "ltp": "787.70",
-      "gainPct": "-4.1 %",
-      "dayLow": "775.60",
-      "dayHigh": "875.10",
-      "volume": "2,342,076"
+      "name": "SG Mart",
+      "week52": "1254.4",
+      "ltp": "1036.80",
+      "gainPct": "-5.5 %",
+      "dayLow": "1023.20",
+      "dayHigh": "1252.90",
+      "volume": "11,609,639"
     },
     {
       "name": "North Eastn.Car.",
@@ -364,94 +328,130 @@
       "volume": "1,490,058"
     },
     {
-      "name": "Manomay Tex Indi",
-      "week52": "278.54",
-      "ltp": "270.60",
-      "gainPct": "-1.9 %",
-      "dayLow": "262.54",
-      "dayHigh": "279.60",
-      "volume": "294,906"
+      "name": "Poonawalla Fin",
+      "week52": "525.15",
+      "ltp": "517.40",
+      "gainPct": "-0.2 %",
+      "dayLow": "507.30",
+      "dayHigh": "524.70",
+      "volume": "1,814,902"
     },
     {
-      "name": "Modis Navnirman",
-      "week52": "470.2",
-      "ltp": "460.15",
-      "gainPct": "1.1 %",
-      "dayLow": "455.35",
-      "dayHigh": "499.00",
-      "volume": "61,539"
+      "name": "Adroit Info.",
+      "week52": "16.7",
+      "ltp": "16.38",
+      "gainPct": "1.8 %",
+      "dayLow": "15.90",
+      "dayHigh": "16.64",
+      "volume": "177,194"
     },
     {
-      "name": "Lead Reclaim",
-      "week52": "117",
-      "ltp": "113.00",
-      "gainPct": "1.3 %",
-      "dayLow": "113.00",
-      "dayHigh": "0.00",
-      "volume": "4,500"
+      "name": "SG Finserve",
+      "week52": "875",
+      "ltp": "787.70",
+      "gainPct": "-4.1 %",
+      "dayLow": "775.60",
+      "dayHigh": "875.10",
+      "volume": "2,342,076"
     },
     {
-      "name": "Sotac Pharma.",
-      "week52": "140",
-      "ltp": "124.00",
-      "gainPct": "-3.9 %",
-      "dayLow": "124.00",
-      "dayHigh": "0.00",
-      "volume": "2,400"
+      "name": "HDFC Nifty Bank.",
+      "week52": "68.14",
+      "ltp": "64.54",
+      "gainPct": "-2.9 %",
+      "dayLow": "64.43",
+      "dayHigh": "67.57",
+      "volume": "419,315"
     },
     {
-      "name": "DSP Nifty PSUETF",
-      "week52": "101.39",
-      "ltp": "96.50",
+      "name": "Vijaya Diagnost.",
+      "week52": "1637",
+      "ltp": "1572.60",
+      "gainPct": "0.0 %",
+      "dayLow": "1546.00",
+      "dayHigh": "1635.90",
+      "volume": "431,614"
+    },
+    {
+      "name": "DSP Nif.Bank ETF",
+      "week52": "66.6",
+      "ltp": "64.05",
       "gainPct": "-3.3 %",
-      "dayLow": "96.50",
-      "dayHigh": "101.11",
-      "volume": "553,139"
+      "dayLow": "64.05",
+      "dayHigh": "66.39",
+      "volume": "46,087"
     },
     {
-      "name": "Kotak Mah. Bank",
-      "week52": "521.5",
-      "ltp": "502.85",
+      "name": "Innomet Advanced",
+      "week52": "420",
+      "ltp": "411.15",
+      "gainPct": "-2.0 %",
+      "dayLow": "411.15",
+      "dayHigh": "0.00",
+      "volume": "63,600"
+    },
+    {
+      "name": "Sambhv Steel",
+      "week52": "179.8",
+      "ltp": "176.90",
+      "gainPct": "11.9 %",
+      "dayLow": "162.00",
+      "dayHigh": "179.80",
+      "volume": "22,707,197"
+    },
+    {
+      "name": "Sunshine Picture",
+      "week52": "541.85",
+      "ltp": "536.50",
+      "gainPct": "4.7 %",
+      "dayLow": "501.00",
+      "dayHigh": "542.15",
+      "volume": "828,630"
+    },
+    {
+      "name": "Bharti Airtel",
+      "week52": "2172.9",
+      "ltp": "2128.50",
+      "gainPct": "-1.5 %",
+      "dayLow": "2124.50",
+      "dayHigh": "2172.95",
+      "volume": "5,700,272"
+    },
+    {
+      "name": "SBI Nifty Bank",
+      "week52": "669.02",
+      "ltp": "646.94",
       "gainPct": "-2.5 %",
-      "dayLow": "501.10",
-      "dayHigh": "521.30",
-      "volume": "20,539,186"
+      "dayLow": "641.54",
+      "dayHigh": "680.13",
+      "volume": "111,193"
     },
     {
-      "name": "Federal Bank",
-      "week52": "376.2",
-      "ltp": "359.80",
-      "gainPct": "-3.7 %",
-      "dayLow": "359.60",
-      "dayHigh": "376.20",
-      "volume": "15,371,120"
+      "name": "Lakshmi Mills",
+      "week52": "9299",
+      "ltp": "9000.00",
+      "gainPct": "0.5 %",
+      "dayLow": "9000.00",
+      "dayHigh": "9205.00",
+      "volume": "24"
     },
     {
-      "name": "DLF",
-      "week52": "795.95",
-      "ltp": "794.10",
-      "gainPct": "1.2 %",
-      "dayLow": "785.00",
-      "dayHigh": "795.80",
-      "volume": "3,143,787"
+      "name": "Tour. Fin. Corp.",
+      "week52": "173.8",
+      "ltp": "173.51",
+      "gainPct": "1.0 %",
+      "dayLow": "172.06",
+      "dayHigh": "173.75",
+      "volume": "3,233,814"
     },
     {
-      "name": "PDS",
-      "week52": "425",
-      "ltp": "413.25",
-      "gainPct": "1.2 %",
-      "dayLow": "407.10",
-      "dayHigh": "425.00",
-      "volume": "522,922"
-    },
-    {
-      "name": "Shalimar Paints",
-      "week52": "116.8",
-      "ltp": "103.97",
-      "gainPct": "6.7 %",
-      "dayLow": "102.94",
-      "dayHigh": "116.80",
-      "volume": "8,956,197"
+      "name": "Union Bank (I)",
+      "week52": "219.72",
+      "ltp": "208.20",
+      "gainPct": "-4.9 %",
+      "dayLow": "207.70",
+      "dayHigh": "220.50",
+      "volume": "19,956,793"
     }
   ]
 }

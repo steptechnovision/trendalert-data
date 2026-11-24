@@ -1,38 +1,8 @@
 {
-  "updatedAt": "2026-11-23T22:12:57.732Z",
+  "updatedAt": "2026-11-24T12:08:16.871Z",
   "source": "derived",
-  "count": 9,
+  "count": 10,
   "items": [
-    {
-      "name": "Mahanadi Coalfields",
-      "type": "Mainboard",
-      "open": "2026-11-19",
-      "close": "2026-11-23",
-      "allotment": "2026-11-25",
-      "listing": "2026-11-26",
-      "priceBand": "₹129-136",
-      "size": "",
-      "gmp": "",
-      "gain": "",
-      "registrar": "Check Status",
-      "listingGain": "",
-      "status": "open"
-    },
-    {
-      "name": "Watrana Rentals",
-      "type": "NSE SME",
-      "open": "2026-11-19",
-      "close": "2026-11-23",
-      "allotment": "2026-11-25",
-      "listing": "2026-11-26",
-      "priceBand": "₹232-245",
-      "size": "",
-      "gmp": "",
-      "gain": "",
-      "registrar": "",
-      "listingGain": "",
-      "status": "open"
-    },
     {
       "name": "Crystal Crop Protection",
       "type": "Mainboard",
@@ -94,6 +64,21 @@
       "status": "upcoming"
     },
     {
+      "name": "Airpro Technology India",
+      "type": "NSE SME",
+      "open": "2026-11-27",
+      "close": "2026-12-01",
+      "allotment": "2026-12-03",
+      "listing": "2026-12-04",
+      "priceBand": "₹99",
+      "size": "",
+      "gmp": "",
+      "gain": "",
+      "registrar": "",
+      "listingGain": "",
+      "status": "upcoming"
+    },
+    {
       "name": "Matangi Rubber",
       "type": "Mainboard",
       "open": "2026-12-01",
@@ -137,6 +122,36 @@
       "registrar": "",
       "listingGain": "",
       "status": "upcoming"
+    },
+    {
+      "name": "Mahanadi Coalfields",
+      "type": "Mainboard",
+      "open": "2026-11-19",
+      "close": "2026-11-23",
+      "allotment": "2026-11-25",
+      "listing": "2026-11-26",
+      "priceBand": "₹129-136",
+      "size": "",
+      "gmp": "",
+      "gain": "",
+      "registrar": "Check Status",
+      "listingGain": "",
+      "status": "closed"
+    },
+    {
+      "name": "Watrana Rentals",
+      "type": "NSE SME",
+      "open": "2026-11-19",
+      "close": "2026-11-23",
+      "allotment": "2026-11-25",
+      "listing": "2026-11-26",
+      "priceBand": "₹232-245",
+      "size": "",
+      "gmp": "",
+      "gain": "",
+      "registrar": "",
+      "listingGain": "",
+      "status": "closed"
     }
   ]
 }

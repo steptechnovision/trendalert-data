@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-11-25T10:58:07.979Z",
+  "updatedAt": "2026-11-25T20:25:52.701Z",
   "source": "nse",
   "count": 3,
   "items": [
-    {
-      "title": "Foodlink F&B Holdings (India) Limited",
-      "openDate": "26 Nov",
-      "closeDate": "30 Nov",
-      "size": "1,94,43,116 shares",
-      "priceBand": "₹181 to ₹191",
-      "type": "Mainboard",
-      "url": ""
-    },
     {
       "title": "Airpro Technology India Limited",
       "openDate": "27 Nov",
@@ -28,6 +19,15 @@
       "size": "30,00,000 shares",
       "priceBand": "₹175 to ₹180",
       "type": "SME",
+      "url": ""
+    },
+    {
+      "title": "Monomark Engineering (India) Limited",
+      "openDate": "02 Dec",
+      "closeDate": "04 Dec",
+      "size": "2,70,00,000 shares",
+      "priceBand": "₹60 to ₹65",
+      "type": "Mainboard",
       "url": ""
     }
   ]

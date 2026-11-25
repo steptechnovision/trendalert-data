@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-25T10:58:07.979Z",
+  "updatedAt": "2026-11-25T20:25:52.701Z",
   "source": "nse",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "name": "Shree Siddhivinayak Greentech Industries Limited",
@@ -16,6 +16,21 @@
       "price": "₹130 to ₹142",
       "closeDate": "27 Nov",
       "type": "SME",
+      "url": ""
+    },
+    {
+      "name": "Foodlink F&B Holdings (India) Limited",
+      "symbol": "FOODLINK",
+      "total": "0.00",
+      "qib": "",
+      "shni": "",
+      "bhni": "",
+      "nii": "",
+      "rii": "",
+      "ipoSize": "1,04,74,048 shares",
+      "price": "₹181 to ₹191",
+      "closeDate": "30 Nov",
+      "type": "Mainboard",
       "url": ""
     }
   ]

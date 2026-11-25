@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-24T22:35:04.373Z",
+  "updatedAt": "2026-11-25T10:58:07.979Z",
   "source": "nse",
-  "count": 1,
+  "count": 3,
   "items": [
     {
       "title": "Foodlink F&B Holdings (India) Limited",
@@ -10,6 +10,24 @@
       "size": "1,94,43,116 shares",
       "priceBand": "₹181 to ₹191",
       "type": "Mainboard",
+      "url": ""
+    },
+    {
+      "title": "Airpro Technology India Limited",
+      "openDate": "27 Nov",
+      "closeDate": "01 Dec",
+      "size": "36,00,000 shares",
+      "priceBand": "₹99",
+      "type": "SME",
+      "url": ""
+    },
+    {
+      "title": "A J Packaging Limited",
+      "openDate": "01 Dec",
+      "closeDate": "03 Dec",
+      "size": "30,00,000 shares",
+      "priceBand": "₹175 to ₹180",
+      "type": "SME",
       "url": ""
     }
   ]

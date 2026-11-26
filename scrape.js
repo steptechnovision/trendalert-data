@@ -1221,6 +1221,31 @@ async function runFeature(feature) {
 const STALE_WARN_HOURS = 6;
 const STALE_FAIL_HOURS = 48;
 
+/// GMP publishing is PAUSED (owner decision, 26 Nov 2026) after SEBI's
+/// advisory of 23 Nov 2026 (PR No. 75/2026) asking that IPO grey market premium
+/// figures not be published or circulated. Every feed keeps its shape (old app
+/// versions fall back to scraping websites themselves if a feed breaks), but
+/// GMP figures and GMP-derived estimates are written as empty strings.
+/// Official facts — price band, dates, actual listing price/gain — are kept.
+/// To resume, set PUBLISH_GMP = true (only after a fresh legal/policy check).
+const PUBLISH_GMP = false;
+const GMP_FIELDS_BY_FEED = {
+  gmp: ['gmp', 'gain'],          // gain = GMP-based estimated gain
+  calendar: ['gmp', 'gain'],     // listingGain (actual, after listing) is kept
+  listing: ['gmp'],              // listingPrice / listingGain are official
+};
+
+function withoutGmp(feedName, items) {
+  if (PUBLISH_GMP) return items;
+  const fields = GMP_FIELDS_BY_FEED[feedName];
+  if (!fields) return items;
+  return items.map((it) => {
+    const out = { ...it };
+    for (const f of fields) if (f in out) out[f] = '';
+    return out;
+  });
+}
+
 /// Age in hours of the file already on disk, or null if there isn't one.
 async function fileAgeHours(file) {
   if (!existsSync(file)) return null;
@@ -1264,7 +1289,7 @@ async function main() {
       await writeFile(
         file,
         JSON.stringify(
-          { updatedAt: now, source, count: items.length, items },
+          { updatedAt: now, source, count: items.length, items: withoutGmp(feature.name, items) },
           null,
           2,
         ),

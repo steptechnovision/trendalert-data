@@ -12,8 +12,20 @@ on:
     # │                        and doubles requests to the source sites)       │
     # │ The `2-18` part = active hours in UTC (≈ 7:30 AM–12 AM IST). Leave it. │
     # └──────────────────────────────────────────────────────────────────────┘
-    - cron: '*/20 2-18 * * *'
+    #
+    # Off-peak minutes on purpose: GitHub delays and drops scheduled runs most
+    # around :00/:20/:40 (busiest times). With '*/20' we got only 2–5 runs a
+    # day for weeks (Nov 2026). Same 20-minute spacing, shifted to :07/:27/:47.
+    - cron: '7,27,47 2-18 * * *'
   workflow_dispatch: {} # lets you run it manually from the Actions tab
+  push:
+    # Run right away when the scraper itself changes, so a fix goes live
+    # without waiting for the (unreliable) schedule.
+    branches: [main]
+    paths:
+      - 'scrape.js'
+      - 'package.json'
+      - '.github/workflows/scrape.yml'
 
 permissions:
   contents: write

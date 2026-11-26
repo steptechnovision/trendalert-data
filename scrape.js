@@ -400,6 +400,106 @@ async function nseSubscription() {
   return out;
 }
 
+// --- Live IPO subscription from ipoji (primary) ----------------------------
+//
+// NSE's API started resetting connections from cloud runners on 25–26 Nov
+// 2026, so the subscription feed froze at 0×. ipoji is self-hosted (no
+// Cloudflare wall) and its table carries the full category split:
+//   Company | Close Date | QIB (x) | SNII(x) | BNII(x) | NII(x) | Retail(x) |
+//   Employee (x) | Others(x) | Total(x) | Applications | Issue Size
+// Headers are matched EXACTLY ("nii" must not grab "snii"). The company cell
+// ends with exchange badges ("NSE BSE" / "NSE" / "BSE"). Only issues still
+// open for bidding (close date today or later, IST) are kept — the same
+// "open right now" meaning the NSE source had.
+const IPOJI_SUB_URL = 'https://www.ipoji.com/ipo-subscription-status';
+
+// "30 Nov 2026" -> Date (UTC midnight), or null.
+function dayMonYear(raw) {
+  const m = norm(raw).match(/(\d{1,2})\s+([A-Za-z]{3})[a-z]*\s+(\d{4})/);
+  if (!m) return null;
+  const mon = Object.keys(MONTHS_SHORT).indexOf(m[2].toLowerCase());
+  return mon < 0 ? null : new Date(Date.UTC(+m[3], mon, +m[1]));
+}
+
+// (Name matching uses the shared nameKey() defined with the calendar code.)
+async function ipojiSubscription() {
+  const $ = await getHtml(IPOJI_SUB_URL);
+  const table = findTable($, ['qib', 'retail', 'total']);
+  if (!table) throw new Error('ipoji subscription: no table');
+  const rows = $(table).find('tr').toArray();
+  const head = $(rows[0])
+    .find('th, td')
+    .toArray()
+    .map((e) => norm($(e).text()).toLowerCase().replace(/\(x\)|\s/g, ''));
+  const col = (...names) => head.findIndex((h) => names.includes(h));
+  const ix = {
+    name: col('company', 'ipo', 'companyname'),
+    close: col('closedate', 'close'),
+    qib: col('qib'),
+    shni: col('snii', 's-nii', 'shni'),
+    bhni: col('bnii', 'b-nii', 'bhni'),
+    nii: col('nii', 'hni'),
+    rii: col('retail', 'rii'),
+    total: col('total'),
+    size: col('issuesize', 'size'),
+  };
+  if (ix.name < 0 || ix.total < 0) throw new Error('ipoji subscription: header changed');
+
+  // Price band and board type come from ipoji's IPO table (same site).
+  let meta = new Map();
+  try {
+    meta = new Map((await ipojiRows()).map((r) => [nameKey(r.title), r]));
+  } catch (_) {
+    /* price/type are nice-to-have; the subscription figures still publish */
+  }
+
+  const istToday = new Date(Date.now() + 5.5 * 3600 * 1000);
+  const today = Date.UTC(istToday.getUTCFullYear(), istToday.getUTCMonth(), istToday.getUTCDate());
+
+  let parsed = 0;
+  const out = [];
+  for (const tr of rows.slice(1)) {
+    const cells = $(tr).find('td').toArray();
+    if (cells.length < 4) continue;
+    const cell = (i) => (i >= 0 && i < cells.length ? norm($(cells[i]).text()) : '');
+    const rawName = cell(ix.name);
+    const badges = (rawName.match(/(?:\s+(?:NSE|BSE))+\s*$/i) || [''])[0];
+    const name = norm(rawName.slice(0, rawName.length - badges.length));
+    if (!name) continue;
+    parsed++;
+    const m = meta.get(nameKey(name));
+    let closeOn = dayMonYear(cell(ix.close));
+    // ipoji writes "01 Jan 2050" when it has no close date. Trust such a row
+    // only if the same IPO is in its live IPO table (and take that date).
+    if (closeOn && closeOn.getUTCFullYear() > istToday.getUTCFullYear() + 1) {
+      if (!m || /listed|closed/i.test(m.status || '') || !m.closeDate) continue;
+      const d = m.closeDate.match(/(\d{1,2})\s+([A-Za-z]{3})/);
+      if (!d) continue;
+      const mon = Object.keys(MONTHS_SHORT).indexOf(d[2].toLowerCase());
+      closeOn = new Date(Date.UTC(istToday.getUTCFullYear(), mon, +d[1]));
+    }
+    if (!closeOn || closeOn.getTime() < today) continue; // bidding over
+    const exchanges = norm(badges).toUpperCase().split(' ').filter(Boolean);
+    out.push({
+      name,
+      symbol: '',
+      total: xTimes(cell(ix.total)),
+      qib: xTimes(cell(ix.qib)),
+      shni: xTimes(cell(ix.shni)),
+      bhni: xTimes(cell(ix.bhni)),
+      nii: xTimes(cell(ix.nii)),
+      rii: xTimes(cell(ix.rii)),
+      ipoSize: cell(ix.size).replace(/\bCrs\b/i, 'Cr'),
+      price: m ? m.price : '',
+      closeDate: `${closeOn.getUTCDate()} ${Object.values(MONTHS_SHORT)[closeOn.getUTCMonth()]}`,
+      type: m ? m.type : exchanges.length === 1 ? 'SME' : 'Mainboard',
+      url: IPOJI_SUB_URL,
+    });
+  }
+  if (!parsed) throw new Error('ipoji subscription: 0 rows parsed');
+  return out; // [] = no IPO open for bidding right now (allowEmpty)
+}
+
 // "27-Jul-2026" -> "27 Jul" (same short form the ipowatch feeds produce).
 const nseDate = (raw) => {
   const m = norm(raw).match(/^(\d{1,2})-([A-Za-z]{3})/);
@@ -443,6 +543,50 @@ async function nseBulk() {
   }));
 }
 
+// Bulk deals from Trendlyne's server-rendered table (primary since NSE's API
+// started resetting connections from cloud runners, 25–26 Nov 2026).
+// Columns: Stock | Client Name | Exchange | Deal Type | Action | Date |
+//          Avg. Price | Quantity | Intraday | % Traded
+// Kept to what the NSE source returned: NSE *bulk* deals of the latest trading
+// day, up to 80. The stock cell carries the name in data-export and the NSE
+// symbol in its link (/bulk-block-deals/<SYMBOL>/<id>/...).
+async function trendlyneBulk() {
+  const $ = await getHtml('https://trendlyne.com/portfolio/bulk-block-deals/');
+  const table = findTable($, ['client', 'deal', 'quantity']);
+  if (!table) throw new Error('trendlyne bulk: no table');
+  const rows = [];
+  $(table)
+    .find('tr')
+    .slice(1)
+    .each((_, tr) => {
+      const td = $(tr).find('td').toArray();
+      if (td.length < 8) return;
+      const t = (i) => norm($(td[i]).text());
+      const link = $(td[0]).find('a').first().attr('href') || '';
+      const sym = (link.match(/bulk-block-deals\/([^/]+)\//) || [])[1] || '';
+      const d = t(5).match(/(\d{1,2})\s+([A-Za-z]{3})[a-z]*\s+(\d{4})/);
+      rows.push({
+        symbol: norm(sym),
+        name: norm($(td[0]).attr('data-export')) || norm($(td[0]).find('a').first().text()),
+        clientName: t(1),
+        exchange: t(2).toUpperCase(),
+        dealType: t(3).toLowerCase(),
+        buySell: /sell/i.test(t(4)) ? 'SELL' : 'BUY',
+        qty: t(7).replace(/,/g, ''),
+        price: t(6),
+        date: d ? `${d[1].padStart(2, '0')}-${MONTHS_SHORT[d[2].toLowerCase()] || d[2]}-${d[3]}` : t(5),
+      });
+    });
+  const bulk = rows.filter((r) => r.exchange === 'NSE' && r.dealType === 'bulk' && r.name);
+  if (!bulk.length) throw new Error('trendlyne bulk: 0 NSE bulk rows');
+  const when = (s) => Date.parse(s.replace(/-/g, ' ')) || 0; // "25-Nov-2026"
+  const latest = bulk.reduce((a, r) => (when(r.date) > when(a) ? r.date : a), bulk[0].date);
+  return bulk
+    .filter((r) => r.date === latest)
+    .slice(0, 80)
+    .map(({ exchange, dealType, ...r }) => r);
+}
+
 // ---------------------------------------------------------------------------
 // Market indices (NSE allIndices) for the Market Pulse strip
 // ---------------------------------------------------------------------------
@@ -476,6 +620,59 @@ async function nseIndices() {
     }
   }
   return INDEX_ORDER.filter((n) => found[n]).map((n) => found[n]);
+}
+
+// Same six indices from Yahoo Finance's public chart API (primary since NSE's
+// API started resetting connections from cloud runners, 25–26 Nov 2026).
+// Yahoo's meta "previous close" is unreliable around holidays (it returned
+// the close from two sessions back), so the change is computed from the last
+// two DAILY candles instead.
+const YAHOO_INDEX = {
+  'NIFTY 50': '^NSEI',
+  'NIFTY BANK': '^NSEBANK',
+  'NIFTY NEXT 50': '^NSMIDCP',
+  'NIFTY MIDCAP 100': 'NIFTY_MIDCAP_100.NS',
+  'NIFTY IT': '^CNXIT',
+  'INDIA VIX': '^INDIAVIX',
+};
+
+async function yahooIndices() {
+  const out = [];
+  for (const name of INDEX_ORDER) {
+    const sym = YAHOO_INDEX[name];
+    if (!sym) continue;
+    try {
+      const data = await getJson(
+        `https://query1.finance.yahoo.com/v8/finance/chart/${encodeURIComponent(sym)}?interval=1d&range=5d`,
+      );
+      const r = data && data.chart && data.chart.result && data.chart.result[0];
+      if (!r) continue;
+      const closes = (r.indicators?.quote?.[0]?.close || []).filter((c) => isFinite(c) && c > 0);
+      const price = Number(r.meta?.regularMarketPrice);
+      if (!isFinite(price) || closes.length < 1) continue;
+      // If today's candle is already in the list, yesterday is one before it.
+      // Some symbols (NIFTY_MIDCAP_100.NS) keep only today's candle; then the
+      // close just before the range — chartPreviousClose — is yesterday's.
+      const last = closes[closes.length - 1];
+      let prev = Math.abs(last - price) < price * 1e-6 ? closes[closes.length - 2] : last;
+      if (closes.length === 1 && Math.abs(last - price) < price * 1e-6) {
+        prev = Number(r.meta?.chartPreviousClose);
+      }
+      if (!isFinite(prev) || !prev) continue;
+      const change = price - prev;
+      out.push({
+        name,
+        last: fmtNum(price),
+        change: fmtSigned(change),
+        percentChange: `${fmtSigned((change / prev) * 100)}%`,
+      });
+    } catch (_) {
+      /* one index failing must not drop the others */
+    }
+    await sleep(150);
+  }
+  if (out.length < 3) throw new Error(`yahoo indices: only ${out.length} of 6`);
+  return out;
 }
 
 // Recently listed IPOs from ipoji's listed pages (mainboard + SME).
@@ -1037,7 +1234,12 @@ const FEATURES = [
   },
   {
     name: 'bulk_deals',
-    sources: [{ name: 'nse', run: () => nseBulk() }],
+    // Trendlyne first: NSE's API resets connections from cloud runners (since
+    // 25–26 Nov 2026). NSE stays as the backup in case it comes back.
+    sources: [
+      { name: 'trendlyne', run: () => trendlyneBulk() },
+      { name: 'nse', run: () => nseBulk() },
+    ],
   },
   {
     name: 'subscription',
@@ -1045,11 +1247,21 @@ const FEATURES = [
     // bidding right now (a routine gap between issues), not a broken source.
     // See nseSubscription() and runFeature().
     allowEmpty: true,
-    sources: [{ name: 'nse', run: () => nseSubscription() }],
+    // ipoji first: NSE's API resets connections from cloud runners (since
+    // 25–26 Nov 2026). NSE stays as the backup in case it comes back.
+    sources: [
+      { name: 'ipoji', run: () => ipojiSubscription() },
+      { name: 'nse', run: () => nseSubscription() },
+    ],
   },
   {
     name: 'indices',
-    sources: [{ name: 'nse', run: () => nseIndices() }],
+    // Yahoo first: NSE's API resets connections from cloud runners (since
+    // 25–26 Nov 2026). NSE stays as the backup in case it comes back.
+    sources: [
+      { name: 'yahoo', run: () => yahooIndices() },
+      { name: 'nse', run: () => nseIndices() },
+    ],
   },
   {
     name: 'listing',

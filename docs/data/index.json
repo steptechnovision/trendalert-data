@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T20:25:52.701Z",
+  "updatedAt": "2026-11-26T10:14:25.344Z",
   "feeds": [
     "gmp",
     "upcoming_mainboard",
@@ -23,104 +23,113 @@
     "gmp": {
       "ok": true,
       "source": "ipoji",
-      "count": 11,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "count": 10,
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "upcoming_mainboard": {
       "ok": true,
-      "source": "nse",
-      "count": 3,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "source": "ipoji",
+      "count": 5,
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "upcoming_sme": {
       "ok": true,
       "source": "ipoji",
       "count": 3,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "ipo_reviews": {
       "ok": true,
       "source": "ipowatch",
       "count": 10,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "stocks_today": {
       "ok": true,
       "source": "5paisa",
       "count": 5,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "penny": {
       "ok": true,
       "source": "5paisa",
       "count": 5,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "intraday": {
       "ok": true,
       "source": "5paisa",
       "count": 20,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "gainers": {
       "ok": true,
       "source": "5paisa",
-      "count": 68,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "count": 35,
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "losers": {
       "ok": true,
       "source": "5paisa",
-      "count": 11,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "count": 45,
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "week52_high": {
       "ok": true,
       "source": "5paisa",
       "count": 50,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "week52_low": {
       "ok": true,
       "source": "5paisa",
       "count": 50,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "bulk_deals": {
-      "ok": true,
-      "source": "nse",
-      "count": 80,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "ok": false,
+      "source": null,
+      "staleHours": 13.8,
+      "errors": [
+        "nse: HTTP 403 https://www.nseindia.com/api/snapshot-capital-market-largedeal"
+      ],
+      "updatedAt": null
     },
     "subscription": {
-      "ok": true,
-      "source": "nse",
-      "count": 2,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "ok": false,
+      "source": null,
+      "staleHours": 13.8,
+      "errors": [
+        "nse: HTTP 403 https://www.nseindia.com/api/ipo-current-issue"
+      ],
+      "updatedAt": null
     },
     "indices": {
-      "ok": true,
-      "source": "nse",
-      "count": 6,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "ok": false,
+      "source": null,
+      "staleHours": 13.8,
+      "errors": [
+        "nse: HTTP 403 https://www.nseindia.com/api/allIndices"
+      ],
+      "updatedAt": null
     },
     "listing": {
       "ok": true,
       "source": "ipoji",
-      "count": 33,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "count": 34,
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "news": {
       "ok": true,
       "source": "rss",
       "count": 60,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     },
     "calendar": {
       "ok": true,
       "source": "derived",
-      "count": 11,
-      "updatedAt": "2026-11-25T20:25:52.701Z"
+      "count": 10,
+      "updatedAt": "2026-11-26T10:14:25.344Z"
     }
   }
 }

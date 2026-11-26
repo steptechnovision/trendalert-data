@@ -1,37 +1,37 @@
 {
-  "updatedAt": "2026-11-25T20:25:52.701Z",
-  "source": "nse",
+  "updatedAt": "2026-11-26T11:18:11.154Z",
+  "source": "ipoji",
   "count": 2,
   "items": [
     {
-      "name": "Shree Siddhivinayak Greentech Industries Limited",
-      "symbol": "SHREESIDHI",
-      "total": "0.00",
-      "qib": "",
-      "shni": "",
-      "bhni": "",
-      "nii": "",
-      "rii": "",
-      "ipoSize": "65,96,000 shares",
-      "price": "₹130 to ₹142",
-      "closeDate": "27 Nov",
-      "type": "SME",
-      "url": ""
-    },
-    {
-      "name": "Foodlink F&B Holdings (India) Limited",
-      "symbol": "FOODLINK",
-      "total": "0.00",
-      "qib": "",
-      "shni": "",
-      "bhni": "",
-      "nii": "",
-      "rii": "",
-      "ipoSize": "1,04,74,048 shares",
-      "price": "₹181 to ₹191",
+      "name": "Foodlink F&B Holdings (India)",
+      "symbol": "",
+      "total": "1.08",
+      "qib": "1.00",
+      "shni": "0.53",
+      "bhni": "0.33",
+      "nii": "0.40",
+      "rii": "2.36",
+      "ipoSize": "₹360.76 Cr",
+      "price": "₹180-191",
       "closeDate": "30 Nov",
       "type": "Mainboard",
-      "url": ""
+      "url": "https://www.ipoji.com/ipo-subscription-status"
+    },
+    {
+      "name": "Shree Siddhivinayak Greentech Industries",
+      "symbol": "",
+      "total": "1.30",
+      "qib": "4.27",
+      "shni": "0.46",
+      "bhni": "1.17",
+      "nii": "0.93",
+      "rii": "1.60",
+      "ipoSize": "₹93.66 Cr",
+      "price": "₹130-142",
+      "closeDate": "27 Nov",
+      "type": "NSE SME",
+      "url": "https://www.ipoji.com/ipo-subscription-status"
     }
   ]
 }

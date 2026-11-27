@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T10:00:48.769Z",
+  "updatedAt": "2026-11-27T10:30:44.583Z",
   "source": "yahoo",
   "count": 6,
   "items": [
@@ -17,15 +17,15 @@
     },
     {
       "name": "NIFTY NEXT 50",
-      "last": "72,664.30",
-      "change": "-92.65",
-      "percentChange": "-0.13%"
+      "last": "72,656.95",
+      "change": "-100.00",
+      "percentChange": "-0.14%"
     },
     {
       "name": "NIFTY MIDCAP 100",
-      "last": "61,847.40",
-      "change": "+65.55",
-      "percentChange": "+0.11%"
+      "last": "61,846.30",
+      "change": "+64.45",
+      "percentChange": "+0.10%"
     },
     {
       "name": "NIFTY IT",
@@ -36,8 +36,8 @@
     {
       "name": "INDIA VIX",
       "last": "16.55",
-      "change": "+0.00",
-      "percentChange": "+0.00%"
+      "change": "-0.30",
+      "percentChange": "-1.75%"
     }
   ]
 }

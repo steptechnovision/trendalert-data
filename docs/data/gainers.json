@@ -1,159 +1,175 @@
 {
-  "updatedAt": "2026-11-27T07:00:52.846Z",
+  "updatedAt": "2026-11-27T07:30:40.689Z",
   "source": "5paisa",
-  "count": 19,
+  "count": 21,
   "items": [
     {
-      "name": "BSE",
-      "ltp": "4001.40",
-      "gainPct": "0.3 %",
-      "dayLow": "3970.00",
-      "dayHigh": "4079.90",
-      "volume": "3542233"
+      "name": "Asian Paints",
+      "ltp": "2546.00",
+      "gainPct": "0.1 %",
+      "dayLow": "2508.30",
+      "dayHigh": "2554.80",
+      "volume": "326818"
     },
     {
       "name": "Bharat Electron",
-      "ltp": "411.10",
-      "gainPct": "1.6 %",
+      "ltp": "412.40",
+      "gainPct": "2.0 %",
       "dayLow": "402.50",
       "dayHigh": "414.50",
-      "volume": "10746354"
+      "volume": "11824700"
     },
     {
       "name": "Hind. Unilever",
-      "ltp": "2139.00",
+      "ltp": "2138.50",
       "gainPct": "0.4 %",
       "dayLow": "2114.80",
       "dayHigh": "2146.80",
-      "volume": "1069682"
-    },
-    {
-      "name": "Hindalco Inds.",
-      "ltp": "916.00",
-      "gainPct": "0.1 %",
-      "dayLow": "913.30",
-      "dayHigh": "934.30",
-      "volume": "5270536"
+      "volume": "1248894"
     },
     {
       "name": "Interglobe Aviat",
-      "ltp": "5656.00",
-      "gainPct": "0.6 %",
+      "ltp": "5648.90",
+      "gainPct": "0.4 %",
       "dayLow": "5610.20",
       "dayHigh": "5700.00",
-      "volume": "404904"
+      "volume": "446807"
     },
     {
       "name": "JSW Steel",
-      "ltp": "1312.70",
+      "ltp": "1312.30",
       "gainPct": "0.7 %",
       "dayLow": "1308.60",
       "dayHigh": "1329.50",
-      "volume": "775355"
+      "volume": "907587"
+    },
+    {
+      "name": "NTPC",
+      "ltp": "321.05",
+      "gainPct": "0.3 %",
+      "dayLow": "320.05",
+      "dayHigh": "324.90",
+      "volume": "3987509"
     },
     {
       "name": "O N G C",
-      "ltp": "222.91",
-      "gainPct": "0.0 %",
+      "ltp": "223.35",
+      "gainPct": "0.2 %",
       "dayLow": "222.69",
       "dayHigh": "224.17",
-      "volume": "2991809"
+      "volume": "3611489"
     },
     {
       "name": "Power Grid Corpn",
-      "ltp": "267.95",
-      "gainPct": "0.4 %",
+      "ltp": "268.35",
+      "gainPct": "0.5 %",
       "dayLow": "266.00",
       "dayHigh": "270.80",
-      "volume": "4423556"
+      "volume": "5053925"
     },
     {
       "name": "SBI Life Insuran",
-      "ltp": "1851.50",
-      "gainPct": "0.5 %",
+      "ltp": "1845.30",
+      "gainPct": "0.2 %",
       "dayLow": "1830.20",
       "dayHigh": "1856.40",
-      "volume": "337481"
-    },
-    {
-      "name": "Titan Company",
-      "ltp": "4684.60",
-      "gainPct": "1.2 %",
-      "dayLow": "4664.90",
-      "dayHigh": "4806.10",
-      "volume": "987559"
-    },
-    {
-      "name": "Trent",
-      "ltp": "3278.90",
-      "gainPct": "0.5 %",
-      "dayLow": "3262.60",
-      "dayHigh": "3300.00",
-      "volume": "210040"
-    },
-    {
-      "name": "Asian Paints",
-      "ltp": "2543.80",
-      "gainPct": "0.0 %",
-      "dayLow": "2509.90",
-      "dayHigh": "2554.00",
-      "volume": "14927"
-    },
-    {
-      "name": "Bharat Electron",
-      "ltp": "411.10",
-      "gainPct": "1.6 %",
-      "dayLow": "402.20",
-      "dayHigh": "414.40",
-      "volume": "716322"
-    },
-    {
-      "name": "Hind. Unilever",
-      "ltp": "2138.75",
-      "gainPct": "0.4 %",
-      "dayLow": "2116.50",
-      "dayHigh": "2146.35",
-      "volume": "53486"
-    },
-    {
-      "name": "Interglobe Aviat",
-      "ltp": "5654.85",
-      "gainPct": "0.5 %",
-      "dayLow": "5612.00",
-      "dayHigh": "5700.00",
-      "volume": "99589"
-    },
-    {
-      "name": "Power Grid Corpn",
-      "ltp": "268.00",
-      "gainPct": "0.4 %",
-      "dayLow": "266.00",
-      "dayHigh": "270.85",
-      "volume": "401839"
+      "volume": "391275"
     },
     {
       "name": "Tata Steel",
-      "ltp": "164.40",
-      "gainPct": "0.6 %",
-      "dayLow": "163.80",
-      "dayHigh": "166.75",
-      "volume": "1748812"
+      "ltp": "164.12",
+      "gainPct": "0.4 %",
+      "dayLow": "164.01",
+      "dayHigh": "166.60",
+      "volume": "28982449"
     },
     {
       "name": "Titan Company",
-      "ltp": "4685.85",
-      "gainPct": "1.2 %",
-      "dayLow": "4650.05",
-      "dayHigh": "4805.00",
-      "volume": "36523"
+      "ltp": "4701.00",
+      "gainPct": "1.5 %",
+      "dayLow": "4664.90",
+      "dayHigh": "4806.10",
+      "volume": "1083368"
     },
     {
       "name": "Trent",
-      "ltp": "3277.60",
+      "ltp": "3290.00",
+      "gainPct": "0.8 %",
+      "dayLow": "3262.60",
+      "dayHigh": "3300.00",
+      "volume": "294413"
+    },
+    {
+      "name": "Asian Paints",
+      "ltp": "2547.60",
+      "gainPct": "0.2 %",
+      "dayLow": "2509.90",
+      "dayHigh": "2554.00",
+      "volume": "15361"
+    },
+    {
+      "name": "Bharat Electron",
+      "ltp": "412.45",
+      "gainPct": "1.9 %",
+      "dayLow": "402.20",
+      "dayHigh": "414.40",
+      "volume": "759524"
+    },
+    {
+      "name": "Hind. Unilever",
+      "ltp": "2138.15",
+      "gainPct": "0.4 %",
+      "dayLow": "2116.50",
+      "dayHigh": "2146.35",
+      "volume": "55264"
+    },
+    {
+      "name": "Interglobe Aviat",
+      "ltp": "5652.10",
       "gainPct": "0.5 %",
+      "dayLow": "5612.00",
+      "dayHigh": "5700.00",
+      "volume": "99851"
+    },
+    {
+      "name": "NTPC",
+      "ltp": "321.00",
+      "gainPct": "0.1 %",
+      "dayLow": "320.05",
+      "dayHigh": "324.85",
+      "volume": "98321"
+    },
+    {
+      "name": "Power Grid Corpn",
+      "ltp": "268.45",
+      "gainPct": "0.5 %",
+      "dayLow": "266.00",
+      "dayHigh": "270.85",
+      "volume": "409458"
+    },
+    {
+      "name": "Tata Steel",
+      "ltp": "164.15",
+      "gainPct": "0.5 %",
+      "dayLow": "163.80",
+      "dayHigh": "166.75",
+      "volume": "1847413"
+    },
+    {
+      "name": "Titan Company",
+      "ltp": "4702.00",
+      "gainPct": "1.5 %",
+      "dayLow": "4650.05",
+      "dayHigh": "4805.00",
+      "volume": "52419"
+    },
+    {
+      "name": "Trent",
+      "ltp": "3289.60",
+      "gainPct": "0.8 %",
       "dayLow": "3262.60",
       "dayHigh": "3302.25",
-      "volume": "9237"
+      "volume": "10100"
     }
   ]
 }

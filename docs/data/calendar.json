@@ -1,23 +1,8 @@
 {
-  "updatedAt": "2026-11-27T19:54:20.380Z",
+  "updatedAt": "2026-11-28T02:30:34.447Z",
   "source": "derived",
   "count": 10,
   "items": [
-    {
-      "name": "Shree Siddhivinayak Greentech Industries",
-      "type": "NSE SME",
-      "open": "2026-11-25",
-      "close": "2026-11-27",
-      "allotment": "2026-12-01",
-      "listing": "2026-12-02",
-      "priceBand": "₹130-142",
-      "size": "",
-      "gmp": "",
-      "gain": "",
-      "registrar": "",
-      "listingGain": "",
-      "status": "open"
-    },
     {
       "name": "Foodlink F&B Holdings (India)",
       "type": "Mainboard",
@@ -152,6 +137,21 @@
       "registrar": "",
       "listingGain": "",
       "status": "upcoming"
+    },
+    {
+      "name": "Shree Siddhivinayak Greentech Industries",
+      "type": "NSE SME",
+      "open": "2026-11-25",
+      "close": "2026-11-27",
+      "allotment": "2026-12-01",
+      "listing": "2026-12-02",
+      "priceBand": "₹130-142",
+      "size": "",
+      "gmp": "",
+      "gain": "",
+      "registrar": "",
+      "listingGain": "",
+      "status": "closed"
     }
   ]
 }

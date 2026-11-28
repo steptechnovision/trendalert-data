@@ -1,17 +1,8 @@
 {
-  "updatedAt": "2026-11-28T10:17:00.230Z",
+  "updatedAt": "2026-11-28T10:30:38.098Z",
   "source": "nse",
   "count": 80,
   "items": [
-    {
-      "symbol": "WAAREERTL",
-      "name": "Waaree Renewable Tech Ltd",
-      "clientName": "ALPHAGREP SECURITIES PRIVATE LIMITED",
-      "buySell": "SELL",
-      "qty": "737975",
-      "price": "775.12",
-      "date": "27-Nov-2026"
-    },
     {
       "symbol": "AGIIL",
       "name": "Agi Infra Limited",
@@ -721,6 +712,15 @@
       "buySell": "SELL",
       "qty": "102000",
       "price": "21.13",
+      "date": "27-Nov-2026"
+    },
+    {
+      "symbol": "ITALIANE",
+      "name": "Italian Edibles Limited",
+      "clientName": "AJAY MAKHIJA",
+      "buySell": "SELL",
+      "qty": "400000",
+      "price": "21",
       "date": "27-Nov-2026"
     }
   ]

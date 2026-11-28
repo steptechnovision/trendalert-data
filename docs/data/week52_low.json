@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T06:00:48.607Z",
+  "updatedAt": "2026-11-28T06:30:34.186Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -283,6 +283,15 @@
       "volume": "15,836"
     },
     {
+      "name": "MO Nifty PSU Bank ETF",
+      "week52": "101.99",
+      "ltp": "95.20",
+      "gainPct": "-0.7 %",
+      "dayLow": "95.20",
+      "dayHigh": "0.00",
+      "volume": "538"
+    },
+    {
       "name": "Crystal Crop",
       "week52": "283.65",
       "ltp": "263.40",
@@ -337,13 +346,13 @@
       "volume": "60,000"
     },
     {
-      "name": "MO Nifty PSU Bank ETF",
-      "week52": "101.99",
-      "ltp": "95.20",
-      "gainPct": "-0.7 %",
-      "dayLow": "95.20",
-      "dayHigh": "0.00",
-      "volume": "538"
+      "name": "IL&FS Transport",
+      "week52": "3.12",
+      "ltp": "1.41",
+      "gainPct": "1.4 %",
+      "dayLow": "1.35",
+      "dayHigh": "3.10",
+      "volume": "46,227"
     },
     {
       "name": "Soma Textiles",
@@ -362,15 +371,6 @@
       "dayLow": "130.09",
       "dayHigh": "295.00",
       "volume": "1,633"
-    },
-    {
-      "name": "IL&FS Transport",
-      "week52": "3.12",
-      "ltp": "1.41",
-      "gainPct": "1.4 %",
-      "dayLow": "1.35",
-      "dayHigh": "3.10",
-      "volume": "46,227"
     },
     {
       "name": "Q-Line Biotech",
@@ -436,6 +436,15 @@
       "volume": "9,000"
     },
     {
+      "name": "SecureKloud Tech",
+      "week52": "27.46",
+      "ltp": "12.29",
+      "gainPct": "0.0 %",
+      "dayLow": "12.00",
+      "dayHigh": "27.70",
+      "volume": "16,528"
+    },
+    {
       "name": "Pansari Develop.",
       "week52": "388.9",
       "ltp": "260.00",
@@ -443,15 +452,6 @@
       "dayLow": "232.05",
       "dayHigh": "0.00",
       "volume": "38,726"
-    },
-    {
-      "name": "ARC Insulation",
-      "week52": "89.95",
-      "ltp": "25.10",
-      "gainPct": "-1.2 %",
-      "dayLow": "24.55",
-      "dayHigh": "0.00",
-      "volume": "16,000"
     }
   ]
 }

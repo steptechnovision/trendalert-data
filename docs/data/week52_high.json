@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T05:00:42.542Z",
+  "updatedAt": "2026-11-28T05:30:33.986Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -427,24 +427,6 @@
       "volume": "130,664"
     },
     {
-      "name": "Angel One",
-      "week52": "382.9",
-      "ltp": "376.00",
-      "gainPct": "5.0 %",
-      "dayLow": "359.75",
-      "dayHigh": "382.85",
-      "volume": "35,192,116"
-    },
-    {
-      "name": "Balkrishna Paper",
-      "week52": "24.63",
-      "ltp": "24.16",
-      "gainPct": "17.7 %",
-      "dayLow": "22.00",
-      "dayHigh": "24.70",
-      "volume": "1,228,167"
-    },
-    {
       "name": "KN Agri Resource",
       "week52": "246",
       "ltp": "240.00",
@@ -452,6 +434,24 @@
       "dayLow": "234.00",
       "dayHigh": "0.00",
       "volume": "47,019"
+    },
+    {
+      "name": "HP Telecom",
+      "week52": "674.75",
+      "ltp": "674.75",
+      "gainPct": "2.9 %",
+      "dayLow": "625.10",
+      "dayHigh": "0.00",
+      "volume": "11,100"
+    },
+    {
+      "name": "Angel One",
+      "week52": "382.9",
+      "ltp": "376.00",
+      "gainPct": "5.0 %",
+      "dayLow": "359.75",
+      "dayHigh": "382.85",
+      "volume": "35,192,116"
     }
   ]
 }

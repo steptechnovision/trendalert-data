@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T08:00:50.703Z",
+  "updatedAt": "2026-11-28T08:30:37.039Z",
   "source": "5paisa",
   "count": 50,
   "items": [
@@ -346,6 +346,15 @@
       "volume": "538"
     },
     {
+      "name": "IL&FS Transport",
+      "week52": "3.12",
+      "ltp": "1.41",
+      "gainPct": "1.4 %",
+      "dayLow": "1.35",
+      "dayHigh": "3.10",
+      "volume": "46,227"
+    },
+    {
       "name": "Soma Textiles",
       "week52": "148",
       "ltp": "65.70",
@@ -362,15 +371,6 @@
       "dayLow": "130.09",
       "dayHigh": "295.00",
       "volume": "1,633"
-    },
-    {
-      "name": "IL&FS Transport",
-      "week52": "3.12",
-      "ltp": "1.41",
-      "gainPct": "1.4 %",
-      "dayLow": "1.35",
-      "dayHigh": "3.10",
-      "volume": "46,227"
     },
     {
       "name": "Q-Line Biotech",
@@ -436,22 +436,22 @@
       "volume": "9,000"
     },
     {
-      "name": "ION Exchange",
-      "week52": "486",
-      "ltp": "273.20",
-      "gainPct": "3.0 %",
-      "dayLow": "261.10",
-      "dayHigh": "485.80",
-      "volume": "580,958"
+      "name": "Pansari Develop.",
+      "week52": "388.9",
+      "ltp": "260.00",
+      "gainPct": "5.8 %",
+      "dayLow": "232.05",
+      "dayHigh": "0.00",
+      "volume": "38,726"
     },
     {
-      "name": "NILE",
-      "week52": "2018.9",
-      "ltp": "1137.00",
-      "gainPct": "-1.3 %",
-      "dayLow": "1135.00",
-      "dayHigh": "2064.95",
-      "volume": "2,079"
+      "name": "ARC Insulation",
+      "week52": "89.95",
+      "ltp": "25.10",
+      "gainPct": "-1.2 %",
+      "dayLow": "24.55",
+      "dayHigh": "0.00",
+      "volume": "16,000"
     }
   ]
 }
